@@ -65,6 +65,6 @@ node tools/build_book_pdf.mjs
 
 ## Notes / 说明
 
-This repository is a private translation workflow archive. The original work remains the intellectual property of its author and rights holders.
+This repository is a translation workflow archive. The original work remains the intellectual property of its author and rights holders.
 
 本仓库是翻译工作流归档。原书版权归原作者及权利方所有。
