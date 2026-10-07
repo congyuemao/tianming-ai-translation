@@ -30,7 +30,7 @@
 
 如果中国真如斯大林所说，正处在革命前夜，那么就没有必要提出一种在最先进诉求面前妥协的土地纲领。消灭地主和富农，实行土地国有化，应该立即成为目标。
 
-然而，现实在乡村和城市一样顽固。到游击队到来时，1925 至 1927 年的农民革命热潮已经消退，毛在与自己早年湖南经验相对照时就发现了这一点：“红军每到一处，都发现群众冷淡而保留”【原文待核】。[7]
+然而，现实在乡村和城市一样顽固。到游击队到来时，1925 至 1927 年的农民革命热潮已经消退，毛在与自己早年湖南经验相对照时就发现了这一点：“红军每到一地，群众冷冷清清”。[7]
 
 当游击队终于能在某一地区站稳脚跟时，它们便会发现，当地条件对其纲领的执行施加了极其严厉的限制。在他们活动的这些落后而贫困地区，土地极为稀少。集体化若要真正取得农民信任，就需要相当持久的军事安全，而游击队根本无法保证这一点。事实上，游击队的存在反而会招来国民党和军阀军队的攻击。除此之外，游击队还需要从农民极其有限的粮食剩余中获取供养，又要从农民家庭中征召儿子入伍。[8]
 
@@ -116,7 +116,7 @@
 
 ### 土地
 
-尽管联盟已经结束，1937 年至 1945 年之间的土地政策却依然显得惊人地保守。为了鼓舞农民，当然需要减租减息；但地主也必须被允许维持生计，否则他们就会投向国民党。此外，毛还说，如果没有减租减息，“新解放区的群众就无法分辨共产党和国民党究竟谁好谁坏”【原文待核】。[36]
+尽管联盟已经结束，1937 年至 1945 年之间的土地政策却依然显得惊人地保守。为了鼓舞农民，当然需要减租减息；但地主也必须被允许维持生计，否则他们就会投向国民党。此外，毛还说，如果没有减租减息，“群众便不能区别国共两党的优劣”。[36]
 
 在东北，党没收并重新分配了日本人的土地。它还鼓励各地地主把自己的资产从土地中抽出来，投入城市工业，并通过税收政策和出售部分国有资产来鼓励他们这样做。[37] 当农民指责这只是地主为了躲避报复而施行的花招时，毛却指示党去保卫地主在城市中的财产。
 
@@ -162,7 +162,7 @@
 
 6. 参见毛的观察：“我们开始打仗时，是依靠游民，因为他们敢死。有一段时间军队想清除游民成分，我反对。”Forum on Central Committee Work, 20 December 1964, in Miscellany, op. cit., II, p.421。其他资料可参见 Stuart Schram, The Political Thought of Mao Tse-tung, London, 1963, pp.196, 200。最初在井冈山的努力迫使毛同两位土匪首领王佐、袁文才合作，参见 Snow, Red Star over China, London, 1937, p.165。
 
-7. 参见一位党内领导人的评论：“我们说必须把土地分给贫农和士兵，这听起来很好。但是可分的土地都已经有人耕种，分过以后，照旧还是由原先的佃户耕种。这样一来，到哪里去拿土地分给贫农和士兵呢？”转引自 Yun Taiying, in L. P. Deliusen, Agrarno-krestianskii vopros v politike KPK, 1921-28, Moscow, 1972, Chapter VII, pp.326-75；英译见 Chinese Studies in History, Summer 1974, VII/4, p.41。
+7. 参见一位党内领导人的评论：“我们说必须把土地分给贫农和士兵，这听起来很好。但是可分的土地都已经有人耕种，分过以后，照旧还是由原先的佃户耕种。这样一来，到哪里去拿土地分给贫农和士兵呢？”转引自 Yun Taiying, in L. P. Deliusen, Agrarno-krestianskii vopros v politike KPK, 1921-28, Moscow, 1972, Chapter VII, pp.326-75；英译见 Chinese Studies in History, Summer 1974, VII/4, p.41。 正文毛泽东引句另据《井冈山的斗争》（1928 年 11 月 25 日）“革命性质问题”节恢复；参见[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281125.htm)。原注以上 Yun Taiying 书目和评论予以保留，不将其误作毛泽东引句的直接出处。
 
 8. 在江西苏维埃的两个区，毛声称 16 至 45 岁男性中有 80% 至 88% 在红军服役。Report to the Second Chinese National Soviet Congress, Juichin, Kiangsi [Ruijin, Jiangxi], 22 January 1934, London, Sept. 1934。
 
@@ -220,7 +220,7 @@
 
 35. Vladimir Dedijer, Tito, New York, p.322 中的转述。
 
-36. Policy for work in the Liberated Areas for 1946, inner party document, 15 Dec. 1945, SW IV, p.76。
+36. Policy for work in the Liberated Areas for 1946, inner party document, 15 Dec. 1945, SW IV, p.76。 中文引文据[《一九四六年解放区工作的方针》（1945-12-15）](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm)核校。
 
 37. Report, Xue Yue in New International, December 1949, p.329。
 

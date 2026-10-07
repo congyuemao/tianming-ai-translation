@@ -33,6 +33,7 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
    - Translate explanatory note prose into Chinese while preserving bibliographic metadata.
    - For Mao Zedong, party documents, newspapers, and other Chinese-language originals, restore the original Chinese wording when reliably found.
    - 每章注释从 1 重新编号；说明性注释译为中文，书目元数据保留英文；能找到中文原文的毛泽东、党史文件和报刊引文，尽量恢复原文。
+   - Reports, cumulative ledgers, and source scans are indexed in [reference check/](reference%20check/README.md) / 历轮核查报告、累计台账及来源扫描见该目录。
 
 5. **Human Review / 人工校对**
    - Human proofreaders review difficult passages, terminology, quotation uncertainty, and stylistic consistency.
@@ -48,6 +49,7 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 ## Repository Layout / 仓库结构
 
 - `each_chapter/` - chapter-level Markdown translation drafts / 逐章中文 Markdown 草稿
+- `reference check/` - citation-check reports, cumulative JSON ledgers, and source materials / 引文核查报告、累计JSON台账与来源材料
 - `skills/book-translation-polish/` - local Codex skill for translation polishing / 本项目使用的 Codex 翻译润色 skill
 - `tools/` - build and PDF finalization scripts / 构建与 PDF 收尾脚本
 - `dist/` - generated HTML, page-map data, table of contents data, and final PDF / 生成的 HTML、页码映射、目录数据和最终 PDF
