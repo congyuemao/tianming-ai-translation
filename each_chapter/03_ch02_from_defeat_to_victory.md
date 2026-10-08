@@ -36,9 +36,9 @@
 
 国民党的经济封锁给游击队带来了严峻困难。实际上，毛曾一度怀疑士兵是否能够承受这样的经济压力。[9] 为了生存，当下的存续自然优先于纲领本身。尤其是那些较富裕的农民，才是生产剩余产品、供养军队、并通过把余粮投入市场来换取城市输入物资的人，这些物资包括食盐、布匹和武器。除此之外，那些较富裕的农民，也是敌军士兵的主要来源。
 
-毛及其同伴解决纲领与现实物质环境之间矛盾的方法，是干脆不去执行那些要求。后来毛这样表述：“因为富农数量很少，我们原则上决定不要去动他们，并且对他们作一些让步。但是‘左’倾分子不同意。他们主张‘给富农坏地，地主不给地’。结果地主没饭吃，有些人逃到山里，组织起游击队”【原文待核】。[10] 伪善由此填补了纲领和现实之间的裂缝。党在自己控制的地区高呼激进土地变革，却又不真正执行这些方案。[11]
+毛及其同伴解决纲领与现实物质环境之间矛盾的方法，是干脆不去执行那些要求。后来毛这样表述：“因为富农人数很少，决定原则上不动，向农民让步。但是‘左’派不赞成，他们主张‘富农分坏田，地主不分田’，结果地主没有饭吃，一部分被迫上山，搞绿色游击队”。[10] 伪善由此填补了纲领和现实之间的裂缝。党在自己控制的地区高呼激进土地变革，却又不真正执行这些方案。[11]
 
-这样一来，便意味着必须压制无地雇农的利益：“由于同富农结成联盟，农业工人的利益被牺牲了……我们害怕富农发生反革命转向，因此要求农业工人降低他们的要求”【原文待核】。[12] 这也意味着富农在苏区行政机关中继续扮演一种不成比例的重要角色。[13]
+这样一来，便意味着必须压制无地雇农的利益：“因联合富农而牺牲雇农的利益……恐怕富农反革命而要雇农减低要求”。[12] 这也意味着富农在苏区行政机关中继续扮演一种不成比例的重要角色。[13]
 
 在江西苏维埃中，也就是 1931 年 11 月由六个分散地区合并而成的政权，游击队获得了最有希望建立稳定行政区的一次机会。掌权之后，红军在教育和福利方面实施了一系列社会改革。能够在人数是自己五到六倍的敌军围攻下生存下来，这本身就是一项了不起的军事成就。国民党曾五次对江西共和国发动大规模围剿。然而，单纯的武力优势最终还是发挥了作用。1934 年，国民党第五次围剿动用了五十万人，终于消灭了江西共和国。共产党被迫撤离，在并无明确目的地的情况下踏上征途，这场行动后来理所当然地被称颂为英雄壮举，也就是长征。对于党内成员来说，如果说 1927 年看上去已经摧毁了城市工人战略的可能性，那么江西共和国的覆灭则看起来连游击队这条路也已经被摧毁。
 
@@ -168,11 +168,11 @@
 
 9. 毛说，这种经济压力“不但中间阶级不能忍受，就是工人、贫农、红军士兵也总有一天要不能忍受”。SW I, p.89。
 
-10. 见 Mao Unrehearsed, Talks and Letters, 1956-71, edited by Stuart Schram, London, 1974, p.97。另参见 On Policy, 25 December 1940, SW II, p.441；The present Situation, Dec. 1947, SW IV, p.169。
+10. 见 Mao Unrehearsed, Talks and Letters, 1956-71, edited by Stuart Schram, London, 1974, p.97。另参见 On Policy, 25 December 1940, SW II, p.441；The present Situation, Dec. 1947, SW IV, p.169。 校注：引文据[《毛泽东思想万岁》（1958—1960）分册扫描](../reference%20check/sources/Mao-Thought-1958-1960.pdf)第33页《在成都会议上的讲话（二）》恢复，篇首第32页署1958年3月10日。中文作“向农民让步”，英文底本以“them”承接富农，正文按中文所见保留“农民”，不擅改为“富农”；“绿色游击队”亦据扫描恢复。所据为讲话汇编，未见原始记录，亦未取得原注Mao Unrehearsed第97页；本册出版印记未独立核定。
 
 11. 兴国县土地法收入 Liu Kung, Reference materials for the study of the Agrarian Reform Law, Shanghai, 28 June 1950，并为 Chao Kuo-chün, Agrarian policy of the Chinese Communist party, 1921-59, Bombay, 1960, pp.67-9 所引用；江西土地法收入 A Documentary History, op. cit., pp.224-6；另参见 Hsiao Tso-liang, The Land Revolution in China, 1930-34 (Documents), London, 1969。
 
-12. 中央委员会 1929 年 8 月决议，转引自 Isaacs, 1938, p.416。
+12. 中央委员会 1929 年 8 月决议，转引自 Isaacs, 1938, p.416。 校注：引文据中央档案馆编[《中共中央文件选集》第五册扫描](../reference%20check/sources/CCP-Documents-1929-Vol5.pdf)第458页恢复，篇名为《中央关于接受共产国际对于农民问题之指示的决议》，题署1929年8月；第460页注明根据中央档案原油印件刊印。两句同见第四节第4项，后一句原是括注中的江苏淮阳事例，正文按作者节引范围以省略号衔接。英文转引增出了“我们”的主语，中文按决议原句恢复；本次核到的是后出汇编，未见原油印件。
 
 13. 1933 年，毛称富农支配了“中心区百分之八十的地区，影响人口二百多万”。The re-examination of land distribution in the Soviet districts is the central task, Red Flag, 21 August 1933，转引自 Isaacs, 同上, p.420；另见 A Documentary History, p.219。
 
@@ -188,9 +188,9 @@
 
 19. 另有一项关于在南京召开全国会议讨论“如何处置蒋介石先生”的提议；文本见 Kuo, Chinese Communist Party, pp.272-3，转引自 Gregor Benton, The Second Wang Ming Line, CQ61, March 1975, p.61。
 
-20. Letter to Chang Nai-chi and others, in Mao Zedong et al., China: the March Towards Unity, New York, May 1937, p.75。
+20. Letter to Chang Nai-chi and others, in Mao Zedong et al., China: the March Towards Unity, New York, May 1937, p.75。 校注：前段关于富农土地和工商业财产的引语，可对应[《毛泽东集补卷》第4卷扫描](../reference%20check/sources/Mao-Collection-Supplement-Vol4.pdf)第301页《致章乃器、陶行知、邹韬奋、沈钧儒及全体救国会员函》，信署1936年8月10日。该卷第306页所收《救国时报》编者注明，所刊中文由英国方面传来的英文译稿再译而成，并有待寻得中文原本；因此不能据这一中文刊本撤去待核标记。“光荣合作的历史”一语在1936年8月25日[《中国共产党致中国国民党书》录文](https://zh.wikisource.org/w/index.php?title=中国共产党致中国国民党书_(1936)&oldid=5978246)中有对应说法，但日期和收信对象均不同；尚未核到原注所列英文集第75页，两处引文均保留待核。
 
-21. United Press 对 Bo Gu (Qin Bangxian) 的采访，Chongqing, 8 November 1938；并可比较“拥护蒋委员长领导抗战”这一口号，见 China Today, Shanghai, July 1937。
+21. United Press 对 Bo Gu (Qin Bangxian) 的采访，Chongqing, 8 November 1938；并可比较“拥护蒋委员长领导抗战”这一口号，见 China Today, Shanghai, July 1937。 校注：Li Fu-jen《After the Fall of Wuhan》刊于[《The New International》1939年1月号扫描](../reference%20check/sources/New-International-1939-01.pdf)第22—25页。第22页有本段两句的对应英文，并称Chin Po-ku于11月8日在重庆向合众社记者作此表示；第25页署文日期为1938年11月11日。这里只落实了同期英文期刊的转引，尚未取得合众社原电或中文谈话记录，正文仍保留待核标记。封面题名用Hankow，文章内题用Wuhan。
 
 22. “那时张浩同志（Lin Yuying，林彪之叔）在延安大学讲课期间的错误，是把民族抗日阵线看成临时的策略转变，而党中央则明确把它看作一个历史阶段中的革命战略转变。”Chieh-fangpao 36, 29 April 1938, pp.11-12；转引自 L.P. Van Slyke, Enemies and Friends, the United Front in Chinese Communist History, Stanford, 1967, p.60；又据 Inprecor 16, 10, p.377。
 
@@ -202,7 +202,7 @@
 
 26. 参见 US Relations with China, US Department of State，收入 Strengthening the Forces of Freedom, Washington, 1950, pp.2378-80；以及 Yalta Papers, Hurley to Roosevelt, 14 January 1945, pp.346-51。二者均由 John Gittings, The Origins of Chinese Foreign Policy, in D. Horowitz (ed.), Containment and Revolution, London, 1967, p.182ff. 引用。
 
-27. China, the March, op. cit., p.76。
+27. China, the March, op. cit., p.76。 校注：本段关于限制工人要求及非苏区反资本主义斗争的引语，可对应[《毛泽东集补卷》第4卷扫描](../reference%20check/sources/Mao-Collection-Supplement-Vol4.pdf)第301—302页；该刊本还提到改善工人生活。第306页编者说明这封1936年8月10日信的中文系由英文再译，第302页亦注明有两句英文意思不清而未译。现有材料能够定位段落，但不是信件中文原本；未取得原注所列英文集第76页，保留待核标记。
 
 28. On Policy, 25 December 1940, SW II, p.446。
 
@@ -212,7 +212,7 @@
 
 31. Decision of the Central Committee on Land Policy in the anti-Japanese base areas, 28 January 1942, in A Documentary History, p.278。
 
-32. 毛说，凡有益于中国经济且遵守中国法律的外国投资都可以欢迎，中国将能够吸收大量外国投资；该段收入 A Documentary History, p.312，但在 SW III, p.304 的版本中被删去。中文原文未完全核出，暂据英文译回【原文待核】。
+32. 毛说：“在服从中国法令，有益中国经济的条件之下，外国投资是我们所欢迎的。……在这个基础上，外国投资的容纳量将是非常广大的。”该段收入 A Documentary History, p.312；作者注明在 SW III, p.304 的版本中被删去。校注：中文据[《论联合政府》早期版本扫描](../reference%20check/sources/Mao-Selected-1948-Vol2-excerpts.pdf)第336页恢复，繁体字转为简体，标点按现行习惯处理；两句之间原有文字，用省略号隔开。题名及1945年4月24日报告日期见第287页。公开档案目录标作东北书店1948年版《毛泽东选集》卷二，所获分卷未含全书版权页。原卷PDF第111、159—161页已摘页归档，引句在摘页第3页；原注两种英译版本及删改说法未另作版本对勘。
 
 33. Miscellany II, op. cit., p.341。
 

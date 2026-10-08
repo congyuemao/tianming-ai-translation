@@ -48,7 +48,7 @@
 
 但为时已晚。工人确实离开了生产岗位。代表团纷纷涌向北京提出要求，诉说自己如何被刘少奇压迫，工资低、条件差。许多人采取罢工行动，上海码头、铁路、运输部门、电站等处都出现罢工。〔18〕免费乘车政策还让数以千计被下放到农村的人得以合法返回城市，进一步点燃街头日益增长的激进情绪。
 
-党中央谴责这种骚动，把罢工归咎于“党内一小撮走资本主义道路当权派”，而不是归咎于工人面对的客观处境，也就是 1949 年以来国家积累驱动的结果。它说：“这些走资派甚至煽动罢工，煽动那些不了解实际情况的群众涌向银行，强行提取存款。”【原文待核】〔19〕在这个据说由自觉群众自己统治的国家里，群众似乎荒唐地容易被“误导”。
+党中央谴责这种骚动，把罢工归咎于“党内一小撮走资本主义道路当权派”，而不是归咎于工人面对的客观处境，也就是 1949 年以来国家积累驱动的结果。它说：“甚至煽动罢工，煽动不明真相的群众，包围银行，强行提款。”〔19〕在这个据说由自觉群众自己统治的国家里，群众似乎荒唐地容易被“误导”。
 
 ## 四 军队必须救国
 
@@ -112,11 +112,11 @@
 12. 1966 年 10 月，见 *Mao Unrehearsed*, p.268；另参 ibid., p.271, and *Mao Papers*, p.43。
 13. Ibid., p.271。
 14. Ibid., p.270。
-15. Ibid., pp.266-7。
+15. Ibid., pp.266-7。 校注：[1966年10月24日中文讲话录文](https://www.marxists.org/chinese/maozedong/1968/5-220.htm)在武昌、北京会议一段作“完不成任务不要紧，不要如丧考妣”；[同日讲话英译录文](https://www.marxists.org/reference/archive/mao/selected-works/volume-9/mswv9_68.htm)则译作不喜欢被当作“a dead ancestor”，与作者转引接近。中文成语所述的悲丧情态与英文所述的受对待方式不同，不能直接用中文成语替换正文而改变作者的论述。尚未取得原注Mao Unrehearsed第266—267页和中文原始记录，正文保留待核标记。
 16. Ibid., p.267。
 17. Ibid., p.268；另参 “Nor can we put all the blame on Comrade Hsiao-ch’i \[Shaoqi] and Comrade Hsiao-p’ing \[Xiaoping]”, ibid., p.274，以及略有不同的译文，*Mao Papers*, p.45。
 18. 若干罢工详情可参：为期两周的码头罢工，*Hung-ch’i*, 1 February 1967, *SCMM* 564；沪杭、沪宁铁路罢工（1966 年 12 月 30 日至 1967 年 1 月 10 日），*NCNA*, 9 February 1967；杨树浦电站罢工，*NCNA*, 16 January 1967；南京运输部门罢工，*NCNA*, 14 January 1967；大庆油田罢工，*NCNA*, 15 January 1967；上海第十七棉纺织厂罢工，*NCNA*, 9 January and 28 January 1967；上海玻璃机械厂罢工，*NCNA*, 15 January 1967；上海第二照相机厂因罢工“只完成目标的 9.2%”，*NCNA*, 17 February 1967；北京第二机床厂，*RMRB*, 2 February 1967, *SCMP* 3881。
-19. 参 *Wen Hui Pao*, 18 January 1967, *SCMP*, Supplement 164, 28 February 1967, p.24；原文强调处从略。
+19. 参 *Wen Hui Pao*, 18 January 1967, *SCMP*, Supplement 164, 28 February 1967, p.24；原文强调处从略。 校注：引文据[《“文化大革命”研究资料》上册扫描](../reference%20check/sources/Cultural-Revolution-Research-Materials-Vol1.pdf)第245页《中共中央、国务院、中央军委关于保护银行的通知》恢复，通知署1967年1月11日。英文转引在“甚至煽动罢工”前补有“这些走资派”，中文按通知原句恢复。所据为中国人民解放军国防大学党史党建政工教研室1988年10月编印的后出汇编，未见1967年原文件、原注所列1月18日《文汇报》版面或SCMP第24页；原注日期保留，不与通知署期混同。
 20. Central Committee, *Circular concerning prohibiting directing the spearhead struggle against the armed forces*, 14 January 1967。
 21. *Order of the Central Military Commission*, 28 January 1967；另见 *Regulations of the Central Military Commission on the seizure of power in the armed forces*, 16 February 1967；以及 *Document of the Central Committee, State Council and Central Military Commission*, 19 January 1967 and 26 January 1967。
 22. *RMRB*, editorial, 26 January 1967, in *Mao Papers*, p.134。

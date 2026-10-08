@@ -22,7 +22,7 @@
 
 即便不幸被划为“地主”，也并非完全没有出路。以后仍有机会重新定性。而且他们的城市财产和非农业财产是受保护的。1930 年代，地主中兼营商业的人并不少。陈翰笙估计，1930 年苏南大地主中有百分之二十二主要从事贸易；卜凯则估计，四川地主中有百分之三十一也兼为商人。〔9〕
 
-唯一可以肯定的，仍然是农民绝不能被允许自己解决这一问题。若没有足够受过训练的干部去控制改革，那土地改革宁可不做。“必须保证土地改革干部在数量和质量上都能够掌握当地工作，决不能让群众进行自发活动”【原文待核】。〔10〕又如：“在土地改革中，必须坚决防止农民自发斗争……在土地改革工作队到达之前，不准采取正式行动，只能做政策宣传和准备工作”【原文待核】。〔11〕为了应付这种需求，党必须迅速大规模扩张，并且尽可能由军队和公安力量在背后支撑，以防农民多年来积累的怨恨突然爆炸，把党也一并卷入真正的“农民战争”。韩丁在《翻身》里说明了，为什么贫苦农民不被允许真正“自己去革命”：“农民的军事潜力、生产能力和政治才智，必须被培养、动员和组织起来，并非简单地‘解放’出来……没有共产党，贫苦农民极可能把革命推得过头，推到完全相反的方向，最后从右边复辟。没有共产党，贫苦农民也可能把一切都分掉，甚至连碗筷都分光……那样做只会毁掉他们赖以生存和建设的一切生产基础，还会使农民内部重新按宗族、宗教、私人影响和帮派关系分裂。”〔12〕
+唯一可以肯定的，仍然是农民绝不能被允许自己解决这一问题。若没有足够受过训练的干部去控制改革，那土地改革宁可不做。“必须保证土地改革干部在数量和质量上都能够掌握当地工作，决不能让群众进行自发活动”【原文待核】。〔10〕又如：“必须坚决防止土地改革中农民的自发斗争……在土改工作组未到前，只许宣传政策及进行准备工作，而不许正式动手。”〔11〕为了应付这种需求，党必须迅速大规模扩张，并且尽可能由军队和公安力量在背后支撑，以防农民多年来积累的怨恨突然爆炸，把党也一并卷入真正的“农民战争”。韩丁在《翻身》里说明了，为什么贫苦农民不被允许真正“自己去革命”：“农民的军事潜力、生产能力和政治才智，必须被培养、动员和组织起来，并非简单地‘解放’出来……没有共产党，贫苦农民极可能把革命推得过头，推到完全相反的方向，最后从右边复辟。没有共产党，贫苦农民也可能把一切都分掉，甚至连碗筷都分光……那样做只会毁掉他们赖以生存和建设的一切生产基础，还会使农民内部重新按宗族、宗教、私人影响和帮派关系分裂。”〔12〕
 
 ## 二 法律的实施
 
@@ -36,7 +36,7 @@
 
 因此，真正指导整个过程的，始终是党对于“客观可能性”的估计，而不是贫农和无地农的利益。华东军政委员会主席用一种几乎和党史中无数次出现过的句式说：“我们必须经常记住雇农的利益，照顾他们生活，……提高他们的政治觉悟和文化水平。另一方面，又必须耐心教育雇农，防止‘左’的情绪和偏向。任何要求都不能超出当前经济状况所许可的范围。超过这个范围，就不会有人再雇用雇农”【原文待核】。〔18〕换言之，被剥削者必须维护剥削者的生存条件，这样原有剥削结构才能继续维持。
 
-土地改革的相对保守，大概也部分解释了反抗规模为何没有想象中那样巨大。与庞大农村人口相比，“土匪”的人数始终处在党武装力量可控制的范围内。不过，有些地区冲突仍然相当惨烈。1951 年，公安部长就抱怨江西西南部仍有“匪患”，说七千二百一十名干部和其他人被杀，二万六千六百座房屋被焚毁，二十万头牲口被抢走。征粮时，干部有时手段粗暴：“在推动征收工作时，乱打、乱骂、乱罚、威胁、逮捕等做法经常被采用”【原文待核】。〔19〕这样自然会激起更强反抗。财政部长薄一波曾说：“在征收公粮工作中，三千多名干部为此牺牲了生命”【原文待核】。〔20〕毛后来还说，1956 年以前有二百三十万人被“杀、关、管”【原文待核】。〔21〕
+土地改革的相对保守，大概也部分解释了反抗规模为何没有想象中那样巨大。与庞大农村人口相比，“土匪”的人数始终处在党武装力量可控制的范围内。不过，有些地区冲突仍然相当惨烈。1951 年，公安部长就抱怨江西西南部仍有“匪患”，说七千二百一十名干部和其他人被杀，二万六千六百座房屋被焚毁，二十万头牲口被抢走。征粮时，干部有时手段粗暴：“在推动征收工作时，乱打、乱骂、乱罚、威胁、逮捕等做法经常被采用”【原文待核】。〔19〕这样自然会激起更强反抗。财政部长薄一波曾说：“根据不完全的统计，为征收公粮而牺牲的干部在三千人以上”。〔20〕毛后来还说，1956 年以前有二百三十万人被“杀、关、管”【原文待核】。〔21〕
 
 共产党的胜利，确实给国民党时期那种污秽、暴力和腐败横行的中国农村带来了秩序与安全。物资终于开始有了供应，随着供应网络发展，地方性饥荒的危险比过去更容易被控制。地主的横征暴敛结束了，村庄里也开始有了一些最基本的改革。可农村条件依旧艰难。农民虽然手里多了一点地，但地租和高利贷并未真正消失，只是换成了公粮征购，征购权又握在那些同样可以任意妄为的干部手里，而干部自己又承受着来自远方国家机器的层层压力。盐税、食品税、宰杀税等各种征收增加了负担。由于内战影响，最初几年工业品严重短缺，物价上涨明显。以前归地主掌控的粮仓与信用网络，如今也改由一个更远、更抽象的国家来掌控。国家的粮食配给体系比旧秩序还更僵硬。在信贷方面，国家也无力满足并监管基层需要，只得允许私人借贷重新出现，利率则任由市场决定。〔22〕革命的浓度，到达村庄时已经被稀释得非常厉害了。
 
@@ -107,8 +107,8 @@
 7. 关于这些困难和反常之处，参 Gluckstein, op. cit., pp.88-90.
 8. *Agrarian reform law*, op. cit., p.22.
 9. Chen Han-seng 估计，1930 年苏南大地主中百分之二十二主要从事贸易，见 *The present agrarian problem in China*, Shanghai, 1933, p.19；J.L. Buck 估计，四川地主中百分之三十一也是商人，见 *An agricultural survey of Szechuan [Sichuan] province*, (mimeo), Chongqing, 1943, p.13；均转引自 Gluckstein, p.89.
-10. *Hsin Kuan Ch’a*, Beijing, 10 December 1950, *CB* 63.
-11. *General Report, Beijing Municipal People’s Government on Agrarian Reform in the Beijing Suburban Areas*, 21 November 1950, *CB* 72.
+10. *Hsin Kuan Ch’a*, Beijing, 10 December 1950, *CB* 63. 校注：毛泽东[《一九四八年的土地改革工作和整党工作》](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480525.htm)第二节有近同措辞：“党的工作干部在数量上和质量上，确能掌握当地的土地改革工作，而非听任群众的自发活动。”但尚未取得原注所列1950年12月10日《新观察》及CB63，不能确认此处转引关系；正文暂不按1948年文本替换，仍待核。
+11. *General Report, Beijing Municipal People’s Government on Agrarian Reform in the Beijing Suburban Areas*, 21 November 1950, *CB* 72. 校注：中文据[《北京市人民政府关于北京郊区土地改革的总结报告》](https://cn.govopendata.com/renminribao/1950/11/23/2/)第四部分第（4）项恢复。原文在两句之间叙述三村自发土改及其处理经过，正文以省略号表示删节。11月21日为政务院审核批准日，11月23日为《人民日报》刊载日。所据为非官方网络录文；未另核CB72及原报版影。
 12. William Hinton, *Fanshen, A document of revolution in a Chinese village*, New York, 1966, pp.605-6.
 13. 参 Robert Ash 对事件与文件的重构，*Economic aspects of land reform in Kiangsu, 1949-52*, Pts.I & II, *CQ* 66 and 67, June and September 1976.
 14. *Methods of implementing land reform in south Kiangsu*, People’s Administration of Southern Kiangsu, 28 November 1950, Ash, ibid., I, p.289.
@@ -117,8 +117,8 @@
 17. *Su-nan RB*, Wusih, 1 January 1952, Ash, ibid., II, p.531.
 18. Shanghai, 14 July 1950, *CB* 10, 29 September 1950.
 19. “在推动征收工作时，乱打、乱骂、乱罚、威胁、逮捕等做法经常被采用”【原文待核】，Secretary, North East Bureau, 20 May 1951, *Nang Fang RB*, 9 June 1952, *CB* 158.
-20. *New China’s Economic Achievements*, op. cit., p.90.
-21. April 1956, *Miscellany I*, p.34; and 8 December 1956, ibid., p.41.
+20. *New China’s Economic Achievements*, op. cit., p.90. 校注：中文据薄一波[《关于调整税收问题》](https://cn.govopendata.com/renminribao/1950/06/22/1/)（1950年6月15日人民政协第一届全国委员会第二次会议报告，6月22日《人民日报》第1版刊载）恢复，并保留“根据不完全的统计”。原段回顾的是1949年新区征收公粮；不能因正文前文提到1951年，便把这一数字也归到1951年。此处只核报告措辞，未独立核实伤亡人数，亦未另核原注英译书第90页或原报版影。
+21. April 1956, *Miscellany I*, p.34; and 8 December 1956, ibid., p.41. 校注：所获[1956年4月25日《在中央政治局扩大会议上的发言》](https://www.marxists.org/chinese/maozedong/1968/3-083.htm)录文作“过去杀、关、管二、三百万是非常必要的”，其中“二、三百万”不能直接读作二百三十万。英文底本刊页153（PDF第172页）确作“2.3 million”，因此这里不擅自改数。[12月8日讲话录文](https://www.marxists.org/chinese/maozedong/1968/3-092.htm)亦未找到该总数；尚未取得 Miscellany I 第34、41页，保留待核标记。
 22. GAC, *Directive on the issuance of farm credit*, 7 July 1953, *NCNA* Beijing, 1 September 1953, *SCMP* 645.
 23. *Report on an investigation of conditions in five villages in an old Liberated Area in Shansi province*, *RMRB*, 11 November 1951, *CB* 143. 中文引文据[《山西老区五个农村情况调查报告》（1951-11-11）](https://cn.govopendata.com/renminribao/1951/11/11/2/)核校。
 24. Liu Lan-t’ao, *RMRB*, 14 March 1953, *SCMP* 535. 中文引文据[《华北行政委员会召开农林工作会议 刘澜涛主席号召加强农业生产领导支援国家工业建设》（1953-03-14）](https://cn.govopendata.com/renminribao/1953/03/14/2/)核校。
@@ -128,7 +128,7 @@
 28. Chen Yun, *NCNA* Beijing, 10 March 1957；另参：“cattle slaughtered this year [1955] has shown an increase of more than seventy per cent compared with same period last year, and calves constitute a very large portion of the animals slaughtered”, *Ta Kung Pao*, Tianjin, 21 December 1955, *SCMP* 1200.
 29. 8th Party Congress, 17 May 1958, in *Miscellany I*, p.102, and II, p.237. 参见[《在八大二次会议上的讲话（二）》](https://www.marxists.org/chinese/maozedong/1968/4-030.htm)。【核校提示】中文为‘江苏’及县、区、乡三级干部中‘百分之三十闹得最凶’，不同于英文底本PDF第175页的Jiangxi及a third of whom。地名与统计分母均有冲突，正文暂保留待核。
 30. Sixth Plenum, September 1955, *Miscellany I*, p.15. 中文引文据[《在七届六中全会扩大会议上的总结》](https://www.marxists.org/chinese/maozedong/1968/3-070.htm)核校。原句为‘光给票子还不行’，并非‘买东西凭票’；英文底本PDF第175页已有coupons alone之误，正文按中文录文恢复。所据网页仅署1955年，原注September尚未据原件核定；‘咀’沿用录文。
-31. February 1959, in *Miscellany I*, p.157.
+31. February 1959, in *Miscellany I*, p.157. 校注：[《毛泽东思想万岁》（1958—1960）分册扫描](../reference%20check/sources/Mao-Thought-1958-1960.pdf)第197页，在“还有抓了生产没有抓生活”之后印作“×万人（得浮）肿病”；篇首第194页题《在省市委书记会上的讲话》，署1959年2月2日。数字位置的“×”在版影中即已存在，并非仅为网络录文乱码，故不能据此核定本段“成千上万”。未取得原注Miscellany I第157页及完整中文原始记录，仍待核。
 32. 1959, in *Miscellany II*, p.313. 中文据[苏联《政治经济学教科书》阅读笔记补遗](https://www.marxists.org/chinese/maozedong/1968/4-179.htm)第八节“人口问题”恢复，保留删节号，已核英译集刊页313（PDF第85页）。英译页脚说明1967年版本缺此节。原注1959保留；该英译集刊页247的阅读笔记总标题标1961—1962，脚注又说明1967年本署1960，具体记录日期仍有版本问题。本次恢复措辞，不据此独立确定日期或人口统计。
 33. Ibid., p.253. 中文引文据[苏联《政治经济学教科书》阅读笔记（社会主义部分、第三版）第一部分（从第二十章到二十三章）](https://www.marxists.org/chinese/maozedong/1968/4-175.htm)核校。英文底本作 private property / communes and transport，中文录文作“社有变国有”及“全国交通运输”，此处据中文核正。
 34. *RMRB*, 22 October 1971.
