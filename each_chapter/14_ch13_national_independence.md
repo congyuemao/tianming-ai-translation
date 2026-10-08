@@ -172,7 +172,7 @@
 
 18. Writing Group, Beijing Municipal Revolutionary Committee, “The road to China’s Socialist Industrialization,” Hung-ch’i 10, 30 September 1969, p.11, SCMM 666, 31 October 1969. 中文引文据[北京市革命委员会写作小组《中国社会主义工业化的道路》](https://cn.govopendata.com/renminribao/1969/10/14/2/)核校。所据为《人民日报》1969年10月14日第2版非官方录文，篇末注明原载《红旗》1969年第10期；未另核原刊版影及原注所列9月30日。
 
-19. 1961-2, in Miscellany II, p.353. 校注：已找到[《关于第三个五年计划在中央工作会议上的讲话》](https://www.marxists.org/chinese/maozedong/1968/5-082.htm)，中文录文及 JPRS 刊页353（PDF第125页）标题均署1964年6月6日，与原书1961-2不合。数字也有异文：中文作“五年中，按一丰、二平、三欠来定”，英译作一年丰收、两年平收、两年歉收。中文三项合计不等于五年，但不能据此擅改；正文沿用英文底本并保留待核标记。
+19. 1961-2, in Miscellany II, p.353. 校注：[《毛泽东思想万岁》（1961—1968）分册扫描](../reference%20check/sources/Mao-Thought-1961-1968.pdf)第115页（PDF第128页）《关于第三个五年计划在中央工作会议上的讲话》题1964年6月6日，第116页（PDF第129页）清楚印有“五年中，按一丰、二平、三欠来定”，与[中文录文](https://www.marxists.org/chinese/maozedong/1968/5-082.htm)一致。[Miscellany II扫描](../reference%20check/sources/Miscellany-1949-1968-JPRS-Part2-1974.pdf)第353页（PDF第125页）同样题1964年6月6日，却作一年丰收、两年平收、两年歉收。原注1961-2与两种所见资料均不合；中文数字之和不等于五年，但“三欠”确在扫描中，不能凭算术改字。正文沿用英文底本并保留待核标记。
 
 20. Letter to Bebel, December 1884, in Selected Correspondence, ibid., p.432.
 

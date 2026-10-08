@@ -66,7 +66,7 @@
 
 文化大革命期间，管理权威又一次遭到冲击。人们再次想要废除内部等级以及所谓“不合理的规章制度”，在英国则会被叫作“限制性惯例”。第一波动荡过去之后，革命委员会成立，试图把管理层、解放军代表、党和造反派联合起来。由解放军主导，这些委员会着手恢复纪律，并批评某些工人“对什么都要‘造反’，名为反对‘奴隶主义’，实际上是大搞无政府主义”。〔29〕
 
-到 1971 年，工厂规章和管理干部又重新占据统治地位，可文化大革命时期那些希望似乎仍残留在部分记忆里。《人民日报》继续批评那些“受‘制度无用论’影响”的人，说他们认为“经过无产阶级文化大革命，群众觉悟提高了，没有规章制度照样能搞好生产，恢复不恢复无所谓”。〔30〕许多工厂仍保留某些咨询形式，例如“工管小组”“三结合经济管理小组”，成员包括干部、管理者和工人。干部偶尔也会组织群众大会。不过，这种做法本身甚至还构不成真正的“咨询”。管理者参加体力劳动，也被当成制度特色。有些工厂自称工人可以参与“选举”管理人员，但看起来这更像是干部自上而下任命后的语言包装。比如 1975 年上海某钟表厂说，“一批工人被挑选出来，担任领导职务并参与管理工作”【原文待核】。〔31〕可后文解释得十分清楚，这种挑选是由工厂委员会决定的。
+到 1971 年，工厂规章和管理干部又重新占据统治地位，可文化大革命时期那些希望似乎仍残留在部分记忆里。《人民日报》继续批评那些“受‘制度无用论’影响”的人，说他们认为“经过无产阶级文化大革命，群众觉悟提高了，没有规章制度照样能搞好生产，恢复不恢复无所谓”。〔30〕许多工厂仍保留某些咨询形式，例如“工管小组”“三结合经济管理小组”，成员包括干部、管理者和工人。干部偶尔也会组织群众大会。不过，这种做法本身甚至还构不成真正的“咨询”。管理者参加体力劳动，也被当成制度特色。有些工厂自称工人可以参与“选举”管理人员，但看起来这更像是干部自上而下任命后的语言包装。比如 1975 年上海某钟表厂说，“一批工人被**挑选**出来，担任领导职务并参与管理工作”【原文待核】。〔31〕可后文解释得十分清楚，这种挑选是由工厂委员会决定的。
 
 这和列宁所理解的“工人控制”，距离极其遥远。从某种角度说，它甚至是其反面。它也离中共自己的说法相当遥远。党宣称“群众参加管理的一切方面”，可这种说法仍默认“管理”本身是一种独立于群众之上的权威性精英位置。实际上，中国根本不存在任何制度，可以让工人集体利益独立于管理层和地方党委利益而得到表达。
 
@@ -122,19 +122,19 @@
 16. *PR*, 28 February 1975, p.5. 中文据[《马克思 恩格斯 列宁论无产阶级专政》编者按](https://cn.govopendata.com/renminribao/1975/02/22/1/)（《人民日报》1975年2月22日第1版）恢复，并与[PR 1975年第9期](https://www.marxists.org/subject/china/peking-review/1975/PR1975-09.pdf)刊页5（PDF第5页）的英译核对。原段同时列举八级工资制、按劳分配和货币交换，并非只说工资制度；紧接着又说“所不同的是所有制变更了”。
 17. Deng Xiaoping, 2 October 1974, interviewed by Professor Fan Lan，转引自 Carl Riskin, “Workers’ incentives in Chinese industry”, in *China: A Reassessment of the Economy*, Joint Economic Committee of the US Congress, Washington, 1975, p.201.
 18. *Perseveringly put politics in command, do a good job of reckoning wages of labour*, Lin An, *RMRB*, 12 August 1972, *SCMP* 5199-5203, 21-25 August 1972, p.186。该文批评还说：“他们大搞‘平均主义’就是妄图使多劳不能多得，同工不能同酬，挫伤群众的生产积极性，破坏生产力的发展，瓦解集体经济，复辟资本主义。” 中文引文据[临安《坚持政治挂帅 搞好劳动计酬》（1972-08-12）](https://cn.govopendata.com/renminribao/1972/08/12/2/)核校。
-19. Xi’an radio, Shaanxi, 11 March 1975, *SWB* FE/4860/BII, p.20.
+19. Xi’an radio, Shaanxi, 11 March 1975, *SWB* FE/4860/BII, p.20. 校注：英文正文第135页（PDF第154页）作Shanxi，原注却作Shaanxi并指向西安广播；现译依原注作“陕西”，地点差异待核。尚未取得所引广播稿或SWB页。另见[《红旗》1975年第8期](../reference%20check/sources/Hongqi1975N8.pdf)第35—37页昆仑机械厂党委文章，其中第37页也谈春节加班费，但没有五号车间十四工作组及所引文章题名，不能据此认定为同一报道。
 20. Report, *China News Summary*, 555, 19 February 1975.
 21. Reported, *Far Eastern Economic Review* 94/40, 1 October 1976, pp.89-90.
 22. *The essential distinction between two systems of distribution*, *Hung-ch’i* 7, 1 July 1972, *SCMM* 733-4, 3 July-8 August 1972, p.56. 中文引文据[上海沪东造船厂阀件车间小车四组《两种分配制度的本质区别：学习〈雇佣劳动与资本〉的一点体会》](https://www.bannedthought.net/China/Magazines/Hongqi/1972/Hongqi1972N7.pdf)核校。家庭收入引文见刊页46（PDF第49页），已目视核对。
-23. *Kuang-ming RB*, 19 May 1975, *SCMP* 75-23, 26 June 1975.
+23. *Kuang-ming RB*, 19 May 1975, *SCMP* 75-23, 26 June 1975. 校注：英文原书第145页原注90（PDF第164页）确作26 June 1975；第163页原注144（PDF第182页）又将同日《光明日报》及同号SCMP列为2–6 January 1976。两处日期不一致，尚未取得原报或译本，不能自行择一或推改日期，亦不能据其他文件中的近似用语落实本句。
 24. 详情参 *Some basic facts about China: ten questions and answers*, in *China Reconstructs*, Supplement, January 1974, p.91；关于访问后的更多细节，参 Joyce Kallgren, *Welfare and Chinese industrial workers: Post-Cultural Revolution Prospects and Problems*, unpublished paper, August 1976.
 25. 17 May 1917, *CW* 24, p.428；着重号为列宁原文所加。
 26. *CW* 26, pp.107-8.
 27. *Strictly implement Joint Production Committees*, *Ch’ang Chiang RB*, 29 May 1951.
-28. L’i Ch’un, *Why is it necessary to broaden the management of our enterprises?*, *Chung-Kuo kung-jen*, 6, 27 March 1957，转引自 Choh-ming Li, “Chinese Industry”, *CQ* 17, Jan-March 1964, pp.26-7.
+28. L’i Ch’un, *Why is it necessary to broaden the management of our enterprises?*, *Chung-Kuo kung-jen*, 6, 27 March 1957，转引自 Choh-ming Li, “Chinese Industry”, *CQ* 17, Jan-March 1964, pp.26-7. 校注：[剑桥期刊官网](https://www.cambridge.org/core/journals/china-quarterly/article/abs/chinas-industrial-development-195863/99ADBEA4A3270AC1E360AF5B79954182)所列Choh-Ming Li文章题为“China’s Industrial Development, 1958–63”，载The China Quarterly第17期（1964年3月），第3—38页；其第56注列Li, Ch’un及Chung-kuo Kung-jen第6期、1957年3月27日，与本注所列来源相合。原书“Chinese Industry”并非官网所列文章题名。已核官网书目及参考注，尚未取得文章第26—27页或中文原刊，正文引句仍待核。
 29. *RMRB*, 15 July 1969. 中文引文据[《严格遵守革命纪律》（1969-07-15）](https://cn.govopendata.com/renminribao/1969/07/15/1/)核校。
 30. *Grasp ideology systems and technique*, *RMRB*, 8 October 1971. 中文引文据[《抓思想 抓制度 抓技术：无锡国棉二厂提高产品质量的调查》（1971-10-08）](https://cn.govopendata.com/renminribao/1971/10/08/3/)核校。
-31. *SWB* 4964/BII/9, 25 July 1975；着重号为作者所加。
+31. *SWB* 4964/BII/9, 25 July 1975；着重号为作者所加。 校注：英文底本第139页（PDF第158页）确对selected加了着重格式，现译以粗体标出“挑选”。尚未取得所引SWB页和中文广播原稿；1975年10月15日及1976年7月18日《人民日报》有关上海钟表元件厂的报道日期较晚，不能据此替换本句，也不能据此确定英文未详的厂名。
 32. Hoffman, *The Chinese Worker*, op. cit., Table 5:1, pp.146-7.
 33. Reports, *China News Summary*, Nos.577-8, August 1975；关于陕西，参 *SWB* 4971/BII/8.
 34. Central Committee and State Council, *Resolutions concerning the problem of Zhejiang province*, 24 July 1975, translated and published, *Issues and Studies*, June 1976, pp.102-5.

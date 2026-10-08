@@ -144,13 +144,13 @@
 18. *Report on the work of the government*, First National People’s Congress, first session, 23 September 1954, p.27；另参 “The incompatability of socialism and egalitarianism”, *RMRB*, 14 September 1952, *SCMP* 472. 中文引文据[《政府工作报告》（1954-09-23作，09-24刊载）](https://cn.govopendata.com/renminribao/1954/09/24/1/)核校。
 19. GAC, “Directive on the year-end double pay and bonus in public and private enterprises”, 8 December 1951, *NCNA* Beijing, 8 December 1951.
 20. Gluckstein, op. cit., p.253.
-21. Chin Lin, *Lao-tung*, No. 3, 6 March 1956，转引自 Charles Hoffman, *Work incentive practices and policies in the People’s Republic of China, 1953-1965*, New York, 1967, p.85.
+21. Chin Lin, *Lao-tung*, No. 3, 6 March 1956，转引自 Charles Hoffman, *Work incentive practices and policies in the People’s Republic of China, 1953-1965*, New York, 1967, p.85. 校注：[另一篇英文转引录文](https://www.marxists.org/history/erol/1960-1970/plpculturalrevolution.htm)亦引此句，并指向ECMM第35期第32—35页，可作续查线索。该文刊于Progressive Labor第8卷第3期（1971年11月），现见网络录文；本轮未取得ECMM对应页、《劳动》1956年第3期原刊或Hoffman书第85页，不能据此还原中文措辞。
 22. Hu Shang, “Speaking of the Government Issue System”, *RMRB*, 13 November 1958，转引自 Hoffman, *Work Incentives*, op. cit., pp.96-7；另参 Li Fu-chun, “Report on the draft economic plan for 1960”, *RMRB*, 31 March 1960. 中文引文据[胡绳《从供给制说起》](https://cn.govopendata.com/renminribao/1958/11/13/7/)核校。原刊作者为胡绳；引文中的省略号略去一句有关工资减少的文字。
 23. Wang Yu-ch’ang, “Attend to the livelihood of workers”, *RMRB*, May 1960，转引自 Hoffman, op. cit., p.105.
 24. *RMRB*, 3 November 1955.
 25. 薄一波称，1952 年曾建成 217,500 间住房，可容纳约一百万人；见 *NCNA* Beijing, 20 February 1953.
 26. *Xinhua RB*, 12 January 1952，转引自 *Far Eastern Economic Review*, 30 October 1952.
-27. 一位访问大庆者的报告，见 “Forming Maoist Man”, *Financial Times*, London, 2 December 1976.
+27. 一位访问大庆者的报告，见 “Forming Maoist Man”, *Financial Times*, London, 2 December 1976. 校注：此处原注指向英国《金融时报》的英文访华报道，待核对象应为该报道原文及引述准确性，并非预设存在中文原话。已核英文底本第108页（PDF第127页）的引句，但尚未取得1976年12月2日原报，暂保留待核标记。
 28. *NCNA* Beijing, 23 October 1954.
 29. 相关例子及中文资料，参 Howe, *Wage Patterns*, op. cit., p.126.
 30. “Living standards of Chinese workers rise”, *NCNA* Lanchow, 11 May 1972.

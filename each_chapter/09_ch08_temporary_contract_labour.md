@@ -61,7 +61,7 @@
 5. *How the worker-peasant labour system is tried out in highway maintenance work*, *Kung-lu* 12, 20 December 1965, *SCMM* 4, 21 February 1966, p.23；另参 *The labour system of industrial and farming work in rotation is actively tried out*, *NCNA* Beijing, 27 December 1965.
 6. *The worker-peasant labour system in Finance and Trade Departments*: Chang Ho-wei, *Hsin-chun-she*, Nos.1-2, 20 February 1966, in *SCMM* 534, 25 July 1966.
 7. *RMRB*, 28 December 1965，转引自 *Current Scene*, op. cit., p.5. 中文引文据同日第1版[《亦工亦农　利工利农》及《四川二百多个厂矿的初步实践证明　亦工亦农制度小厂大厂都可推行》](https://cn.govopendata.com/renminribao/1965/12/28/1/)非官方录文核校，未核版影。【核校提示】中文报道为1964至1965年榨季、少用七千八百多名固定工，英文底本PDF第141页为1965至1966年冬季、七千八百人；同版安源报道为回乡207人、进矿203人，英文底本两者均为207人；成都签约单位原为十五个生产大队，底本为十五个公社。上述间接叙述保留底本，未据报道擅改作者论断。二十七万多元明确是宿舍、食堂等建设投资，直接引文已补回该限定；原文仅说劳动力出路较少，没有英文底本PDF第142页所说的“盲目外流”。段首“更高类型的社会劳动组织形式”尚未查得原句，标记保留。
-8. *Current Scene*, op. cit.；另参 *Hung Wei Pao*, 30 September 1966 and *NCNA* Changchun, 11 August 1966.
+8. *Current Scene*, op. cit.；另参 *Hung Wei Pao*, 30 September 1966 and *NCNA* Changchun, 11 August 1966. 校注：依本章注3，Current Scene的具体期次为VI/5，1968年3月15日。[Paul Harper文章的第77注](https://www.cambridge.org/core/journals/china-quarterly/article/abs/party-and-the-unions-in-communist-china/C3AA21489A6DC5A652B4B130CC5DBE97)列出同日同期题名“Sources of Labor Discontent in China: The Worker-Peasant System”。这只补足书目线索；尚未取得该期全文或1966年8月13日广州广播稿，不能凭同期期次核定本段两处引句。
 9. *Temporary and contract workers, rise up and rebel*, *Shou-tu-hung-weilun*, 13 September 1966.
 10. 1967 年 1 月 4 日张贴，转引自 *Current Scene*, op. cit.
 11. *Hung-kung Chan-pao*, 6 February 1967, *SCMP* 177, 19 April 1967, p.18.
@@ -70,6 +70,6 @@
 14. *RMRB*, 31 January 1967, and *Wen Hui Pao*, 12 February 1967. 中文引文据[《上海三十三个革命组织发出〈紧急通告〉 回乡支农工人要坚守生产岗位就地闹革命》（1967-01-31）](https://cn.govopendata.com/renminribao/1967/01/31/2/)核校。本次仅核“回乡支农工人安置工作中的问题”一句，其余两处引文仍待核。
 15. *Notice on questions of temporary workers, contract workers, rotation workers and external workers*，载 *Wen Hui Pao*, 28 February 1967.
 16. *SWB* FE/2404/B/35；另参 *Wen Hui Pao*, 28 February 1967, *SCMP* 174, 10 April 1967, p.6.
-17. 转引自 *Current Scene*, op. cit., p.17.
-18. *Wen Hui Pao*, 3 May 1967.
+17. 转引自 *Current Scene*, op. cit., p.17. 校注：这里的op. cit.承本章注3，即Current Scene VI/5，1968年3月15日；篇名线索见本章注8的校注。所引第17页及上海大字报原件仍未取得，现有年龄、居住年数和比喻均暂依英文底本第126页（PDF第145页）保留。
+18. *Wen Hui Pao*, 3 May 1967. 校注：公开录文[《上海无产阶级文化大革命大事记初稿》（1967年6月）](https://difangwenge.org/forum.php?mod=viewthread&tid=3244)在5月3日条下记有同报社论《船坞吊运车间坚持得对》，可作续查线索；尚未取得该社论全文或当日原版，不能确定本句即出自这篇社论。
 19. 13 September 1967.

@@ -130,7 +130,7 @@
 
 14. Report on the work of the government, First session, First National People’s Congress, 23 September 1954, Beijing 1954, p.11.
 
-15. Talks with directors of various co-operative areas, November-December 1958, in Miscellany I, p.134.
+15. Talks with directors of various co-operative areas, November-December 1958, in Miscellany I, p.134. 校注：[《毛泽东思想万岁》（1958—1960）分册扫描](../reference%20check/sources/Mao-Thought-1958-1960.pdf)第173页（PDF第180页）《在武汉和各协作区主任的讲话（一）》题1958年11月30日。该页有“但也不能没有差额”“苏联的工资差额悬殊太大，我们不照样学”，随后区分乡村与城市，称城市差额更多是必要的，不要砍掉黄炎培、梅兰芳、教授的工资，而应在产品丰富后提高低工资。此段不能单独核定正文关于中国工人工资差距过大、应当缩小的概括；原注Miscellany I第134页未取得，仍待核。
 
 16. RMRB, 14 July 1964.
 
