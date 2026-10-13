@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "id": "deleyne185-r21",
+      "recordIds": [
+        "05-01"
+      ],
+      "title": "Jan Deleyne, The Chinese Economy, Robert Leriche translation, Harper & Row imprint",
+      "kind": "英译转引书扫描；不是中文原话",
+      "url": "https://michaelharrison.org.uk/wp-content/uploads/2023/03/The-Chinese-Economy-Deleyne-1973.pdf",
+      "discoveryUrl": "https://michaelharrison.org.uk/2021/08/foreign-commentaries-on-china/",
+      "sourcePDFSHA256": "ee5867245fbf33785585f7bf77d269a4c1c8456a73bbcb20978076ce363d4470",
+      "sourcePDFPages": 216,
+      "editionEvidence": "扉页为Harper & Row；版权页英译版权©1973 André Deutsch Limited，英国印刷，书号06-136124-0。没有把它冒称另行核到伦敦版。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/Deleyne-1973-title.png",
+          "printedPage": null,
+          "pdfPage": 7,
+          "sha256": "db327538b7239d42eca3265ff653c602b18d15cf0c5b1e68c25420a6c51156e9",
+          "visuallyVerified": true
+        },
+        {
+          "localPath": "reference check/sources/Deleyne-1973-copyright.png",
+          "printedPage": null,
+          "pdfPage": 8,
+          "sha256": "65ca08c4bcde7f8a268be1618e302aebfea4fdf886a9b8fb78c33685419b4f49",
+          "visuallyVerified": true
+        },
+        {
+          "localPath": "reference check/sources/Deleyne-1973-p185.png",
+          "printedPage": 185,
+          "pdfPage": 189,
+          "sha256": "376ca0e026223cb864ea9d0efdc6d5410add4c886dced6f9c56ceac011b03736",
+          "visuallyVerified": true
+        },
+        {
+          "localPath": "reference check/sources/Deleyne-1973-p186.png",
+          "printedPage": 186,
+          "pdfPage": 190,
+          "sha256": "948d632496e5d0fb8c8260a2237b9472158fd9a2b61db38d54bcd13642ed5134",
+          "visuallyVerified": true
+        }
+      ],
+      "observations": [
+        "引语跨185—186页，其引入句明确为1956年八大，未注明发言人，也未列该引语的更早出处。",
+        "与Harris底本第56页的1958年形成可复核的版本差异；不能只凭主题对应就确认薄一波为该英译的唯一原文。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "harris56-r21",
+      "recordIds": [
+        "05-01"
+      ],
+      "title": "Nigel Harris, The Mandate of Heaven, 英文底本第56页",
+      "kind": "作者原书；用于区分原书年份与译稿增补",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "checkedPrintedPage": 56,
+      "checkedPDFPage": 75,
+      "observation": "原书标8th party Congress (1958)，未写second session。保留1958作为作者原文，删除译稿增补的二次会议，并在校注对照Deleyne。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "hkbu-wages-r21",
+      "recordIds": [
+        "10-24"
+      ],
+      "title": "香港浸会大学《友联研究所藏书》目录",
+      "kind": "图书馆馆藏目录；不是小册子正文",
+      "url": "https://library.hkbu.edu.hk/wp-content/uploads/page/2832/2019/08/2019-08-02-cc_pamphlets.pdf",
+      "sourcePDFSHA256": "acb741c4c2bc45e33b84578c58bfa597044d157ab98aa8cff4a65efe1a4110ff",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/HKBU-pamphlets-catalog-p41.png",
+          "printedPage": 41,
+          "pdfPage": 41,
+          "sha256": "95162c95f979ca795759fc8e826f6600a552a13e5a3082cfcf6e81fb379df6bb",
+          "visuallyVerified": true
+        }
+      ],
+      "callNumber": "Box 55 no. 5",
+      "catalogEntry": {
+        "title": "两种社会两种工资",
+        "publisher": "上海人民出版社",
+        "year": 1973
+      },
+      "assessment": "可用于后续申请核阅1973年本第8页。本轮只读目录，没有读取目标页，也没有发送馆际申请。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "cinii-wages-reprint-r21",
+      "recordIds": [
+        "10-24"
+      ],
+      "title": "CiNii Books, 兩種社会 兩種工資, BA39305189",
+      "kind": "书目目录，记录不同印次",
+      "url": "https://ci.nii.ac.jp/ncid/BA39305189",
+      "retrievedHTMLSHA256": "fcbb88d303d63e795baa3fda75f100060616e8d6aa972f97c018e07abd6b8ff8",
+      "edition": "第一版第三次印刷，1974年7月",
+      "pages": 42,
+      "catalogNote": "第1次印刷とページ数が異なる(内容に一部追加あり)",
+      "assessment": "目录明确有增补及页数差异；不能未经比对即将1974年本第8页等同于Riskin的1973年引页。没有声称目标句实际发生改动或移页。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "tufs-issue59-r21",
+      "recordIds": [
+        "10-26"
+      ],
+      "title": "王育徳文庫目録―東京外国語大学アジア・アフリカ言語文化研究所―",
+      "kind": "馆藏目录扫描；只落实候选期刊",
+      "url": "https://tufs.repo.nii.ac.jp/record/7628/files/A747_3.pdf",
+      "catalogRecordUrl": "https://tufs.repo.nii.ac.jp/records/7628",
+      "catalogDate": "1999-03-20",
+      "doi": "10.15026/81991",
+      "sourcePDFSHA256": "d8dc1ba015e6c00f33178a548158b077362cecd54160b328a74fee2c669cd43e",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/TUFS-Ong-catalog-p84.png",
+          "printedPage": 84,
+          "pdfPage": 14,
+          "sha256": "ae85bcab1297800bebd5e00714400aca8a0885a0e42a8297fedfe143f5ca03e2",
+          "visuallyVerified": true
+        }
+      ],
+      "entryNumber": "75337",
+      "catalogEntry": {
+        "title": "七十年代",
+        "issue": 59,
+        "date": "1974-12",
+        "extent": "82p"
+      },
+      "assessment": "目录页影确认香港七十年代杂志社；搜索引擎文字曾误识为六十年代，以页影为准。没有取得杂志目录及15—17页，因此仍只是Chiu Shih Nien Tai的候选，不能确证。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "nccu-magazines-r21",
+      "recordIds": [
+        "10-26"
+      ],
+      "title": "政大臺灣政治與社會發展海外史料資料庫：刊物介紹",
+      "kind": "馆藏说明及公开电子书检索；不是1974年刊文",
+      "url": "https://da.lib.nccu.edu.tw/tdm_2020/content/publish.html",
+      "ebookUrl": "https://tdmebook.lib.nccu.edu.tw/",
+      "observations": [
+        "七十年代馆藏期数包括48—84期，覆盖候选第59期。",
+        "九十年代介绍明确1984年5月由七十年代更名。",
+        "公开电子书界面实际搜索七十年代，返回台灣時代第1期及台獨月刊第111期两项，没有返回目标刊物。此检索结果不代表馆内没有原刊，也不构成中文刊名最终辨认。"
+      ],
+      "accessed": "2026-10-14"
+    }
+  ],
+  "searchScope": {
+    "05-01": [
+      "Deleyne公开扫描扉页、版权页及185—186页",
+      "Harris底本第56页"
+    ],
+    "10-24": [
+      "Google Books两个1973年本目录",
+      "HKBU友联研究所藏书目录第41页",
+      "CiNii不同印次记录",
+      "ProletRedirection政治经济学目录及子目录，无目标册"
+    ],
+    "10-26": [
+      "TUFS王育德文库目录第84页",
+      "政大刊物介绍及公开电子书搜索",
+      "ProletRedirection邓小平目录，无目标会见记录"
+    ]
+  },
+  "limitations": [
+    "本轮只复核用户指定的3条线索，不声称对全部110处进行新一轮穷尽核查。",
+    "三处均保留partial状态；明确年份异文、馆藏与印次不等于恢复中文原话。",
+    "Deleyne所获为Harper & Row英译版，尚未另核原注伦敦版；不能把中文近似段落直接确认为它的来源。",
+    "工资小册子中文第8页及候选刊物第15—17页未取得。",
+    "PDF和HTML维持第十九轮；没有执行构建或修改排版代码。"
+  ]
+}

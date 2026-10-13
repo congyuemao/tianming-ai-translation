@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第二十轮](reference%20check/2026-10-14-round20.md)：重点复核 5 处，3 处新增部分线索，仍有 110 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第二十一轮](reference%20check/2026-10-14-round21.md)：追查上轮新增的 3 条线索，核到 Deleyne 的年份异文、工资小册子的馆藏与印次差异，以及候选期刊的具体期号；仍有 110 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 
