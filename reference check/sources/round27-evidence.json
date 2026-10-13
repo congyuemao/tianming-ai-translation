@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-14",
+  "round": 27,
+  "formalReviewIds": [
+    "09-14",
+    "09-15",
+    "09-32",
+    "10-32"
+  ],
+  "sources": [
+    {
+      "id": "harper-fulltext-r27",
+      "recordIds": [
+        "09-14",
+        "09-15",
+        "09-32"
+      ],
+      "title": "Paul Harper, The Party and the Unions in Communist China",
+      "kind": "用户提供的出版社英文全文；核相关正文及第77注，非中文原话证据",
+      "source": "user-provided attachment",
+      "sourceFilename": "the-party-and-the-unions-in-communist-china.pdf",
+      "sourcePDFSHA256": "ad0f6422bfb076a7fbc2b7bab0ff7396266f4f6c939f15cabc1b543815250463",
+      "sourcePDFBytes": 2370731,
+      "sourcePDFPages": 36,
+      "sourcePDFArchived": false,
+      "publication": "The China Quarterly",
+      "year": 1969,
+      "issue": "37",
+      "doi": "10.1017/S0305741000048992",
+      "printedPageRange": [
+        84,
+        119
+      ],
+      "catalogUrl": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/party-and-the-unions-in-communist-china/C3AA21489A6DC5A652B4B130CC5DBE97",
+      "textScreenedPDFPages": [
+        1,
+        36
+      ],
+      "textScreenedPDFPagesNotation": "inclusive range",
+      "readRelevantPrintedPages": [
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "visuallyCheckedPDFPages": [
+        1,
+        33,
+        34
+      ],
+      "images": [
+        {
+          "pdfPage": 34,
+          "printedPage": 117,
+          "localPath": "reference check/sources/Harper-1969-p117.png",
+          "sha256": "87f9439ce2f103097da8c0168bf1e1ada00bfbb1874758ff1cefbfcfadb3f2e4",
+          "visuallyChecked": true,
+          "rendering": "Poppler 115dpi整页渲染；含第76、77注。"
+        }
+      ],
+      "targetPrintedPage": 117,
+      "targetPDFPage": 34,
+      "targetNote": 77,
+      "referencedTitle": "Sources of Labor Discontent in China: The Worker-Peasant System",
+      "referencedPublication": "Current Scene",
+      "referencedVolume": "VI",
+      "referencedIssue": "5",
+      "referencedDate": "1968-03-15",
+      "observations": [
+        "第77注位于第117页，紧接关于文化大革命中工人态度与党内路线冲突的概括；没有给出Current Scene具体页码。",
+        "相关正文第114—119页未提供1966-08-13广州广播的两处目标引句，也未提供上海老工人大字报的年龄、居住年数或芝麻西瓜比喻。",
+        "取得Harper全文并不等于取得其引用的Current Scene；三条仍缺目标原文。",
+        "OCR将第76、77注误识成78、17等，注号以第117页影像为准。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "li-fulltext-r27",
+      "recordIds": [
+        "10-32"
+      ],
+      "title": "Choh-Ming Li, China’s Industrial Development, 1958–63",
+      "kind": "用户提供的JSTOR英文全文；逐字核查目标转引、跨页及第56注",
+      "source": "user-provided attachment",
+      "sourceFilename": "Li-ChinasIndustrialDevelopment-1964.pdf",
+      "sourcePDFSHA256": "7f415f8a723cef34ae0163516e18b6574cd9e3c9bc7cf179734588eef9217ca3",
+      "sourcePDFBytes": 4411805,
+      "sourcePDFPages": 37,
+      "sourcePDFArchived": false,
+      "publication": "The China Quarterly",
+      "year": 1964,
+      "issue": "17",
+      "issueDate": "January–March 1964",
+      "doi": "10.1017/S0305741000041643",
+      "stableUrl": "https://www.jstor.org/stable/3451139",
+      "printedPageRange": [
+        3,
+        38
+      ],
+      "coverSheetCount": 1,
+      "targetPrintedPages": [
+        26,
+        27
+      ],
+      "targetPDFPages": [
+        25,
+        26
+      ],
+      "textReadPDFPages": [
+        1,
+        2,
+        24,
+        25,
+        26,
+        27
+      ],
+      "visuallyCheckedPDFPages": [
+        2,
+        25,
+        26
+      ],
+      "images": [
+        {
+          "pdfPage": 25,
+          "printedPage": 26,
+          "localPath": "reference check/sources/Li-1964-p26.png",
+          "sha256": "7e66fc7eace18f47b83d6433a2b46c5be730fcdae34e091be8b868da6cdc579c",
+          "visuallyChecked": true,
+          "rendering": "Poppler 150dpi；渲染顶部1340像素，保留原刊正文、全部脚注及印刷页码，截去其下JSTOR下载信息页脚。"
+        },
+        {
+          "pdfPage": 26,
+          "printedPage": 27,
+          "localPath": "reference check/sources/Li-1964-p27.png",
+          "sha256": "23134a38c083c9a4fedd9778340c147f4b7953514c5d8ce4d02d43ee20e1702c",
+          "visuallyChecked": true,
+          "rendering": "Poppler 150dpi；渲染顶部1340像素，保留原刊正文、全部脚注及印刷页码，截去其下JSTOR下载信息页脚。"
+        }
+      ],
+      "targetNote": 56,
+      "englishQuotation": "a mere vehicle for management and the Party committee to make speeches.",
+      "upstreamCitation": {
+        "authorAsPrinted": "Li Ch’un",
+        "englishTitleAsPrinted": "Why is it Necessary to Broaden Management of Various Enterprises?",
+        "publicationAsPrinted": "Chung-kuo Kung-jen (Chinese Worker)",
+        "issue": "6",
+        "dateAsCited": "1957-03-27",
+        "chineseAuthorCharactersVerified": false,
+        "chineseTitleVerified": false,
+        "originalChineseArticleObtained": false
+      },
+      "observations": [
+        "目标引语由第26页末跨至第27页首；第56注直接跟在引语末尾。",
+        "原文主语为workers’ representative general conference，不是泛指所有管理委员会；正文的上下文可由此继续比对。",
+        "Li原文为Party committee，Harris第139页转引为party cadre；这是一处转引异文。",
+        "英文来源已经取得，中文原刊仍缺；未将英文转引核实计为中文原话的部分或完整恢复。",
+        "作者Li Ch’un的汉字姓名及文章中文正式题名未核，未凭罗马字和英文题名自行确定。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "harris-li-comparison-r27",
+      "recordIds": [
+        "10-32"
+      ],
+      "title": "Nigel Harris, The Mandate of Heaven，第139页及第146页原注95",
+      "kind": "既有英文底本；核转引差异及出处承接",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "textReadPDFPages": [
+        158,
+        165
+      ],
+      "visuallyCheckedPDFPages": [
+        158
+      ],
+      "observations": [
+        "第139页作party cadre；第146页原注95列Choh-ming Li及第26—27页。",
+        "正文现译党干部与Harris底本相合，保留原译，在校注说明Li文本的Party committee异文。"
+      ],
+      "accessed": "2026-10-14"
+    }
+  ],
+  "limitations": [
+    "本轮正式复核4条，不声称逐条重新核查全部106处待核标记。",
+    "两篇英文论文已取得；中文原刊、广州广播稿及上海大字报原件仍未取得，英文转引核实不替代中文原话恢复。",
+    "Li第56注作者保留Li Ch’un；尚未确认汉字姓名及中文正式题名。所列1957-03-27为英文章节引用日期，未经中文原刊独立核实。",
+    "Harper第77注只给篇名、卷期及日期，不给所引Current Scene具体页码；不能将Harper第117页误作Current Scene第17页。",
+    "两份附件保持不变，未整份上传；归档3张目标证据页。Li证据图渲染时截去原刊版面下的JSTOR下载信息页脚，正文、全部脚注和印刷页码保留。",
+    "公开检索未取得可用中文原文；相近主题检索结果不计证据。PDF/HTML及排版代码保持原样。"
+  ],
+  "supplementarySearch": {
+    "queries": [
+      "\"中国工人\" \"1957\" \"李纯\"",
+      "\"中国工人\" \"1957\" \"扩大\" \"民主\"",
+      "\"职工代表大会\" \"1957\" \"作报告\"",
+      "\"中国工人\" \"1957年第6期\" \"企业\"",
+      "\"职工代表大会\" \"作报告的\" \"1957\"",
+      "\"Why is it Necessary to Broaden Management\""
+    ],
+    "result": "未找到可用目标原文；李纯仅为试探检索字形，不作已核作者姓名。",
+    "unreadCandidate": {
+      "url": "https://www.lishiyushehui.cn/statics/article/attachment/202504/i3NLj2VkxWnXMtbs.pdf",
+      "accessResult": "网页读取超时，只有检索片段，未计入本轮证据。"
+    }
+  }
+}

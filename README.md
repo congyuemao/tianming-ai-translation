@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第二十六轮](reference%20check/2026-10-14-round26.md)：据用户提供的关锋原刊第 3 页恢复公社加强领导的引文，并核清题名“略论”、文章第 1—8 页及文末署日。本轮撤去 1 处标记，现余 106 处待核；原注出版日及ECMM转引页仍另列补核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第二十七轮](reference%20check/2026-10-14-round27.md)：据用户提供的Li与Harper英文全文复核4条，落实Li第26—27页引语、第56注及其与Harris转引的“党委／党干部”异文，并核实Harper第117页第77注。中文原刊和Current Scene目标页仍缺，本轮不撤标，现余106处待核。最新校注已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 
