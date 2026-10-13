@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第二十二轮](reference%20check/2026-10-14-round22.md)：转查煤矿奖励及谭震林城乡收入两条引文，恢复 1 处中文原句，另 1 处补齐讲话日期和中文候选材料；仍有 109 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第二十三轮](reference%20check/2026-10-14-round23.md)：对 109 条待核记录作新增报刊语料自动候选筛查，重点复核 8 条；恢复河北干部子女顶替引句，另找到共产党员引文的完整中文候选，具体刊期仍待核。现余 108 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 

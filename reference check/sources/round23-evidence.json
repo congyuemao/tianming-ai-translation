@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-14",
+  "round": 23,
+  "sources": [
+    {
+      "id": "rmrb-xiongxian-r23",
+      "recordIds": [
+        "07-12"
+      ],
+      "title": "杨凤鸣：学好革命理论　做反修防修的自觉战士",
+      "kind": "非官方报纸录文与固定版本文字存档；未核原报版影",
+      "url": "https://cn.govopendata.com/renminribao/1975/06/02/2/",
+      "publication": "人民日报",
+      "date": "1975-06-02",
+      "page": 2,
+      "column": "党的生活",
+      "authorAsTranscribed": "中共河北省雄县委员会书记　杨凤鸣",
+      "shortExcerpt": "干部退职退休，可以由自己的子女顶替",
+      "sourceArticleFilename": "1975-06-02_学好革命理论_做反修防修的自觉战士.md",
+      "sourceArticleSHA256": "70b984fd31713a716bf5a2626da601b6cb7f88f5b71a5a618bb6eff05c60b4a8",
+      "retrievedHTMLSHA256": "f4e6749519fbb06b0aa35e22760ddebfe1644d942274188f7bde255a816296c9",
+      "fixedArchive": {
+        "month": "1975-06",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1975%E5%B9%B406%E6%9C%88.7z",
+        "sha256": "858f5ac7e24d2ff5849d50d2a0138046acb7a4f7c42841dad33848f5266d7e5e",
+        "gitBlob": "914295961b72d21e464b41a0ca80a3b537fe7497",
+        "files": 1088
+      },
+      "observations": [
+        "原文是关于1974年冬天社会上传播的一种说法；下文叙述县委反对并带头送子女下乡。",
+        "底本第92页也写作社会风气所声称的内容；恢复核心原句，没有将其改写为已实施的正式政策。",
+        "FEER1975年8月1日转引页未取得。"
+      ],
+      "independenceCaveat": "govopendata与fangj存档可能同源，不作为两份独立证据。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "communist-continue-r23",
+      "recordIds": [
+        "12-02"
+      ],
+      "title": "共产党员要自觉地坚持继续革命！",
+      "kind": "2016年网络转载；完整中文候选，非原报扫描",
+      "url": "https://www.mzfxw.com/m/show2.php?bclassid=4&cid=1&classid=18&cpage=1997&id=72477&style=0",
+      "site": "民族复兴网",
+      "postedDate": "2016-09-24",
+      "attributedAuthor": "光明日报社论",
+      "dateInBody": "一九七五年四月",
+      "originalDayConfirmed": false,
+      "retrievedHTMLSHA256": "f86958f6b97fcae5d95d15a7658717595e25e5bfab86679fe0a7eb770eb29da4",
+      "targetParagraphLocator": "正文以一个共产党员起头、讨论法权观念和个人得失的段落",
+      "shortExcerpt": "让资产阶级法权观念缠住自己",
+      "observations": [
+        "整段论述次序与Harris第173—174页相应，已超出相同口号或嵌套短句的匹配。",
+        "现代转载的标题及社论归属仍需原报核定；正文只列月份，不能据原注把22日补成已核事实。",
+        "页面配图为现代制作的装饰图，目视后排除为原刊影像。",
+        "尚未取得原注光明日报1975-04-22及SCMP75-22对应页；只改partial，不回填或撤标。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "harris-r23",
+      "recordIds": [
+        "07-12",
+        "12-02"
+      ],
+      "title": "Nigel Harris, The Mandate of Heaven，第92、173—174页",
+      "kind": "作者原书，核对引句范围",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "checkedPrintedPages": [
+        92,
+        173,
+        174
+      ],
+      "checkedPDFPages": [
+        111,
+        192,
+        193
+      ],
+      "observations": [
+        "第92页河北句以引号标注社会流传的说法，未声称已经成为政策。",
+        "第173—174页共产党员引句中间省略了一段，结尾也早于中文候选结束；未将候选全文擅自补入译稿。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "excluded-05-03-r23",
+      "recordIds": [
+        "05-03"
+      ],
+      "title": "怎样巩固人民公社？",
+      "kind": "固定版本报纸录文；排除性候选比对",
+      "url": "https://cn.govopendata.com/renminribao/1958/09/19/6/",
+      "date": "1958-09-19",
+      "page": 6,
+      "sourceArticleFilename": "1958-09-19_怎样巩固人民公社？.md",
+      "sourceArticleSHA256": "d1a9e09422bff3d51fdb2c1324f6812b22cdcfd54a85d3d072cf4a72f631e52a",
+      "fixedArchive": {
+        "month": "1958-09",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1958%E5%B9%B409%E6%9C%88.7z",
+        "sha256": "b63673c1dc1aec9442711a37ff364e106b9965bba863235357bf25b943d369e3",
+        "gitBlob": "54c08794d57cbabb390ada575dc9578ab872a783",
+        "files": 2049
+      },
+      "assessment": "河南公社巩固措施及党的领导报道；不是原注《哲学研究》1958年第5期，也未落实集中大组织更易领导的完整目标句。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "excluded-07-11-r23",
+      "recordIds": [
+        "07-11"
+      ],
+      "title": "送书上门",
+      "kind": "固定版本报纸录文；排除性候选比对",
+      "url": "https://cn.govopendata.com/renminribao/1975/11/27/4/",
+      "date": "1975-11-27",
+      "page": 4,
+      "sourceArticleFilename": "1975-11-27_送书上门.md",
+      "sourceArticleSHA256": "5f33aa6bf4931f26198d87efd33846ac371c896d1d4be59eedd6951754186f5f",
+      "fixedArchive": {
+        "month": "1975-11",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1975%E5%B9%B411%E6%9C%88.7z",
+        "sha256": "295180f130509a3fca7c4eff36bd4e953ede2ba8bc2dfcc2459d8e7aab6af208",
+        "gitBlob": "b6e66b596dcb2525f6081d1aa810c2a256b044af",
+        "files": 1101
+      },
+      "assessment": "地点为陕西府谷，主体是流动图书发行员与农村青少年；不能替代安徽学校报道。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "excluded-10-22-r23",
+      "recordIds": [
+        "10-22"
+      ],
+      "title": "强化法西斯专政阻挡不了国内矛盾的激化  苏修又大批清洗和撤换干部",
+      "kind": "固定版本报纸录文；排除性候选比对",
+      "url": "https://cn.govopendata.com/renminribao/1975/10/15/6/",
+      "date": "1975-10-15",
+      "page": 6,
+      "sourceArticleFilename": "1975-10-15_强化法西斯专政阻挡不了国内矛盾的激化_苏修又大批清洗和撤换干部.md",
+      "sourceArticleSHA256": "9cad159ec3877c216dd2e662064abf30a500444f91c440f8c23ddcb8484abd73",
+      "fixedArchive": {
+        "month": "1975-10",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1975%E5%B9%B410%E6%9C%88.7z",
+        "sha256": "4481d17a41d181360c62dafb842a28139b1eb9d63c88a2bd765d92eb294a4d95",
+        "gitBlob": "1679c0b7ff79b524ebfcb09d8649818b70ca35e5",
+        "files": 1239
+      },
+      "assessment": "目标相似词集中在赫鲁晓夫、勃列日涅夫和资本主义复辟，正文主题是1975年10月苏联清洗干部；不是4月27日《光明日报》物质刺激引文。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "excluded-10-49-r23",
+      "recordIds": [
+        "10-49"
+      ],
+      "title": "社会主义企业的主人——天津合成化学厂工人努力办好社会主义企业的事迹",
+      "kind": "固定版本报纸录文；排除性候选比对",
+      "url": "https://cn.govopendata.com/renminribao/1975/01/30/3/",
+      "date": "1975-01-30",
+      "page": 3,
+      "sourceArticleFilename": "1975-01-30_社会主义企业的主人_天津合成化学厂工人努力办好社会主义企业的事迹.md",
+      "sourceArticleSHA256": "fa4cb85aadfbba620a2486550667da578c1df93e111e9f0ca1ed677dd905299a",
+      "fixedArchive": {
+        "month": "1975-01",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1975%E5%B9%B401%E6%9C%88.7z",
+        "sha256": "6d769c8b2703ac3957ceb1c742d1288420396eb32012e3c9f4c86b2250c84d69",
+        "gitBlob": "39e476f8d2573534cd5aa88f4ef1f42a999b1414",
+        "files": 1076
+      },
+      "assessment": "天津合成化学厂有工人主人地位与劳动力的相近论述，但不能替代郑州三厂的报道。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "excluded-12-05-r23",
+      "recordIds": [
+        "12-05"
+      ],
+      "title": "发扬光荣传统　军官下连当兵  陈再道代表的发言",
+      "kind": "固定版本报纸录文；排除性候选比对",
+      "url": "https://cn.govopendata.com/renminribao/1959/04/27/9/",
+      "date": "1959-04-27",
+      "page": 9,
+      "sourceArticleFilename": "1959-04-27_发扬光荣传统_军官下连当兵_陈再道代表的发言.md",
+      "sourceArticleSHA256": "837f2fe695efcaf0dc10e825b4b84b30765d5ecf4185134b4929efb342c57194",
+      "fixedArchive": {
+        "month": "1959-04",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1959%E5%B9%B404%E6%9C%88.7z",
+        "sha256": "0060141b64ef65772c16ff6b50a351f17d52ba9adc9762f107c3c62098418225",
+        "gitBlob": "6f1b43e104ee4e5719580c7f3f80fbaaba7a07df",
+        "files": 2058
+      },
+      "assessment": "官兵关系句高度近似，但这是1959年陈再道代表发言，不是1975年1月5日《光明日报》。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "excluded-20-01-r23",
+      "recordIds": [
+        "20-01"
+      ],
+      "title": "人的冲天干劲是大跃进的决定因素",
+      "kind": "固定版本报纸录文；排除性候选比对",
+      "url": "https://cn.govopendata.com/renminribao/1959/02/20/7/",
+      "date": "1959-02-20",
+      "page": 7,
+      "sourceArticleFilename": "1959-02-20_人的冲天干劲是大跃进的决定因素.md",
+      "sourceArticleSHA256": "025401238dfe1fc264e10b084e33eac3b0950645e41b3e84464c62164ff0b28e",
+      "fixedArchive": {
+        "month": "1959-02",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1959%E5%B9%B402%E6%9C%88.7z",
+        "sha256": "95f7399d706e2d910279d943290d7dd6e095b3eb03bca09c43adca4cf2397ff5",
+        "gitBlob": "8e7c666d030d2076f584530f9fa15e0029097668",
+        "files": 1515
+      },
+      "assessment": "作者为张沛，发表在1959年；主观能动性与客观规律论述不能替代吴江1958年文章或Schram所引第80页。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "hunan-screen-r23",
+      "recordIds": [
+        "12-02",
+        "12-05",
+        "10-22"
+      ],
+      "title": "同期《湖南日报》扫描版面初筛",
+      "kind": "报刊扫描；排除性标题筛查，非目标原报",
+      "catalogUrl": "https://commons.wikimedia.org/wiki/Category:%E6%96%B0%E6%B9%96%E5%8D%97%E5%A0%B1",
+      "scans": [
+        {
+          "volume": "306",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NLC511-012031312030011-35140_%E6%96%B0%E6%B9%96%E5%8D%97%E5%A0%B1_%E7%AC%AC306%E5%8D%B7.pdf",
+          "bytes": 44402603,
+          "sha256": "d50148710d0728fa8556d34cdb2140c6dda164a5d8bb17150c11a6284192d7ad",
+          "publicationVerifiedFromMasthead": "湖南日报",
+          "catalogTitle": "新湖南報",
+          "pages": 125,
+          "scope": "1975-01-05至01-10第1—3版标题和相关版面初筛",
+          "checkedPDFPages": [
+            18,
+            19,
+            20,
+            22,
+            23,
+            24,
+            26,
+            27,
+            28,
+            30,
+            31,
+            32,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40
+          ],
+          "textLayerAvailable": false,
+          "assessment": "未找到所寻转载；仅目视初筛指定版面，不称已逐字核完整月份，也不据此排除未查日期或其他报刊。"
+        },
+        {
+          "volume": "309",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/NLC511-012031312030011-35143_%E6%96%B0%E6%B9%96%E5%8D%97%E5%A0%B1_%E7%AC%AC309%E5%8D%B7.pdf",
+          "bytes": 42821027,
+          "sha256": "4177d9a7cdc10f36cdadcead151c06f0d8bb65dfdb46ca53cea5b252c0645743",
+          "publicationVerifiedFromMasthead": "湖南日报",
+          "catalogTitle": "新湖南報",
+          "pages": 121,
+          "scope": "1975-04-22至04-30第1—3版标题和相关版面初筛",
+          "checkedPDFPages": [
+            86,
+            87,
+            88,
+            90,
+            91,
+            92,
+            94,
+            95,
+            96,
+            98,
+            99,
+            100,
+            102,
+            103,
+            104,
+            106,
+            107,
+            108,
+            110,
+            111,
+            112,
+            114,
+            115,
+            116,
+            118,
+            119,
+            120
+          ],
+          "textLayerAvailable": false,
+          "assessment": "未找到所寻转载；仅目视初筛指定版面，不称已逐字核完整月份，也不据此排除未查日期或其他报刊。"
+        }
+      ],
+      "accessed": "2026-10-14"
+    }
+  ],
+  "searchScope": {
+    "07-12": [
+      "河北、干部、退职退休、子女、顶替关键词检索",
+      "读取杨凤鸣文章全文与govopendata网页",
+      "对照Harris第92页"
+    ],
+    "12-02": [
+      "法权、半小时、安乐窝、共产党员及新题名检索",
+      "读取现代转载全文，区分发布日期、月份标记与原注日期",
+      "对照Harris第173—174页",
+      "目视初筛湖南日报4月22—30日第1—3版标题和相关版面"
+    ],
+    "otherFormalReviews": [
+      {
+        "id": "05-03",
+        "action": "河南公社巩固措施及党的领导报道；不是原注《哲学研究》1958年第5期，也未落实集中大组织更易领导的完整目标句。"
+      },
+      {
+        "id": "07-11",
+        "action": "地点为陕西府谷，主体是流动图书发行员与农村青少年；不能替代安徽学校报道。"
+      },
+      {
+        "id": "10-22",
+        "action": "目标相似词集中在赫鲁晓夫、勃列日涅夫和资本主义复辟，正文主题是1975年10月苏联清洗干部；不是4月27日《光明日报》物质刺激引文。"
+      },
+      {
+        "id": "10-49",
+        "action": "天津合成化学厂有工人主人地位与劳动力的相近论述，但不能替代郑州三厂的报道。"
+      },
+      {
+        "id": "12-05",
+        "action": "官兵关系句高度近似，但这是1959年陈再道代表发言，不是1975年1月5日《光明日报》。"
+      },
+      {
+        "id": "20-01",
+        "action": "作者为张沛，发表在1959年；主观能动性与客观规律论述不能替代吴江1958年文章或Schram所引第80页。"
+      }
+    ]
+  },
+  "supplementaryScreening": {
+    "recordIds": [
+      "05-08",
+      "06-03",
+      "08-22",
+      "09-05",
+      "09-06",
+      "09-07",
+      "09-08",
+      "09-09",
+      "09-15",
+      "10-40",
+      "10-41",
+      "10-42",
+      "10-43",
+      "10-44",
+      "11-03"
+    ],
+    "description": "另按原注、关键词与新候选有限筛查，没有形成足以改变原结论的证据，未计入8条重点复核，也未改状态。",
+    "hangzhouExclusion": "人民日报1975-08-02第3版浙江驻军劳动报道署本报通讯员，人物为李光善、武万万；不能直接代替原注8月2日新华社稿，未将正文Li Jiming、Ni Zhongsheng改成这些人名。"
+  },
+  "limitations": [
+    "109条都运行了自动候选筛查，但只有8条作本轮重点复核，二者不混算。",
+    "河北引文据非官方录文恢复，尚未核原报版影及FEER转引页；两份录文可能同源。",
+    "共产党员完整中文候选来自2016年转载，没有原报具体日期，故保留待核。",
+    "相似度只能帮助发现材料；不同作者、地点、刊期和引文范围的候选不能互相替代。",
+    "湖南日报无文本层，仅目视初筛列明的版面标题，未逐字核完整月份。",
+    "PDF/HTML维持第十九轮；未执行构建、修改既有来源PDF或排版代码。"
+  ]
+}
