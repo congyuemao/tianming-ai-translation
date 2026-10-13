@@ -1,7 +1,7 @@
 {
-  "sourceCommit": "6697298ca3e7cd80323952e2ba30dd6162ad579c",
+  "sourceCommit": "ddb7f991377d22cdcc98740611cbfffc0b928641",
   "buildDate": "2026-10-14",
-  "pendingMarkers": 116,
+  "pendingMarkers": 110,
   "chapters": [
     {
       "file": "00_2015_preface.md",
@@ -51,7 +51,7 @@
       "number": "第2章",
       "chapterNumber": 2,
       "kind": "chapter",
-      "sha256": "9ac576f12ea184eb52c9d4339330dca7e911cfc7f216ea90ba11c7bde640e485"
+      "sha256": "f92a7ea906c50f9b3c88b9b7b5e8534d6811d6de4f81f4a2a0cbfbcb5ca950c7"
     },
     {
       "file": "04_ch03_first_phase.md",
@@ -61,7 +61,7 @@
       "number": "第3章",
       "chapterNumber": 3,
       "kind": "chapter",
-      "sha256": "82e8092beaaa93787124e27869e3d004636bae6372e100e8654833f70ba7dea5"
+      "sha256": "926e7b36821045e2a429dd4e9838c5ad2fae41e0d4e69f79bed575c5725df1fe"
     },
     {
       "file": "05_ch04_great_leap_forward_and_after.md",
@@ -101,7 +101,7 @@
       "number": "第7章",
       "chapterNumber": 7,
       "kind": "chapter",
-      "sha256": "acde8b2377463d42946a79bc7a047af227ad7815b545b018b366a1a908a97f5d"
+      "sha256": "62ca33460383c8b5998ff387b987ef7c968a196da6707f930d0cedcf4422f1d4"
     },
     {
       "file": "09_ch08_temporary_contract_labour.md",
@@ -121,7 +121,7 @@
       "number": "第9章",
       "chapterNumber": 9,
       "kind": "chapter",
-      "sha256": "ba7d5bd04e095a5fcf1b70df58aac8bd110b40ea5bcea6d3a2150acb6fec9474"
+      "sha256": "6226b31b316fdc34c7947d059e0b18fe7ca44305e0bec7ac3a6486377074f3d4"
     },
     {
       "file": "11_ch10_peasants_in_prc.md",
@@ -131,7 +131,7 @@
       "number": "第10章",
       "chapterNumber": 10,
       "kind": "chapter",
-      "sha256": "12ff9cd863355b77cec7329faba29d81733e9946b9b38d32dccaefbe0cbbcfff"
+      "sha256": "7640c83dc72a4e497c3b03f77437ca48052db107a6210efe2630989e97e31e5a"
     },
     {
       "file": "12_ch11_equality.md",
@@ -141,7 +141,7 @@
       "number": "第11章",
       "chapterNumber": 11,
       "kind": "chapter",
-      "sha256": "10d15441872d22d8aac15760e2a3d13532ea5acd89bc2f45f494c56e20ef11d4"
+      "sha256": "3c92c7f7d398a6b981d1db210114cd4a8bd8133eb45f2a3c72ee63121b11f05b"
     },
     {
       "file": "13_ch12_democracy.md",
@@ -268,7 +268,7 @@
     "chapterCount": 23,
     "noteRefs": 533,
     "endnotes": 533,
-    "pendingMarkers": 116,
+    "pendingMarkers": 110,
     "textPreserved": true
   }
 }

@@ -1,0 +1,30 @@
+{
+  "pages": 322,
+  "blankPages": [],
+  "sparsePages": [
+    [
+      1,
+      97
+    ]
+  ],
+  "pendingMarkers": 110,
+  "replacementCharacters": 0,
+  "bookmarks": 26,
+  "localFileLinks": [],
+  "outOfBoundsWords": [],
+  "contentBlocksChecked": 1916,
+  "contentBlocksNotExactInPDF": [],
+  "sourceCommit": "ddb7f991377d22cdcc98740611cbfffc0b928641",
+  "pdfSHA256": "47b37c83d6faf9f56e85f1acfa4b60af675bec921d1433d004b98ef0f6b4cc15",
+  "chapterHashesMatchBuild": true,
+  "endnotes": 533,
+  "removedLeadingTitleEchoes": 6,
+  "htmlChapterNavigation": "pass",
+  "htmlNoteNavigation": "pass",
+  "mobileHorizontalOverflow": false,
+  "renderedPreviewPages": [
+    55,
+    123,
+    170
+  ]
+}
