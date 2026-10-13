@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "id": "rmrb-chengzi2-r22",
+      "recordIds": [
+        "08-16"
+      ],
+      "title": "做好按劳分配　加强企业管理——京西城子煤矿工人出勤率调查报告之二",
+      "kind": "非官方报纸录文与固定版本文字存档；未核原报版影",
+      "url": "https://cn.govopendata.com/renminribao/1961/05/20/3/",
+      "publication": "人民日报",
+      "date": "1961-05-20",
+      "page": 3,
+      "authorsAsTranscribed": [
+        "铁云",
+        "王焴长",
+        "罗璇",
+        "谢烽",
+        "叶剑韵"
+      ],
+      "shortExcerpt": "有些工人就认为多干少干反正一样，渐渐有些松劲。",
+      "section": "坚持按劳分配原则",
+      "sourceArticleFilename": "1961-05-20_做好按劳分配_加强企业管理_京西城子煤矿工人出勤率调查报告之二.md",
+      "sourceArticleSHA256": "fb1313bde2e479f73ab7b86fb5ac4c9f2fe8af3e0d9da580a348e4005aeb0645",
+      "retrievedHTMLSHA256": "a962899c3d5b11520f1963233ac82dba3361d4a8d4795774d4be2c4303d56f69",
+      "fixedArchive": {
+        "month": "1961-05",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1961%E5%B9%B405%E6%9C%88.7z",
+        "sha256": "e146b517cc483f56e903451f4bd2bcd8b74f1c20977c69a02f9450164d764cdb",
+        "gitBlob": "6be9b1bbee31440ffcb3d9a6d7a6f38be2f80f6c",
+        "files": 2008
+      },
+      "observations": [
+        "目标句逐字匹配，置于1958年11月取消计件工资、1959年初出勤率下滑及同年3—4月调整奖励的叙述中。",
+        "原注日期1960年5月、英文篇名及正文1960年的概括与此篇的发表及事件时间并不相同；恢复措辞不表示证实作者的年代概括。"
+      ],
+      "independenceCaveat": "govopendata和fangj存档可能同源，不计作两个独立原刊证据。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "rmrb-chengzi1-r22",
+      "recordIds": [
+        "08-16"
+      ],
+      "title": "关心和安排好职工生活——京西城子煤矿工人出勤率调查报告之一",
+      "kind": "非官方报纸录文；同组报道的排除性比对",
+      "url": "https://cn.govopendata.com/renminribao/1961/05/19/2/",
+      "date": "1961-05-19",
+      "page": 2,
+      "sourceArticleFilename": "1961-05-19_关心和安排好职工生活_京西城子煤矿工人出勤率调查报告之一.md",
+      "sourceArticleSHA256": "173d3c858a51dc6ea796275a0fc985547a410e7a2d4efe6d88cdffb756afa169",
+      "retrievedHTMLSHA256": "3866415021d6918e53bdb730340d59dde97558bec486d7c6b1ff61f6cb3d6cc5",
+      "observation": "篇名与原注英文题名对应，但全文没有目标句；目标句在次日调查报告之二。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "deleyne58-r22",
+      "recordIds": [
+        "08-22"
+      ],
+      "title": "Jan Deleyne, The Chinese Economy, Robert Leriche translation, Harper & Row imprint, p.58",
+      "kind": "英译转引书扫描；不是中文原稿",
+      "url": "https://michaelharrison.org.uk/wp-content/uploads/2023/03/The-Chinese-Economy-Deleyne-1973.pdf#page=62",
+      "sourcePDFSHA256": "ee5867245fbf33785585f7bf77d269a4c1c8456a73bbcb20978076ce363d4470",
+      "sourcePDFPages": 216,
+      "checkedPrintedPage": 58,
+      "checkedPDFPage": 62,
+      "visuallyVerified": true,
+      "editionEvidence": "扉页及版权页已在round21归档；英译版权1973年归André Deutsch。未另核伦敦印本。",
+      "editionEvidenceFiles": [
+        "reference check/sources/Deleyne-1973-title.png",
+        "reference check/sources/Deleyne-1973-copyright.png"
+      ],
+      "observations": [
+        "明确把讲话日期列为1966年9月7日，刊物日期为1967年3月6日。",
+        "乡村收入同时列200—300元/年及20元/月；Harris正文只保留后一数字。",
+        "这只能核实英文转引链，不能确认中文刊名或讲话原话。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "tan-speeches-r22",
+      "recordIds": [
+        "08-22"
+      ],
+      "title": "谭震林在文革初期的十三次讲话，第五项",
+      "kind": "批判材料的非官方网络录文；未见刊页",
+      "url": "https://speechfree.github.io/cultural-revolution-database/post/1496/",
+      "itemNumber": 1496,
+      "collectionHeadingDate": "1966-06-18",
+      "targetSectionDate": "1966-09-07",
+      "sectionHeading": "五、1966.9.7 在农政，农办机关人员全体会议上的讲话",
+      "shortExcerpt": "农村一年也不过二三百元",
+      "retrievedHTMLSHA256": "706ad9268c8a4190bb98c17fe3c30507888c4e0c8423cead0d57dd0b00b9568c",
+      "observations": [
+        "页首1966-06-18是十三次讲话合辑的起始日期，不能作为目标段日期。",
+        "第五项日期与Deleyne一致，城市扫地收入和向与会者询问愿否当农民的内容对应。",
+        "中文录文没有20元/月，末句多出举手也属勉强的判断；未据此改写原书全部引语。",
+        "材料注明北京农业大学红卫兵所加按语，末署东方红公社、遵义部队；页面未提供原刊卷期、页码或影像。"
+      ],
+      "assessment": "足以将记录从searched_unresolved推进到partial；不足以撤销待核或声称查到原注期刊。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "harris107-111-r22",
+      "recordIds": [
+        "08-16",
+        "08-22"
+      ],
+      "title": "Nigel Harris, The Mandate of Heaven, 底本第107、111、117—118页",
+      "kind": "作者原书，核对译稿及原注",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "checkedPrintedPages": [
+        107,
+        111,
+        117,
+        118
+      ],
+      "checkedPDFPages": [
+        126,
+        130,
+        136,
+        137
+      ],
+      "observations": [
+        "第107页及注23保留原书1960年的说法，校注另列报纸实际日期；没有擅自重写作者整段历史概括。",
+        "第111页及注34只写乡村每月20元，Deleyne有额外年收入数字。"
+      ],
+      "accessed": "2026-10-14"
+    }
+  ],
+  "searchScope": {
+    "08-16": [
+      "原注英文篇名及Wang Yu-chang检索",
+      "JEC 1967报告搜索摘要提示1961-05-19；完整PDF下载403，因此摘要仅用于定位",
+      "固定版本1961年5月文字档共2008篇，逐篇关键词检索；读取5月19日及20日两篇全文",
+      "govopendata两日网页全文核对"
+    ],
+    "08-22": [
+      "Deleyne第58页扫描视觉核对",
+      "谭震林加1966-09-07、九月七日、扫马路、科技红旗检索",
+      "十三次讲话中文录文全文及第五項核对"
+    ]
+  },
+  "supplementaryScreening": {
+    "recordIds": [
+      "08-14",
+      "09-05",
+      "09-06",
+      "09-07",
+      "09-08",
+      "09-09",
+      "11-03",
+      "20-01"
+    ],
+    "description": "另按工资改革1956、财贸部门亦工亦农、苏南土地改革实施办法、吴江1958年第8期及篇名筛查，未取得足以改变原结论的新证据；不计入本轮正式复核数量，也未更新这些条目的状态。"
+  },
+  "limitations": [
+    "本轮正式复核2条，不代表对其余待核项作了穷尽核查。",
+    "恢复煤矿引文依据非官方报纸录文及固定版本存档，未核报纸版影；两份录文可能同源。",
+    "恢复中文措辞不表示作者1960年的概括已获原文支持；发表及事件日期差异保存在校注。",
+    "谭震林中文候选是批判材料录文，不能冒称审定讲话稿；英文所引期刊及中文刊名仍待核。",
+    "PDF/HTML维持第十九轮；没有修改既有来源PDF或排版代码。"
+  ]
+}

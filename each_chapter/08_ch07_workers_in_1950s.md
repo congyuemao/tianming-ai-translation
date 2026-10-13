@@ -56,7 +56,7 @@
 
 在这一制度最盛的时候，约百分之四十二的工人实行计件工资，相比之下，苏联最高时期达到百分之七十二。大跃进时期，党试图在加快生产的同时降低劳动成本。它没有继续提高计件定额，反而开始逐步退出计件工资。正如一份报纸所写：“生产大跃进中，工人们自动取消了计件工资制，取消了加班加点的工资。……现在人们不是一天工作八小时，而是自愿地进行十小时十二小时工作，必要的时候突击通宵。”〔22〕
 
-尽管如此，到了 1959 年，计件工资制度仍覆盖了百分之三十五工人。到 1960 年，用党性纪律取代现金奖励的努力又被逆转，国家重新试图恢复现金激励，虽然不一定是通过计件工资。有人在谈到煤矿时说：“有些工人开始觉得，干多干少都差不多，于是逐渐放松了干劲。”【原文待核】恢复激励之后，缺勤率显著下降，“劳动积极性”也提高了。〔23〕然而在 1960 年代初那场灾难性衰退中，政府对用工和劳动调配的严格控制并没有丝毫松动。
+尽管如此，到了 1959 年，计件工资制度仍覆盖了百分之三十五工人。到 1960 年，用党性纪律取代现金奖励的努力又被逆转，国家重新试图恢复现金激励，虽然不一定是通过计件工资。有人在谈到煤矿时说：“有些工人就认为多干少干反正一样，渐渐有些松劲。”恢复激励之后，缺勤率显著下降，“劳动积极性”也提高了。〔23〕然而在 1960 年代初那场灾难性衰退中，政府对用工和劳动调配的严格控制并没有丝毫松动。
 
 ## 三 福利
 
@@ -146,7 +146,7 @@
 20. Gluckstein, op. cit., p.253.
 21. Chin Lin, *Lao-tung*, No. 3, 6 March 1956，转引自 Charles Hoffman, *Work incentive practices and policies in the People’s Republic of China, 1953-1965*, New York, 1967, p.85. 校注：[另一篇英文转引录文](https://www.marxists.org/history/erol/1960-1970/plpculturalrevolution.htm)亦引此句，并指向ECMM第35期第32—35页，可作续查线索。该文刊于Progressive Labor第8卷第3期（1971年11月），现见网络录文；本轮未取得ECMM对应页、《劳动》1956年第3期原刊或Hoffman书第85页，不能据此还原中文措辞。
 22. Hu Shang, “Speaking of the Government Issue System”, *RMRB*, 13 November 1958，转引自 Hoffman, *Work Incentives*, op. cit., pp.96-7；另参 Li Fu-chun, “Report on the draft economic plan for 1960”, *RMRB*, 31 March 1960. 中文引文据[胡绳《从供给制说起》](https://cn.govopendata.com/renminribao/1958/11/13/7/)核校。原刊作者为胡绳；引文中的省略号略去一句有关工资减少的文字。
-23. Wang Yu-ch’ang, “Attend to the livelihood of workers”, *RMRB*, May 1960，转引自 Hoffman, op. cit., p.105.
+23. Wang Yu-ch’ang, “Attend to the livelihood of workers”, *RMRB*, May 1960，转引自 Hoffman, op. cit., p.105. 校注：第二十二轮在《人民日报》1961年5月20日第3版[《做好按劳分配　加强企业管理——京西城子煤矿工人出勤率调查报告之二》](https://cn.govopendata.com/renminribao/1961/05/20/3/)找到对应原句，正文据此恢复。录文署名铁云、王焴长、罗璇、谢烽、叶剑韵。原注所列英文篇名对应的[《关心和安排好职工生活》](https://cn.govopendata.com/renminribao/1961/05/19/2/)是前一天第2版的调查报告之一，未载目标句；原注的1960年5月与两篇报纸日期也不符。目标段叙述1958年11月取消计件工资、1959年3—4月调整奖励后出勤率回升，不能直接当作正文“到1960年”这一概括的年代证明。本轮依据非官方报纸录文及固定版本文字存档，尚未核原报版影或Hoffman第105页；保留原注元数据，另列以上差异。
 24. *RMRB*, 3 November 1955.
 25. 薄一波称，1952 年曾建成 217,500 间住房，可容纳约一百万人；见 *NCNA* Beijing, 20 February 1953.
 26. *Xinhua RB*, 12 January 1952，转引自 *Far Eastern Economic Review*, 30 October 1952.
@@ -157,7 +157,7 @@
 31. Barry M. Richman 在广泛访问中国后所作计算，假定中国平均工资为每月 60 元；参 *Industrial Society in Communist China*, New York, 1969, pp.808-9。英国工资按每周 65 英镑估算。
 32. Li Fu-ch’un，转引自 Wang Ya-nan, *Ko hsueh ch’u pan-she*, Beijing, 1956；又转引自 Hoffman, *The Chinese Worker*, Albany (New York), 1974, p.50. 中文据李富春[《关于发展国民经济的第一个五年计划的报告》](https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202112/P020211214370085847910.pdf)（1955年7月5日至6日，一届全国人大二次会议）第二节末段恢复，见国家发展改革委公开汇编页628（PDF第17页；题名和日期见页615、PDF第4页）。所据为后出汇编，不是1955年原刊；数字形式按该汇编保留。原文为“和”，英文底本作“or even”，不反填“甚至”。“这些问题”还承接前文工业、农业及文化方面的不足，并非只指失业。上述王亚南及Hoffman的转引版本、页码未另核。
 33. *Takung Pao*, Beijing, 3 June 1957, *SCMP*, 24 June 1957, p.23.
-34. Tan Chen-lin, cited in *Red Flag of Science and Technology*, 6 March 1967, and by Deleyne, op. cit., p.58.
+34. Tan Chen-lin, cited in *Red Flag of Science and Technology*, 6 March 1967, and by Deleyne, op. cit., p.58. 校注：第二十二轮已核Deleyne英译本[第58页](https://michaelharrison.org.uk/wp-content/uploads/2023/03/The-Chinese-Economy-Deleyne-1973.pdf#page=62)，其讲话日期为1966年9月7日，农村收入写作每年200—300元，或每月20元；Harris正文只保留每月20元。另找到[《谭震林在文革初期的十三次讲话》](https://speechfree.github.io/cultural-revolution-database/post/1496/)网络录文，第五项同为1966年9月7日，载有相对应的城乡收入及举手提问内容，但只写农村年收入二三百元，结尾还有即使举手也属勉强的判断。该录文注明北京农业大学红卫兵所加按语，带有批判材料性质，未展示原刊版面或卷期页码，不能视为经过本人审定的讲话稿。尚未取得原注1967年3月6日刊物，也未核定其中文刊名，故保留待核标记。Deleyne所获为Harper & Row英译本，版次依据见第二十一轮来源记录，未另核原注伦敦版。
 35. 此处只是对这场争论的高度简化概述；详见 R.V. Daniels, *The Conscience of the Revolution*, Cambridge, Mass., 1960, Ch.5, pp.119-36.
 36. “The trade unions, the present situation and the mistakes of comrade Trotsky”, December 1920, speech to 8th Congress of Soviet Trade Unions, *SW* 9 (1937), p.9.
 37. 国家部门罢工涉及 192,000 名工人（1922）；165,000 名工人（1923，另有 1,592,800 人处于劳资争议中）；43,000 名工人（1924）；34,000 名工人（1925）；32,900 名工人（1926）；8,900 名工人（1928 年上半年）。数据来自 *Wage Labour in Russia*, Moscow (in Russian), 1924, p.160, and *Trade Unions in the USSR, 1926-28*, Moscow (in Russian), 1928, p.358，转引自 T. Cliff, *Russia. A Marxist Analysis*, London, n.d., pp.20-21.
