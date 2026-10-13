@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-14",
+  "round": 25,
+  "formalReviewIds": [
+    "20-01"
+  ],
+  "sources": [
+    {
+      "id": "wu-original-scan-r25",
+      "recordIds": [
+        "20-01"
+      ],
+      "title": "吴江：不断革命论者必须是彻底的辩证唯物论者，原刊第23—29页",
+      "kind": "用户提供的CNKI原刊扫描；逐字核对目标页影像",
+      "source": "user-provided attachment",
+      "sourceFilename": "不断革命論者必須是徹底的辯証唯物論者_吳江.pdf",
+      "sourcePDFSHA256": "8968b3ff220eda17e0f2cdf473cee5bed52debe43c60115950820999645d5654",
+      "sourcePDFBytes": 752773,
+      "sourcePDFPages": 7,
+      "sourcePDFArchived": false,
+      "publication": "哲学研究",
+      "year": 1958,
+      "issue": "08",
+      "yearIssueBasis": "第二十四轮已核的期刊官网书目ZXYJ195808009；本附件未含封面或完整目录，不凭PDF生成日期判断刊期。",
+      "catalogUrl": "https://zxyj.cbpt.cnki.net/portal/journal/portal/client/paper/cea38255650748f45461886497fdf488",
+      "printedPageRange": [
+        23,
+        29
+      ],
+      "targetPrintedPage": 28,
+      "targetPDFPage": 6,
+      "checkedPDFPages": [
+        1,
+        6,
+        7
+      ],
+      "images": [
+        {
+          "pdfPage": 1,
+          "printedPage": 23,
+          "localPath": "reference check/sources/Wu-Jiang-1958-p23.png",
+          "sha256": "ca334e0270154aa8a0102c402c1287abc3d238938eea284dbd5fdc6793117fda",
+          "visuallyChecked": true
+        },
+        {
+          "pdfPage": 6,
+          "printedPage": 28,
+          "localPath": "reference check/sources/Wu-Jiang-1958-p28.png",
+          "sha256": "898cc23447bd906dfc845feaf4c779f59a72e3b8a3d35681cc88287243b5442a",
+          "visuallyChecked": true
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 29,
+          "localPath": "reference check/sources/Wu-Jiang-1958-p29.png",
+          "sha256": "a520fced521698c4ef6af8b0bb384b1c263827eff1ac7e704f647846ee420c41",
+          "visuallyChecked": true
+        }
+      ],
+      "transcriptionSimplified": "但是，人们又不是客观的奴隶。只要人们的认识符合于事物发展的客观规律，就能充分地发挥人民群众的主观能动性，克服一切困难，创造必要的条件，去推动革命前进。在这个意义上，主观创造了客观。",
+      "transcriptionMethod": "根据渲染影像逐字核对目标三句，统一简体和标点；未使用低质量OCR直接回填。",
+      "contextBefore": [
+        "主观必须服从客观。",
+        "这是主观随意性，而不是主观能动性。"
+      ],
+      "observations": [
+        "第23页明确署吴江并列完整题名；摘要开头与此前期刊网站所见相应。",
+        "第28页连续出现目标三句，论述顺序、关键语义与Harris第315页英文引句相应。",
+        "原句作认识而非意识，作客观而非客观现实，结句保留了字；首句完整保留但是、人们又。",
+        "第29页上部为沙英另一篇文章，下部接续吴江第28页末句并收束全文；不可误认为吴江文止于第28页或把沙英文混入。",
+        "此前第25—28页调阅范围不准确；由本次影像订正文章为第23—29页，目标在第28页。",
+        "Harris未引出紧邻此前关于主观服从客观的限制性表述；校注补明语境，不改写作者评论。",
+        "Schram原书第80页尚未取得；这不妨碍已经由中文原刊落实原话，但不能宣称转引链各环节均已核。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "harris-wu-r25",
+      "recordIds": [
+        "20-01"
+      ],
+      "title": "Nigel Harris, The Mandate of Heaven，第315页与第325页注16",
+      "kind": "英文底本；核引文范围及吴江署名",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "checkedPrintedPages": [
+        315,
+        325
+      ],
+      "checkedPDFPages": [
+        334,
+        344
+      ],
+      "observations": [
+        "第315页目标英文引句由人不是客观现实的奴隶起，至主观创造客观止。",
+        "第325页原注16列Wu Chiang，经Schram第80页转引；独立中文章节的对应注号为2。",
+        "不将Harris的英文措辞反过来覆盖已经取得的中文原话。"
+      ],
+      "accessed": "2026-10-14"
+    }
+  ],
+  "limitations": [
+    "本轮只核20-01一条，不声称复查其他待核记录。",
+    "原话与作者署名据用户提供的原刊影像落实；年、期沿用已核期刊官网书目，附件无期刊封面。",
+    "所附扫描有OCR文本层，但错误明显；恢复文字以目视影像为准。",
+    "Schram第80页未取得，不宣称全部英文转引链已经核实。",
+    "未将整份用户PDF上传仓库；仅保存题名、目标段落及续页三张证据图和文件校验值。",
+    "PDF和HTML维持第十九轮，未执行构建或修改排版代码、原PDF文件。"
+  ]
+}

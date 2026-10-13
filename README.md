@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第二十四轮](reference%20check/2026-10-14-round24.md)：重点复核 5 条，新增关锋文章候选与齐齐哈尔住房社论两条具体线索，并用期刊官网补强吴江文章书目。引文归属、刊期或全文仍有缺口，本轮未撤标，现余 108 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第二十五轮](reference%20check/2026-10-14-round25.md)：据用户提供的吴江原刊扫描第 28 页恢复“主观创造了客观”完整引文，并补明上下文、订正文章页码为第 23—29 页。本轮撤去 1 处标记，现余 107 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 
