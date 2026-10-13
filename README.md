@@ -14,7 +14,7 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 [下载 PDF](dist/天命_马克思与毛泽东在现代中国.pdf) · [HTML 阅读版](dist/mandate_of_heaven_zh.html) · [构建记录](dist/build-info.json)
 
-2026 年 10 月 14 日更新：322 页，160 × 230 mm 开本。采用深墨蓝、暖白与朱砂红配色，宋体正文与黑体标题；同步第十八轮引文核查后的全部译稿。23 个章节文件、533 条章末注释及 116 处待核标记完整保留。
+2026 年 10 月 14 日更新：322 页，160 × 230 mm 开本。采用深墨蓝、暖白与朱砂红配色，宋体正文与黑体标题；同步第十九轮引文核查后的全部译稿。23 个章节文件、533 条章末注释及 110 处待核标记完整保留。
 
 The modern edition includes a new geometric cover, a compact linked contents page, 26 PDF bookmarks, and linked endnotes. The HTML embeds its fonts and supports both desktop and mobile reading. Download the HTML to read it; GitHub's file page displays its source.
 

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-14",
+  "limitations": [
+    "报刊语料及网页镜像可能共用录文，不构成独立相互印证。",
+    "公开来源只核定措辞、版本和引用关系；不据此核定历史统计或作者判断。"
+  ],
+  "sources": [
+    {
+      "id": "rmrb-08-08",
+      "recordIds": [
+        "08-08"
+      ],
+      "title": "中央人民政府政务院人民监察委员会  关于处理某些国营、地方国营厂矿企业忽视安全生产致发生重大伤亡事故的通报",
+      "date": "1952-09-17",
+      "page": "第1版()",
+      "kind": "非官方报刊录文；未核原报版影",
+      "accessed": "2026-10-14",
+      "repository": "https://github.com/fangj/rmrb",
+      "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1952%E5%B9%B409%E6%9C%88.7z",
+      "archiveSHA256": "c7cf5c9a5d318e06a135ae15fdc7eb8fc9c2a6de668a870b368179ffbcfd2d47",
+      "archiveGitBlob": "e9670d04ada1e368712cde209ddc1686326654b5",
+      "entry": "1952年09月/1952-09-17_中央人民政府政务院人民监察委员会_关于处理某些国营、地方国营厂矿企业忽视安全生产致发生重大伤亡事故的通报.md",
+      "entrySHA256": "106166bd5b5b6f19bb2ca2442866258f753f35a4ae3790a9fc0c9cdc679c72b5",
+      "excerpts": [
+        "如开滦马家沟砖厂",
+        "明知窑内温度在摄氏一百三十度以上",
+        "结果四十三名工人中被烤伤四十一名，有的几被烧死。"
+      ]
+    },
+    {
+      "id": "rmrb-10-04",
+      "recordIds": [
+        "10-04"
+      ],
+      "title": "抓理论学习  促煤炭生产  全国煤矿工人超额完成首季国家计划",
+      "date": "1975-04-06",
+      "page": "第1版()",
+      "kind": "非官方报刊录文；未核原报版影",
+      "accessed": "2026-10-14",
+      "repository": "https://github.com/fangj/rmrb",
+      "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1975%E5%B9%B404%E6%9C%88.7z",
+      "archiveSHA256": "35854ec62f4a487f46c1e09bc23a9659b13d2c0697657e7d07122461b9d15cfa",
+      "archiveGitBlob": "e26c1b6fe749d88f1a5e4030efacbd7f575dab2c",
+      "entry": "1975年04月/1975-04-06_抓理论学习_促煤炭生产_全国煤矿工人超额完成首季国家计划.md",
+      "entrySHA256": "8e73513d6fcd64f7f67d99f42cc310b94d4a9d1f115b0c0be700ffe365f8d90d",
+      "excerpts": [
+        "今年春节期间，多数煤矿破旧俗，立新风，坚持生产。",
+        "不少青年工人自动推迟婚期，或者结婚不休假，争先恐后地下井参加劳动。"
+      ]
+    },
+    {
+      "id": "rmrb-10-21",
+      "recordIds": [
+        "10-21"
+      ],
+      "title": "英国煤矿工人的正义斗争",
+      "date": "1974-02-15",
+      "page": "第5版()",
+      "kind": "非官方报刊录文；未核原报版影",
+      "accessed": "2026-10-14",
+      "repository": "https://github.com/fangj/rmrb",
+      "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1974%E5%B9%B402%E6%9C%88.7z",
+      "archiveSHA256": "95caf074f59b6001edf5fb1ed5eec05abd4a2cbd886f50f0405fb42815fbb569",
+      "archiveGitBlob": "2b7f2eaed0abea24a7a3f085cbfc7c862cc68f22",
+      "entry": "1974年02月/1974-02-15_英国煤矿工人的正义斗争.md",
+      "entrySHA256": "1761a118287057692b79ed16fed81d0382d08a20352e527c4df4b4f99f3a82af",
+      "excerpts": [
+        "英国工人实际收入不断下降，生活日趋贫困。",
+        "英国煤矿工人生活在英国社会的底层，身受垄断资本极其残酷的剥削。"
+      ]
+    },
+    {
+      "id": "rmrb-03-12",
+      "recordIds": [
+        "03-12"
+      ],
+      "title": "甘肃我军继续挺进　攻占洮沙进逼兰州  南路大军相继解放西和礼县  华中各地剿灭土匪九万余",
+      "date": "1949-08-21",
+      "page": "第1版()",
+      "kind": "非官方报刊录文；未核原报版影",
+      "accessed": "2026-10-14",
+      "repository": "https://github.com/fangj/rmrb",
+      "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1949%E5%B9%B408%E6%9C%88.7z",
+      "archiveSHA256": "862c88c5b70cfcc089ac17ec36a7011668f70d27b01a2b15c291dde9c2f7d5c6",
+      "archiveGitBlob": "7c6abf5203fe082dce2ebb409dcc0d235445f721",
+      "entry": "1949年08月/1949-08-21_甘肃我军继续挺进_攻占洮沙进逼兰州_南路大军相继解放西和礼县_华中各地剿灭土匪九万余.md",
+      "entrySHA256": "42527ab9314673ce4c5688bb7423c896e96fed2df0d902ff6dff6ae0ed7c2ee1",
+      "excerpts": [
+        "河南省一年多来，打死打伤活捉和争取投降的土匪，一共有七万八千七百多人。",
+        "湖北省在五、六、七三个月内，一共歼灭土匪一万二千多人"
+      ]
+    },
+    {
+      "id": "jprs-I-r19",
+      "recordIds": [
+        "11-07",
+        "11-11",
+        "11-14",
+        "12-01"
+      ],
+      "title": "Miscellany of Mao Tse-tung Thought (1949–1968), Part I",
+      "publisher": "Joint Publications Research Service",
+      "reportNumber": "JPRS 61269-1",
+      "date": "1974-02-20",
+      "kind": "美国政府英译资料集扫描；不是中文原始记录，也不是独立事件证据",
+      "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/12/Miscellany-Of-MaoTse-tung-Thought-1949-1968-JPRS-Part1-1974.pdf",
+      "localPath": "reference check/sources/Miscellany-1949-1968-JPRS-Part1-1974.pdf",
+      "sha256": "c2a2be82491721c8388a3f9d4a4ab22fcbc432394f0a0ec58f00d80dabca250d",
+      "pageCount": 246,
+      "checkedPages": [
+        {
+          "printed": 34,
+          "pdf": 43
+        },
+        {
+          "printed": 41,
+          "pdf": 50
+        },
+        {
+          "printed": 102,
+          "pdf": 111
+        },
+        {
+          "printed": 134,
+          "pdf": 143
+        },
+        {
+          "printed": 157,
+          "pdf": 166
+        }
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "mao-economics-r19",
+      "recordIds": [
+        "04-01"
+      ],
+      "title": "《毛泽东读社会主义政治经济学批注和谈话（简本）》",
+      "kind": "后出整理本扫描；不能用来确定Harris实际采用的英译版本",
+      "url": "https://www.bannedthought.net/China/Individuals/MaoZedong/Special/Mao-ReadingOfSovietPoliticalEconomy-CommentsAndTalks-ShortVersion-Chinese-OCR.pdf",
+      "sha256": "4f380e67f5fbbb77cd4d7bf37e4b3fc48ddde212fa766b711f53830e624697a2",
+      "checkedPages": [
+        {
+          "printed": 153,
+          "pdf": 162
+        }
+      ],
+      "accessed": "2026-10-14",
+      "correspondingOfficialTranscript": "https://www.shkjdw.gov.cn/c/2014-06-05/491306.shtml",
+      "location": "《毛泽东文集》第八卷《读苏联〈政治经济学教科书〉的谈话（节选）》第二部分，1959年12月至1960年2月"
+    }
+  ]
+}
