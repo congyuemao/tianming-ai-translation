@@ -90,7 +90,7 @@
 
 7. 同上，pp.138-9。
 
-8. Che Hsueh Yen Chiu, Philosophical Studies, No.5, 10 September 1958, ECMM, 149。
+8. Che Hsueh Yen Chiu, Philosophical Studies, No.5, 10 September 1958, ECMM, 149。 校注：第二十四轮在《哲学研究》期刊网站1958年第5期落实关锋文章条目，网页题名为[《略諭人民公社的伟大历史意义》](https://zxyj.cbpt.cnki.net/portal/journal/portal/client/paper/adc437e41c198fd5e974e87d94932e4c)，条目标识ZXYJ195805000；“諭”照录网页，原刊题名字形尚待扫描核对。这是同一期关于人民公社的具体候选，所见摘要不含本段目标句，尚不能确认归属。Tony Cliff 1967年[《Crisis in China》](https://www.marxists.org/archive/cliff/works/1967/xx/china.htm)第4节及注25有相应英文引文，并列出相同刊期、日期和ECMM编号；这只能确认较早英文转引线索，不能代替中文全文。原注9月10日仍未独立核定，不把网站HTML中与摘要参考文献时间矛盾的5月31日当作已核刊期。正文保留待核。
 
 9. Central Committee resolution, 10 December 1958, NCNA Beijing, 18 December 1958, in CB542, pp.7-22, and SCMM138, p.16。 中文引文据[《关于人民公社若干问题的决议》（1958-12-10通过，12-19刊载）](https://cn.govopendata.com/renminribao/1958/12/19/1/)核校。
 

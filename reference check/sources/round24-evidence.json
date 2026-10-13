@@ -1,0 +1,352 @@
+{
+  "date": "2026-10-14",
+  "round": 24,
+  "sources": [
+    {
+      "id": "guan-catalog-r24",
+      "recordIds": [
+        "05-03"
+      ],
+      "title": "关锋：《略諭人民公社的伟大历史意义》期刊官网条目",
+      "kind": "出版方期刊目录与摘要，非全文",
+      "url": "https://zxyj.cbpt.cnki.net/portal/journal/portal/client/paper/adc437e41c198fd5e974e87d94932e4c",
+      "retrievedHTMLSHA256": "199869672ea2fe38cb450faea3a3cb2cacb61db792e6494a43dd5c118edd0c0e",
+      "observations": [
+        "已核作者关锋、1958年第5期、网页题名与条目标识；題名諭字照录，未核原刊字形。",
+        "摘要未包含目标句；同一期、同主题不足以确定引句归属。",
+        "HTML隐藏日期1958-05-31与参考文献中的8月资料矛盾，未采用作出版日；原注9月10日也未独立核定。"
+      ],
+      "accessed": "2026-10-14",
+      "journal": "哲学研究",
+      "year": 1958,
+      "issue": "05",
+      "catalogId": "ZXYJ195805000"
+    },
+    {
+      "id": "wu-catalog-r24",
+      "recordIds": [
+        "20-01"
+      ],
+      "title": "吴江：《不断革命論者必須是徹底的辯証唯物論者》期刊官网条目",
+      "kind": "出版方期刊目录与摘要，非全文",
+      "url": "https://zxyj.cbpt.cnki.net/portal/journal/portal/client/paper/cea38255650748f45461886497fdf488",
+      "retrievedHTMLSHA256": "556942d3b3270c8cbdd88d990d61c730cf7eb68f78be4998cc976cd4da111101",
+      "observations": [
+        "官网作者作吳江，题名、1958年第8期与此前研究文献的书目线索相应。",
+        "未取得正文第25—28页或Schram第80页；摘要没有主观创造客观的完整目标段落。",
+        "只采用年份与期号，不把网页日期当作已经核对的出版日。"
+      ],
+      "accessed": "2026-10-14",
+      "journal": "哲学研究",
+      "year": 1958,
+      "issue": "08",
+      "catalogId": "ZXYJ195808009"
+    },
+    {
+      "id": "housing-march-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "人民日报社论：反对建筑中的浪费现象",
+      "kind": "非官方报纸录文，未核原报版影",
+      "url": "https://cn.govopendata.com/renminribao/1955/03/28/1/",
+      "retrievedHTMLSHA256": "7531ae86a65c452586e3eddd0eb25c113d00d6452ce7a3303c5d34a9174fd990",
+      "observations": [
+        "工厂、宿舍、房租最低18元最高41元、比旧宿舍高2至6倍及工人住不起等信息对应。",
+        "页面署社论，没有把目标段落署作李先念讲话。",
+        "不能据同一事件消除Harris正文1955与原注1954-10-23的冲突；不回填为李先念原话。"
+      ],
+      "accessed": "2026-10-14",
+      "publication": "人民日报",
+      "date": "1955-03-28",
+      "page": 1,
+      "shortExcerpt": "房费最低的一月要十八元，最高的要四十一元"
+    },
+    {
+      "id": "housing-june-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "人民日报社论：坚决降低非生产性建筑的标准",
+      "kind": "非官方报纸录文，补充同一工厂报道",
+      "url": "https://cn.govopendata.com/renminribao/1955/06/19/1/",
+      "retrievedHTMLSHA256": "8c84859833f2f8c6eea2cb41f2b505b41ad44bf4c7b65ec5517fd1c614a19f3f",
+      "observations": [
+        "同时列第一汽车制造厂与齐齐哈尔机车车辆厂，房租约十多元至四十元以上；不是目标引句的完整数字表述。",
+        "仍署社论，不是对李先念发言归属的独立证实。"
+      ],
+      "accessed": "2026-10-14",
+      "publication": "人民日报",
+      "date": "1955-06-19",
+      "page": 1
+    },
+    {
+      "id": "cliff-parallels-r24",
+      "recordIds": [
+        "05-03",
+        "14-05"
+      ],
+      "title": "Tony Cliff: Crisis in China，第4、7节及注25、40",
+      "kind": "较早英文文章的网络录文，非中文原稿亦非期刊扫描",
+      "url": "https://www.marxists.org/archive/cliff/works/1967/xx/china.htm",
+      "retrievedHTMLSHA256": "b746b8b382abf34918c54b7116f81bb0581e877155da39a285ca063b360246b3",
+      "observations": [
+        "页面标International Socialism第29期、1967年夏；亦注明1973年第61期重印，未独立核原期刊版本。",
+        "第4节英文集中组织引文及注25所列哲学研究第5期、1958-09-10、ECMM149均与Harris线索相应；不能据此把引文归给关锋。",
+        "第7节农业投资英文引文及注40列Ouyang Ch’eng，Harris作Onyang；所见资料缩写为SCM?、编号2863，未默改成已经核实的SCMP。",
+        "只说明存在较早英文平行转引，不断言Harris直接抄引，也不以英文反推中文原话或作者汉字。"
+      ],
+      "accessed": "2026-10-14",
+      "claimedFirstPublication": "International Socialism, No.29, Summer 1967",
+      "checkedSections": [
+        4,
+        7
+      ],
+      "checkedNotes": [
+        25,
+        40
+      ]
+    },
+    {
+      "id": "xinhua-1954-1023-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "新华社新闻稿1954年10月23日",
+      "kind": "原始新闻稿编本扫描，封面及目录初筛",
+      "checkedPDFPages": [
+        1,
+        2,
+        3
+      ],
+      "assessment": "所查国内稿目录未落实李先念住房稿；未逐字核全文，不能证明目标电讯不存在，也不能等同NCNA英文服务。",
+      "accessed": "2026-10-14",
+      "year": "1954",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/SSID-10007815_%E6%96%B0%E8%8F%AF%E7%A4%BE%E6%96%B0%E8%81%9E%E7%A8%BF_1954%E5%B9%B410%E6%9C%8823%E6%97%A5.pdf",
+      "sha256": "7a4a2ffc607c1ee9c5437044b396efad0c6d8502fda53fd79c31afa218b42990",
+      "bytes": 2394611,
+      "pages": 36,
+      "characters": 0
+    },
+    {
+      "id": "xinhua-1955-1023-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "新华社新闻稿1955年10月23日",
+      "kind": "原始新闻稿编本扫描，封面及目录初筛",
+      "checkedPDFPages": [
+        1,
+        2,
+        3
+      ],
+      "assessment": "所查国内稿目录未落实李先念住房稿；未逐字核全文，不能证明目标电讯不存在，也不能等同NCNA英文服务。",
+      "accessed": "2026-10-14",
+      "year": "1955",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/SSID-10008175_%E6%96%B0%E8%8F%AF%E7%A4%BE%E6%96%B0%E8%81%9E%E7%A8%BF_1955%E5%B9%B410%E6%9C%8823%E6%97%A5.pdf",
+      "sha256": "c0b147a2066c39004fd2799cd8f25f74d06f980238fe63ac4d87545abca44dc0",
+      "bytes": 2646291,
+      "pages": 44,
+      "characters": 0
+    },
+    {
+      "id": "xinhua-1954-1024-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "新华社新闻稿1954年10月24日",
+      "kind": "原始新闻稿编本扫描，国内目录初筛",
+      "checkedPDFPages": [
+        2
+      ],
+      "assessment": "仅核PDF第2页国内稿目录，未落实住房目标稿；不作为全文排除结论。",
+      "accessed": "2026-10-14",
+      "year": "1954",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/SSID-10007816_%E6%96%B0%E8%8F%AF%E7%A4%BE%E6%96%B0%E8%81%9E%E7%A8%BF_1954%E5%B9%B410%E6%9C%8824%E6%97%A5.pdf",
+      "sha256": "3cf8a3f8b72b4131af9c38cc04e98466faabb4afb95d62ff5bd6474e3ff8608f",
+      "bytes": 2213676,
+      "pages": 34,
+      "characters": 0
+    },
+    {
+      "id": "xinhua-1955-1024-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "新华社新闻稿1955年10月24日",
+      "kind": "原始新闻稿编本扫描，国内目录初筛",
+      "checkedPDFPages": [
+        2
+      ],
+      "assessment": "仅核PDF第2页国内稿目录，未落实住房目标稿；不作为全文排除结论。",
+      "accessed": "2026-10-14",
+      "year": "1955",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/SSID-10008176_%E6%96%B0%E8%8F%AF%E7%A4%BE%E6%96%B0%E8%81%9E%E7%A8%BF_1955%E5%B9%B410%E6%9C%8824%E6%97%A5.pdf",
+      "sha256": "64208536fdb91fb65972462b90305cb7ced8c19b47ce467db3246521dae187fb",
+      "bytes": 2101070,
+      "pages": 33,
+      "characters": 0
+    },
+    {
+      "id": "xinhua-1955-03-28-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "新华社新闻稿1955-03-28",
+      "kind": "原始新闻稿编本扫描，限定范围初筛",
+      "checkedPDFPages": [
+        1,
+        2,
+        3
+      ],
+      "assessment": "核封面和目录；3月27日另看刊页9—12。所查页未落实住房社论，不代表该期全文或人民日报原版已核。",
+      "accessed": "2026-10-14",
+      "date": "1955-03-28",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/SSID-10007968_%E6%96%B0%E8%8F%AF%E7%A4%BE%E6%96%B0%E8%81%9E%E7%A8%BF_1955%E5%B9%B43%E6%9C%8828%E6%97%A5.pdf",
+      "sha256": "dd1baf854acb694fb3ff6a327c52f1c5b4d4b5510c1bddd7ed33e981a24d85c6",
+      "bytes": 2017472,
+      "pages": 32,
+      "characters": 0
+    },
+    {
+      "id": "xinhua-1955-03-27-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "新华社新闻稿1955-03-27",
+      "kind": "原始新闻稿编本扫描，限定范围初筛",
+      "checkedPDFPages": [
+        1,
+        2,
+        3,
+        13,
+        14,
+        15,
+        16
+      ],
+      "assessment": "核封面和目录；3月27日另看刊页9—12。所查页未落实住房社论，不代表该期全文或人民日报原版已核。",
+      "accessed": "2026-10-14",
+      "date": "1955-03-27",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/SSID-10007967_%E6%96%B0%E8%8F%AF%E7%A4%BE%E6%96%B0%E8%81%9E%E7%A8%BF_1955%E5%B9%B43%E6%9C%8827%E6%97%A5.pdf",
+      "sha256": "722060db7bb5e65fd8b337ecb32d66117c3a87ece8d1b8d67c9e2e88619f9255",
+      "bytes": 2469265,
+      "pages": 38,
+      "characters": 0
+    },
+    {
+      "id": "continue-candidate-recheck-r24",
+      "recordIds": [
+        "12-02"
+      ],
+      "title": "共产党员要自觉地坚持继续革命！：沿用第二十三轮候选复查",
+      "kind": "此前转载候选，非本轮新增独立证据",
+      "url": "https://www.mzfxw.com/m/show2.php?bclassid=4&cid=1&classid=18&cpage=1997&id=72477&style=0",
+      "previousEvidence": "round23-evidence.json#communist-continue-r23",
+      "observations": [
+        "按题名和目标段落继续检索，未新增可独立核定1975-04-22的版影或完整目录记录。",
+        "转载只署1975年4月；不能将原注日号回填成已核事实。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "hunan-aug-screen-r24",
+      "recordIds": [
+        "10-40",
+        "10-41",
+        "10-42",
+        "10-43",
+        "10-44"
+      ],
+      "title": "湖南日报1975年8月2—5日第1—3版标题初筛",
+      "kind": "补充扫描筛查，不计入5条重点复核",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/NLC511-012031312030011-35146_%E6%96%B0%E6%B9%96%E5%8D%97%E5%A0%B1_%E7%AC%AC313%E5%8D%B7.pdf",
+      "sha256": "d2ca42b91482f007c1e0ccfe57e188a9d88a99f9e6088bcc595f42ad68a064ad",
+      "checkedPDFPages": [
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20
+      ],
+      "textLayerAvailable": false,
+      "assessment": "仅标题及相关版面初筛，未落实杭州驻军目标稿；青藏、沈阳等驻军报道不能替代杭州电讯，未改人物姓名。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "harris-housing-r24",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "Nigel Harris, The Mandate of Heaven，第108—109页",
+      "kind": "作者原书；核对正文年份和人物归属",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "checkedPrintedPages": [
+        108,
+        109
+      ],
+      "checkedPDFPages": [
+        127,
+        128
+      ],
+      "observations": [
+        "正文确作1955年，紧接财政部长李先念与住房引句；不把1954年原注与1955年正文冲突归咎于中文翻译。"
+      ],
+      "accessed": "2026-10-14"
+    }
+  ],
+  "formalReviewIds": [
+    "05-03",
+    "08-19",
+    "12-02",
+    "14-05",
+    "20-01"
+  ],
+  "searchScope": {
+    "05-03": [
+      "关锋文章题名、期刊官网1958年第5期目录及摘要",
+      "Cliff第4节与注25"
+    ],
+    "08-19": [
+      "齐齐哈尔、房租、1955及李先念精确数字检索",
+      "两篇人民日报社论录文",
+      "1954/1955年10月23、24日及1955年3月27、28日新华社扫描列明页",
+      "Harris刊页108—109：正文年份与住房引句"
+    ],
+    "12-02": [
+      "完整题名与法权、额外劳动等目标语句续查，未新增独立刊期证据"
+    ],
+    "14-05": [
+      "Cliff第7节与注40",
+      "作者罗马字及文章主题续查，中文姓名未落实"
+    ],
+    "20-01": [
+      "期刊官网1958年第8期目录与吴江摘要"
+    ]
+  },
+  "supplementaryScreening": {
+    "recordIds": [
+      "10-40",
+      "10-41",
+      "10-42",
+      "10-43",
+      "10-44"
+    ],
+    "description": "湖南日报8月2—5日第1—3版标题初筛，未改变状态。"
+  },
+  "limitations": [
+    "本轮重点复核5条，另初筛杭州相关版面；未对108条全部重新人工核查。",
+    "关锋只是同一期具体候选；吴江官网仅核书目与摘要，均未取得目标中文全文。",
+    "住房社论核到事件与数字，不足以确认李先念发言及原注日期；保留待核。",
+    "英文平行转引不能代替中文原话；不猜译人名，不断言Harris直接转引Cliff。",
+    "扫描只核列明目录或版面；中文新华社新闻稿编本不能直接等同NCNA英文服务。",
+    "本轮不新增归档PDF；研究扫描保存在忽略的临时目录，公开URL和SHA-256记录于来源清单。",
+    "PDF/HTML维持第十九轮，未执行构建或修改排版代码。"
+  ]
+}

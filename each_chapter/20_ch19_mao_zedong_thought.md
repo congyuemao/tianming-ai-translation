@@ -68,7 +68,7 @@
 
 1. The Chinese revolution and the tasks of the Chinese Communists, Communist International (Political report to the 6th Congress of the CCP), Part I, translated in Chinese Studies in History, Summer 1970, III/4, p.268.
 
-2. Wu Chiang，引自 S.R. Schram, The Political Thought, op. cit., p.80. 校注：管永前关于施拉姆与中国革命中乌托邦思想的[研究文章](https://www.dswxyjy.org.cn/n1/2019/0228/c423718-30945451.html)载有这一整段的对应中文，将其归于吴江，并指向《不断革命论者必须是彻底的辩证唯物论者》，《哲学研究》1958年第8期。这提供了具体原刊线索，但所见仍为研究文献转引；尚未取得1958年原刊及原注The Political Thought第80页，正文保留待核标记。
+2. Wu Chiang，引自 S.R. Schram, The Political Thought, op. cit., p.80. 校注：管永前关于施拉姆与中国革命中乌托邦思想的[研究文章](https://www.dswxyjy.org.cn/n1/2019/0228/c423718-30945451.html)载有这一整段的对应中文，将其归于吴江，并指向《不断革命论者必须是彻底的辩证唯物论者》，《哲学研究》1958年第8期。这提供了具体原刊线索，但所见仍为研究文献转引；尚未取得1958年原刊及原注The Political Thought第80页，正文保留待核标记。 校注：第二十四轮已在《哲学研究》期刊网站落实吴江1958年第8期[《不断革命論者必須是徹底的辯証唯物論者》](https://zxyj.cbpt.cnki.net/portal/journal/portal/client/paper/cea38255650748f45461886497fdf488)条目，网页署“吳江”，条目标识ZXYJ195808009，支持此前的作者、题名和期号线索。页面只有摘要，未展示目标段落，不能据此宣称核过第25—28页；原注Schram第80页也仍未取得。保留部分核实状态及正文待核标记。
 
 3. Miscellany II, p.269；另见：“我们的革命开始于宣传马列主义，这是要造成新的社会舆论，以推行革命，在革命中推翻落后的上层建筑以后方有可能消灭旧的生产关系”——1961-2, in Miscellany II, p.259.
 

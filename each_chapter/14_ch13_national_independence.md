@@ -168,7 +168,7 @@
 
 16. Lu Hsu’n and Li Yün, “On the practice of economy,” RMRB, 21 August 1962, SCMP 2817, 1962. 中文引文据[《论节约》（1962-08-21）](https://cn.govopendata.com/renminribao/1962/08/21/5/)核校。
 
-17. Onyang Ch’eng, “Concerning the question of harmony or disharmony in the proportional relationship between industry and agriculture,” Ta Kung Pao, 22 October 1962, SCMP 2863, 1962.
+17. Onyang Ch’eng, “Concerning the question of harmony or disharmony in the proportional relationship between industry and agriculture,” Ta Kung Pao, 22 October 1962, SCMP 2863, 1962. 校注：第二十四轮在Tony Cliff 1967年[《Crisis in China》](https://www.marxists.org/archive/cliff/works/1967/xx/china.htm)第7节和注40找到相应英文引文，书目作者拼作Ouyang Ch’eng，与本注Onyang Ch’eng不同；日期和资料号2863相同，但所见网络录文把资料集缩写排作“SCM?”。这是较早英文平行转引，尚未核1967年期刊版影，更未取得1962年《大公报》中文原稿或SCMP2863。保留原注拼写，不据罗马字猜定中文姓名，正文仍待核。
 
 18. Writing Group, Beijing Municipal Revolutionary Committee, “The road to China’s Socialist Industrialization,” Hung-ch’i 10, 30 September 1969, p.11, SCMM 666, 31 October 1969. 中文引文据[北京市革命委员会写作小组《中国社会主义工业化的道路》](https://cn.govopendata.com/renminribao/1969/10/14/2/)核校。所据为《人民日报》1969年10月14日第2版非官方录文，篇末注明原载《红旗》1969年第10期；未另核原刊版影及原注所列9月30日。
 

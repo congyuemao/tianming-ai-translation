@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第二十三轮](reference%20check/2026-10-14-round23.md)：对 109 条待核记录作新增报刊语料自动候选筛查，重点复核 8 条；恢复河北干部子女顶替引句，另找到共产党员引文的完整中文候选，具体刊期仍待核。现余 108 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第二十四轮](reference%20check/2026-10-14-round24.md)：重点复核 5 条，新增关锋文章候选与齐齐哈尔住房社论两条具体线索，并用期刊官网补强吴江文章书目。引文归属、刊期或全文仍有缺口，本轮未撤标，现余 108 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 

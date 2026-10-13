@@ -151,7 +151,7 @@
 25. 薄一波称，1952 年曾建成 217,500 间住房，可容纳约一百万人；见 *NCNA* Beijing, 20 February 1953.
 26. *Xinhua RB*, 12 January 1952，转引自 *Far Eastern Economic Review*, 30 October 1952.
 27. 一位访问大庆者的报告，见 “Forming Maoist Man”, *Financial Times*, London, 2 December 1976. 校注：此处原注指向英国《金融时报》的英文访华报道，待核对象应为该报道原文及引述准确性，并非预设存在中文原话。已核英文底本第108页（PDF第127页）的引句，但尚未取得1976年12月2日原报，暂保留待核标记。
-28. *NCNA* Beijing, 23 October 1954.
+28. *NCNA* Beijing, 23 October 1954. 校注：第二十四轮在《人民日报》1955年3月28日第1版社论[《反对建筑中的浪费现象》](https://cn.govopendata.com/renminribao/1955/03/28/1/)录文找到同一工厂宿舍事件，房费18至41元、比旧宿舍高2至6倍等数字均对应；6月19日第1版社论[《坚决降低非生产性建筑的标准》](https://cn.govopendata.com/renminribao/1955/06/19/1/)也提到该厂房租过高。但两篇均署社论，不能确认本书所称李先念发言；正文1955年与原注1954年10月23日的矛盾仍未消除。另目视初筛两年10月23、24日《新华社新闻稿》的列明目录页，未据此取得李先念目标稿；中文新闻稿编本不能直接等同NCNA英文电讯。现有报刊录文未核原报版影，推进为部分核实，保留原注、正文回译及待核标记。
 29. 相关例子及中文资料，参 Howe, *Wage Patterns*, op. cit., p.126.
 30. “Living standards of Chinese workers rise”, *NCNA* Lanchow, 11 May 1972.
 31. Barry M. Richman 在广泛访问中国后所作计算，假定中国平均工资为每月 60 元；参 *Industrial Society in Communist China*, New York, 1969, pp.808-9。英国工资按每周 65 英镑估算。
