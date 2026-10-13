@@ -8,6 +8,18 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 本仓库保存该翻译项目使用的原始 PDF、逐章 Markdown 草稿、Codex 润色校对 skill、排版脚本，以及生成后的 PDF/HTML 成品。
 
+## Modern Edition / 现代排印版
+
+<img src="dist/cover.png" width="280" alt="《天命》新版封面：深墨蓝底色、暖白书名与朱砂红几何球体">
+
+[下载 PDF](dist/天命_马克思与毛泽东在现代中国.pdf) · [HTML 阅读版](dist/mandate_of_heaven_zh.html) · [构建记录](dist/build-info.json)
+
+2026 年 10 月 14 日更新：322 页，160 × 230 mm 开本。采用深墨蓝、暖白与朱砂红配色，宋体正文与黑体标题；同步第十八轮引文核查后的全部译稿。23 个章节文件、533 条章末注释及 116 处待核标记完整保留。
+
+The modern edition includes a new geometric cover, a compact linked contents page, 26 PDF bookmarks, and linked endnotes. The HTML embeds its fonts and supports both desktop and mobile reading. Download the HTML to read it; GitHub's file page displays its source.
+
+生成时只显示一次章节标题，并过滤正文开头与主标题等价的旧标题行，例如“15. 外交政策”。这项处理仅发生在排版层，不修改章节 Markdown。HTML 内嵌字体，可离线阅读；来源材料链接指向 GitHub 归档。
+
 ## Workflow / 工作流
 
 1. **PDF to Markdown / PDF 转 Markdown**
@@ -42,9 +54,9 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 6. **Integration and PDF Build / 整合与 PDF 输出**
    - `tools/build_book_pdf.mjs` collects the chapter Markdown files, renders HTML, creates pagination metadata, and generates a PDF draft.
-   - `tools/pdf_finalize.py` finalizes the PDF metadata, background, outlines, and page map.
+   - `tools/pdf_finalize.py` reads exact chapter destinations and finalizes PDF metadata and bookmarks while preserving links and embedded fonts.
    - Generated outputs live in `dist/`.
-   - 通过 `tools/build_book_pdf.mjs` 汇总章节、生成 HTML、建立页码映射并输出 PDF 草稿；再由 `tools/pdf_finalize.py` 完成 PDF 元数据、背景、目录和页码映射处理；成品位于 `dist/`。
+   - 汇总章节后，检查标题、正文、注释和待核标记；等待字体加载完毕，再反复排版至目录页码稳定。PDF 收尾保留原有链接与字体，成品位于 `dist/`。
 
 ## Repository Layout / 仓库结构
 
@@ -57,13 +69,33 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 ## Build / 构建
 
-The build script expects the bundled Codex runtime dependencies for Node.js and Python packages such as `marked`, `pypdf`, and `reportlab`.
+Requires Node.js 22+, Python 3, `marked`, `playwright`, `pypdf`, and Chrome/Edge or Playwright Chromium. The builder first uses project packages, then the Codex bundled runtime when available. Font subsets are included in `tools/fonts/`; no Windows font installation is needed for ordinary builds.
 
-构建脚本依赖 Codex 运行时中提供的 Node.js 与 Python 包，例如 `marked`、`pypdf` 和 `reportlab`。
+普通环境先安装依赖。已配置 Codex 工作区运行时的环境可直接运行构建命令。
+
+```powershell
+npm install
+python -m pip install -r requirements.txt
+# If Chrome/Edge is not installed:
+npx playwright install chromium
+```
 
 ```powershell
 node tools/build_book_pdf.mjs
 ```
+
+- `BROWSER_PATH`：自定义 Chrome/Chromium/Edge 可执行文件位置。
+- `PYTHON`：Python 可执行文件位置；普通 Windows 环境可设为 `python`。
+- `BUILD_DATE`：覆盖排印日期，格式 `YYYY-MM-DD`；默认使用悉尼日期。
+- `NODE_PATH` / `CODEX_RUNTIME_DIR`：可选的依赖位置。
+
+Cover artwork is authored in `tools/cover.html`; typography and print/screen styles are in `tools/book.css`. To regenerate the README cover preview after a design change:
+
+```powershell
+pdftoppm -f 1 -l 1 -scale-to 1600 -singlefile -png "dist/天命_马克思与毛泽东在现代中国.pdf" dist/cover
+```
+
+中间 PDF 和预览保存在被 Git 忽略的 `tmp/pdfs/`。`dist/build-info.json` 记录译稿来源提交、各章 SHA-256、被过滤的重复标题、构建日期与稳定页码结果。新增字体子集之外的字符时，按 [字体说明](tools/fonts/README.md) 重新生成字体。
 
 ## Notes / 说明
 

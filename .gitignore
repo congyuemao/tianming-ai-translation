@@ -1,0 +1,5 @@
+node_modules/
+__pycache__/
+tmp/
+dist/*_draft.pdf
+dist/*_paged.pdf

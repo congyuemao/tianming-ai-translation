@@ -1,0 +1,274 @@
+{
+  "sourceCommit": "6697298ca3e7cd80323952e2ba30dd6162ad579c",
+  "buildDate": "2026-10-14",
+  "pendingMarkers": 116,
+  "chapters": [
+    {
+      "file": "00_2015_preface.md",
+      "id": "sec-1-00-2015-preface",
+      "title": "2015年版序言",
+      "shortTitle": "2015年版序言",
+      "number": "",
+      "chapterNumber": null,
+      "kind": "frontmatter",
+      "sha256": "6c79b7682ffc0e26fb384928aec83de62a21bff55c837732228b6fb02d2c1363"
+    },
+    {
+      "file": "01_1978_preface.md",
+      "id": "sec-2-01-1978-preface",
+      "title": "1978年版序言",
+      "shortTitle": "1978年版序言",
+      "number": "",
+      "chapterNumber": null,
+      "kind": "frontmatter",
+      "sha256": "e51e9683402eb2afba61d0a6244394d13cd3bde30cbf2b3fe2d15865eb83084c"
+    },
+    {
+      "file": "01a_notes_for_reader.md",
+      "id": "sec-3-01a-notes-for-reader",
+      "title": "读者说明",
+      "shortTitle": "读者说明",
+      "number": "",
+      "chapterNumber": null,
+      "kind": "frontmatter",
+      "sha256": "4e3ce694e8f0dff5e304a3f025d5a465721cc3578be42b9ef1fc9c2c04316a6a"
+    },
+    {
+      "file": "02_ch01_workers_revolution.md",
+      "id": "sec-4-02-ch01-workers-revolution",
+      "title": "第1章 工人革命",
+      "shortTitle": "工人革命",
+      "number": "第1章",
+      "chapterNumber": 1,
+      "kind": "chapter",
+      "sha256": "8dbc1754c2bc9d7dc735568ae3c00a8f68c6e63c248674d46713966b925f7a84"
+    },
+    {
+      "file": "03_ch02_from_defeat_to_victory.md",
+      "id": "sec-5-03-ch02-from-defeat-to-victory",
+      "title": "第2章 从失败到胜利",
+      "shortTitle": "从失败到胜利",
+      "number": "第2章",
+      "chapterNumber": 2,
+      "kind": "chapter",
+      "sha256": "9ac576f12ea184eb52c9d4339330dca7e911cfc7f216ea90ba11c7bde640e485"
+    },
+    {
+      "file": "04_ch03_first_phase.md",
+      "id": "sec-6-04-ch03-first-phase",
+      "title": "第3章 第一阶段",
+      "shortTitle": "第一阶段",
+      "number": "第3章",
+      "chapterNumber": 3,
+      "kind": "chapter",
+      "sha256": "82e8092beaaa93787124e27869e3d004636bae6372e100e8654833f70ba7dea5"
+    },
+    {
+      "file": "05_ch04_great_leap_forward_and_after.md",
+      "id": "sec-7-05-ch04-great-leap-forward-and-after",
+      "title": "第4章 大跃进及其后果",
+      "shortTitle": "大跃进及其后果",
+      "number": "第4章",
+      "chapterNumber": 4,
+      "kind": "chapter",
+      "sha256": "44889081e5a914fe6c399d933374d878986efd08de40846cf0daa9e0b5724aff"
+    },
+    {
+      "file": "06_ch05_cultural_revolution.md",
+      "id": "sec-8-06-ch05-cultural-revolution",
+      "title": "第5章 文化大革命",
+      "shortTitle": "文化大革命",
+      "number": "第5章",
+      "chapterNumber": 5,
+      "kind": "chapter",
+      "sha256": "4d4f85f84945b55526486c1286a320812b6a8020e67fca771fe4e327ac6372af"
+    },
+    {
+      "file": "07_ch06_after_cultural_revolution.md",
+      "id": "sec-9-07-ch06-after-cultural-revolution",
+      "title": "第6章 文化大革命之后",
+      "shortTitle": "文化大革命之后",
+      "number": "第6章",
+      "chapterNumber": 6,
+      "kind": "chapter",
+      "sha256": "0407cf8c95e725545541fd732d0dc36876c9c5c2b05892015ac1c91ea2c8fd7b"
+    },
+    {
+      "file": "08_ch07_workers_in_1950s.md",
+      "id": "sec-10-08-ch07-workers-in-1950s",
+      "title": "第7章 1950年代的工人",
+      "shortTitle": "1950年代的工人",
+      "number": "第7章",
+      "chapterNumber": 7,
+      "kind": "chapter",
+      "sha256": "acde8b2377463d42946a79bc7a047af227ad7815b545b018b366a1a908a97f5d"
+    },
+    {
+      "file": "09_ch08_temporary_contract_labour.md",
+      "id": "sec-11-09-ch08-temporary-contract-labour",
+      "title": "第8章 临时工与合同工：“工农制度”",
+      "shortTitle": "临时工与合同工：“工农制度”",
+      "number": "第8章",
+      "chapterNumber": 8,
+      "kind": "chapter",
+      "sha256": "ee81120781792ccbb9c0643937efaa415533763a51f941f7416c5a82034d8c9b"
+    },
+    {
+      "file": "10_ch09_working_class_after_cultural_revolution.md",
+      "id": "sec-12-10-ch09-working-class-after-cultural-revolution",
+      "title": "第9章 文化大革命之后的工人阶级",
+      "shortTitle": "文化大革命之后的工人阶级",
+      "number": "第9章",
+      "chapterNumber": 9,
+      "kind": "chapter",
+      "sha256": "ba7d5bd04e095a5fcf1b70df58aac8bd110b40ea5bcea6d3a2150acb6fec9474"
+    },
+    {
+      "file": "11_ch10_peasants_in_prc.md",
+      "id": "sec-13-11-ch10-peasants-in-prc",
+      "title": "第10章 中华人民共和国中的农民",
+      "shortTitle": "中华人民共和国中的农民",
+      "number": "第10章",
+      "chapterNumber": 10,
+      "kind": "chapter",
+      "sha256": "12ff9cd863355b77cec7329faba29d81733e9946b9b38d32dccaefbe0cbbcfff"
+    },
+    {
+      "file": "12_ch11_equality.md",
+      "id": "sec-14-12-ch11-equality",
+      "title": "第11章 平等",
+      "shortTitle": "平等",
+      "number": "第11章",
+      "chapterNumber": 11,
+      "kind": "chapter",
+      "sha256": "10d15441872d22d8aac15760e2a3d13532ea5acd89bc2f45f494c56e20ef11d4"
+    },
+    {
+      "file": "13_ch12_democracy.md",
+      "id": "sec-15-13-ch12-democracy",
+      "title": "第12章 民主",
+      "shortTitle": "民主",
+      "number": "第12章",
+      "chapterNumber": 12,
+      "kind": "chapter",
+      "sha256": "0cb1066709bfdc602bc08431fcdc43bec00d4adc09c835f46999dafa4edcdefe"
+    },
+    {
+      "file": "14_ch13_national_independence.md",
+      "id": "sec-16-14-ch13-national-independence",
+      "title": "第13章 民族独立",
+      "shortTitle": "民族独立",
+      "number": "第13章",
+      "chapterNumber": 13,
+      "kind": "chapter",
+      "sha256": "ea99e63b9993e552a1b51f5a0dc0fc1a93440dcd151939ae533c5ed7ee9b74ef"
+    },
+    {
+      "file": "15_ch14_theory.md",
+      "id": "sec-17-15-ch14-theory",
+      "title": "第14章 理论",
+      "shortTitle": "理论",
+      "number": "第14章",
+      "chapterNumber": 14,
+      "kind": "chapter",
+      "sha256": "b66ef841409df2c98ba5e819c42aba1342388c9a2cce2abf17fcc8196498e6be"
+    },
+    {
+      "file": "16_ch15_foreign_policy.md",
+      "id": "sec-18-16-ch15-foreign-policy",
+      "title": "第15章 外交政策",
+      "shortTitle": "外交政策",
+      "number": "第15章",
+      "chapterNumber": 15,
+      "kind": "chapter",
+      "sha256": "7c71ec98045deef55521fbc6451f51163606e4e2c32c127ab8835d68cacb1873"
+    },
+    {
+      "file": "17_ch16_mao_zedong_thought_abroad.md",
+      "id": "sec-19-17-ch16-mao-zedong-thought-abroad",
+      "title": "第16章 毛泽东思想在海外",
+      "shortTitle": "毛泽东思想在海外",
+      "number": "第16章",
+      "chapterNumber": 16,
+      "kind": "chapter",
+      "sha256": "7880a3e5691fe65e11f439853a20dd1336d89e56fecd47966ccd73f41c0251d4"
+    },
+    {
+      "file": "18_ch17_modern_capitalism_bourgeois_revolution.md",
+      "id": "sec-20-18-ch17-modern-capitalism-bourgeois-revolution",
+      "title": "第17章 现代资本主义与资产阶级革命",
+      "shortTitle": "现代资本主义与资产阶级革命",
+      "number": "第17章",
+      "chapterNumber": 17,
+      "kind": "chapter",
+      "sha256": "dd10f50f20e3a3ca5773129487826122415073ac36d186d9dc9252759f7e3f0a"
+    },
+    {
+      "file": "19_ch18_soviet_union_new_class.md",
+      "id": "sec-21-19-ch18-soviet-union-new-class",
+      "title": "第18章 苏联与新阶级的兴起",
+      "shortTitle": "苏联与新阶级的兴起",
+      "number": "第18章",
+      "chapterNumber": 18,
+      "kind": "chapter",
+      "sha256": "d9a13cb1047df664d8a7eab2d4b1767ed6c59e84be485c1b9cf47acf9321e0ba"
+    },
+    {
+      "file": "20_ch19_mao_zedong_thought.md",
+      "id": "sec-22-20-ch19-mao-zedong-thought",
+      "title": "第19章 毛泽东思想",
+      "shortTitle": "毛泽东思想",
+      "number": "第19章",
+      "chapterNumber": 19,
+      "kind": "chapter",
+      "sha256": "4f3c92187f847eb19682052eee5c2c40b2d8b72f093e1fbdcf15d4ca2cf741c6"
+    },
+    {
+      "file": "21_retrospect.md",
+      "id": "sec-23-21-retrospect",
+      "title": "回顾",
+      "shortTitle": "回顾",
+      "number": "",
+      "chapterNumber": null,
+      "kind": "chapter",
+      "sha256": "71400996462a2c9ab2833912eb5540acb8066a7b82aa84287604f791ec9171cb"
+    }
+  ],
+  "removedLeadingTitleEchoes": [
+    {
+      "file": "16_ch15_foreign_policy.md",
+      "text": "15. 外交政策"
+    },
+    {
+      "file": "17_ch16_mao_zedong_thought_abroad.md",
+      "text": "16. 毛泽东思想在海外"
+    },
+    {
+      "file": "18_ch17_modern_capitalism_bourgeois_revolution.md",
+      "text": "17. 现代资本主义与资产阶级革命"
+    },
+    {
+      "file": "19_ch18_soviet_union_new_class.md",
+      "text": "18. 苏联与新阶级的兴起"
+    },
+    {
+      "file": "20_ch19_mao_zedong_thought.md",
+      "text": "19. 毛泽东思想"
+    },
+    {
+      "file": "21_retrospect.md",
+      "text": "回顾"
+    }
+  ],
+  "pageCount": 322,
+  "format": "160 × 230 mm",
+  "paginationStable": true,
+  "validation": {
+    "errors": [],
+    "chapterCount": 23,
+    "noteRefs": 533,
+    "endnotes": 533,
+    "pendingMarkers": 116,
+    "textPreserved": true
+  }
+}

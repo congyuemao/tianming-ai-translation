@@ -1,813 +1,143 @@
-import { spawnSync } from "node:child_process";
-import fs from "node:fs";
-import path from "node:path";
-import { fileURLToPath, pathToFileURL } from "node:url";
+import { spawnSync } from 'node:child_process';
+import fs from 'node:fs';
+import path from 'node:path';
+import { createHash } from 'node:crypto';
+import { createRequire } from 'node:module';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const root = path.resolve(__dirname, "..");
-const chapterDir = path.join(root, "each_chapter");
-const distDir = path.join(root, "dist");
-const htmlPath = path.join(distDir, "mandate_of_heaven_zh.html");
-const draftPdfPath = path.join(distDir, "mandate_of_heaven_zh_draft.pdf");
-const pagedPdfPath = path.join(distDir, "mandate_of_heaven_zh_paged.pdf");
-const finalPdfPath = path.join(distDir, "天命_马克思与毛泽东在现代中国.pdf");
-const pageMapPath = path.join(distDir, "page-map.json");
-const tocPath = path.join(distDir, "toc.json");
-
-const nodeModules =
-  process.env.NODE_PATH ||
-  path.join(
-    process.env.USERPROFILE || "C:\\Users\\21161",
-    ".cache",
-    "codex-runtimes",
-    "codex-primary-runtime",
-    "dependencies",
-    "node",
-    "node_modules",
-  );
-const markedModule = path.join(nodeModules, "marked", "lib", "marked.esm.js");
-const { marked } = await import(pathToFileURL(markedModule).href);
-
-marked.setOptions({
-  gfm: true,
-  breaks: false,
-  mangle: false,
-  headerIds: false,
+const toolDir = path.dirname(fileURLToPath(import.meta.url));
+const root = path.resolve(toolDir, '..');
+const dist = path.join(root, 'dist');
+const temp = path.join(root, 'tmp', 'pdfs');
+const runtime = process.env.CODEX_RUNTIME_DIR || path.join(process.env.USERPROFILE || process.env.HOME || '', '.cache/codex-runtimes/codex-primary-runtime/dependencies');
+const require = createRequire(import.meta.url);
+async function dependency(name) {
+  try { return await import(name); }
+  catch {
+    const dirs = [...(process.env.NODE_PATH || '').split(path.delimiter).filter(Boolean), path.join(runtime, 'node/node_modules')];
+    return import(pathToFileURL(require.resolve(name, { paths: dirs })).href);
+  }
+}
+const { marked } = await dependency('marked');
+const playwrightModule = await dependency('playwright');
+const { chromium } = playwrightModule.default || playwrightModule;
+const python = process.env.PYTHON || (fs.existsSync(path.join(runtime, 'python/python.exe')) ? path.join(runtime, 'python/python.exe') : 'python3');
+marked.setOptions({ gfm: true, breaks: false });
+fs.mkdirSync(dist, { recursive: true });
+fs.mkdirSync(temp, { recursive: true });
+const htmlPath = path.join(dist, 'mandate_of_heaven_zh.html');
+const pdfPath = path.join(dist, '天命_马克思与毛泽东在现代中国.pdf');
+const draftPath = path.join(temp, 'book-layout.pdf');
+const date = process.env.BUILD_DATE || new Intl.DateTimeFormat('en-CA', { timeZone: 'Australia/Sydney', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+const git = spawnSync('git', ['rev-parse', 'HEAD'], { cwd: root, encoding: 'utf8' });
+const sourceCommit = git.status === 0 ? git.stdout.trim() : null;
+const removedTitles = [];
+const chapters = fs.readdirSync(path.join(root, 'each_chapter')).filter(n => n.endsWith('.md')).sort().map((file, index) => {
+  const bytes = fs.readFileSync(path.join(root, 'each_chapter', file));
+  const raw = bytes.toString('utf8').replace(/^\uFEFF/, '').replace(/\r\n?/g, '\n');
+  const heading = raw.match(/^\s*#\s+([^\n]+)\n?/);
+  if (!heading) throw new Error(`Missing leading H1: ${file}`);
+  const title = heading[1].trim();
+  let body = raw.slice(heading[0].length).trimStart();
+  // Remove only equivalent leading title lines, including "15. 外交政策".
+  const titleKey = s => s.replace(/^#{1,6}\s*/, '').replace(/^第\s*\d+\s*章\s*/, '').replace(/^\d+\s*[.、．]\s*/, '').replace(/\s+/g, '').trim();
+  while (body && titleKey(body.split('\n')[0]) === titleKey(title)) {
+    removedTitles.push({ file, text: body.split('\n')[0] });
+    body = body.slice(body.indexOf('\n') < 0 ? body.length : body.indexOf('\n') + 1).trimStart();
+  }
+  if (/^#\s+/m.test(body)) throw new Error(`Unexpected additional H1 in ${file}`);
+  const cm = title.match(/^第(\d+)章\s*(.+)$/);
+  const id = `sec-${index + 1}-${file.replace(/\.md$/, '').replaceAll('_', '-')}`;
+  return { file, id, title, shortTitle: cm?.[2] || title, number: cm ? `第${cm[1]}章` : '', chapterNumber: cm ? +cm[1] : null, kind: cm || title === '回顾' ? 'chapter' : 'frontmatter', body, sha256: createHash('sha256').update(bytes).digest('hex') };
 });
-
-const chromePath = findChrome();
-const pythonPath =
-  process.env.PYTHON ||
-  path.join(
-    process.env.USERPROFILE || "C:\\Users\\21161",
-    ".cache",
-    "codex-runtimes",
-    "codex-primary-runtime",
-    "dependencies",
-    "python",
-    "python.exe",
-  );
-
-fs.mkdirSync(distDir, { recursive: true });
-
-const chapters = loadChapters();
-
-await buildOnce(draftPdfPath, null);
-const pageMap = readPageMap(draftPdfPath);
-fs.writeFileSync(pageMapPath, `${JSON.stringify(pageMap, null, 2)}\n`, "utf8");
-await buildOnce(pagedPdfPath, pageMap);
-finalizePdf(pagedPdfPath, finalPdfPath, pageMap);
-
-console.log(`HTML: ${htmlPath}`);
-console.log(`PDF: ${finalPdfPath}`);
-
-async function buildOnce(pdfPath, pageMap) {
-  const html = makeHtml(pageMap);
-  fs.writeFileSync(htmlPath, html, "utf8");
-  printPdf(htmlPath, pdfPath);
-}
-
-function loadChapters() {
-  if (!fs.existsSync(chapterDir)) {
-    throw new Error(`Missing chapter directory: ${chapterDir}`);
+const pending = chapters.reduce((n, c) => n + (c.body.match(/【原文待核】/g) || []).length, 0);
+fs.writeFileSync(path.join(temp, 'sections.json'), JSON.stringify(chapters.map(({id,title,shortTitle,number}) => ({id,title,shortTitle,number}))));
+const expected = chapters.map(c => ({id:c.id,html:marked.parse(c.body)}));
+const css = fs.readFileSync(path.join(toolDir, 'book.css'), 'utf8');
+const fontCss = [['BookSerif','TianmingSerif.woff2','200 900'],['BookSans','TianmingSans.woff2','100 900']].map(([family,name,weight]) => `@font-face{font-family:${family};src:url(data:font/woff2;base64,${fs.readFileSync(path.join(toolDir,'fonts',name)).toString('base64')}) format('woff2');font-weight:${weight};font-display:block;}`).join('\n');
+const licenses = ['OFL-NotoSerifSC.txt','OFL-NotoSansSC.txt'].map(n=>fs.readFileSync(path.join(toolDir,'fonts',n),'utf8').replace(/[ \t]+$/gm,'')).join('\n\n');
+const cover = fs.readFileSync(path.join(toolDir,'cover.html'),'utf8');
+const escape = s => String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+function renderChapter(c) {
+  const parts = c.body.split(/^## 注释与引用\s*$/m);
+  const prose = parts[0].replace(/\\?\[(\d+)\](?!\()|〔(\d+)〕/g,(match,a,b)=>`<a class="note-ref" id="ref-${c.id}-${a||b}" href="#note-${c.id}-${a||b}" aria-label="注${a||b}">${match.replace(/^\\/,'')}</a>`);
+  let body = marked.parse(prose);
+  if(parts.length>2) throw new Error(`Multiple endnote sections: ${c.file}`);
+  if(parts.length===2) {
+    let i=0;
+    const notes=marked.parse(parts[1]).replace(/<li>/g,()=>`<li id="note-${c.id}-${++i}">`);
+    body+=`<section class="endnotes" aria-label="注释与引用"><h2>注释与引用</h2>${notes}</section>`;
   }
-
-  return fs
-    .readdirSync(chapterDir)
-    .filter((name) => name.endsWith(".md"))
-    .sort((a, b) => a.localeCompare(b, "en"))
-    .map((filename, index) => {
-      const fullPath = path.join(chapterDir, filename);
-      const raw = fs.readFileSync(fullPath, "utf8").replace(/\r\n/g, "\n");
-      const titleMatch = raw.match(/^#\s+(.+)$/m);
-      if (!titleMatch) {
-        throw new Error(`Missing H1 title in ${filename}`);
-      }
-
-      const title = titleMatch[1].trim();
-      let body = raw.replace(/^#\s+.+\n?/, "").trimStart();
-      const bodyLines = body.split("\n");
-      if (bodyLines[0]?.trim() === title) {
-        body = bodyLines.slice(1).join("\n").trimStart();
-      }
-
-      const chapterMatch = title.match(/^第(\d+)章\s+(.+)$/);
-      const kind =
-        chapterMatch || title === "回顾"
-          ? "chapter"
-          : filename === "01a_notes_for_reader.md"
-            ? "reader-note"
-            : "frontmatter";
-
-      const id = `sec-${index + 1}-${slugify(filename.replace(/\.md$/, ""))}`;
-      const shortTitle = chapterMatch ? chapterMatch[2] : title;
-      const number = chapterMatch ? `第${chapterMatch[1]}章` : "";
-
-      return {
-        filename,
-        id,
-        kind,
-        number,
-        title,
-        shortTitle,
-        markdown: body,
-      };
-    });
+  body=body.replaceAll('【原文待核】','<span class="editor-note">【原文待核】</span>').replaceAll('<p>✦</p>','<div class="section-break" aria-label="分节">✦</div>');
+  // Archived sources must remain reachable when the HTML or PDF is downloaded alone.
+  const sourceBase=`https://github.com/congyuemao/tianming-ai-translation/blob/${sourceCommit || 'main'}/each_chapter/`;
+  body=body.replace(/href="(\.\.\/[^"\s]+)"/g,(_,href)=>`href="${new URL(href,sourceBase).href}"`);
+  const label=c.chapterNumber?`CHAPTER ${String(c.chapterNumber).padStart(2,'0')}`:c.title==='回顾'?'RETROSPECT':c.title.includes('序言')?'PREFACE':'READER’S NOTE';
+  return `<section id="${c.id}" class="book-section ${c.kind}" aria-labelledby="title-${c.id}"><header class="chapter-opener"><div class="section-label">${label}</div><h1 id="title-${c.id}">${c.number?`<span class="chapter-number">${c.number}</span>`:''}<span class="chapter-title">${escape(c.shortTitle)}</span></h1><div class="opener-rule"></div></header><div class="chapter-body">${body}</div></section>`;
 }
-
 function makeHtml(pageMap) {
-  const tocEntries = chapters.map((chapter) => ({
-    id: chapter.id,
-    title: chapter.title,
-    shortTitle: chapter.shortTitle,
-    number: chapter.number,
-    kind: chapter.kind,
-    page: pageMap?.[chapter.id] || "",
-  }));
-  fs.writeFileSync(tocPath, `${JSON.stringify(tocEntries, null, 2)}\n`, "utf8");
-
-  const chapterHtml = chapters.map(renderChapter).join("\n");
-
-  return `<!doctype html>
-<html lang="zh-Hans">
-<head>
-  <meta charset="utf-8">
-  <title>天命：马克思与毛泽东在现代中国</title>
-  <style>
-${makeCss()}
-  </style>
-</head>
-<body>
-${renderCover()}
-${renderTitlePage()}
-${renderColophon()}
-${renderToc(tocEntries)}
-${chapterHtml}
-</body>
-</html>`;
+  const toc=chapters.map(c=>`<li><a href="#${c.id}"><span class="toc-number">${c.chapterNumber?String(c.chapterNumber).padStart(2,'0'):'—'}</span><span class="toc-title">${escape(c.shortTitle)}</span><span class="toc-page">${pageMap?.[c.id]||''}</span></a></li>`).join('\n');
+  const nav=chapters.map(c=>`<a href="#${c.id}">${escape(c.title)}</a>`).join('\n');
+  return `<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><meta name="description" content="Nigel Harris《天命：马克思与毛泽东在现代中国》中文译文，现代排印版。"><title>天命：马克思与毛泽东在现代中国</title><style>${fontCss}\n${css}</style><!-- Embedded subset fonts: derived from Noto Serif SC and Noto Sans SC.\n${licenses.replaceAll('--','—')}\n--></head><body><a class="skip-link" href="#book-toc">跳到目录</a><nav class="reader-bar" aria-label="阅读导航"><a class="reader-brand" href="#cover">天命<span>THE MANDATE OF HEAVEN</span></a><details class="reader-menu"><summary>章节目录</summary><div class="reader-links">${nav}</div></details></nav><main id="book">${cover}<section class="edition-page" id="edition"><div class="section-label">ABOUT THIS EDITION</div><h1>阅读说明</h1><div class="edition-rule"></div><p class="edition-book">天命：马克思与毛泽东在现代中国</p><p class="edition-original">The Mandate of Heaven:<br>Marx and Mao in Modern China</p><p>Nigel Harris 著</p><div class="edition-text"><p>本版收录两篇序言、读者说明、十九章正文与回顾。各章注释按译稿编号保留，目录与正文注号均可点击跳转。</p><p>引文核查已推进至第十八轮。正文仍保留 ${pending} 处“原文待核”标记；已找到对应措辞，不等于其中的历史判断或统计已获独立证实。</p><p>本书是中文翻译工作流的阶段性成果。原书版权归原作者及权利方所有。</p></div><div class="edition-meta"><span>现代排印版</span><span>${escape(date)}</span></div></section><nav class="toc-page" id="book-toc" aria-label="全书目录"><div class="section-label">CONTENTS</div><h1>目录</h1><p class="toc-caption"><span>前言与正文</span><span>页码</span></p><ol>${toc}</ol></nav>${chapters.map(renderChapter).join('\n')}</main><a class="back-to-toc" href="#book-toc" aria-label="返回全书目录">目录 ↑</a><script>document.querySelectorAll('.reader-links a').forEach(a=>a.addEventListener('click',()=>a.closest('details').removeAttribute('open')));</script></body></html>`;
 }
-
-function renderCover() {
-  return `<section class="cover-page" aria-label="封面">
-  <div class="cover-inner">
-    <div class="cover-edition">中文译文 · 电子排印版</div>
-    <div class="cover-title-block">
-      <div class="cover-title-cn">天命</div>
-      <div class="cover-title-en">The Mandate of Heaven</div>
-      <div class="cover-subtitle">马克思与毛泽东在现代中国</div>
-    </div>
-    <div class="cover-mark" aria-hidden="true">命</div>
-    <div class="cover-author">Nigel Harris</div>
-  </div>
-</section>`;
-}
-
-function renderTitlePage() {
-  return `<section class="title-page">
-  <div class="title-page-inner">
-    <p class="series-line">The Mandate of Heaven</p>
-    <h1>天命</h1>
-    <p class="subtitle">马克思与毛泽东在现代中国</p>
-    <p class="author">Nigel Harris 著</p>
-    <p class="edition-note">中文译文 · 专业排印版</p>
-  </div>
-</section>`;
-}
-
-function renderColophon() {
-  const generated = new Intl.DateTimeFormat("zh-CN", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  }).format(new Date());
-
-  return `<section class="colophon-page">
-  <h2>排印说明</h2>
-  <p>本电子版由 <span class="mono">each_chapter</span> 目录内的 Markdown 章节完整整合排印而成，正文、注释编号及译者校注标记均按源文件保留。</p>
-  <p>版式采用 A5 书籍开本、宋体风格正文字体、章首页与目录页分层处理，并写入 PDF 目录书签以便电子阅读。</p>
-  <p class="colophon-date">生成日期：${escapeHtml(generated)}</p>
-</section>`;
-}
-
-function renderToc(entries) {
-  const lines = entries
-    .map((entry) => {
-      const label = entry.number
-        ? `<span class="toc-number">${escapeHtml(entry.number)}</span><span class="toc-title">${escapeHtml(entry.shortTitle)}</span>`
-        : `<span class="toc-title">${escapeHtml(entry.title)}</span>`;
-      return `<li class="toc-item toc-${entry.kind}">
-        <a href="#${entry.id}">
-          <span class="toc-label">${label}</span>
-          <span class="toc-page-number">${entry.page ? escapeHtml(String(entry.page)) : "&nbsp;"}</span>
-        </a>
-      </li>`;
-    })
-    .join("\n");
-
-  return `<section id="toc" class="toc-page">
-  <h2>目录</h2>
-  <ol class="toc-list">
-${lines}
-  </ol>
-</section>`;
-}
-
-function renderChapter(chapter) {
-  let html = marked.parse(chapter.markdown);
-  html = postprocessChapterHtml(html);
-
-  const opener = chapter.number
-    ? `<p class="chapter-number">${escapeHtml(chapter.number)}</p><h1>${escapeHtml(chapter.shortTitle)}</h1>`
-    : `<h1>${escapeHtml(chapter.title)}</h1>`;
-
-  return `<section id="${chapter.id}" class="book-section ${chapter.kind}">
-  <header class="chapter-opener">
-    <span class="page-marker">[[SECTION:${chapter.id}]]</span>
-    <div class="opener-rule" aria-hidden="true"></div>
-    ${opener}
-  </header>
-  <div class="chapter-body">
-${html}
-  </div>
-</section>`;
-}
-
-function postprocessChapterHtml(html) {
-  return html
-    .replaceAll("<h2>注释与引用</h2>", '<h2 class="notes-heading">注释与引用</h2>')
-    .replaceAll("【原文待核】", '<span class="editor-note">【原文待核】</span>')
-    .replaceAll("<p>✦</p>", '<div class="section-ornament">✦</div>');
-}
-
-function makeCss() {
-  const font = (name) => pathToFileURL(path.join("C:\\Windows\\Fonts", name)).href;
-  return `
-@font-face {
-  font-family: "BookSerifSC";
-  src: url("${font("NotoSerifSC-VF.ttf")}") format("truetype");
-  font-weight: 200 900;
-}
-@font-face {
-  font-family: "BookSansSC";
-  src: url("${font("NotoSansSC-VF.ttf")}") format("truetype");
-  font-weight: 200 900;
-}
-@font-face {
-  font-family: "LatinSerif";
-  src: url("${font("NotoSerif-Regular.ttf")}") format("truetype");
-  font-weight: 400;
-}
-@font-face {
-  font-family: "LatinSerif";
-  src: url("${font("NotoSerif-Italic.ttf")}") format("truetype");
-  font-style: italic;
-}
-
-@page {
-  size: A5;
-  margin: 24mm 10mm 26mm 12mm;
-  @top-left {
-    content: "天命";
-    color: #8b7760;
-    font-family: "BookSansSC";
-    font-size: 8pt;
-    letter-spacing: 0;
+const browser=await chromium.launch({headless:true,executablePath:findBrowser()});
+try {
+  const page=await browser.newPage({viewport:{width:1440,height:1000},deviceScaleFactor:1});
+  let pageMap=null,stable=false;
+  for(let pass=1;pass<=4;pass++) {
+    fs.writeFileSync(htmlPath,makeHtml(pageMap),'utf8');
+    await page.goto(pathToFileURL(htmlPath).href,{waitUntil:'load'});
+    await page.evaluate(()=>document.fonts.ready);
+    await page.emulateMedia({media:'print'});
+    const dom=await inspectPage(page);
+    if(dom.errors.length) throw new Error(`HTML validation: ${JSON.stringify(dom.errors)}`);
+    fs.writeFileSync(path.join(temp,'dom-validation.json'),JSON.stringify(dom,null,2));
+    await page.pdf({path:draftPath,printBackground:true,preferCSSPageSize:true,tagged:true,outline:true});
+    const nextMap=runPython(['page-map',draftPath,path.join(temp,'sections.json')]);
+    console.log(`Layout pass ${pass}: ${JSON.stringify(nextMap)}`);
+    if(pageMap&&JSON.stringify(nextMap)===JSON.stringify(pageMap)){stable=true;break;}
+    pageMap=nextMap;
   }
-  @bottom-center {
-    content: counter(page);
-    color: #8b7760;
-    font-family: "LatinSerif", "BookSerifSC";
-    font-size: 8pt;
-  }
-}
-@page :right {
-  margin: 24mm 12mm 26mm 10mm;
-  @top-left { content: ""; }
-  @top-right {
-    content: "马克思与毛泽东在现代中国";
-    color: #8b7760;
-    font-family: "BookSansSC";
-    font-size: 8pt;
-    letter-spacing: 0;
-  }
-}
-@page cover {
-  margin: 0;
-  @top-left { content: ""; }
-  @top-right { content: ""; }
-  @bottom-center { content: ""; }
-}
-@page title {
-  margin: 22mm 20mm;
-  @top-left { content: ""; }
-  @top-right { content: ""; }
-  @bottom-center { content: ""; }
-}
-@page front {
-  margin: 22mm 14mm 20mm;
-  @top-left { content: ""; }
-  @top-right { content: ""; }
-}
-@page toc {
-  margin: 20mm 12mm 18mm;
-  @top-left { content: ""; }
-  @top-right { content: ""; }
-}
-
-* { box-sizing: border-box; }
-html {
-  color: #211b16;
-  font-family: "BookSerifSC", "Noto Serif SC", SimSun, serif;
-  font-size: 10.7pt;
-  line-height: 1.86;
-}
-body {
-  margin: 0;
-  background: transparent;
-  -webkit-print-color-adjust: exact;
-  print-color-adjust: exact;
-}
-p {
-  margin: 0 0 0.82em;
-  text-align: justify;
-  text-justify: inter-ideograph;
-  widows: 2;
-  orphans: 2;
-}
-em, i {
-  font-family: "LatinSerif", "BookSerifSC", serif;
-  font-style: italic;
-}
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-.cover-page {
-  page: cover;
-  width: 148mm;
-  height: 210mm;
-  break-after: page;
-  background:
-    linear-gradient(90deg, rgba(255,255,255,.06), transparent 22%, transparent 78%, rgba(255,255,255,.04)),
-    linear-gradient(145deg, #16120f 0%, #2a1713 48%, #6c211d 100%);
-  color: #f4ead8;
-  overflow: hidden;
-  position: relative;
-}
-.cover-page::before,
-.cover-page::after {
-  content: "";
-  position: absolute;
-  inset: 9mm;
-  border: 0.35mm solid rgba(211, 171, 96, 0.72);
-}
-.cover-page::after {
-  inset: 13mm;
-  border-width: 0.15mm;
-  border-color: rgba(244, 234, 216, 0.35);
-}
-.cover-inner {
-  position: relative;
-  z-index: 1;
-  height: 100%;
-  padding: 23mm 18mm 20mm;
-  display: flex;
-  flex-direction: column;
-}
-.cover-edition {
-  align-self: flex-start;
-  border: 0.18mm solid rgba(244, 234, 216, .55);
-  padding: 2mm 4mm;
-  font-family: "BookSansSC";
-  font-size: 8.5pt;
-  color: #e8d7b8;
-}
-.cover-title-block {
-  margin-top: 25mm;
-}
-.cover-title-cn {
-  font-size: 44pt;
-  font-weight: 800;
-  line-height: 1;
-}
-.cover-title-en {
-  margin-top: 5mm;
-  font-family: "LatinSerif", serif;
-  font-size: 12pt;
-  color: #d7b36f;
-  text-transform: uppercase;
-}
-.cover-subtitle {
-  margin-top: 9mm;
-  max-width: 86mm;
-  font-size: 18pt;
-  line-height: 1.45;
-  font-weight: 600;
-}
-.cover-mark {
-  position: absolute;
-  right: -12mm;
-  bottom: 18mm;
-  color: rgba(244, 234, 216, 0.08);
-  font-size: 118mm;
-  font-weight: 900;
-  line-height: 1;
-}
-.cover-author {
-  margin-top: auto;
-  font-family: "LatinSerif", "BookSerifSC", serif;
-  font-size: 16pt;
-  color: #f1dfbc;
-}
-
-.title-page {
-  page: title;
-  min-height: 166mm;
-  break-after: page;
-  background: #f7f1e7;
-}
-.title-page-inner {
-  min-height: 166mm;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
-}
-.series-line {
-  margin: 0 0 18mm;
-  font-family: "LatinSerif", serif;
-  font-size: 9pt;
-  color: #8a6d42;
-  text-transform: uppercase;
-  text-align: center;
-}
-.title-page h1 {
-  margin: 0;
-  color: #241711;
-  font-size: 38pt;
-  font-weight: 800;
-  line-height: 1.1;
-}
-.title-page .subtitle {
-  margin: 7mm auto 0;
-  max-width: 92mm;
-  color: #6b201c;
-  font-size: 16pt;
-  line-height: 1.45;
-  text-align: center;
-}
-.title-page .author {
-  margin: 24mm 0 0;
-  font-size: 13pt;
-  text-align: center;
-}
-.edition-note {
-  margin: 8mm 0 0;
-  color: #8b7760;
-  font-family: "BookSansSC";
-  font-size: 9pt;
-  text-align: center;
-}
-
-.colophon-page {
-  page: front;
-  padding-left: 5mm;
-  padding-right: 5mm;
-  break-after: page;
-}
-.colophon-page h2,
-.toc-page h2 {
-  margin: 0 0 12mm;
-  color: #6b201c;
-  font-size: 21pt;
-  font-weight: 750;
-  line-height: 1.3;
-}
-.colophon-page h2::after,
-.toc-page h2::after {
-  content: "";
-  display: block;
-  width: 30mm;
-  height: 0.5mm;
-  margin-top: 4mm;
-  background: #b28a50;
-}
-.colophon-page p {
-  font-size: 10pt;
-  line-height: 1.9;
-}
-.mono {
-  font-family: Consolas, "BookSansSC", monospace;
-  font-size: 92%;
-}
-.colophon-date {
-  margin-top: 10mm;
-  color: #806f5b;
-  font-family: "BookSansSC";
-}
-
-section.toc-page {
-  page: toc;
-  padding-left: 5mm;
-  padding-right: 5mm;
-  break-after: page;
-}
-.toc-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.toc-item {
-  break-inside: avoid;
-  margin: 0;
-  border-bottom: 0.12mm solid rgba(139, 119, 96, .25);
-}
-.toc-item a {
-  min-height: 7.2mm;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 13mm;
-  align-items: baseline;
-  gap: 5mm;
-  padding: 1.4mm 0;
-}
-.toc-label {
-  min-width: 0;
-  display: grid;
-  grid-template-columns: 19mm minmax(0, 1fr);
-  gap: 3mm;
-  align-items: baseline;
-}
-.toc-frontmatter .toc-label,
-.toc-reader-note .toc-label {
-  display: block;
-  padding-left: 22mm;
-}
-.toc-number {
-  color: #8a6d42;
-  font-family: "BookSansSC";
-  font-size: 8.8pt;
-}
-.toc-title {
-  overflow-wrap: anywhere;
-}
-.toc-page-number {
-  color: #8a6d42;
-  font-family: "LatinSerif", "BookSerifSC";
-  text-align: right;
-}
-
-.book-section {
-  break-before: page;
-}
-.chapter-opener {
-  position: relative;
-  min-height: 54mm;
-  padding: 12mm 5mm 0;
-  break-after: avoid;
-}
-.page-marker {
-  position: absolute;
-  left: 0;
-  top: 0;
-  color: rgba(0, 0, 0, 0);
-  font-size: 1px;
-  line-height: 1;
-  white-space: nowrap;
-}
-.opener-rule {
-  width: 28mm;
-  height: 0.55mm;
-  margin-bottom: 9mm;
-  background: #b28a50;
-}
-.chapter-number {
-  margin: 0 0 2mm;
-  color: #8a6d42;
-  font-family: "BookSansSC";
-  font-size: 10pt;
-  text-align: left;
-}
-.chapter-opener h1 {
-  margin: 0;
-  color: #241711;
-  font-size: 25pt;
-  font-weight: 780;
-  line-height: 1.35;
-  text-align: left;
-}
-.frontmatter .chapter-opener h1,
-.reader-note .chapter-opener h1 {
-  color: #6b201c;
-  font-size: 23pt;
-}
-.chapter-body {
-  padding-bottom: 4mm;
-}
-.chapter-body > p,
-.chapter-body > h2,
-.chapter-body > h3,
-.chapter-body > h4,
-.section-ornament {
-  padding-left: 5mm;
-  padding-right: 5mm;
-  -webkit-box-decoration-break: clone;
-  box-decoration-break: clone;
-}
-.chapter-body > p:first-child::first-letter {
-  color: #6b201c;
-  float: left;
-  font-size: 2.85em;
-  line-height: 0.9;
-  padding: 0.09em 0.12em 0 0;
-  font-weight: 700;
-}
-.reader-note .chapter-body > p:first-child::first-letter,
-.chapter-body > h2:first-child + p::first-letter,
-.chapter-body > .section-ornament + p::first-letter {
-  float: none;
-  font-size: inherit;
-  line-height: inherit;
-  padding: 0;
-  color: inherit;
-  font-weight: inherit;
-}
-.chapter-body h2 {
-  margin: 9mm 0 3.8mm;
-  color: #6b201c;
-  font-size: 15pt;
-  font-weight: 760;
-  line-height: 1.45;
-  break-after: avoid;
-}
-.chapter-body h3 {
-  margin: 6mm 0 2.8mm;
-  color: #4b3a2a;
-  font-size: 12.4pt;
-  font-weight: 700;
-  line-height: 1.45;
-  break-after: avoid;
-}
-.chapter-body h4 {
-  margin: 4.8mm 0 2.2mm;
-  color: #4b3a2a;
-  font-size: 10.8pt;
-  font-weight: 700;
-  break-after: avoid;
-}
-.chapter-body .notes-heading {
-  margin-top: 11mm;
-  padding-top: 5mm;
-  border-top: 0.25mm solid rgba(139,119,96,.42);
-  color: #6f5b43;
-  font-family: "BookSansSC";
-  font-size: 11.2pt;
-}
-.chapter-body ol {
-  margin: 0 0 0.5em;
-  padding-left: 12.5mm;
-  padding-right: 5mm;
-  -webkit-box-decoration-break: clone;
-  box-decoration-break: clone;
-}
-.chapter-body li {
-  margin: 0 0 0.5em;
-  padding-left: 1mm;
-  text-align: justify;
-}
-.notes-heading + ol,
-.notes-heading ~ ol {
-  color: #45382b;
-  font-size: 8.4pt;
-  line-height: 1.58;
-}
-.notes-heading + ol li,
-.notes-heading ~ ol li {
-  margin-bottom: 0.42em;
-}
-.section-ornament {
-  margin: 8mm 0;
-  color: #b28a50;
-  font-size: 12pt;
-  text-align: center;
-}
-.editor-note {
-  color: #7c4b2d;
-  font-family: "BookSansSC";
-  font-size: 0.86em;
-}
-`;
-}
-
-function readPageMap(pdfPath) {
-  const titles = chapters.map((chapter) => ({
-    id: chapter.id,
-    title: chapter.title,
-    shortTitle: chapter.shortTitle,
-    number: chapter.number,
-  }));
-  const result = spawnSync(
-    pythonPath,
-    [
-      path.join(__dirname, "pdf_finalize.py"),
-      "page-map",
-      pdfPath,
-      JSON.stringify(titles),
-    ],
-    { encoding: "utf8", cwd: root },
-  );
-
-  if (result.status !== 0) {
-    throw new Error(`Page map failed:\n${result.stdout}\n${result.stderr}`);
-  }
-
-  return JSON.parse(result.stdout);
-}
-
-function finalizePdf(sourcePdf, targetPdf, pageMap) {
-  const outline = chapters.map((chapter) => ({
-    id: chapter.id,
-    title: chapter.title,
-    page: pageMap[chapter.id],
-  }));
-
-  const result = spawnSync(
-    pythonPath,
-    [
-      path.join(__dirname, "pdf_finalize.py"),
-      "finalize",
-      sourcePdf,
-      targetPdf,
-      JSON.stringify(outline),
-    ],
-    { encoding: "utf8", cwd: root },
-  );
-
-  if (result.status !== 0) {
-    throw new Error(`PDF finalization failed:\n${result.stdout}\n${result.stderr}`);
-  }
-}
-
-function printPdf(sourceHtml, targetPdf) {
-  if (fs.existsSync(targetPdf)) {
-    fs.unlinkSync(targetPdf);
-  }
-
-  const userDataDir = path.join(distDir, `.chrome-profile-${Date.now()}`);
-  const args = [
-    "--headless=new",
-    "--disable-gpu",
-    "--disable-extensions",
-    "--allow-file-access-from-files",
-    `--user-data-dir=${userDataDir}`,
-    "--no-first-run",
-    "--no-default-browser-check",
-    "--print-to-pdf-no-header",
-    "--no-pdf-header-footer",
-    `--print-to-pdf=${targetPdf}`,
-    pathToFileURL(sourceHtml).href,
-  ];
-
-  const result = spawnSync(chromePath, args, {
-    cwd: root,
-    encoding: "utf8",
-    timeout: 120000,
-  });
-
-  fs.rmSync(userDataDir, { recursive: true, force: true });
-
-  if (result.status !== 0 || !fs.existsSync(targetPdf)) {
-    throw new Error(`Chrome PDF generation failed:\n${result.stdout}\n${result.stderr}`);
-  }
-}
-
-function findChrome() {
-  const candidates = [
-    path.join(process.env.ProgramFiles || "", "Google", "Chrome", "Application", "chrome.exe"),
-    path.join(process.env["ProgramFiles(x86)"] || "", "Google", "Chrome", "Application", "chrome.exe"),
-    path.join(process.env.LOCALAPPDATA || "", "Google", "Chrome", "Application", "chrome.exe"),
-    path.join(process.env.ProgramFiles || "", "Microsoft", "Edge", "Application", "msedge.exe"),
-    path.join(process.env["ProgramFiles(x86)"] || "", "Microsoft", "Edge", "Application", "msedge.exe"),
-  ];
-  const found = candidates.find((candidate) => candidate && fs.existsSync(candidate));
-  if (!found) {
-    throw new Error("Could not find Chrome or Edge for PDF printing.");
-  }
-  return found;
-}
-
-function slugify(value) {
-  return value
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "");
-}
-
-function escapeHtml(value) {
-  return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;");
+  if(!stable) throw new Error('Pagination did not converge in four passes.');
+  const outline=[{id:'cover',title:'封面',page:1},{id:'edition',title:'阅读说明',page:2},{id:'book-toc',title:'目录',page:3},...chapters.map(c=>({id:c.id,title:c.title,page:pageMap[c.id]}))];
+  fs.writeFileSync(path.join(temp,'outline.json'),JSON.stringify(outline));
+  const pdfReport=runPython(['finalize',draftPath,pdfPath,path.join(temp,'outline.json')]);
+  fs.writeFileSync(path.join(dist,'page-map.json'),JSON.stringify(pageMap,null,2)+'\n');
+  fs.writeFileSync(path.join(dist,'toc.json'),JSON.stringify(chapters.map(c=>({id:c.id,title:c.title,shortTitle:c.shortTitle,number:c.number,kind:c.kind,page:pageMap[c.id]})),null,2)+'\n');
+  fs.writeFileSync(path.join(dist,'build-info.json'),JSON.stringify({sourceCommit,buildDate:date,pendingMarkers:pending,chapters:chapters.map(({body,...c})=>c),removedLeadingTitleEchoes:removedTitles,pageCount:pdfReport.pageCount,format:'160 × 230 mm',paginationStable:true,validation:JSON.parse(fs.readFileSync(path.join(temp,'dom-validation.json'),'utf8'))},null,2)+'\n');
+  await page.emulateMedia({media:'screen'});
+  await page.screenshot({path:path.join(temp,'html-desktop.png')});
+  await page.locator('.cover-page').screenshot({path:path.join(temp,'cover-screen.png')});
+  await page.setViewportSize({width:390,height:844});
+  await page.screenshot({path:path.join(temp,'html-mobile.png')});
+  if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)) throw new Error('Mobile layout overflows horizontally.');
+  console.log(JSON.stringify({html:htmlPath,pdf:pdfPath,...pdfReport,pendingMarkers:pending,removedLeadingTitleEchoes:removedTitles},null,2));
+} finally {await browser.close();}
+async function inspectPage(page) {
+  return page.evaluate(({expected,totalPending})=>{
+    const errors=[],normalize=s=>s.normalize('NFKC').replace(/\s+/g,'');
+    let noteRefs=0,endnotes=0;
+    for(const c of expected){
+      const section=document.getElementById(c.id);
+      if(section.querySelectorAll('h1').length!==1) errors.push(`${c.id}: title count`);
+      const div=document.createElement('div');div.innerHTML=c.html;
+      if(normalize(div.textContent)!==normalize(section.querySelector('.chapter-body').textContent)) errors.push(`${c.id}: text changed`);
+      for(const a of section.querySelectorAll('.note-ref')){noteRefs++;if(!document.getElementById(a.hash.slice(1))) errors.push(`${c.id}: broken note ${a.hash}`);}
+      endnotes+=section.querySelectorAll('.endnotes > ol > li').length;
+    }
+    const ids=[...document.querySelectorAll('[id]')].map(e=>e.id);
+    if(new Set(ids).size!==ids.length) errors.push('Duplicate HTML id');
+    if(document.querySelectorAll('.chapter-body .editor-note').length!==totalPending) errors.push('Pending marker mismatch');
+    for(const a of document.querySelectorAll('a[href^="#"]'))if(!document.getElementById(a.hash.slice(1)))errors.push(`Broken anchor ${a.hash}`);
+    return {errors,chapterCount:expected.length,noteRefs,endnotes,pendingMarkers:totalPending,textPreserved:true};
+  },{expected,totalPending:pending});
+}
+function runPython(args){
+  const r=spawnSync(python,[path.join(toolDir,'pdf_finalize.py'),...args],{cwd:root,encoding:'utf8',maxBuffer:16*1024*1024,env:{...process.env,PYTHONIOENCODING:'utf-8'}});
+  if(r.status!==0)throw new Error(`PDF processing failed: ${r.stdout}\n${r.stderr}`);
+  return JSON.parse(r.stdout);
+}
+function findBrowser(){
+  if(process.env.BROWSER_PATH)return process.env.BROWSER_PATH;
+  return [path.join(process.env.ProgramFiles||'','Google/Chrome/Application/chrome.exe'),path.join(process.env['ProgramFiles(x86)']||'','Microsoft/Edge/Application/msedge.exe'),'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome','/usr/bin/google-chrome','/usr/bin/chromium'].find(p=>fs.existsSync(p));
 }

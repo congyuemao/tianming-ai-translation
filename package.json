@@ -1,0 +1,15 @@
+{
+  "name": "tianming-ai-translation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build_book_pdf.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "marked": "17.0.5",
+    "playwright": "1.62.1"
+  }
+}

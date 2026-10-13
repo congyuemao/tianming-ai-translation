@@ -1,0 +1,4 @@
+pypdf==6.10.0
+# Only needed when regenerating the bundled font subsets:
+fonttools==4.66.1
+brotli==1.2.0
