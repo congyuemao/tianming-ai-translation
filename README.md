@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第二十五轮](reference%20check/2026-10-14-round25.md)：据用户提供的吴江原刊扫描第 28 页恢复“主观创造了客观”完整引文，并补明上下文、订正文章页码为第 23—29 页。本轮撤去 1 处标记，现余 107 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第二十六轮](reference%20check/2026-10-14-round26.md)：据用户提供的关锋原刊第 3 页恢复公社加强领导的引文，并核清题名“略论”、文章第 1—8 页及文末署日。本轮撤去 1 处标记，现余 106 处待核；原注出版日及ECMM转引页仍另列补核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 

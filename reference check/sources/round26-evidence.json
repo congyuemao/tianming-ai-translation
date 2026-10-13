@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-14",
+  "round": 26,
+  "formalReviewIds": [
+    "05-03"
+  ],
+  "sources": [
+    {
+      "id": "guan-original-scan-r26",
+      "recordIds": [
+        "05-03"
+      ],
+      "title": "关锋：略论人民公社的伟大历史意义，原刊第1—8页",
+      "kind": "用户提供、带CNKI标识的原刊扫描；逐字核对目标页影像",
+      "source": "user-provided attachment",
+      "sourceFilename": "略諭人民公社的伟大历史意义_关锋.pdf",
+      "sourcePDFSHA256": "9ae089e233620117609b66c1ade50e30dc216b2373610f6cb2371bbc960a499b",
+      "sourcePDFBytes": 631290,
+      "sourcePDFPages": 8,
+      "sourcePDFArchived": false,
+      "publication": "哲学研究",
+      "year": 1958,
+      "issue": "05",
+      "yearIssueBasis": "第二十四轮已核的期刊官网书目ZXYJ195805000；附件未含期刊封面和目录。",
+      "catalogUrl": "https://zxyj.cbpt.cnki.net/portal/journal/portal/client/paper/adc437e41c198fd5e974e87d94932e4c",
+      "printedPageRange": [
+        1,
+        8
+      ],
+      "targetPrintedPage": 3,
+      "targetPDFPage": 3,
+      "checkedPDFPages": [
+        1,
+        3,
+        8
+      ],
+      "images": [
+        {
+          "pdfPage": 1,
+          "printedPage": 1,
+          "localPath": "reference check/sources/Guan-Feng-1958-p1.png",
+          "sha256": "deb87fdd3000f3828fd9b5c4505c77288a8fb4a02d55bd420b17b0b3d2848251",
+          "visuallyChecked": true
+        },
+        {
+          "pdfPage": 3,
+          "printedPage": 3,
+          "localPath": "reference check/sources/Guan-Feng-1958-p3.png",
+          "sha256": "5ffff867e5609507eed7800c95050aa2c33e25d41484ea9f06ee114240c265b7",
+          "visuallyChecked": true
+        },
+        {
+          "pdfPage": 8,
+          "printedPage": 8,
+          "localPath": "reference check/sources/Guan-Feng-1958-p8.png",
+          "sha256": "fc748bec9a71bf5758005d3c98a4e4e3a116763ff12bdaefac58a0985033925d",
+          "visuallyChecked": true
+        }
+      ],
+      "transcriptionSimplified": "为什么说建立了人民公社领导更加强了呢？……规模大、集中性高，从辩证法的观点看来，这当然是比规模小、分散便于加强领导的。",
+      "transcriptionMethod": "以影像逐字核对，统一简体和标点；保留英文引文所示中间省略，省去列项序号，未按低质量OCR直接回填。",
+      "dateAtArticleEnd": "1958-08-27",
+      "dateAtArticleEndIsPublicationDate": false,
+      "observations": [
+        "第1页可见原刊题名略論及关锋署名，解决网页略諭字形异文。",
+        "第3页设问及第（3）项与Harris第57页的引文位置和论旨对应；不再只是同刊同期的候选。",
+        "第（1）项论述基层领导核心、干部配置和减少层次，第（2）项论述乡社合一、五结合及一元化领导；译文沿用省略，不把未引出的两项扩入正文。",
+        "第（3）项原文有从辩证法的观点看来，恢复中文时保留；便于加强领导不能仍写作回译的大规模组织更容易领导。",
+        "第8页明确署一九五八年八月二十七日；这是文章末尾署日，不独立证明出版日。",
+        "原注1958-09-10及ECMM149仍未据封面或转引页另核；网页5月31日不能作为已经核定的刊期。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "harris-commune-r26",
+      "recordIds": [
+        "05-03"
+      ],
+      "title": "Nigel Harris, The Mandate of Heaven，第57页与第67页注31",
+      "kind": "英文底本；核引文范围、原有省略及注号",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "checkedPrintedPages": [
+        57,
+        67
+      ],
+      "checkedPDFPages": [
+        76,
+        86
+      ],
+      "observations": [
+        "第57页以设问后省略、接集中组织更易领导的表述构成引文。",
+        "第67页原注31列哲学研究第5期、1958-09-10、ECMM149；独立中文章节对应注8。",
+        "中文原话已经由所获原刊落实；不宣称ECMM转引页已经取得。"
+      ],
+      "accessed": "2026-10-14"
+    }
+  ],
+  "limitations": [
+    "本轮只核05-03，不声称重新复核其他待核引文。",
+    "题名、署名、页码、目标原句及文末署日据用户提供的原刊影像；年期沿用已核期刊官网书目。",
+    "未把末尾8月27日署日当作出版日；原注9月10日、ECMM149页及实际英译删节尚未另核。",
+    "附件OCR错误较多，正文恢复依据目视影像。",
+    "用户PDF保持不变，未整份上传；仅保存题名、目标段落和末页三张证据图及校验值。",
+    "PDF/HTML继续维持第十九轮，未执行构建或修改排版代码。"
+  ]
+}
