@@ -164,7 +164,7 @@
 
 14. 1961-2, in Miscellany II, p.280.
 
-15. Ibid., p.293；这里英文译本对毛的术语处理不佳，“the accumulated capital” 应为 “the rate of capital accumulation”。 校注：[《毛泽东思想万岁》（1958—1960）分册扫描](../reference%20check/sources/Mao-Thought-1958-1960.pdf)第324页《关于积累水平问题》所列为1957年27%、1958年36%、1959年42%，继而写今后积累比重可保持在“30%以上或者更多”。版影中的36%和30%均清楚，排除了[网络录文](https://www.marxists.org/chinese/maozedong/1968/4-177.htm)相应位置的字形疑点；但英文底本第209页确实作“over thirty-nine per cent or higher”，中英数字冲突仍在。另核原注[Miscellany II扫描](../reference%20check/sources/Miscellany-1949-1968-JPRS-Part2-1974.pdf)第293页（PDF第65页），该处实际印为“over 36 percent or even higher”。中文汇编30%、所引英译资料集36%、英文底本39%三者不合，且均经文本或版影核对；尚未见原始笔记，正文的39%暂保留并待核。
+15. Ibid., p.293；这里英文译本对毛的术语处理不佳，“the accumulated capital” 应为 “the rate of capital accumulation”。 校注：[《毛泽东思想万岁》（1958—1960）分册扫描](../reference%20check/sources/Mao-Thought-1958-1960.pdf)第324页《关于积累水平问题》所列为1957年27%、1958年36%、1959年42%，继而写今后积累比重可保持在“30%以上或者更多”。版影中的36%和30%均清楚，排除了[网络录文](https://www.marxists.org/chinese/maozedong/1968/4-177.htm)相应位置的字形疑点；但英文底本第209页确实作“over thirty-nine per cent or higher”，中英数字冲突仍在。另核原注[Miscellany II扫描](../reference%20check/sources/Miscellany-1949-1968-JPRS-Part2-1974.pdf)第293页（PDF第65页），该处实际印为“over 36 percent or even higher”。中文汇编30%、所引英译资料集36%、英文底本39%三者不合，且均经文本或版影核对；尚未见原始笔记，正文的39%暂保留并待核。 第二十轮补查[《毛泽东读社会主义政治经济学批注和谈话（简本）》第269页](../reference%20check/sources/Mao-Economics-p269.png)及[第270页](../reference%20check/sources/Mao-Economics-p270.png)版影：同列1957年27%、1958年36%、1959年42%，但续文讨论1959年积累是否过高，以及须结合生产增长与人民生活改善判断，并未在这一对应段落给出今后30%、36%或39%以上的比例。该整理本不能裁定三种数字，不能作为把39%改成另一数字的依据；待核保留。
 
 16. Lu Hsu’n and Li Yün, “On the practice of economy,” RMRB, 21 August 1962, SCMP 2817, 1962. 中文引文据[《论节约》（1962-08-21）](https://cn.govopendata.com/renminribao/1962/08/21/5/)核校。
 

@@ -78,7 +78,7 @@
 
 1. Sixty Points on Working Methods, 19 February 1958, No. 21, in Mao Papers, p.63。
 
-2. 转引自 Jan Deleyne, The Chinese Economy, London, 1973, pp.185-6。
+2. 转引自 Jan Deleyne, The Chinese Economy, London, 1973, pp.185-6。 校注：新增查得《人民日报》1956年9月20日第6版[薄一波《正确处理积累和消费的关系》](https://cn.govopendata.com/renminribao/1956/09/20/6/)的八大发言录文。该文先说人民消费水平须随生产发展逐步提高，接着说不这样做就是“严重的脱离群众”，会犯“不可饶恕的错误”，与本段引语高度对应。但其年份为1956年，且是薄一波个人发言；原书标作1958年的八大，现译进一步写成“八大二次会议”。尚未取得 Deleyne 第185—186页，不能确定年份和归属差异发生在哪一转引环节，暂保留原书叙述及待核标记。现有证据为非官方报刊录文，未核原报版影。
 
 3. Speech, 8th Party Congress, 2nd session, 17 May 1958, in Miscellany I, p.102。
 

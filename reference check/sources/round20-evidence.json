@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "id": "rmrb-05-01-r20",
+      "recordIds": [
+        "05-01"
+      ],
+      "title": "正确处理积累和消费的关系  薄一波同志的发言",
+      "date": "1956-09-20",
+      "page": "第6版()",
+      "kind": "非官方报刊录文，未核原报版影",
+      "accessed": "2026-10-14",
+      "repository": "https://github.com/fangj/rmrb",
+      "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1956%E5%B9%B409%E6%9C%88.7z",
+      "archiveSHA256": "ea504550dc9fea3429f864e4c735b8fac1bd9a2a28665ac2f9025b98f75b44db",
+      "archiveGitBlob": "41606bec8629d581492be68e3cef7e786251ca08",
+      "entry": "1956年09月/1956-09-20_正确处理积累和消费的关系_薄一波同志的发言.md",
+      "entrySHA256": "0fe6602c525a342535e7e17d853f7a8f7347748cf36606aed70151a4cd72bab0",
+      "excerpts": [
+        "那就是严重的脱离群众，那就会犯不可饶恕的错误"
+      ],
+      "assessment": "文字高度对应，但1956年与原书1958年不同；未取得Deleyne转引页。"
+    },
+    {
+      "id": "rmrb-08-10-r20",
+      "recordIds": [
+        "08-10"
+      ],
+      "title": "在第一届全国人民代表大会第二次会议上的发言",
+      "date": "1955-07-23",
+      "page": "第2版()",
+      "kind": "非官方报刊录文，未核原报版影",
+      "accessed": "2026-10-14",
+      "repository": "https://github.com/fangj/rmrb",
+      "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1955%E5%B9%B407%E6%9C%88.7z",
+      "archiveSHA256": "78a82c748bd278fbf55b8b18c35b380e960dfcbadf257f5083e26f5685bfaaf0",
+      "archiveGitBlob": "52028fad7ce9901ebec573ae022083ae3926f995",
+      "entry": "1955年07月/1955-07-23_在第一届全国人民代表大会第二次会议上的发言.md",
+      "entrySHA256": "763b5bab729dac9e6fe4a6ce9cf2fdb697519e20f4d5c74800b4631865033833",
+      "excerpts": [
+        "由于加班加点突击赶工的结果，损害了工人的健康"
+      ],
+      "assessment": "赖若愚发言有一般反对加班段，但未包含72小时、10个月及26万/22万工时的目标细节。"
+    },
+    {
+      "id": "jec201-r20",
+      "recordIds": [
+        "10-24",
+        "10-26"
+      ],
+      "title": "Carl Riskin, Workers’ Incentives in Chinese Industry, China: A Reassessment of the Economy",
+      "publisher": "U.S. Government Printing Office",
+      "date": "1975-07-10",
+      "kind": "Google Books公开扫描页；英文转引资料，不是中文原话",
+      "url": "https://books.google.com/books?id=rLbSAAAAMAAJ&pg=PA201",
+      "textViewUrl": "https://books.google.com.au/books?id=rLbSAAAAMAAJ&pg=PA201&hl=zh-CN&output=html_text",
+      "localPath": "reference check/sources/JEC-China-Reassessment-1975-p201.png",
+      "sha256": "ff4dcd70cf266fa9ee978fa9e3be77881a22efe793b683c49bc57a1bca1d8f5d",
+      "checkedPrintedPage": 201,
+      "visuallyVerified": true,
+      "accessed": "2026-10-14",
+      "observations": {
+        "note4": "Liang-chung she-hui, liang-chung kung-tzu, Shanghai, 1973, p.8.",
+        "note6": "1974-10-02会见；Professor Fan Lan笔记；Chiu Shih Nien Tai, December 1974, pp.15–17。罗马字依版影，中文刊名和人名尚未确认。"
+      },
+      "limitations": [
+        "未归档整册，只保存已核对的第201页。",
+        "Google Books文本层与扫描同源，不构成独立印证。",
+        "美国国会网站PDF下载返回403；Google Books公开阅览页已读到目标页，整册下载未成功。"
+      ]
+    },
+    {
+      "id": "wages-catalog-r20",
+      "recordIds": [
+        "10-24"
+      ],
+      "title": "《两种社会，两种工资》图书目录",
+      "url": "https://books.google.com/books?id=H-4dAAAAMAAJ",
+      "kind": "书目目录，不是目标第8页",
+      "publisher": "上海人民出版社",
+      "year": 1973,
+      "pages": 41,
+      "accessed": "2026-10-14",
+      "assessment": "仅确认书名、出版者、年份、页数；不能依据关键词索引恢复引语。"
+    },
+    {
+      "id": "mao-economics269-r20",
+      "recordIds": [
+        "14-03"
+      ],
+      "title": "《毛泽东读社会主义政治经济学批注和谈话（简本）》",
+      "kind": "后出整理本扫描；并非原始谈话记录",
+      "url": "https://www.bannedthought.net/China/Individuals/MaoZedong/Special/Mao-ReadingOfSovietPoliticalEconomy-CommentsAndTalks-ShortVersion-Chinese-OCR.pdf",
+      "sourcePDFSHA256": "4f380e67f5fbbb77cd4d7bf37e4b3fc48ddde212fa766b711f53830e624697a2",
+      "checkedPages": [
+        {
+          "printed": 269,
+          "pdf": 278,
+          "localPath": "reference check/sources/Mao-Economics-p269.png",
+          "sha256": "986abee7fd9a27584fd49482912470e11d2e303cae498b03116d251e6235007b"
+        },
+        {
+          "printed": 270,
+          "pdf": 279,
+          "localPath": "reference check/sources/Mao-Economics-p270.png",
+          "sha256": "b56b90833ecd4845cec1b45729b584b57ba18dfa2d6583724b4a3d29ec88aad1"
+        }
+      ],
+      "visuallyVerified": true,
+      "accessed": "2026-10-14",
+      "assessment": "历史三个年份的27/36/42%一致；续文措辞不同，该段没有未来积累比例，不能据此裁定30/36/39%的冲突。"
+    }
+  ],
+  "additionalArchives": [
+    {
+      "month": "1955-07",
+      "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1955%E5%B9%B407%E6%9C%88.7z",
+      "sha256": "78a82c748bd278fbf55b8b18c35b380e960dfcbadf257f5083e26f5685bfaaf0",
+      "gitBlob": "52028fad7ce9901ebec573ae022083ae3926f995",
+      "files": 1068
+    },
+    {
+      "month": "1956-09",
+      "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1956%E5%B9%B409%E6%9C%88.7z",
+      "sha256": "ea504550dc9fea3429f864e4c735b8fac1bd9a2a28665ac2f9025b98f75b44db",
+      "gitBlob": "41606bec8629d581492be68e3cef7e786251ca08",
+      "files": 2058
+    }
+  ],
+  "limitations": [
+    "只把5处列为本轮重点复核，不声称重新逐一审定全部110处。",
+    "只更改校注和核查记录；成品PDF/HTML、排版代码、dist文件均不修改。"
+  ]
+}

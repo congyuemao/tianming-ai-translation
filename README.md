@@ -20,6 +20,10 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 生成时只显示一次章节标题，并过滤正文开头与主标题等价的旧标题行，例如“15. 外交政策”。这项处理仅发生在排版层，不修改章节 Markdown。HTML 内嵌字体，可离线阅读；来源材料链接指向 GitHub 归档。
 
+## Citation Audit / 引文核查进度
+
+2026 年 10 月 14 日已推进至[第二十轮](reference%20check/2026-10-14-round20.md)：重点复核 5 处，3 处新增部分线索，仍有 110 处待核。最新校注已写入章节 Markdown；上方 PDF/HTML 维持第十九轮版本，待数轮核查后统一重建。
+
 ## Workflow / 工作流
 
 1. **PDF to Markdown / PDF 转 Markdown**
