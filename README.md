@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第二十八轮](reference%20check/2026-10-14-round28.md)：转查3条，补出《苏南日报》1950年11月28日第1版的文件出处，整理Robert Ash两篇待获取全文的论文；《中国工人》和Current Scene两项文献传递已由用户提交，等待中。本轮未取得目标中文，不撤标，现余106处待核。最新校注已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第二十九轮](reference%20check/2026-10-14-round29.md)：已取得并归档Robert Ash上下篇全文，核实一条英文转引及相邻统计，校注说明30%指富裕中农、95%为生产潜力估算。中文原话仍缺，现余106处待核；《中国工人》和Current Scene两项文献传递继续等待。完整参考PDF及9张证据页见[来源目录](reference%20check/sources/README.md)。最新校注已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 

@@ -1,0 +1,384 @@
+{
+  "date": "2026-10-14",
+  "round": 29,
+  "formalReviewIds": [
+    "11-03"
+  ],
+  "sources": [
+    {
+      "id": "ash-part1-fulltext-r29",
+      "recordIds": [
+        "11-03"
+      ],
+      "title": "Economic Aspects of Land Reform in Kiangsu, 1949–52 (Part 1)",
+      "author": "Robert Ash",
+      "publication": "The China Quarterly",
+      "issue": "66",
+      "date": "1976-06",
+      "printedPageRange": [
+        261,
+        292
+      ],
+      "doi": "10.1017/S0305741000033683",
+      "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/economic-aspects-of-land-reform-in-kiangsu-194952/7EA45F2C148BB99713E6F20F4DF26D90",
+      "kind": "用户提供的英文原刊全文；核目标引文及脚注链",
+      "accessed": "2026-10-14",
+      "source": "user-provided attachment",
+      "sourceFilename": "economic-aspects-of-land-reform-in-kiangsu-1949-52.pdf",
+      "sourcePDFSHA256": "6ca87f9f2265771fd4f8e85c86feae4c4b6e22fbcb4cff1456f1195f5c2d0572",
+      "sourcePDFBytes": 2162646,
+      "sourcePDFArchived": true,
+      "localPath": "reference check/sources/Ash-1976-Land-Reform-Kiangsu-Part1.pdf",
+      "archivedPDFIdenticalToInput": true,
+      "sourcePDFPages": 32,
+      "coverSheetCount": 0,
+      "fullTextObtained": true,
+      "textReadPDFPages": [
+        1,
+        11,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "visuallyCheckedPDFPages": [
+        1,
+        28,
+        29
+      ],
+      "wholeFileScreening": "提取全文并作关键词检索，未逐字审读32页全文。",
+      "targetPrintedPages": [
+        288,
+        289
+      ],
+      "targetPDFPages": [
+        28,
+        29
+      ],
+      "targetNote": 111,
+      "images": [
+        {
+          "localPath": "reference check/sources/Ash-1976-part1-p288.png",
+          "printedPage": 288,
+          "pdfPage": 28,
+          "sha256": "0f7105893a1120dc67dfdeb9b79e7aa1bf62031f6e3086f291e11e83ba6faa92",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        },
+        {
+          "localPath": "reference check/sources/Ash-1976-part1-p289.png",
+          "printedPage": 289,
+          "pdfPage": 29,
+          "sha256": "350e0910295ba37d316b69bf4e47120777e6b380797c99e26cebdde4dd840898",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        }
+      ],
+      "upstreamSource": {
+        "titleAsRomanized": "Su-nan t’u-ti kai-ko shih-shih pan-fa",
+        "titleChineseFromCatalog": "苏南土地改革实施办法",
+        "issuingBodyAsCited": "Office of the People’s Administration of South Kiangsu",
+        "newspaper": "苏南日报",
+        "dateAsCited": "1950-11-28",
+        "printedPageAsCited": 1,
+        "directReferenceNumber": 111,
+        "bibliographicReferenceNumber": 109,
+        "originalChineseObtained": false
+      },
+      "observations": [
+        "第289页目标段落的直接脚注是111（Ibid.），承接第288页109所列文件。第271页注41明确Su-nan为苏南日报，第286页注101再次列该报；核对相邻注后确认109的ibid.所指。",
+        "前文讨论地主其他财产与工商业财产难以区分时的保护范围，不能把these properties无条件扩大到地主所有财产。",
+        "Ash作these properties，Harris第152页作their properties；Harris未转引紧随其后的This will be beneficial to society as a whole。正文保留Harris的选引范围，在校注交代。",
+        "英文引文和其所列中文出处已经核实；未取得中文文件原文，因此11-03仍保留原文待核。"
+      ]
+    },
+    {
+      "id": "ash-part2-fulltext-r29",
+      "recordIds": [],
+      "chapterFile": "11_ch10_peasants_in_prc.md",
+      "chapterEndnotes": [
+        16,
+        17
+      ],
+      "title": "Economic Aspects of Land Reform in Kiangsu, 1949–52 (Part 2)",
+      "partSubtitle": "The Economic Impact of Resource Reallocation upon the Peasant Economy",
+      "author": "Robert Ash",
+      "publication": "The China Quarterly",
+      "issue": "67",
+      "date": "1976-09",
+      "printedPageRange": [
+        519,
+        545
+      ],
+      "doi": "10.1017/S0305741000035505",
+      "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/economic-aspects-of-land-reform-in-kiangsu-194952/E9C4186177ACC63578C69F1307D1E8A1",
+      "kind": "用户提供的英文原刊全文；核相邻统计的来源与估算口径",
+      "accessed": "2026-10-14",
+      "source": "user-provided attachment",
+      "sourceFilename": "economic-aspects-of-land-reform-in-kiangsu-1949-52 (1).pdf",
+      "sourcePDFSHA256": "ac98ec98f2dde181eaa6c13d2a5d6d8e12c72935697339447887c2c4ac98e007",
+      "sourcePDFBytes": 1594103,
+      "sourcePDFArchived": true,
+      "localPath": "reference check/sources/Ash-1976-Land-Reform-Kiangsu-Part2.pdf",
+      "archivedPDFIdenticalToInput": true,
+      "sourcePDFPages": 27,
+      "coverSheetCount": 0,
+      "fullTextObtained": true,
+      "textReadPDFPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "visuallyCheckedPDFPages": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        13,
+        14
+      ],
+      "wholeFileScreening": "提取全文并作关键词检索，未逐字审读27页全文。",
+      "images": [
+        {
+          "localPath": "reference check/sources/Ash-1976-part2-p520.png",
+          "printedPage": 520,
+          "pdfPage": 2,
+          "sha256": "1bdfe354f811c14b2e0261e9f0be62d162aa06a9209f0383e283d98d2979db8c",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        },
+        {
+          "localPath": "reference check/sources/Ash-1976-part2-p521.png",
+          "printedPage": 521,
+          "pdfPage": 3,
+          "sha256": "8df72d380313ec7f435b2512a4e13fb2670a1a7f065db1ba3c5b28b7b2a71f34",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        },
+        {
+          "localPath": "reference check/sources/Ash-1976-part2-p522.png",
+          "printedPage": 522,
+          "pdfPage": 4,
+          "sha256": "ed46037c6bafa56257e7a2c982f19426e9751b1b1a92b8dc28f6777922878115",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        },
+        {
+          "localPath": "reference check/sources/Ash-1976-part2-p528.png",
+          "printedPage": 528,
+          "pdfPage": 10,
+          "sha256": "496382edf44d3efc7f2ca6e3c083ed16d2dd63791099555876f920ef8a5f8dd3",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        },
+        {
+          "localPath": "reference check/sources/Ash-1976-part2-p529.png",
+          "printedPage": 529,
+          "pdfPage": 11,
+          "sha256": "07a7ad2f6f3e13c3252e0708523bd4cd54411ff8b26ea3d72959359de2138934",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        },
+        {
+          "localPath": "reference check/sources/Ash-1976-part2-p531.png",
+          "printedPage": 531,
+          "pdfPage": 13,
+          "sha256": "311fcfa6a926e98383bffc64b78d6a27313ba375dae3e89ded1c0c072f2a8023",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        },
+        {
+          "localPath": "reference check/sources/Ash-1976-part2-p532.png",
+          "printedPage": 532,
+          "pdfPage": 14,
+          "sha256": "e3f8d993519fba45576b7a6c407c3f38249ba8fb79e9b01b9c4191b85a5be450",
+          "visuallyChecked": true,
+          "rendering": "Poppler 120dpi，全页渲染，保留原刊正文、表格、脚注及印刷页码。"
+        }
+      ],
+      "upstreamSources": [
+        {
+          "titleAsRomanized": "Su-nan t’u-ti kai-ko kung-tso ti pao-kao",
+          "titleAsTranslatedByAsh": "Report of land reform work in South Kiangsu",
+          "newspaper": "苏南日报",
+          "dateAsCited": "1952-01-01",
+          "printedPagesAsCited": [
+            2,
+            3
+          ],
+          "referenceLocation": "第520页注1；第531页注22承接该报告",
+          "originalObtained": false
+        },
+        {
+          "titleAsRomanized": "I-nien-lai t’u-ti kai-ko yün-tung ti ch’eng-chiu",
+          "newspaper": "新华日报",
+          "dateAsCited": "1951-07-02",
+          "printedPageAsCited": 3,
+          "referenceLocation": "第521页表2来源",
+          "originalObtained": false
+        },
+        {
+          "titleAsRomanized": "Hua-tung i-nien-lai ti t’u-ti kai-ko yün-tung",
+          "newspaper": "新华日报",
+          "dateAsCited": "1951-12-01",
+          "printedPageAsCited": 2,
+          "referenceLocation": "第522页注6",
+          "originalObtained": false
+        },
+        {
+          "authorAsPrinted": "Liao Lu-yen",
+          "titleAsPrinted": "On the basis of co-operativization, go all out to fulfil the draft plan for China’s agricultural development",
+          "publicationAsPrinted": "Hsueh-hsi (Study)",
+          "year": 1958,
+          "issue": "2",
+          "printedPagesAsCited": [
+            2,
+            8
+          ],
+          "referenceLocation": "第528页注17",
+          "originalObtained": false,
+          "chineseTitleVerified": false
+        }
+      ],
+      "observations": [
+        "第520页列苏南27县中24县的分配资料：7,180,537亩分给1,519,472户，假定平均每户4.12人。第521页表1得户均4.73亩、人均1.15亩；OCR把537误识为437，按版影核正。",
+        "第522页表4为土改中新分配的人均面积，贫雇农1.2亩、中农1.1亩，并非土改后全部持有面积。华东0.7—3亩来自同页正文与注6。",
+        "第528页引用1958年Liao Lu-yen的话，30%比较的是富裕中农与贫农；第529页表11分别列贫农100、中农120、富裕中农130、富农140的估算指数。不能把30%当作1950—1952年苏南所有中农的实测平均。",
+        "第531页富农人均持地为当地平均水平的两倍，注22承接第520页注1；富农4.99亩为按苏南人均平均2.495亩外推。",
+        "第531页表13为生产潜力估算，富农人均持地的粮食总产潜力1659.2斤；第529页表12中农852.2斤。第532页首句明确写95%，由前页生产潜力段落跨页承接。",
+        "95%对应(1659.2/852.2-1)*100≈94.70%，不是亩产高95%，也不是直接调查的实际收成；估算涉及第526页起的粮食亩产与耕地用途等假设。",
+        "Harris第152页相应概括与Ash的分组、估算语境有差别，正文忠实保留底本，注17单列说明。相关中文报纸及学习文章仍未另核。"
+      ],
+      "ratioCheck": {
+        "richPotentialJin": 1659.2,
+        "middlePotentialJin": 852.2,
+        "percentAbove": 94.69608073222248,
+        "roundedPercentAbove": 95
+      }
+    },
+    {
+      "id": "harris-ash-comparison-r29",
+      "recordIds": [
+        "11-03"
+      ],
+      "title": "Nigel Harris, The Mandate of Heaven，第152页及第162页原注118、120、121",
+      "kind": "既有英文底本；核转引措辞、统计与引注",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "textReadPDFPages": [
+        171,
+        181
+      ],
+      "visuallyCheckedPDFPages": [
+        171
+      ],
+      "accessed": "2026-10-14",
+      "observations": [
+        "第152页目标引文作their properties，没有Ash紧接的社会整体利益一句。",
+        "第152页用30%概括中农等群体，又写富农粮食产量高95%；第162页原注121只列Ash下篇531页。查Ash需连读532页。"
+      ]
+    }
+  ],
+  "additionalFindings": [
+    {
+      "chapterFile": "11_ch10_peasants_in_prc.md",
+      "endnotes": [
+        16,
+        17
+      ],
+      "sourceIds": [
+        "ash-part2-fulltext-r29",
+        "harris-ash-comparison-r29"
+      ],
+      "kind": "不在固定待核标记内的相邻引注与统计口径复核",
+      "findings": [
+        "1.15、1.1、1.2亩指新分配土地，不是全部持地。",
+        "30%原话主语为富裕中农，引用1958年文章。",
+        "95%见第532页，为人均持地粮食生产潜力估算；补足原注只列531页的定位。"
+      ],
+      "bodyChanged": false,
+      "countsAsAdditionalFixedRecords": false
+    }
+  ],
+  "recommendedFullTextRequests": [
+    {
+      "sourceId": "ash-part1-fulltext-r29",
+      "priority": 1,
+      "status": "obtained_from_user",
+      "purpose": "直接复核11-03的英文转引，第289页及相邻页、全部注释优先",
+      "previousCatalogSourceId": "ash-part1-catalog-r28",
+      "statusLabel": "用户已提供全文并完成本轮目标页核查",
+      "receivedDate": "2026-10-14",
+      "localPath": "reference check/sources/Ash-1976-Land-Reform-Kiangsu-Part1.pdf"
+    },
+    {
+      "sourceId": "ash-part2-fulltext-r29",
+      "priority": 2,
+      "status": "obtained_from_user",
+      "purpose": "核第十章注16、17的转引链，第521—522、531页及相邻注释优先",
+      "previousCatalogSourceId": "ash-part2-catalog-r28",
+      "statusLabel": "用户已提供全文并完成本轮目标页核查",
+      "receivedDate": "2026-10-14",
+      "localPath": "reference check/sources/Ash-1976-Land-Reform-Kiangsu-Part2.pdf"
+    }
+  ],
+  "documentDeliveryRequests": [
+    {
+      "key": "chinese-worker-1957-6",
+      "recordIds": [
+        "10-32"
+      ],
+      "title": "中国工人1957年第6期；Li Ch’un所署文章",
+      "status": "requested_by_user_waiting",
+      "statusLabel": "用户已提交文献传递，等待中",
+      "asOf": "2026-10-14",
+      "evidence": "用户本轮明确告知；未获得传递平台回执或到件",
+      "nextAction": "等待用户提供到件后核查；不重复请求该件"
+    },
+    {
+      "key": "current-scene-1968-vi-5",
+      "recordIds": [
+        "09-14",
+        "09-15",
+        "09-32"
+      ],
+      "title": "Sources of Labor Discontent in China: The Worker-Peasant System；Current Scene VI/5，1968-03-15",
+      "status": "requested_by_user_waiting",
+      "statusLabel": "用户已提交文献传递，等待中",
+      "asOf": "2026-10-14",
+      "evidence": "用户本轮明确告知；未获得传递平台回执或到件",
+      "nextAction": "等待用户提供到件后核查；不重复请求该件"
+    }
+  ],
+  "supplementarySearch": {
+    "queries": [
+      "\"苏南土地改革实施办法\" \"财产\"",
+      "\"地主\" \"避免混乱\" \"生产\" \"土地改革\"",
+      "\"地主\" \"这些财产\" \"混乱\"",
+      "\"地主\" \"农民的利益\" \"保护工商业\" \"财产\"",
+      "\"廖鲁言\" \"1958\" \"学习\" \"第二期\" 农业",
+      "\"地主的其他财产\" \"不利\""
+    ],
+    "result": "有限公开检索未取得目标中文原文；相近政策论述不作恢复证据，也不表示已排除所有原刊或汇编。"
+  },
+  "limitations": [
+    "英文原刊全文已取得，目标页及相邻上下文已核，但不等于两篇全文已经逐字审校。",
+    "11-03的中文原话仍缺，保持searched_unresolved；相邻两条统计引注不增列固定编号，不计为新恢复。",
+    "这些统计是Ash所引资料及其估算，不是对原始统计或历史事实的独立核实。30%和95%的分组、年代及估算性质须保留。",
+    "所列苏南日报、新华日报、学习中文原文仍缺；英文转引不能替代中文原话。",
+    "中国工人和Current Scene两项文献传递继续等待，未重复申请或取得新到件。",
+    "按用户本轮补充要求，沿用仓库现有reference check/sources目录归档两份完整参考PDF，文件内容与附件相同；另存9张已目视核对证据页。",
+    "成品PDF/HTML及排版代码保持原样，未运行构建；新增参考PDF不属于成品重建。"
+  ]
+}
