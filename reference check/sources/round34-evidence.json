@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-14",
+  "round": 34,
+  "formalReviewIds": [
+    "10-37",
+    "10-38"
+  ],
+  "sources": [
+    {
+      "id": "ccrd-zhejiang-user-r34",
+      "recordIds": [
+        "10-37",
+        "10-38"
+      ],
+      "title": "中共中央、国务院关于浙江省问题的决定",
+      "date": "1975-07-24",
+      "url": "https://ccrd2024.github.io/CCRD%20%E4%B8%AD%E5%9B%BD%E5%BD%93%E4%BB%A3%E6%94%BF%E6%B2%BB%E8%BF%90%E5%8A%A8%E5%8F%B2%E6%95%B0%E6%8D%AE%E5%BA%93%20%E7%82%B9%E6%AD%A4%E8%BF%9B%E5%85%A5%EF%BC%88HTML%EF%BC%89/0/0/15/000021.htm",
+      "kind": "用户提供的CCRD公开镜像完整中文录文；所据为未署翻印者的翻印件，不是1975年原件或1976年原刊扫描",
+      "accessed": "2026-10-14",
+      "providedByUser": true,
+      "pageAuthorField": "[待确定]",
+      "structuredAuthors": [],
+      "issuingBodiesInTitle": [
+        "中共中央",
+        "国务院"
+      ],
+      "sourceStatement": "根据文件的翻印件，翻印者未注明",
+      "fullTextObtained": true,
+      "fullTextScope": "页面正文10段，含前言3段及决定7项；另保留标题、日期和来源说明。",
+      "rawDownload": {
+        "file": "ccrd-zhejiang-19750724.html",
+        "url": "https://ccrd2024.github.io/CCRD%20%E4%B8%AD%E5%9B%BD%E5%BD%93%E4%BB%A3%E6%94%BF%E6%B2%BB%E8%BF%90%E5%8A%A8%E5%8F%B2%E6%95%B0%E6%8D%AE%E5%BA%93%20%E7%82%B9%E6%AD%A4%E8%BF%9B%E5%85%A5%EF%BC%88HTML%EF%BC%89/0/0/15/000021.htm",
+        "finalURL": "https://ccrd2024.github.io/CCRD%20%E4%B8%AD%E5%9B%BD%E5%BD%93%E4%BB%A3%E6%94%BF%E6%B2%BB%E8%BF%90%E5%8A%A8%E5%8F%B2%E6%95%B0%E6%8D%AE%E5%BA%93%20%E7%82%B9%E6%AD%A4%E8%BF%9B%E5%85%A5%EF%BC%88HTML%EF%BC%89/0/0/15/000021.htm",
+        "bytes": 14526,
+        "sha256": "9cfa461f0144ff70439e3f68267075b0ef9a97725e9de02d8eeb5368077e16a0",
+        "contentType": "text/html; charset=utf-8",
+        "httpStatus": 200,
+        "localPath": "reference check/sources/Zhejiang-Decision-1975-CCRD-original.html.txt",
+        "preservedByteForByte": true
+      },
+      "transcription": {
+        "localPath": "reference check/sources/Zhejiang-Decision-1975-CCRD-transcription.md",
+        "sha256": "7988018a40f56df9d20f544b42443687e5d1b4effc6e853040160ffb680f6903",
+        "visiblePageParagraphsVerified": true,
+        "wordingAndPunctuationPreserved": true
+      },
+      "localPath": "reference check/sources/Zhejiang-Decision-1975-CCRD-transcription.md",
+      "evidenceLocation": "前言第二、三段；第五项末句；页面来源说明。",
+      "comparisonWithPreviouslyKnownText": {
+        "normalization": "仅删除空白字符；正文不删标点、不改简繁、不作同义替换。来源说明的外围括号属于页面格式，单独比较说明文字。",
+        "bodyParagraphCount": 10,
+        "bodyCharactersWithoutWhitespace": 1348,
+        "bodyMatchesForumAfterWhitespaceNormalization": true,
+        "bodySHA256WithoutWhitespace": "3c6da6777f03c1e76eec5cf2b82e65d827e815652c5d337e2d0f67a080148794",
+        "sourceStatementMatches": true,
+        "individualParagraphs": [
+          {
+            "paragraph": 1,
+            "characters": 155,
+            "sha256": "1cbee5e9e1625819ab80947f774e3c6c02b69c3f4de5630ca4e373ed2662d221",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 2,
+            "characters": 125,
+            "sha256": "d0929e598f0deb9be9d4193b69ef8e46207146d1fb3a28fc9bacf425c80bea13",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 3,
+            "characters": 175,
+            "sha256": "7bec7980fc62f9b53cf2c4e07f62c9baea40516f45dc13038888a9c1f7103c67",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 4,
+            "characters": 86,
+            "sha256": "105075d96975b1aa145a1b25e208bdd1f4075e7b74784afd5d66a8c97e20f042",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 5,
+            "characters": 124,
+            "sha256": "b65a711577b4bbc61c0640b086f82fbd69d398781b288b9a8bec130ebcc87f18",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 6,
+            "characters": 112,
+            "sha256": "7b283654852344dc941ad55550abde05597fb6a2f308f12de706505d23a2cb9a",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 7,
+            "characters": 179,
+            "sha256": "c47cc6d829d7b336ddd0ee12b6ef53f100deca9bfb9ada239a3421001187ecb2",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 8,
+            "characters": 112,
+            "sha256": "b10972ea9e455e69e66a3def6fd50ead9a350f3434924b9c87193c95874cc1b6",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 9,
+            "characters": 158,
+            "sha256": "f23c18f4492011675fb86cbb660700a29e38b3461b55f523be3211df159bbdb8",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 10,
+            "characters": 122,
+            "sha256": "ff83f0bf0b7b538b4d7eef3242b53f8ad931a2b0aa261a75388b53dcb1c8a73c",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          }
+        ],
+        "inference": "文本与来源说明一致，不能作为两份独立版本互证；未查明两站转载先后或共同底本的具体身份。"
+      },
+      "assessment": "新取得可独立访问和归档的页面，不是新取得独立版本。仍未取得《匪情月报》18:11、84—85页或两种英译本原刊；两条维持partial。"
+    },
+    {
+      "id": "forum-zhejiang-comparison-r34",
+      "recordIds": [
+        "10-37",
+        "10-38"
+      ],
+      "title": "水陆洲《文革简论》所收1975年7月24日决定录文",
+      "url": "https://difangwenge.org/forum.php?mod=viewthread&tid=882",
+      "kind": "此前已知的论坛转载，本轮重新下载并摘取相应文件段用于文字比对",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/Zhejiang-Decision-1975-forum-excerpt.txt",
+      "sha256": "3bda2b6dcbeea07081722c54d4fd33608ea1c7abf54ae40fc06c9124eacad9e4",
+      "download": {
+        "file": "difangwenge-thread882.html",
+        "url": "https://difangwenge.org/forum.php?mod=viewthread&tid=882",
+        "finalURL": "https://difangwenge.org/forum.php?mod=viewthread&tid=882",
+        "bytes": 492916,
+        "sha256": "67bd3f7feffccfdf0b8e025a317c7dde6c6fe0da0c88d4f246e5a285fc2b1cdf",
+        "contentType": "text/html; charset=utf-8",
+        "httpStatus": 200
+      },
+      "archivedScope": "仅归档原页面可见文本中的该文件正文及来源说明；论坛完整HTML只用于本地比对，未归档整帖。",
+      "sourceStatement": "根据文件的翻印件，翻印者未注明",
+      "comparison": {
+        "normalization": "仅删除空白字符；正文不删标点、不改简繁、不作同义替换。来源说明的外围括号属于页面格式，单独比较说明文字。",
+        "bodyParagraphCount": 10,
+        "bodyCharactersWithoutWhitespace": 1348,
+        "bodyMatchesForumAfterWhitespaceNormalization": true,
+        "bodySHA256WithoutWhitespace": "3c6da6777f03c1e76eec5cf2b82e65d827e815652c5d337e2d0f67a080148794",
+        "sourceStatementMatches": true,
+        "individualParagraphs": [
+          {
+            "paragraph": 1,
+            "characters": 155,
+            "sha256": "1cbee5e9e1625819ab80947f774e3c6c02b69c3f4de5630ca4e373ed2662d221",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 2,
+            "characters": 125,
+            "sha256": "d0929e598f0deb9be9d4193b69ef8e46207146d1fb3a28fc9bacf425c80bea13",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 3,
+            "characters": 175,
+            "sha256": "7bec7980fc62f9b53cf2c4e07f62c9baea40516f45dc13038888a9c1f7103c67",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 4,
+            "characters": 86,
+            "sha256": "105075d96975b1aa145a1b25e208bdd1f4075e7b74784afd5d66a8c97e20f042",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 5,
+            "characters": 124,
+            "sha256": "b65a711577b4bbc61c0640b086f82fbd69d398781b288b9a8bec130ebcc87f18",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 6,
+            "characters": 112,
+            "sha256": "7b283654852344dc941ad55550abde05597fb6a2f308f12de706505d23a2cb9a",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 7,
+            "characters": 179,
+            "sha256": "c47cc6d829d7b336ddd0ee12b6ef53f100deca9bfb9ada239a3421001187ecb2",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 8,
+            "characters": 112,
+            "sha256": "b10972ea9e455e69e66a3def6fd50ead9a350f3434924b9c87193c95874cc1b6",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 9,
+            "characters": 158,
+            "sha256": "f23c18f4492011675fb86cbb660700a29e38b3461b55f523be3211df159bbdb8",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          },
+          {
+            "paragraph": 10,
+            "characters": 122,
+            "sha256": "ff83f0bf0b7b538b4d7eef3242b53f8ad931a2b0aa261a75388b53dcb1c8a73c",
+            "visibleCCRDMatch": true,
+            "forumMatch": true
+          }
+        ],
+        "inference": "文本与来源说明一致，不能作为两份独立版本互证；未查明两站转载先后或共同底本的具体身份。"
+      }
+    }
+  ],
+  "findings": [
+    {
+      "id": "10-37",
+      "status": "partial",
+      "sources": [
+        "ccrd-zhejiang-user-r34",
+        "forum-zhejiang-comparison-r34"
+      ],
+      "comment": "用户提供CCRD完整录文。前言第二、三段对应首段引句，但新兴/新生、宗派斗争/派性、袭击/冲击等措辞不同。正文10段与既有论坛文本忽略空白后逐字一致，来源均为未署翻印者的翻印件；不能当独立原件互证，不改引号，维持partial。",
+      "nextAction": "不再重复索取同一网上录文。优先补《匪情月报》18卷11期（Forster标1976）84—85页及封面/目录，或可核来源的文件翻印件影像；两种英译原刊仍可用于版本对照。"
+    },
+    {
+      "id": "10-38",
+      "status": "partial",
+      "sources": [
+        "ccrd-zhejiang-user-r34",
+        "forum-zhejiang-comparison-r34"
+      ],
+      "comment": "CCRD第五项末句作首恶者依法惩办，对群众则予教育，既往不咎，且之后仍有第六、七项。校注补入对应措辞及所在位置。与既有论坛同文同来源，仍缺原件版影或原刊，维持partial。",
+      "nextAction": "不再重复索取同一网上录文。优先补《匪情月报》18卷11期（Forster标1976）84—85页及封面/目录，或可核来源的文件翻印件影像；两种英译原刊仍可用于版本对照。"
+    }
+  ],
+  "limitations": [
+    "只复核用户指定的2处，不表示本轮重新审校全部100处。两个网址的正文和来源说明相同，不能据网址数量提高证据等级。",
+    "比对仅去掉空白，正文10段逐字一致；来源说明外围括号格式不同，说明文字相同。未核定两站转载先后或共同底本的具体身份。",
+    "CCRD页面作者栏为待确定，结构化authors为空；题名列中共中央、国务院，不替网页补写个人作者。",
+    "网页自述所据为未注明翻印者的翻印件，未提供原件版影或《匪情月报》卷期页码；不能将其标作已获得该刊84—85页。",
+    "第二段引句在第五项末，之后仍有第六七项；仅在校注说明，不静默重写Harris正文叙述。",
+    "完整保存CCRD网页原始字节为.html.txt参考文件，另作可读录文及论坛对照摘录；不是修改书籍HTML。",
+    "未取得两种英译原刊；参考PDF仍32份。两项文献传递及Ash已获全文状态保留；书籍PDF、HTML和排版代码不动。"
+  ]
+}

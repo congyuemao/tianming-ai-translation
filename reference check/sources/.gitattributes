@@ -3,3 +3,8 @@
 Xi-Zhongxun-Anti-Bureaucratism-1950-RMRB-transcription.md -text
 # Preserve the round 33 source transcription byte for byte.
 Hangzhou-Troops-1975-08-02-RMRB-transcription.md -text
+# Preserve the user-provided CCRD page as downloaded bytes.
+Zhejiang-Decision-1975-CCRD-original.html.txt -text
+# Preserve the round 34 transcription and comparison hashes.
+Zhejiang-Decision-1975-CCRD-transcription.md -text
+Zhejiang-Decision-1975-forum-excerpt.txt -text

@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第三十三轮](reference%20check/2026-10-14-round33.md)：集中复核杭州事件相关12个编号，取得Forster博士论文公开版，补充第九章3条章末注及原刊、广播译刊线索。尚无新增恢复，待核仍为100处。新增1份参考PDF、9张核对页图及1篇报刊录文见[来源目录](reference%20check/sources/README.md)。《中国工人》和Current Scene两项文献传递继续等待。最新校注已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第三十四轮](reference%20check/2026-10-14-round34.md)：核对用户提供的浙江问题决定完整录文，复核2个编号，补充第九章注34。新页面与此前录文正文、来源说明一致，尚未核定原件版本，待核仍为100处。全文、原始网页字节及对照摘录已归档，见[来源目录](reference%20check/sources/README.md)。《中国工人》和Current Scene两项文献传递继续等待。最新校注已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 
