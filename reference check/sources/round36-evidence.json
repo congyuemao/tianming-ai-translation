@@ -1,0 +1,278 @@
+{
+  "date": "2026-10-14",
+  "round": 36,
+  "formalReviewIds": [
+    "03-04",
+    "03-07",
+    "08-22",
+    "09-19",
+    "09-20",
+    "11-01",
+    "12-02"
+  ],
+  "sources": [
+    {
+      "id": "mao-letter-retranslation-r36",
+      "recordIds": [
+        "03-04",
+        "03-07"
+      ],
+      "title": "致章乃器、陶行知、邹韬奋、沈钧儒及全体救国会员函：当年中文再译刊本摘录",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-04.pdf",
+      "kind": "已归档汇编中的当年中文再译刊本；不是中文原稿",
+      "sourcePDF": {
+        "localPath": "reference check/sources/Mao-Collection-Supplement-Vol4.pdf",
+        "sha256": "9e549220c1431d1c09a4eeda3b38881d5a3c855e84e8248dada82b753df03927",
+        "newlyArchivedThisRound": false
+      },
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/Mao-Supplement-Vol4-p297.png",
+          "printedPage": 297,
+          "pdfPage": 299,
+          "sha256": "813aec7af940ae225ba097dc6f538d0b3a86673d224f1be256886eb04cc4cf15",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；无裁切、重排或图像修订。"
+        },
+        {
+          "localPath": "reference check/sources/Mao-Supplement-Vol4-p301.png",
+          "printedPage": 301,
+          "pdfPage": 303,
+          "sha256": "ab2242788b88dcadc35f63b39474406efc2c8367637a56dda16a218255d3f74f",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；无裁切、重排或图像修订。"
+        },
+        {
+          "localPath": "reference check/sources/Mao-Supplement-Vol4-p302.png",
+          "printedPage": 302,
+          "pdfPage": 304,
+          "sha256": "228f23c26bc76df3dfa87ded064b770456ed647fb68722b8388f006814d1050b",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；无裁切、重排或图像修订。"
+        },
+        {
+          "localPath": "reference check/sources/Mao-Supplement-Vol4-p306.png",
+          "printedPage": 306,
+          "pdfPage": 308,
+          "sha256": "4f8c018450b83dd9839cad12cae88430e314861d77a0c2d8117c856ec5544c94",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；无裁切、重排或图像修订。"
+        }
+      ],
+      "observations": [
+        "目视核对第297、301、302、306页；书中繁体转为简体，保留措辞。",
+        "03-07跨301—302页；恢复时用省略号标明Harris未引的改善工人生活分句，完整句在摘录中保留。",
+        "第306页救国时报编者注明英文再译；来源栏列救国时报1936-10-30。该原报及原注英文集未取得。"
+      ],
+      "localPath": "reference check/sources/Mao-Letter-1936-Retranslation-excerpts.md",
+      "sha256": "dbd13ff54b8b3305c163888b2feb4f24036dd0c7cbd3c36abd14cfcbe03a9142",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "tan-speech-adopted-r36",
+      "recordIds": [
+        "08-22"
+      ],
+      "title": "谭震林在文革初期的十三次讲话，第五项",
+      "url": "https://speechfree.github.io/cultural-revolution-database/post/1496/",
+      "kind": "批判材料网络录文的目标段摘录",
+      "targetSectionDate": "1966-09-07",
+      "retrievedHTMLSHA256": "706ad9268c8a4190bb98c17fe3c30507888c4e0c8423cead0d57dd0b00b9568c",
+      "htmlRetrievedRound": 22,
+      "observations": [
+        "人物、日期和内容与Deleyne第58页对应；本轮复核此前保存的网页字节。",
+        "按录文恢复农村年收入二三百元，Harris的月收入20元保留在章末版本对照。",
+        "按Harris节引范围起于都想往城里跑，末尾用省略号标明举手及勉强句未引；材料按语不混入讲话。"
+      ],
+      "localPath": "reference check/sources/Tan-Zhenlin-1966-09-07-excerpt.md",
+      "sha256": "681d71fee1bc3b37e2fbbbc5c1fea32cc8997c4ccb19925976fb75a06204539e",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "shen-wenhui-adopted-r36",
+      "recordIds": [
+        "09-19",
+        "09-20"
+      ],
+      "title": "沈福祥《我的文革岁月》所引文汇报标题及新劳动制度句",
+      "url": "https://difangwenge.org/forum.php?mod=viewthread&page=2&tid=9979",
+      "kind": "亲历者后出回忆录摘引；不是1967年原报全文",
+      "retrievedHTMLSHA256": "5af5d65a15d92c9228d382611223915a8a05842228ef13061a47dbf5642f867c",
+      "evidenceLocation": "第二页，红工竟没有在“紧急通知”上签字一节末",
+      "observations": [
+        "本轮重新读取页面并核对标题、句子及1月6日文汇报二版说明。",
+        "09-19正文恢复所引完整标题，原书只节引其末句；09-20采用符合毛泽东思想的新劳动制度。",
+        "后续政治学习、劳动保护、扣薪停工两条未核，不连带撤除。"
+      ],
+      "localPath": "reference check/sources/Shen-Memoir-Wenhui-1967-01-06-excerpts.md",
+      "sha256": "a3c2ca86b062421ece895de4e128210a1f5dcb0258b2ba4e7e2a6eb89af7bcbe",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "mao-land-reform-adopted-r36",
+      "recordIds": [
+        "11-01"
+      ],
+      "title": "一九四八年的土地改革工作和整党工作，第二节",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480525.htm",
+      "kind": "1948年文件网络录文；与原注1950年材料的转引关系尚未核定",
+      "documentDate": "1948-05-25",
+      "retrievedHTMLSHA256": "1396e70c79bd8ed8683b0d95511f12371d041661dd1579c07db694af01093995",
+      "evidenceLocation": "第二节甲项，第三个条件",
+      "observations": [
+        "本轮重新读取网页，按对应中文恢复干部数量、质量及自发活动句。",
+        "采用的是1948年文件；保留原注1950年新观察与CB63，并说明未核其是否转载，未将日期改作1948年。"
+      ],
+      "localPath": "reference check/sources/Mao-Land-Reform-1948-05-25-excerpt.md",
+      "sha256": "55007d025f70d3e3d1dc8c8173f2a165e0427257e09e693988771584ad89be4f",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "communist-continue-adopted-r36",
+      "recordIds": [
+        "12-02"
+      ],
+      "title": "共产党员要自觉地坚持继续革命！：目标段",
+      "url": "https://www.mzfxw.com/m/show2.php?bclassid=4&cid=1&classid=18&cpage=1997&id=72477&style=0",
+      "kind": "2016年网络转载目标段；非原报扫描",
+      "postedDate": "2016-09-24",
+      "attributedAuthor": "光明日报社论",
+      "dateInBody": "1975年4月",
+      "originalDayConfirmed": false,
+      "retrievedHTMLSHA256": "f86958f6b97fcae5d95d15a7658717595e25e5bfab86679fe0a7eb770eb29da4",
+      "htmlRetrievedRound": 23,
+      "observations": [
+        "本轮复核第二十三轮保存的原始网页字节，目标整段对应。",
+        "正文保留Harris的中间省略和结尾范围；具体日号只保留在原注，不声称通过转载独立核定4月22日。"
+      ],
+      "localPath": "reference check/sources/Communist-Continue-Revolution-1975-04-excerpt.md",
+      "sha256": "81f315a5f7eddc1f524cb8448f13f0f4f33db62fe0b1ca660dae05169f5fe0d7",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "findings": [
+    {
+      "id": "03-04",
+      "status": "restored",
+      "sources": [
+        "mao-letter-retranslation-r36"
+      ],
+      "comment": "据汇编所收当年中文再译刊本第301页校引财产段，采用大小工商业者、物质供给等原刊措辞；注明由英文再译，撤标不等于取得中文原稿。",
+      "nextAction": "本次按已接受的中文版本完成校引；原注载体或原稿如后续取得，再作版本比对，不计入剩余待核。"
+    },
+    {
+      "id": "03-07",
+      "status": "restored",
+      "sources": [
+        "mao-letter-retranslation-r36"
+      ],
+      "comment": "据第301—302页跨页中文再译刊本校引；用省略号标明原书省去的改善工人生活分句，完整句归档。原稿及英文集尚缺，采用刊本后撤标。",
+      "nextAction": "本次按已接受的中文版本完成校引；原注载体或原稿如后续取得，再作版本比对，不计入剩余待核。"
+    },
+    {
+      "id": "08-22",
+      "status": "restored",
+      "sources": [
+        "tan-speech-adopted-r36"
+      ],
+      "comment": "采用1966-09-07中文讲话录文，农村收入恢复年二三百元，与英文月20元差异写入校注；保留原书节引范围，注明批判材料性质，撤标。",
+      "nextAction": "本次按已接受的中文版本完成校引；原注载体或原稿如后续取得，再作版本比对，不计入剩余待核。"
+    },
+    {
+      "id": "09-19",
+      "status": "restored",
+      "sources": [
+        "shen-wenhui-adopted-r36"
+      ],
+      "comment": "采用沈福祥回忆录所引文汇报完整标题，恢复彻底砸烂用语；注明据回忆录摘引而非报纸原件，撤标。",
+      "nextAction": "本次按已接受的中文版本完成校引；原注载体或原稿如后续取得，再作版本比对，不计入剩余待核。"
+    },
+    {
+      "id": "09-20",
+      "status": "restored",
+      "sources": [
+        "shen-wenhui-adopted-r36"
+      ],
+      "comment": "按同一回忆录所引报道恢复符合毛泽东思想的新劳动制度，撤标；不连带处理后续两条未核引句。",
+      "nextAction": "本次按已接受的中文版本完成校引；原注载体或原稿如后续取得，再作版本比对，不计入剩余待核。"
+    },
+    {
+      "id": "11-01",
+      "status": "restored",
+      "sources": [
+        "mao-land-reform-adopted-r36"
+      ],
+      "comment": "采用1948年文件第二节对应中文校引干部条件句，撤标；保留1950年原注及转引关系尚未核定的说明。",
+      "nextAction": "本次按已接受的中文版本完成校引；原注载体或原稿如后续取得，再作版本比对，不计入剩余待核。"
+    },
+    {
+      "id": "12-02",
+      "status": "restored",
+      "sources": [
+        "communist-continue-adopted-r36"
+      ],
+      "comment": "采用完整中文转载的对应段落，保留Harris删节及结尾范围，撤标；具体刊日尚未独立核实，与恢复措辞分开记录。",
+      "nextAction": "本次按已接受的中文版本完成校引；原注载体或原稿如后续取得，再作版本比对，不计入剩余待核。"
+    }
+  ],
+  "userSourceAcceptance": {
+    "instruction": "那么先把这五个恢复原文了呗",
+    "fiveGroups": [
+      [
+        "12-02"
+      ],
+      [
+        "08-22"
+      ],
+      [
+        "11-01"
+      ],
+      [
+        "09-19",
+        "09-20"
+      ],
+      [
+        "03-04",
+        "03-07"
+      ]
+    ],
+    "appliedDecision": "采用已说明性质的网络录文、回忆录摘引和当年中文再译刊本，共撤除7处标记；恢复状态不等于取得每条原注载体或中文原稿。"
+  },
+  "harrisComparison": {
+    "localResearchFile": "tmp/research19/English-source.pdf",
+    "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+    "checkedPrintedPages": [
+      25,
+      26,
+      28,
+      111,
+      124,
+      125,
+      150,
+      173,
+      174
+    ],
+    "checkedPDFPages": [
+      44,
+      45,
+      47,
+      130,
+      143,
+      144,
+      169,
+      192,
+      193
+    ],
+    "scope": "对照7处英文引句与节引范围；非全书通读"
+  },
+  "limitations": [
+    "本轮采用用户指定五组材料，涉及7个固定编号；不是对全部98处重新检索。",
+    "03-04、03-07采用汇编所收当年中文再译刊本，不能称已取得中文原稿；其余采用网络录文或回忆录摘引，来源性质逐条明示。",
+    "11-01采用1948年对应文本，1950年新观察与CB63转引关系仍未核通；12-02仅能从转载核到1975年4月，22日未独立核实。",
+    "08-22恢复年收入二三百元，与英文月20元的口径差异保留；按原书范围节引，不将批判按语混入讲话。",
+    "03-05、09-21、09-22等邻近未获对应中文的条目继续待核，不因同注而连带恢复。",
+    "恢复状态表示按用户接受的中文版本校引，不表示证明原注全部书目信息或文中历史判断。",
+    "参考PDF复用此前归档文件；新增4张证据图和5份目标摘录，没有重复归档PDF或整篇论坛回忆录。",
+    "中国工人和Current Scene两项文献传递继续等待，不重复申请；书籍PDF、HTML及排版代码保持不变。"
+  ]
+}

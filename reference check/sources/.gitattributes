@@ -12,3 +12,10 @@ Zhejiang-Decision-1975-forum-excerpt.txt -text
 # Preserve the round 35 newspaper transcription bytes.
 East-China-Plenum-1950-07-21-Opening-RMRB-transcription.md -text
 East-China-Plenum-1950-07-24-Closing-RMRB-transcription.md -text
+
+# Preserve round 36 evidence excerpt hashes across checkout filters.
+Mao-Letter-1936-Retranslation-excerpts.md -text
+Tan-Zhenlin-1966-09-07-excerpt.md -text
+Shen-Memoir-Wenhui-1967-01-06-excerpts.md -text
+Mao-Land-Reform-1948-05-25-excerpt.md -text
+Communist-Continue-Revolution-1975-04-excerpt.md -text
