@@ -110,7 +110,7 @@ Mao Zedong, China: The March Towards Unity, documents, Communist Party of the Un
 
 Miscellany of Mao Tse-tung Thought, 1949-68, Vols. I and II, Joint Publications Research Service, Arlington Virginia, n.d. (mimeo)。文中简称 Miscellany。
 
-Mao Tse-tung Unrehearsed, Talks and Letters, 1965-71, edited by Stuart R. Schram, London, 1974。文中简称 Mao Unrehearsed。
+Mao Tse-tung Unrehearsed, Talks and Letters, 1956-71, edited by Stuart R. Schram, London, 1974。文中简称 Mao Unrehearsed。 校注：原书此处误作1965-71。第三十轮据同一译集[美版版权页](../reference%20check/sources/Schram-1974-US-copyright-contents.png)所列英国原题名改正；美版题名为Chairman Mao Talks to the People，Pantheon Books，版权年1974。
 
 Mao Papers, Anthology and Bibliography, translated and edited by Jerome Ch’en, London, 1970。文中简称 Mao Papers。
 

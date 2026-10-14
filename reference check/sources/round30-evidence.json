@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-14",
+  "round": 30,
+  "formalReviewIds": [
+    "06-01"
+  ],
+  "sources": [
+    {
+      "id": "schram-us-fulltext-r30",
+      "recordIds": [
+        "06-01"
+      ],
+      "title": "Chairman Mao Talks to the People: Talks and Letters: 1956–1971",
+      "editor": "Stuart Schram",
+      "publication": "Pantheon Books, New York",
+      "copyrightYear": 1974,
+      "editionNote": "所获为美版扫描，版权页载1974；未据数字印次线断言首印。英国版未取得。",
+      "originalBritishTitleAsPrinted": "Mao Tse-tung Unrehearsed: Talks and Letters: 1956–71",
+      "originalBritishPublisherAsPrinted": "Penguin Books, Ltd., London",
+      "url": "https://www.bannedthought.net/China/Individuals/MaoZedong/Books/ChairmanMaoTalksToThePeople-Schram-1974-UNDERLINING.pdf",
+      "kind": "公开下载的英文译集扫描；仅作英译、版本及页码依据",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/Schram-Chairman-Mao-Talks-1974-US.pdf",
+      "sourcePDFSHA256": "98ca3882a2ff4e974e9f5997dc393275b25e0604cf710abd8f2d7d80abe812be",
+      "sourcePDFBytes": 21912596,
+      "sourcePDFPages": 179,
+      "sourcePDFArchived": true,
+      "fullTextObtained": true,
+      "archivedPDFIdenticalToDownload": true,
+      "images": [
+        {
+          "localPath": "reference check/sources/Schram-1974-US-title.png",
+          "pdfPage": 3,
+          "printedPages": [],
+          "sha256": "21b6f2c9e6679d48e4c851b9cb7295858cf42e3a89acab5621bbc7f72866eca1",
+          "visuallyChecked": true,
+          "rendering": "Poppler双页整幅渲染，未裁切、未改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Schram-1974-US-copyright-contents.png",
+          "pdfPage": 4,
+          "printedPages": [],
+          "sha256": "280b64ebf45835efc005d1af684cb6a4b5707767063735e1c21937d6dfb8c6e8",
+          "visuallyChecked": true,
+          "rendering": "Poppler双页整幅渲染，未裁切、未改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Schram-1974-US-pp42-43.png",
+          "pdfPage": 23,
+          "printedPages": [
+            42,
+            43
+          ],
+          "sha256": "f31823c8da19804416037ad2a1ec85d4c09aa7b2710fb5eb93b712330e25d56f",
+          "visuallyChecked": true,
+          "rendering": "Poppler双页整幅渲染，未裁切、未改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Schram-1974-US-pp130-131.png",
+          "pdfPage": 67,
+          "printedPages": [
+            130,
+            131
+          ],
+          "sha256": "d42a9ef221ccb3683e42a5e36a4110f5fcf3927474ecb3ad33ae58c8e136fbb0",
+          "visuallyChecked": true,
+          "rendering": "Poppler双页整幅渲染，未裁切、未改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Schram-1974-US-pp142-143.png",
+          "pdfPage": 73,
+          "printedPages": [
+            142,
+            143
+          ],
+          "sha256": "d90b4d2a6f00103712f9a7d88623de4fc087a3f12d5733a019b71e910e80003d",
+          "visuallyChecked": true,
+          "rendering": "Poppler双页整幅渲染，未裁切、未改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Schram-1974-US-pp264-265.png",
+          "pdfPage": 134,
+          "printedPages": [
+            264,
+            265
+          ],
+          "sha256": "eee14c55425d26ce0fa784a9699692a3b792c9700fe54e47d5b68828b8d2df78",
+          "visuallyChecked": true,
+          "rendering": "Poppler双页整幅渲染，未裁切、未改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Schram-1974-US-pp266-267.png",
+          "pdfPage": 135,
+          "printedPages": [
+            266,
+            267
+          ],
+          "sha256": "7e5770c6f41dc1acd10c691d7badbc97d1a3e832f307c671d67a1915beb860a9",
+          "visuallyChecked": true,
+          "rendering": "Poppler双页整幅渲染，未裁切、未改动扫描内容。"
+        }
+      ],
+      "visuallyCheckedPDFPages": [
+        3,
+        4,
+        23,
+        67,
+        72,
+        73,
+        134,
+        135,
+        136,
+        162
+      ],
+      "textExtraction": "pypdf逐页提取结果均为空；没有OCR全文检索，未逐字审读全书。仅渲染并目视核查所列页面。",
+      "observations": [
+        "版权页明列英国原题名的年份为1956–71，足以校正读者说明误作1965–71；Harris底本PDF19同样有该倒置错误。",
+        "第131页标题为1959年7月23日庐山讲话；所引煤铁运输、XX和总理、经济建设外行等句均在美版第142页；第42—43页是导言。用明确注明版本的第142页替代原注42—43页，未声称英国版分页已另核。",
+        "第264页标题日期为1966年10月24日；第266页末至267页首确有dead ancestor句。英文转引已落实到出版物，不能据此消除中文如丧考妣与英文被当作祖先的语义差异。",
+        "原扫描含读者划线及批注；不把这些手写标记作为编者或作者的正文证据。"
+      ]
+    },
+    {
+      "id": "malden-cambridge-metadata-r30",
+      "recordIds": [],
+      "title": "A New Class Structure Emerging in China?",
+      "author": "William Malden",
+      "publication": "The China Quarterly",
+      "issue": "22",
+      "dateAsPublisher": "June 1965",
+      "printedPageRange": [
+        83,
+        88
+      ],
+      "doi": "10.1017/S0305741000048724",
+      "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/new-class-structure-emerging-in-china/CD9CC0453BBEF38C1AAD1DD7265DD77E",
+      "kind": "出版社公开书目及Extract页面；未取得论文全文",
+      "accessed": "2026-10-14",
+      "fullTextObtained": false,
+      "publicExtractRead": true,
+      "targetCitationPagesAsHarris": [
+        84,
+        85
+      ],
+      "observations": [
+        "出版社作者为William Malden，原刊年份1965；页面2009-02-17为上线日期，不能用作原刊日期。",
+        "Harris底本第67页原注50及现译第四章注27均误作William Maiden及1960。仅改正作者拼写和年份；原注目标页84—85保留，不以全篇83—88替代引文定位。",
+        "公开Extract谈社会主义教育运动，但未显示所引新疆句；不宣称第84—85页引文及周恩来报告节译已核实。"
+      ]
+    },
+    {
+      "id": "mao-oct1966-chinese-transcription-r30",
+      "recordIds": [
+        "06-01"
+      ],
+      "title": "在中央政治局汇报会议上的讲话（一九六六年十月二十四日）",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-220.htm",
+      "kind": "中文网络录文，页面标为1968年汉版毛泽东思想万岁，非原始记录版影",
+      "accessed": "2026-10-14",
+      "targetExcerpt": "完不成任务不要紧，不要如丧考妣。",
+      "location": "武昌会议及到北京开会段落",
+      "originalChineseRecordObtained": false,
+      "observations": [
+        "本轮重新打开页面并核对目标段；此处中文措辞与Schram英译仍不一致。"
+      ]
+    },
+    {
+      "id": "harris-bibliography-comparison-r30",
+      "recordIds": [
+        "06-01"
+      ],
+      "title": "The Mandate of Heaven，读者说明、第四章注41及50、第五章引文",
+      "kind": "既有英文底本的文本比对",
+      "accessed": "2026-10-14",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "textReadPDFPages": [
+        19,
+        79,
+        86,
+        93
+      ],
+      "observations": [
+        "PDF19题名年份作1965–71；印刷第67页（PDF86）原注41作pp.42-3，原注50作William Maiden及1960。",
+        "印刷第60页（PDF79）为煤铁运输引文，印刷第74页（PDF93）为dead ancestor转引。书目问题沿袭英文底本，不归因于译稿独有错误。"
+      ]
+    }
+  ],
+  "additionalFindings": [
+    {
+      "chapterFile": "01a_notes_for_reader.md",
+      "location": "Mao Tse-tung Unrehearsed书目条目",
+      "kind": "题名年份校正",
+      "before": "1965-71",
+      "after": "1956-71",
+      "sourceIds": [
+        "schram-us-fulltext-r30",
+        "harris-bibliography-comparison-r30"
+      ],
+      "countsAsAdditionalFixedRecords": false
+    },
+    {
+      "chapterFile": "05_ch04_great_leap_forward_and_after.md",
+      "endnotes": [
+        18
+      ],
+      "kind": "引文页码改为已核美版定位",
+      "before": "Mao Unrehearsed, pp.42-3",
+      "after": "Chairman Mao Talks to the People，美版p.142；明确版本转换依据",
+      "sourceIds": [
+        "schram-us-fulltext-r30",
+        "harris-bibliography-comparison-r30"
+      ],
+      "countsAsAdditionalFixedRecords": false
+    },
+    {
+      "chapterFile": "05_ch04_great_leap_forward_and_after.md",
+      "endnotes": [
+        27
+      ],
+      "kind": "同一书目条目的作者及年份校正",
+      "before": "William Maiden / 1960",
+      "after": "William Malden / 1965",
+      "sourceIds": [
+        "malden-cambridge-metadata-r30",
+        "harris-bibliography-comparison-r30"
+      ],
+      "countsAsAdditionalFixedRecords": false
+    }
+  ],
+  "documentDeliveryRequests": [
+    {
+      "key": "chinese-worker-1957-6",
+      "recordIds": [
+        "10-32"
+      ],
+      "title": "中国工人1957年第6期；Li Ch’un所署文章",
+      "status": "requested_by_user_waiting",
+      "statusLabel": "用户已提交文献传递，等待中",
+      "asOf": "2026-10-14",
+      "evidence": "用户本轮明确告知；未获得传递平台回执或到件",
+      "nextAction": "等待用户提供到件后核查；不重复请求该件"
+    },
+    {
+      "key": "current-scene-1968-vi-5",
+      "recordIds": [
+        "09-14",
+        "09-15",
+        "09-32"
+      ],
+      "title": "Sources of Labor Discontent in China: The Worker-Peasant System；Current Scene VI/5，1968-03-15",
+      "status": "requested_by_user_waiting",
+      "statusLabel": "用户已提交文献传递，等待中",
+      "asOf": "2026-10-14",
+      "evidence": "用户本轮明确告知；未获得传递平台回执或到件",
+      "nextAction": "等待用户提供到件后核查；不重复请求该件"
+    }
+  ],
+  "supplementarySearch": {
+    "queries": [
+      "\"财贸部门\" \"亦工亦农\" \"新建设\"",
+      "\"财贸\" \"新建设\" \"1966\"",
+      "\"Chang Ho-wei\" \"worker\"",
+      "\"财贸部门实行亦工亦农劳动制度\"",
+      "\"finance and trade departments\" \"1966\""
+    ],
+    "result": "没有取得原注1966年2月20日Hsin-chun-she第1—2期文章全文；未据近似题名或拼音猜定中文作者，不计正式复核或恢复。"
+  },
+  "limitations": [
+    "正式复核固定台账1条，另校正3处书目或页码条目；不将作者和年份两项字段改正重复计作两处引文恢复。待核仍106。",
+    "已获Schram谈话集美版扫描；英国版尚未取得。题名年份由美版版权页明确的英国原题名确认；引文页码明确采用美版，不默认英美两版全部同页。",
+    "扫描无可提取文字，未执行OCR全文检索，未逐字读完全书。扫描本原有手写批注不作原文证据。",
+    "06-01英文转引落实，但中文措辞与英文译法不一致，不能机械替换。",
+    "Malden论文只有出版社书目及公开Extract，未取得全文；仅改正作者和年份，不宣称其84—85页引文已经核实。",
+    "中国工人与Current Scene两项文献传递继续等待；Ash两篇维持已获全文状态。",
+    "沿用reference check/sources目录归档来源；书籍成品PDF/HTML及排版代码未改动。"
+  ]
+}

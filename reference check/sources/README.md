@@ -373,3 +373,21 @@ SHA-256：
 - [来源记录](round29-evidence.json)：输入PDF及9张证据图的SHA-256、实际精读／目视范围、原书转引差异、原报和学习文章线索。证据图均为已目视核对的完整页面；不把全文关键词筛查称作逐字通读。
 
 两个等待中的文献传递条目保持原状态。中文文件及相关原报未取得，待核总数仍为106。
+
+## 第三十轮新增材料（2026-10-14）
+
+[Schram谈话集美版完整扫描](Schram-Chairman-Mao-Talks-1974-US.pdf)，*Chairman Mao Talks to the People: Talks and Letters: 1956–1971*，Stuart Schram编，Pantheon Books，版权年1974。来自[公开扫描](https://www.bannedthought.net/China/Individuals/MaoZedong/Books/ChairmanMaoTalksToThePeople-Schram-1974-UNDERLINING.pdf)，179个PDF页面，21,912,596字节；原样归档，SHA-256：`98ca3882a2ff4e974e9f5997dc393275b25e0604cf710abd8f2d7d80abe812be`。不是英国版扫描；版权页明确英国原题名为*Mao Tse-tung Unrehearsed: Talks and Letters: 1956–71*。不以印次线断言首印。
+
+| 证据图 | PDF页 | 核查用途 |
+| --- | ---: | --- |
+| [扉页](Schram-1974-US-title.png) | 3 | 美国版题名及编者 |
+| [版权及目录](Schram-1974-US-copyright-contents.png) | 4 | 版权年、出版社、英国题名及正确年份 |
+| [42—43页](Schram-1974-US-pp42-43.png) | 23 | 原注错误定位处实为导言 |
+| [130—131页](Schram-1974-US-pp130-131.png) | 67 | 庐山讲话日期 |
+| [142—143页](Schram-1974-US-pp142-143.png) | 73 | 煤铁运输等目标引文在142页 |
+| [264—265页](Schram-1974-US-pp264-265.png) | 134 | 1966年10月24日讲话标题 |
+| [266—267页](Schram-1974-US-pp266-267.png) | 135 | 06-01的英文转引 |
+
+原扫描含划线与批注，不当作原文或编者证据。无可提取文字，未作OCR全文检索；实际目视范围和7幅图的SHA-256见[第三十轮来源记录](round30-evidence.json)。书籍成品PDF/HTML未修改。
+
+另核[William Malden论文的出版社书目](https://www.cambridge.org/core/journals/china-quarterly/article/abs/new-class-structure-emerging-in-china/CD9CC0453BBEF38C1AAD1DD7265DD77E)：*A New Class Structure Emerging in China?*，*The China Quarterly* 22（1965），83—88，DOI 10.1017/S0305741000048724。仅有公开Extract，全文仍缺；此元数据用来校正作者及年份，不表示原注目标84—85页引文已核。

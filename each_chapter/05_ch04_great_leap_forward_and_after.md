@@ -110,7 +110,7 @@
 
 17. 21 February 1959, in Miscellany I, p.160。
 
-18. Lushan Plenum, 23 July 1959, in Mao Unrehearsed, pp.42-3。可见文本中未说明 XX 指谁。
+18. Lushan Plenum, 23 July 1959, in Mao Unrehearsed；本轮按美版Chairman Mao Talks to the People, Pantheon Books, 1974, p.142定位。可见文本中未说明 XX 指谁。 校注：原书第67页注41列pp.42-3。第三十轮取得[美版完整扫描](../reference%20check/sources/Schram-Chairman-Mao-Talks-1974-US.pdf)，其中第42—43页为导言，煤铁运输及对经济建设外行的引文均见[第142页](../reference%20check/sources/Schram-1974-US-pp142-143.png)。版权页明确该书的英国原题名；此处据已核到的美版给出引文页码，未另核英国版分页，也未推定XX的真实姓名。
 
 19. RMRB, 27 August 1959。
 
@@ -128,7 +128,7 @@
 
 26. Mao, Enlarged Work Conference, 30 January 1962, in Mao Unrehearsed, pp.174-5。
 
-27. “1962 年，在外来力量的策划和直接指挥下，新疆一批最反动的地方民族主义分子，在伊宁发动了我国的反革命武装叛乱，煽动和组织大批边民外逃。”Zhou Enlai, Third NPC, 21-2 December 1964；转引自 William Maiden, A new class structure emerging in China?, CQ22, April-June 1960, pp.84-5；该报告的节译本收入同刊，pp.70-74。
+27. “1962 年，在外来力量的策划和直接指挥下，新疆一批最反动的地方民族主义分子，在伊宁发动了我国的反革命武装叛乱，煽动和组织大批边民外逃。”Zhou Enlai, Third NPC, 21-2 December 1964；转引自 William Malden, A new class structure emerging in China?, CQ22, April-June 1965, pp.84-5；该报告的节译本收入同刊，pp.70-74。 校注：第三十轮据[剑桥大学出版社书目及公开摘录](https://www.cambridge.org/core/journals/china-quarterly/article/abs/new-class-structure-emerging-in-china/CD9CC0453BBEF38C1AAD1DD7265DD77E)改正原书第67页注50的作者拼写与年份：William Malden，第22期，1965年，全文第83—88页，DOI 10.1017/S0305741000048724。目标引文页码84—85仍按原注保留；本轮未取得该论文全文，未将公开摘录视为新疆引文或报告节译的核验依据。
 
 28. Bulletin of Activities (Kung-tso T’ung-hsun), PLA confidential documents, No.1, 1 January 1961, pp.29-32, and No.5, 17 January 1961, pp.5-15；由 John Wilson Lewis 在讨论这些文件时引用，CQ18, April-June 1964, p.76。毛在 1961 年 1 月 18 日中共八届九中全会讲话中，也提到三个省因粮食短缺和领导错误而出现“严重问题”，见 Miscellany II, p.240。
 

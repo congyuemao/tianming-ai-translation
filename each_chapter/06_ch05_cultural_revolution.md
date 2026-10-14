@@ -112,7 +112,7 @@
 12. 1966 年 10 月，见 *Mao Unrehearsed*, p.268；另参 ibid., p.271, and *Mao Papers*, p.43。
 13. Ibid., p.271。
 14. Ibid., p.270。
-15. Ibid., pp.266-7。 校注：[1966年10月24日中文讲话录文](https://www.marxists.org/chinese/maozedong/1968/5-220.htm)在武昌、北京会议一段作“完不成任务不要紧，不要如丧考妣”；[同日讲话英译录文](https://www.marxists.org/reference/archive/mao/selected-works/volume-9/mswv9_68.htm)则译作不喜欢被当作“a dead ancestor”，与作者转引接近。中文成语所述的悲丧情态与英文所述的受对待方式不同，不能直接用中文成语替换正文而改变作者的论述。尚未取得原注Mao Unrehearsed第266—267页和中文原始记录，正文保留待核标记。
+15. Ibid., pp.266-7。 校注：[1966年10月24日中文讲话录文](https://www.marxists.org/chinese/maozedong/1968/5-220.htm)在武昌、北京会议一段作“完不成任务不要紧，不要如丧考妣”；[同日讲话英译录文](https://www.marxists.org/reference/archive/mao/selected-works/volume-9/mswv9_68.htm)则译作不喜欢被当作“a dead ancestor”，与作者转引接近。中文成语所述的悲丧情态与英文所述的受对待方式不同，不能直接用中文成语替换正文而改变作者的论述。第三十轮已取得同一译集美版Chairman Mao Talks to the People的[第266—267页](../reference%20check/sources/Schram-1974-US-pp266-267.png)，目标英文句确在第266页末至267页首；第264页讲话日期为1966年10月24日。英文转引已落实到出版物，但英国版及中文原始记录仍未另核，上述中英文语义差异未消除，正文保留待核标记。
 16. Ibid., p.267。
 17. Ibid., p.268；另参 “Nor can we put all the blame on Comrade Hsiao-ch’i \[Shaoqi] and Comrade Hsiao-p’ing \[Xiaoping]”, ibid., p.274，以及略有不同的译文，*Mao Papers*, p.45。
 18. 若干罢工详情可参：为期两周的码头罢工，*Hung-ch’i*, 1 February 1967, *SCMM* 564；沪杭、沪宁铁路罢工（1966 年 12 月 30 日至 1967 年 1 月 10 日），*NCNA*, 9 February 1967；杨树浦电站罢工，*NCNA*, 16 January 1967；南京运输部门罢工，*NCNA*, 14 January 1967；大庆油田罢工，*NCNA*, 15 January 1967；上海第十七棉纺织厂罢工，*NCNA*, 9 January and 28 January 1967；上海玻璃机械厂罢工，*NCNA*, 15 January 1967；上海第二照相机厂因罢工“只完成目标的 9.2%”，*NCNA*, 17 February 1967；北京第二机床厂，*RMRB*, 2 February 1967, *SCMP* 3881。
