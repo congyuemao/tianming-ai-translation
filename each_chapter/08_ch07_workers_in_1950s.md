@@ -137,8 +137,8 @@
 11. *RMRB*, 1 January 1954，转引自 Howe, *Wage patterns*, op. cit., p.131.
 12. *Kung-jen RB*, 19 April 1951.
 13. GAC (Committee for People’s Supervision), “Circular on labour accidents”, 18 September 1952, *NCNA* Beijing, 17 September 1952, *SCMP* 446. 校注：对应中文见《人民日报》1952年9月17日第1版《中央人民政府政务院人民监察委员会关于处理某些国营、地方国营厂矿企业忽视安全生产致发生重大伤亡事故的通报》（[网络录文](https://rmrb.zhouenlai.info/人民日报（1946-2003）/1952/09/1952-09-17.htm)，[检索存证](../reference%20check/sources/round19-evidence.json)）。厂名作“开滦马家沟砖厂”，温度为一百三十度“以上”，伤者为43人中的41人，结语是“有的几被烧死”，即险些死亡。英文底本第102页作Majiakou, Jailan，并将结语写成some proving fatal；现依中文通报校正，原书的致死说法不据此保留在引文内。原注另列9月18日，仍照录以便追查。所据是非官方报刊录文，尚未核到原报版影及SCMP446，不据此独立判定事故的全部伤亡情况。
-14. *Kung-jen RB*, 27 May 1955, *SCMP* 1076.
-15. *Kung-jen RB*, 20 February 1955, *SCMP* 1024.
+14. *Kung-jen RB*, 27 May 1955, *SCMP* 1076. 校注：第三十二轮核到Gluckstein《Mao’s China》[第274页](../reference%20check/sources/Gluckstein-1957-p274.png)末段明确所指为鞍钢，续于[第275页](../reference%20check/sources/Gluckstein-1957-p275.png)的引文含35/17小时，注80列KJJP, May 27, 1955; SCMP1076，与原注一致。目前只核实英文转引，未取得该日《工人日报》或SCMP1076原页，中文措辞仍待核。
+15. *Kung-jen RB*, 20 February 1955, *SCMP* 1024. 校注：第三十二轮核到Gluckstein《Mao’s China》[第275页](../reference%20check/sources/Gluckstein-1957-p275.png)，明确引Lai Jo-yu，含72小时、连续10个月、260,000/220,000工时；注81列KJJP, February 20, 1955; SCMP1024。22万已按页影核对，未采用OCR误识数值。中文《工人日报》原件及SCMP1024仍缺，保留待核；此前查到的1955年7月23日人大会议发言不含这组数字，不能替换。
 16. *RMRB*, 12 March 1961.
 17. *RMRB*, 13 December 1953, *SCMP* 709. 校注：原注误作1954年，正文亦归于该年总工会主席报告。第三十一轮核到Gluckstein《Mao’s China》[第235页](../reference%20check/sources/Gluckstein-1957-p235.png)：前段是赖若愚1953年5月工会七大报告，随后另起段明确引《人民日报》社论，目标句的注12列1953年12月13日及SCMP709。该日[社论《工人们！为实现社会主义工业化而奋斗！》](https://cn.govopendata.com/renminribao/1953/12/13/1/)第一段有完整对应中文，故校正年份和出处归属，并将回译的“资本”恢复为原文“财富”。这只确认本条引文的可核出处，不证明工会主席从未使用相同数字。金额保留原文旧人民币口径。所据中文为非官方录文，未核原报版影及SCMP709原页。
 18. *Report on the work of the government*, First National People’s Congress, first session, 23 September 1954, p.27；另参 “The incompatability of socialism and egalitarianism”, *RMRB*, 14 September 1952, *SCMP* 472. 中文引文据[《政府工作报告》（1954-09-23作，09-24刊载）](https://cn.govopendata.com/renminribao/1954/09/24/1/)核校。
@@ -149,7 +149,7 @@
 23. Wang Yu-ch’ang, “Attend to the livelihood of workers”, *RMRB*, May 1960，转引自 Hoffman, op. cit., p.105. 校注：第二十二轮在《人民日报》1961年5月20日第3版[《做好按劳分配　加强企业管理——京西城子煤矿工人出勤率调查报告之二》](https://cn.govopendata.com/renminribao/1961/05/20/3/)找到对应原句，正文据此恢复。录文署名铁云、王焴长、罗璇、谢烽、叶剑韵。原注所列英文篇名对应的[《关心和安排好职工生活》](https://cn.govopendata.com/renminribao/1961/05/19/2/)是前一天第2版的调查报告之一，未载目标句；原注的1960年5月与两篇报纸日期也不符。目标段叙述1958年11月取消计件工资、1959年3—4月调整奖励后出勤率回升，不能直接当作正文“到1960年”这一概括的年代证明。本轮依据非官方报纸录文及固定版本文字存档，尚未核原报版影或Hoffman第105页；保留原注元数据，另列以上差异。
 24. *RMRB*, 3 November 1955.
 25. 薄一波称，1952 年曾建成 217,500 间住房，可容纳约一百万人；见 *NCNA* Beijing, 20 February 1953.
-26. *Xinhua RB*, 12 January 1952，转引自 *Far Eastern Economic Review*, 30 October 1952.
+26. *Xinhua RB*, 12 January 1952，转引自 *Far Eastern Economic Review*, 30 October 1952. 校注：第三十二轮核到Gluckstein《Mao’s China》[第268页](../reference%20check/sources/Gluckstein-1957-p268.png)相同太原住房段落及注61（HHJP, January 12, 1952, quoted in FEER, October 30, 1952），人数、户数、房间数及十英尺见方的数字均对应。这里只补足英文转引页，未取得该日中文报纸或FEER原页，不能据英文恢复中文原话。
 27. 一位访问大庆者的报告，见 “Forming Maoist Man”, *Financial Times*, London, 2 December 1976. 校注：此处原注指向英国《金融时报》的英文访华报道，待核对象应为该报道原文及引述准确性，并非预设存在中文原话。已核英文底本第108页（PDF第127页）的引句，但尚未取得1976年12月2日原报，暂保留待核标记。
 28. *NCNA* Beijing, 9 July 1955, *CB* 336，见Gluckstein, Mao’s China, p.268, n.59；中文见李先念《关于一九五四年国家决算和一九五五年国家预算的报告》，1955年7月6日在第一届全国人民代表大会第二次会议上所作，[《人民日报》1955年7月10日第2版](https://cn.govopendata.com/renminribao/1955/07/10/2/)。校注：原注作23 October 1954。第三十一轮核到Gluckstein[第268页](../reference%20check/sources/Gluckstein-1957-p268.png)：李先念这段话直接注59为1955年7月9日电及CB336，1954年10月23日则属于相邻注60的尼赫鲁访华材料，原书引注发生错配。上述中文预算报告有工厂名称、18至41元、较旧宿舍高2至6倍及工人住不起的完整对应句，现据以恢复；报告日期、引注电讯日期和报纸刊载日期分别列明。此前找到的3月28日、6月19日社论只是同一事件的旁证，不能代替李先念报告。中文仍据非官方报纸录文，未核原报版影；NCNA英文电讯及CB336原件尚未取得，其日期按Gluckstein原注列出。
 29. 相关例子及中文资料，参 Howe, *Wage Patterns*, op. cit., p.126.

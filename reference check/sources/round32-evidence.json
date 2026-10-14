@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-14",
+  "round": 32,
+  "formalReviewIds": [
+    "08-09",
+    "08-10",
+    "08-17",
+    "11-01",
+    "11-05",
+    "11-23"
+  ],
+  "sources": [
+    {
+      "id": "gluckstein-fulltext-r32",
+      "recordIds": [
+        "08-09",
+        "08-10",
+        "08-17",
+        "11-01",
+        "11-05",
+        "11-23"
+      ],
+      "title": "Mao's China: Economic and Political Survey",
+      "author": "Ygael Gluckstein",
+      "publication": "George Allen & Unwin Ltd, London",
+      "year": 1957,
+      "url": "https://archive.org/download/maoschinaeconomi017995mbp/maoschinaeconomi017995mbp.pdf",
+      "catalogURL": "https://archive.org/details/maoschinaeconomi017995mbp",
+      "kind": "第三十一轮已取得的英文著作完整扫描；本轮精读相关引文和书内注释，不把英文回译当中文原件",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/Gluckstein-Maos-China-1957.pdf",
+      "sourcePDFSHA256": "7f72c53e209e421de5236e38802e1f4e94f42aab297d3fa672fb89ac830f576c",
+      "sourcePDFBytes": 37829066,
+      "sourcePDFPages": 450,
+      "fullTextObtained": true,
+      "sourcePDFArchived": true,
+      "newlyArchivedThisRound": false,
+      "images": [
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p93.png",
+          "pdfPage": 97,
+          "printedPage": 93,
+          "sha256": "0ff598641a3fe5cf103ac957497875ebe79aa2107bd928e14388e3e8874a44db",
+          "visuallyChecked": true,
+          "newlyArchivedThisRound": true,
+          "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p101.png",
+          "pdfPage": 105,
+          "printedPage": 101,
+          "sha256": "0a9014a6c9f27c1c046c44d0de24e742244010bde2d21c5d03ed985ed80e5600",
+          "visuallyChecked": true,
+          "newlyArchivedThisRound": true,
+          "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p274.png",
+          "pdfPage": 278,
+          "printedPage": 274,
+          "sha256": "7241ce1a8ce6bfc2b7604da324f29e79ba4b7925d3a25b52571653e7c69b4dab",
+          "visuallyChecked": true,
+          "newlyArchivedThisRound": true,
+          "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p275.png",
+          "pdfPage": 279,
+          "printedPage": 275,
+          "sha256": "51146a9b842e3595044b157eeef6b49afc752e9802a6026c86dbde8cca542cac",
+          "visuallyChecked": true,
+          "newlyArchivedThisRound": true,
+          "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p268.png",
+          "pdfPage": 272,
+          "printedPage": 268,
+          "sha256": "3c00455f29f6ac45f10e7da836f5a06f88e7705cce61f15801e40fb97ac0fab3",
+          "visuallyChecked": true,
+          "newlyArchivedThisRound": false
+        }
+      ],
+      "visuallyCheckedPDFPages": [
+        97,
+        105,
+        272,
+        278,
+        279
+      ],
+      "observations": [
+        "刊页93及注48有干部数量、质量和禁止群众自发活动的英文段落，脚注HKG, December 10, 1950; CB63。仍无法证明它与1948年中文的转载关系。",
+        "刊页101明确将征收工作中的殴打、责骂、处罚、威胁、拘押引文归于Hsi Chung-hsun；同页作North-East Bureau及May 20, 1951，注7为NFJP, June 9, 1952; CB158。",
+        "刊页274末段明确引Peking Daily Worker所报Anshan Steel Works；刊页275续文有35/17小时，注80为KJJP, May 27, 1955; SCMP1076。",
+        "刊页275的Lai Jo-yu引文有72小时、10个月、260,000及220,000小时，注81为KJJP, February 20, 1955; SCMP1024。220,000已目视确认，不采用OCR误识数值。",
+        "刊页268太原住房引文有20余人、厕所住6人、250户住123间、10英尺见方住3户、漏雨；注61为HHJP, January 12, 1952, quoted in FEER, October 30, 1952。没有据此声称读到原报或FEER。"
+      ]
+    },
+    {
+      "id": "xi-rmrb1950-r32",
+      "recordIds": [
+        "11-05",
+        "11-23"
+      ],
+      "title": "反对官僚主义、命令主义——中共中央西北局第二书记习仲勋在一九五○年五月二十日干部大会上的报告",
+      "author": "习仲勋",
+      "authorOfficeAsPrinted": "中共中央西北局第二书记",
+      "publication": "人民日报",
+      "speechDate": "1950-05-20",
+      "date": "1950-06-07",
+      "page": 1,
+      "url": "https://cn.govopendata.com/renminribao/1950/06/07/1/",
+      "kind": "非官方历史报刊完整录文；不是原报版影或单行本完整扫描",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/Xi-Zhongxun-Anti-Bureaucratism-1950-RMRB-transcription.md",
+      "sha256": "776e0f36e4cadfb7a885a292e5ffa78d593bab6a36101847f383f95e1f1f9b71",
+      "bytes": 23936,
+      "corpusArchive": {
+        "month": "1950-06",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1950%E5%B9%B406%E6%9C%88.7z",
+        "sha256": "acf97cf4af969c8d69f2fc18a58c5e6a1c5d7c17d463d9e79405566f51d53680",
+        "gitBlob": "88decff8262e75c3a0cdc53b4e825cd4e630917f",
+        "files": 1691
+      },
+      "corpusMember": "1950年06月/1950-06-07_反对官僚主义、命令主义_中共中央西北局第二书记习仲勋在一九五○年五月二十日干部大会上的报告.md",
+      "archivedTranscriptionIdenticalToCorpusMember": true,
+      "webVerification": "公开网页搜索索引返回题名、报告日期及目标上下文；整页open返回Cache miss，没有声称取得该网页HTML。完整录文从固定提交版本的公开月度语料下载、解包并核对。两者可能同源，不当作独立两份原始文献。",
+      "quote": "更恶劣的是用打骂、处罚、威胁、拘押等办法推动工作，这是绝对错误的。",
+      "context": "以上，就是我们领导工作中官僚主义作风的一些主要的表现形态。至于下边在执行工作中的命令主义作风，那就更其普遍了。征粮，收税，是我们进入新区后第一项大规模的群众动员工作，任务大体完成了，但缺点、错误很多，群众对工作人员有很多批评，最主要的就是强迫命令作风。干部不做深入宣传解释工作，靠简单命令行事，由少数人把数目分派好，不让大家讲话，不听取各方面的意见，开会也是形式，只许人家赞成干部的意见，不许反对。没有实际的民主，弊端也就发生了，要私情，包庇亲朋，挤大户，造成畸轻畸重现象。在城市中税收手续只顾工作人员便利，不管群众麻烦。按季征收的税款，要一次缴纳。验货要等几天。更恶劣的是用打骂、处罚、威胁、拘押等办法推动工作，这是绝对错误的。要知道：除现行犯外，公安、司法机关以外的任何工作人员没有捕人权。特别是区、乡政府，税收机关，绝对没有因催收粮款而逮捕人的权力。真正破坏征粮税收工作的坏分子，可以上告，由司法机关判处。依照税收条例规定给予处罚的人，应是那极少数故意违抗税款负担的分子，而不是因为工作没做到，尚有疑虑，或真有实际困难的人。西安市处罚了八百户工商业者，和一千一百辆自行车的持有者，显然是个很大的错误。产生这些现象的原因，是我们在接收国民党留下的破烂家务时，很多留用人员，将那种恶劣的官僚习气、保甲作风也带过来了；有些老干部，新学生也受了这种作风的传染。群众批评我们说：“宣传政策太少了！”很对。在新区多开些有准备的群众会议，结合布置工作，讲解各种具体政策，是非常需要的。其实，很多工作人员自己对于政策就糊里糊涂。我们的税收与国民党税收的根本区别：在于我们是“取之于民，用之于民”，而国民党是“取之于民，用之于己”。形式上我们也是向人民要东西，但目的是为人民办一些大事情，办发展生产、繁荣经济的大事，是为了人民的长远利益。我们的税收政策是公平合理的，我们的征粮、收税是能够获得群众自觉拥护的。这些道理，很多工作人员都不了解，脑子里装满了旧思想：“向群众要东西非强迫不可”，“三句好话不如一马棒”。当然也不能完全怪下边，领导机关没有好好向他们做教育工作，任务催的紧，政策没有讲清楚，是有责任的。",
+      "quotationBoundary": "恢复完整中文句；英文的indiscriminate、frequently不逐字强加进中文引号。中文上下文同时讨论征粮和收税，末句明确否定该做法。",
+      "attributionAssessment": "Gluckstein的Hsi Chung-hsun署名、相同的5月20日报告日期和五项强制手段次序，与该中文报告及1950年单行本封面共同确定对应出处；西北局和1950年以中文版本为准。原注所列1952年后续刊载/译载本身仍未核。"
+    },
+    {
+      "id": "xi-book1950-photos-r32",
+      "recordIds": [
+        "11-05",
+        "11-23"
+      ],
+      "title": "1950年《反对官僚主义、命令主义》单行本封面与封底版权照片",
+      "url": "https://www.sbksc.zcxn.com/html/zhuanti/0405_693.html",
+      "host": "中国收藏家协会书报刊收藏委员会网上展览，第10项",
+      "kind": "公开实物照片；只核封面、版权，未取得内文扫描",
+      "accessed": "2026-10-14",
+      "images": [
+        {
+          "name": "Xi-Zhongxun-1950-cover.jpg",
+          "url": "https://www.sbksc.zcxn.com/uploadfile/2018/0405/20180405103542977.jpg",
+          "bytes": 70666,
+          "sha256": "2c44847984140f31c9611db4d39d086e6b61871616ef3db4bee8fcd2fbcc8aea",
+          "localPath": "reference check/sources/Xi-Zhongxun-1950-cover.jpg",
+          "visuallyChecked": true,
+          "preservedWithoutModification": true,
+          "role": "封面：署名、职务、报告日期"
+        },
+        {
+          "name": "Xi-Zhongxun-1950-copyright.jpg",
+          "url": "https://www.sbksc.zcxn.com/uploadfile/2018/0405/20180405103619829.jpg",
+          "bytes": 102144,
+          "sha256": "0d98ec1a5f178dfcfbc0eaa6a51334a0b92913f835bff22efb6ac86f23ac688a",
+          "localPath": "reference check/sources/Xi-Zhongxun-1950-copyright.jpg",
+          "visuallyChecked": true,
+          "preservedWithoutModification": true,
+          "role": "封底版权：著者、出版者、1950年6月初版及7月再版"
+        }
+      ],
+      "coverRead": "中共中央西北局第二书记习仲勋在一九五〇年五月二十日干部大会上的报告",
+      "copyrightRead": {
+        "bookNumber": "0589",
+        "author": "习仲勋",
+        "editor": "新华时事丛刊社",
+        "publisher": "新华书店",
+        "distributor": "新华书店",
+        "printer": "北京解放印刷厂",
+        "firstEdition": "1950-06",
+        "reprint": "1950-07"
+      },
+      "limitations": "照片落实作者、职务、报告日期和出版时间；照片不含目标句，不能代替内文核验。图片和水印均原样保留。"
+    },
+    {
+      "id": "harris-comparison-r32",
+      "recordIds": [
+        "11-05",
+        "11-23"
+      ],
+      "title": "The Mandate of Heaven，英文底本刊页162注123",
+      "kind": "既有底本目标注释文本复核",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "textReadPDFPages": [
+        181
+      ],
+      "accessed": "2026-10-14",
+      "observations": [
+        "注123确作Secretary, North East Bureau, 20 May 1951, Nang Fang RB, 9 June 1952, CB158；没有列人名。原有局名和年份并非译稿自行误录。"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "08-09",
+      "status": "partial",
+      "sources": [
+        "gluckstein-fulltext-r32"
+      ],
+      "comment": "Gluckstein刊页274—275明确鞍钢及35/17小时，注80日期和SCMP号与原注一致。由未落实转部分核实；中文原件仍缺，不撤标。",
+      "nextAction": "取得1955-05-27工人日报或SCMP1076目标页，核中文标题、作者和原句。"
+    },
+    {
+      "id": "08-10",
+      "status": "partial",
+      "sources": [
+        "gluckstein-fulltext-r32"
+      ],
+      "comment": "Gluckstein刊页275明确赖若愚及72小时、10个月、26万/22万工时，注81落实1955-02-20及SCMP1024。由未落实转部分核实；中文原件仍缺。",
+      "nextAction": "取得1955-02-20工人日报或SCMP1024目标页；不能用1955年7月的相近加班批评代替。"
+    },
+    {
+      "id": "08-17",
+      "status": "partial",
+      "sources": [
+        "gluckstein-fulltext-r32"
+      ],
+      "comment": "Gluckstein刊页268及注61找到太原住房整段英文与所列原报、FEER日期；只核到英文中间来源，由未落实转部分核实。",
+      "nextAction": "取得1952-01-12所列新华日报中文段落或1952-10-30 FEER原页，查明具体刊页及转引措辞。"
+    },
+    {
+      "id": "11-01",
+      "status": "partial",
+      "sources": [
+        "gluckstein-fulltext-r32"
+      ],
+      "comment": "Gluckstein刊页93及注48确认英文出处链仍指1950年HKG和CB63；没有补上与1948年中文的关系，维持partial。",
+      "nextAction": "取得1950-12-10新观察及CB63，核与1948年文本的关系。"
+    },
+    {
+      "id": "11-05",
+      "status": "restored",
+      "sources": [
+        "gluckstein-fulltext-r32",
+        "xi-rmrb1950-r32",
+        "xi-book1950-photos-r32",
+        "harris-comparison-r32"
+      ],
+      "comment": "Gluckstein刊页101新提供Hsi Chung-hsun署名；1950年人民日报录文有五项强制手段对应句，单行本封面和版权独立确认作者、职务及日期。按中文版本恢复原句并校正原注东北局/1951年；1952年后续刊载未核，明确保留。",
+      "nextAction": "对应中文引文及报告身份已落实；继续补人民日报原报版影、1950年单行本内页、1952-06-09所列报纸及CB158，以复核录文和后续转载链。"
+    },
+    {
+      "id": "11-23",
+      "status": "restored",
+      "sources": [
+        "gluckstein-fulltext-r32",
+        "xi-rmrb1950-r32",
+        "xi-book1950-photos-r32",
+        "harris-comparison-r32"
+      ],
+      "comment": "正文同一引句在注19的重复标记；随11-05恢复并更新出处。固定编号保留，但不当作第二条独立引文成果。",
+      "nextAction": "与11-05共用后续补档任务；不重新计作独立待核引文。"
+    }
+  ],
+  "limitations": [
+    "正式复核6个固定编号，不表示本轮重新逐条核完起始102处。2处撤标属于同一引句的正文和注19重复出现，实际恢复1条独立引文。",
+    "中文目标句据非官方人民日报全文录文；未取得原报版影或单行本内页。月度语料与网页索引可能同源，不作为独立双重原件。",
+    "1950年单行本照片只证明作者、职务、报告日期和出版信息；照片未含目标句。",
+    "Harris与Gluckstein都作North-East Bureau及1951年；按已确认的中文对应报告校正为西北局、1950年。旧注1952年6月9日及CB158尚未核读，不改写其刊载日期，不声称已验证后续转载链。",
+    "恢复中文完整句保留作者对强制手段的批评；英文indiscriminate、frequently不机械回译进入引号。中文上下文同时讨论征粮和收税。",
+    "08-09、08-10、08-17仅补清Gluckstein英文转引，其所注中文报纸、SCMP及FEER原件均未取得，保留待核。11-01与1948年中文的关系仍不明。",
+    "复用上一轮450页英文PDF，本轮精读、目视5个相关页；新增4幅页图，另1幅复用，不声称通读全书。",
+    "两项文献传递继续等待；Ash两篇维持已获全文状态。归档沿用reference check/sources；书籍PDF、HTML和排版代码不改动。"
+  ]
+}

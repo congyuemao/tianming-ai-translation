@@ -1,1 +1,3 @@
 *.pdf binary
+# Preserve the archived transcription's original mixed line endings.
+Xi-Zhongxun-Anti-Bureaucratism-1950-RMRB-transcription.md -text
