@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-14",
+  "round": 31,
+  "formalReviewIds": [
+    "08-01",
+    "08-02",
+    "08-12",
+    "08-19"
+  ],
+  "sources": [
+    {
+      "id": "gluckstein-fulltext-r31",
+      "recordIds": [
+        "08-01",
+        "08-02",
+        "08-12",
+        "08-19"
+      ],
+      "title": "Mao's China: Economic and Political Survey",
+      "author": "Ygael Gluckstein",
+      "publication": "George Allen & Unwin Ltd, London",
+      "year": 1957,
+      "editionEvidence": "扉页列作者、题名及出版地；版权页明列First published in 1957。",
+      "url": "https://archive.org/download/maoschinaeconomi017995mbp/maoschinaeconomi017995mbp.pdf",
+      "catalogURL": "https://archive.org/details/maoschinaeconomi017995mbp",
+      "metadataURL": "https://archive.org/metadata/maoschinaeconomi017995mbp",
+      "metadataLocalPath": "reference check/sources/Gluckstein-1957-archive-metadata.json",
+      "metadataSHA256": "76e5664391c3ce2e751244cad206a3df5425b33814094220a36b7f5fad784ddb",
+      "kind": "公开可下载的英文著作完整扫描；用于核对Harris转引和原报日期，不替代中文原文",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/Gluckstein-Maos-China-1957.pdf",
+      "sourcePDFSHA256": "7f72c53e209e421de5236e38802e1f4e94f42aab297d3fa672fb89ac830f576c",
+      "sourcePDFBytes": 37829066,
+      "sourcePDFPages": 450,
+      "sourcePDFArchived": true,
+      "fullTextObtained": true,
+      "archivedPDFIdenticalToDownload": true,
+      "images": [
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-title.png",
+          "pdfPage": 9,
+          "printedPage": null,
+          "sha256": "b6ec742f057142ead6ab67efccf228284fafab6699560638d70d8a7dc145fd7e",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染；未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-copyright.png",
+          "pdfPage": 10,
+          "printedPage": null,
+          "sha256": "22474238ca44ee7bebe20c6cc92f6d871a6c3d04bcb792a28caf95d97dd5222d",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染；未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p215.png",
+          "pdfPage": 219,
+          "printedPage": 215,
+          "sha256": "10584346b8d58fb47cdf4a6094ad544fb34a636ad7629c09e807d52228cae6bc",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染；未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p216.png",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "sha256": "abf1a35e817e31f21960c94b5584100e61495fcdee155622c54d7ff58d269302",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染；未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p235.png",
+          "pdfPage": 239,
+          "printedPage": 235,
+          "sha256": "2eb33ebd511126f1eff0634f7ac5d447356817abf1b5eaa9899c68e9506d9d12",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染；未裁切或改动扫描内容。"
+        },
+        {
+          "localPath": "reference check/sources/Gluckstein-1957-p268.png",
+          "pdfPage": 272,
+          "printedPage": 268,
+          "sha256": "3c00455f29f6ac45f10e7da836f5a06f88e7705cce61f15801e40fb97ac0fab3",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染；未裁切或改动扫描内容。"
+        }
+      ],
+      "visuallyCheckedPDFPages": [
+        9,
+        10,
+        219,
+        220,
+        239,
+        272
+      ],
+      "textExtraction": "已用pypdf提取450页文本并作关键词筛选，另取得IA OCR文本作检索辅助；只精读和目视核查所列页面，未逐字通读全书。OCR文本不作为优于版影的证据。",
+      "observations": [
+        "刊页215—216连引第17、21、15条，注27为JMJP, July 14, 1954; SCMP859；其后引第18条。Harris第七章注2明确引本书216页，能补清劳动规则两句的出处链。",
+        "刊页235先引赖若愚1953年5月工会七大报告，随后另起段明确称人民日报社论；94%目标句注12为December 13, 1953; SCMP709。与中文社论同文，足以校正Harris1954年及主席报告的归属。",
+        "刊页268李先念住房引文直接注59为NCNA, Peking, July 9, 1955; CB336；相邻注60 October 23, 1954指尼赫鲁访华租金材料。Harris注28恰与该相邻注日期相同，可判为引注错配；具体抄录过程只是推断。"
+      ]
+    },
+    {
+      "id": "rules1954-r31",
+      "recordIds": [
+        "08-01",
+        "08-02"
+      ],
+      "title": "国营企业内部劳动规则纲要",
+      "publication": "人民日报",
+      "date": "1954-07-14",
+      "page": 2,
+      "url": "https://cn.govopendata.com/renminribao/1954/07/14/2/",
+      "kind": "非官方历史报纸录文；与所获英文出版物及其注释相互核对，未核原报版影",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/round31-chinese-excerpts.json",
+      "corpusOrigin": "此前已取得的人民日报月度文本语料；本轮用公开网页复核题名、日期、作者/社论标识和所列目标句。",
+      "corpusFile": "tmp/rmrb/1954-07/1954年07月/1954-07-14_国营企业内部劳动规则纲要.md",
+      "corpusFileSHA256": "d7b0aac3f5a1a3e14209913a57304545d5ed308d2e0356a72c9d2876b15be354",
+      "archivedContent": "只归档本轮使用的中文摘录和元数据，不声称保存原报扫描或本轮重新下载整页HTML。",
+      "excerpts": {
+        "08-01": "凡无正当理由而迟到、早退或在工作时间内游荡、怠工、旷工者，得分别情节轻重，给予适当处分直至开除。",
+        "08-02": "由于不遵守操作规程或不负责任而在工作中产生废品或损坏工具和设备的职工，无论其受处分与否，得斟酌情形令其负物质上的全部或部分赔偿之责。赔偿金额由企业行政决定并从应负赔偿责任的职工的工资中扣除，直至赔偿金额全部偿还为止，但每次扣除之赔偿数目最多不得超过该职工一个月的实际工资的百分之三十；如其迅速改正错误，表现良好，赔偿金额可酌情予以减免。",
+        "article-十八": "十八、企业行政在证实职工的错误后应即时给予处分。未作处分之前，应由违反劳动纪律者申述理由。自证实错误之日起，一般应在一个月以内给予处分，如已超过三个月尚未给予处分者，则不应给予处分。除因情节复杂，有正当理由者外，企业行政负责人，不如期处理时，应受一定的处分。",
+        "article-二十二": "二十二、处分公布以后，受处分者如有意见，在十天以内可向上级领导机关申诉。 但在上级领导机关未作决定之前，仍按照原处分执行。"
+      },
+      "passedDate": "1954-05-06",
+      "publishedDate": "1954-07-14",
+      "selectionNote": "正文第21条沿用Harris选引范围，止于30%；原条后续减免规定见摘录和章末校注。截断处的分号改为句号。"
+    },
+    {
+      "id": "industry1953-r31",
+      "recordIds": [
+        "08-12"
+      ],
+      "title": "工人们！为实现社会主义工业化而奋斗！",
+      "publication": "人民日报",
+      "date": "1953-12-13",
+      "page": 1,
+      "url": "https://cn.govopendata.com/renminribao/1953/12/13/1/",
+      "kind": "非官方历史报纸录文；与所获英文出版物及其注释相互核对，未核原报版影",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/round31-chinese-excerpts.json",
+      "corpusOrigin": "此前已取得的人民日报月度文本语料；本轮用公开网页复核题名、日期、作者/社论标识和所列目标句。",
+      "corpusFile": "tmp/rmrb/1953-12/1953年12月/1953-12-13_工人们！为实现社会主义工业化而奋斗！.md",
+      "corpusFileSHA256": "56d92180859eaf1795df0d770216c0fa2ba921e039790f04950dc41238cf1b65",
+      "archivedContent": "只归档本轮使用的中文摘录和元数据，不声称保存原报扫描或本轮重新下载整页HTML。",
+      "excerpts": {
+        "08-12": "到一九五二年，国营企业的工人每人每年创造的价值平均已达一亿元，其中除去工资——平均每人每月五十万元以外，有百分之九十四都是直接给国家创造的财富。"
+      },
+      "byline": "社论",
+      "location": "第一段",
+      "currencyNote": "保留1953年原文的一亿元、五十万元旧人民币口径，不改换币值。"
+    },
+    {
+      "id": "housing1955-r31",
+      "recordIds": [
+        "08-19"
+      ],
+      "title": "关于一九五四年国家决算和一九五五年国家预算的报告——在一九五五年七月六日的第一届全国人民代表大会第二次会议上",
+      "publication": "人民日报",
+      "date": "1955-07-10",
+      "page": 2,
+      "url": "https://cn.govopendata.com/renminribao/1955/07/10/2/",
+      "kind": "非官方历史报纸录文；与所获英文出版物及其注释相互核对，未核原报版影",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/round31-chinese-excerpts.json",
+      "corpusOrigin": "此前已取得的人民日报月度文本语料；本轮用公开网页复核题名、日期、作者/社论标识和所列目标句。",
+      "corpusFile": "tmp/rmrb/1955-07/1955年07月/1955-07-10_关于一九五四年国家决算和一九五五年国家预算的报告_在一九五五年七月六日的第一届全国人民代表大会第二次会议上.md",
+      "corpusFileSHA256": "6bab4aa098d3bf3224ec9a23a9b1d961d372f0be9f0db1bb0640c4720f4c3f1f",
+      "archivedContent": "只归档本轮使用的中文摘录和元数据，不声称保存原报扫描或本轮重新下载整页HTML。",
+      "excerpts": {
+        "08-19": "齐齐哈尔机车车辆厂新盖职工宿舍，由于标准过高，每户房租最低一个月十八元，最高四十一元，比旧宿舍高二倍至六倍，工人因为出不起房租，不愿意进去住。"
+      },
+      "author": "李先念",
+      "authorAsPrinted": "中华人民共和国国务院副总理兼财政部长　李先念",
+      "speechDate": "1955-07-06",
+      "location": "第三部分，基本建设设计标准过高段",
+      "currencyNote": "报告首段明确新币，下同。"
+    },
+    {
+      "id": "harris-comparison-r31",
+      "recordIds": [
+        "08-01",
+        "08-02",
+        "08-12",
+        "08-19"
+      ],
+      "title": "The Mandate of Heaven，第七章正文及章末注",
+      "kind": "既有英文底本逐页提取文本比对",
+      "accessed": "2026-10-14",
+      "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+      "textReadPDFPages": [
+        118,
+        122,
+        127,
+        128,
+        136,
+        137
+      ],
+      "observations": [
+        "第99页（PDF118）两条劳动规则与管理者处分段连读，注1在规则名称后，注2在下一段末；不能仅凭就近注1将两条引文锁定为1953年文本。",
+        "第103页（PDF122）作1954年及Chairman of the ACFTU；第117页（PDF136）注17同样作1954。",
+        "第108—109页（PDF127—128）住房正文作1955年；第118页（PDF137）注28作NCNA Beijing, 23 October 1954。"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "08-01",
+      "status": "restored",
+      "sources": [
+        "gluckstein-fulltext-r31",
+        "rules1954-r31",
+        "harris-comparison-r31"
+      ],
+      "comment": "Gluckstein刊页215—216及注27把第17条落实到1954年《人民日报》及SCMP859；中文第17条完整对应，恢复原句。原注1所列1953年《光明日报》仍未取得，在注释中保留此限制。",
+      "nextAction": "本条中文引文已落实；原报版影及所列SCMP/CB原页可继续补档，但不再保留该引文待核标记。"
+    },
+    {
+      "id": "08-02",
+      "status": "restored",
+      "sources": [
+        "gluckstein-fulltext-r31",
+        "rules1954-r31",
+        "harris-comparison-r31"
+      ],
+      "comment": "与第17条在Gluckstein书中连续引述，共用1954年来源；按中文第21条恢复至Harris所引30%上限，并注出其未引的赔偿减免规定。",
+      "nextAction": "本条中文引文已落实；原报版影及所列SCMP/CB原页可继续补档，但不再保留该引文待核标记。"
+    },
+    {
+      "id": "08-12",
+      "status": "restored",
+      "sources": [
+        "gluckstein-fulltext-r31",
+        "industry1953-r31",
+        "harris-comparison-r31"
+      ],
+      "comment": "Gluckstein刊页235将工会主席报告与人民日报社论分开，社论注12明确1953-12-13及SCMP709。恢复中文原句，校正1954/主席报告误归属及资本回译。",
+      "nextAction": "本条中文引文已落实；原报版影及所列SCMP/CB原页可继续补档，但不再保留该引文待核标记。"
+    },
+    {
+      "id": "08-19",
+      "status": "restored",
+      "sources": [
+        "gluckstein-fulltext-r31",
+        "housing1955-r31",
+        "harris-comparison-r31"
+      ],
+      "comment": "Gluckstein刊页268目标注59为1955-07-09、CB336，旧日期属于相邻尼赫鲁引文注60；在李先念1955-07-06预算报告（人民日报7月10日）找到完整中文，消除作者归属和日期矛盾。",
+      "nextAction": "本条中文引文已落实；原报版影及所列SCMP/CB原页可继续补档，但不再保留该引文待核标记。"
+    }
+  ],
+  "limitations": [
+    "本轮正式复核4个固定编号，不是重新逐条审读全部106处；4条由partial转restored，剩余102。日期/出处更正包含在这4条中，不重复计数。",
+    "中文来源仍为非官方人民日报网络录文，未获得三期原报版影；已与英文出版物的目标引文及注释相互核对。",
+    "1953-08-28光明日报、SCMP859、SCMP709、NCNA1955-07-09英文电讯及CB336原页尚未取得；不把Gluckstein脚注的书目转录当作已读上述原件。",
+    "08-12恢复到可直接核对的1953年社论，保留Harris原说于校注，不据此排除工会主席在别处使用同一组数字的可能。",
+    "08-19旧日期与Gluckstein相邻注60一致，确认引文与所注材料错配；作者具体如何产生错误只是推断。",
+    "全文英文PDF450页可打开并已提取文字、作关键词筛选；本轮只精读并目视所列6页，不声称逐字通读。",
+    "中国工人与Current Scene两项文献传递继续等待；Ash两篇维持已获全文状态。",
+    "参考资料归档沿用reference check/sources；书籍PDF、HTML及排版代码不改动。"
+  ]
+}

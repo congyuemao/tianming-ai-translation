@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第三十轮](reference%20check/2026-10-14-round30.md)：更正Schram谈话集题名年份、庐山讲话引文页码、Malden论文作者与年份三处书目条目；已归档Schram美版全文及7幅证据图，复核一条英文原句。中英文措辞差异仍待解决，现余106处待核；《中国工人》和Current Scene两项文献传递继续等待。材料见[来源目录](reference%20check/sources/README.md)。最新更正已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第三十一轮](reference%20check/2026-10-14-round31.md)：取得Gluckstein《Mao’s China》全文并恢复第七章4处引文，核清劳动规则的转引关系，纠正94%社论引文及李先念住房引文的出处。待核由106处降至102处；完整参考PDF、6幅证据图和中文摘录见[来源目录](reference%20check/sources/README.md)。《中国工人》和Current Scene两项文献传递继续等待。最新更正已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 

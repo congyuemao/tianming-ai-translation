@@ -391,3 +391,22 @@ SHA-256：
 原扫描含划线与批注，不当作原文或编者证据。无可提取文字，未作OCR全文检索；实际目视范围和7幅图的SHA-256见[第三十轮来源记录](round30-evidence.json)。书籍成品PDF/HTML未修改。
 
 另核[William Malden论文的出版社书目](https://www.cambridge.org/core/journals/china-quarterly/article/abs/new-class-structure-emerging-in-china/CD9CC0453BBEF38C1AAD1DD7265DD77E)：*A New Class Structure Emerging in China?*，*The China Quarterly* 22（1965），83—88，DOI 10.1017/S0305741000048724。仅有公开Extract，全文仍缺；此元数据用来校正作者及年份，不表示原注目标84—85页引文已核。
+
+## 第三十一轮新增材料（2026-10-14）
+
+[Gluckstein完整扫描](Gluckstein-Maos-China-1957.pdf)，*Mao’s China: Economic and Political Survey*，Ygael Gluckstein，George Allen & Unwin Ltd，London，1957。来自[Internet Archive公开条目](https://archive.org/details/maoschinaeconomi017995mbp)的[PDF下载](https://archive.org/download/maoschinaeconomi017995mbp/maoschinaeconomi017995mbp.pdf)，450个PDF页面、37,829,066字节；原样归档。SHA-256：`7f72c53e209e421de5236e38802e1f4e94f42aab297d3fa672fb89ac830f576c`。
+
+| 证据图 | PDF页 | 核查用途 |
+| --- | ---: | --- |
+| [扉页](Gluckstein-1957-title.png) | 9 | 题名、作者、出版地及出版社 |
+| [版权页](Gluckstein-1957-copyright.png) | 10 | First published in 1957 |
+| [第215页](Gluckstein-1957-p215.png) | 219 | 劳动规则第17条及第21条起句 |
+| [第216页](Gluckstein-1957-p216.png) | 220 | 第21条续文及注27：1954年7月14日、SCMP859 |
+| [第235页](Gluckstein-1957-p235.png) | 239 | 工会报告与社论分列；94%句及注12：1953年12月13日 |
+| [第268页](Gluckstein-1957-p268.png) | 272 | 李先念引文直接注59，及相邻尼赫鲁材料注60 |
+
+- [来源记录](round31-evidence.json)：文件哈希、实际精读及目视范围、引注错配和更正依据。
+- [Internet Archive元数据原文件](Gluckstein-1957-archive-metadata.json)：下载来源记录。
+- [中文目标摘录](round31-chinese-excerpts.json)：1954年劳动规则（含第18、21、22条的有关限定）、1953年社论、1955年李先念预算报告的题名、日期、目标句及定位。只保存所用摘录，不冒充原报版影或本轮获取的整页HTML。
+
+英文PDF已提取全文并作关键词筛选，实际精读与目视范围为上表6页，未逐字通读全书。中文据公开非官方报刊录文，未取得原报版影；SCMP859、SCMP709、NCNA1955年7月9日英文电讯及CB336原页仍缺。四条恢复和原件限制见[第三十一轮报告](../2026-10-14-round31.md)。书籍成品PDF/HTML未修改。
