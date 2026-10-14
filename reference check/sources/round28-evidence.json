@@ -1,0 +1,352 @@
+{
+  "date": "2026-10-14",
+  "round": 28,
+  "formalReviewIds": [
+    "03-09",
+    "08-05",
+    "11-03"
+  ],
+  "sources": [
+    {
+      "id": "jinsui-gong-r28",
+      "recordIds": [
+        "03-09"
+      ],
+      "title": "龚子荣《1947年晋绥的土改整党》",
+      "url": "https://www.dswxyjy.org.cn/n/2013/1127/c244516-23671571.html",
+      "kind": "中央党史和文献研究院网站刊载的后出回顾文章",
+      "publicationDate": "2013-11-27",
+      "accessed": "2026-10-14",
+      "evidenceLocation": "谈1947年整党、晋绥日报社论及1948年纠偏的段落",
+      "observations": [
+        "确认回顾文章确实提及《为纯洁党的组织而斗争》这一篇名。",
+        "与此前浙江组织工作网线索为同一文章的刊载，不计独立原始证据。",
+        "文章不是社论全文，未落实目标三分句，也不能据其网页发布日期确定1947年社论日期。"
+      ]
+    },
+    {
+      "id": "labour-discipline-r28",
+      "recordIds": [
+        "08-05"
+      ],
+      "title": "1954年劳动纪律报道和社论复核",
+      "kind": "fangj/rmrb固定提交的非官方录文；日期与相关网页对照，未获报纸影像",
+      "accessed": "2026-10-14",
+      "articlesRead": [
+        {
+          "title": "进一步巩固劳动纪律",
+          "date": "1954-06-06",
+          "printedPageAsTranscribed": "第1版()",
+          "localResearchPath": "tmp/rmrb/1954-06/1954年06月/1954-06-06_进一步巩固劳动纪律.md",
+          "sha256": "0279868173ed2763e899f3fa5ead2b3a4c6f512cb359b74f9fbd4f1e73ae6453",
+          "readScope": "候选文章全文录文；非原报影像"
+        },
+        {
+          "title": "反对败坏劳动纪律的行为",
+          "date": "1954-10-22",
+          "printedPageAsTranscribed": "第1版()",
+          "localResearchPath": "tmp/rmrb/1954-10/1954年10月/1954-10-22_反对败坏劳动纪律的行为.md",
+          "sha256": "1df08bf4a3876b043619da1bf9cdd59d316ea1ed79b1208c761c6fe26c55fa11",
+          "readScope": "候选文章全文录文；非原报影像"
+        },
+        {
+          "title": "认真执行“国营企业内部劳动规则纲要”",
+          "date": "1954-12-08",
+          "printedPageAsTranscribed": "第1版()",
+          "localResearchPath": "tmp/rmrb/1954-12/1954年12月/1954-12-08_认真执行_国营企业内部劳动规则纲要.md",
+          "sha256": "ab288bac45e5fa89a13260f7f553bb02fe7fe3c260f435df4d832b201b561b00",
+          "readScope": "候选文章全文录文；非原报影像"
+        },
+        {
+          "title": "劳动纪律宣传的一项重要内容",
+          "date": "1954-12-11",
+          "printedPageAsTranscribed": "第3版()",
+          "localResearchPath": "tmp/rmrb/1954-12/1954年12月/1954-12-11_劳动纪律宣传的一项重要内容.md",
+          "sha256": "40f454d6561044db35503387e57e59e248576266f133f39bb9c0856af169541e",
+          "readScope": "候选文章全文录文；非原报影像"
+        },
+        {
+          "title": "必须把技术革新运动继续开展下去",
+          "date": "1954-12-12",
+          "printedPageAsTranscribed": "第1版()",
+          "localResearchPath": "tmp/rmrb/1954-12/1954年12月/1954-12-12_必须把技术革新运动继续开展下去.md",
+          "sha256": "c47b541808e7f138be0bc6833584fcbbdc9198d97c0900135c8ed458d6e4bd29",
+          "readScope": "候选文章全文录文；非原报影像"
+        },
+        {
+          "title": "进一步加强经济建设时期的政法工作",
+          "date": "1954-03-30",
+          "printedPageAsTranscribed": "第1版()",
+          "localResearchPath": "tmp/rmrb/1954-03/1954年03月/1954-03-30_进一步加强经济建设时期的政法工作.md",
+          "sha256": "5f53cb3aba0562ba7ab9ed63f9f9c5ea2fb1e3839bd96d9d9f6b91a6f58469cd",
+          "readScope": "候选文章全文录文；非原报影像"
+        }
+      ],
+      "dateScreening": [
+        {
+          "date": "1954-03-30",
+          "availableArticleFiles": 44,
+          "keywords": [
+            "劳动纪律",
+            "旷工",
+            "怠工",
+            "罢工",
+            "不服从",
+            "损失"
+          ],
+          "scope": "可得录文关键词初筛，非逐页原报审读；随后阅读有关候选文章"
+        },
+        {
+          "date": "1954-06-06",
+          "availableArticleFiles": 49,
+          "keywords": [
+            "劳动纪律",
+            "旷工",
+            "怠工",
+            "罢工",
+            "不服从",
+            "损失"
+          ],
+          "scope": "可得录文关键词初筛，非逐页原报审读；随后阅读有关候选文章"
+        },
+        {
+          "date": "1954-08-20",
+          "availableArticleFiles": 39,
+          "keywords": [
+            "劳动纪律",
+            "旷工",
+            "怠工",
+            "罢工",
+            "不服从",
+            "损失"
+          ],
+          "scope": "可得录文关键词初筛，非逐页原报审读；随后阅读有关候选文章"
+        },
+        {
+          "date": "1954-12-12",
+          "availableArticleFiles": 54,
+          "keywords": [
+            "劳动纪律",
+            "旷工",
+            "怠工",
+            "罢工",
+            "不服从",
+            "损失"
+          ],
+          "scope": "可得录文关键词初筛，非逐页原报审读；随后阅读有关候选文章"
+        }
+      ],
+      "archiveProvenance": [
+        {
+          "month": "1954-03",
+          "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1954%E5%B9%B403%E6%9C%88.7z",
+          "sha256": "9692ebc0093ba63aeb03d9496da64ae8b743eb9620cb00d8b4e8d1d57b86852a",
+          "gitBlob": "ed2d0802ad9ac9e2f0052b1ecdaf0280b7873cd9",
+          "files": 1123
+        },
+        {
+          "month": "1954-06",
+          "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1954%E5%B9%B406%E6%9C%88.7z",
+          "sha256": "d206e7c666621dd55b8361287341ea0a691cb27b03d39f929b7b3afe7e4db2f5",
+          "gitBlob": "08e5dede67544985d8f7d233d0043b6f69e60d3a",
+          "files": 1158
+        },
+        {
+          "month": "1954-08",
+          "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1954%E5%B9%B408%E6%9C%88.7z",
+          "sha256": "793a72a364ac8a3a11b2e704f1b047a24114109b3d856af83f75be00c833d63f",
+          "gitBlob": "c6660e2cf743b8574f501905c77feae98c2fdffb",
+          "files": 1309
+        },
+        {
+          "month": "1954-10",
+          "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1954%E5%B9%B410%E6%9C%88.7z",
+          "sha256": "22ed8b09a2e5ebf873c94db6e53d12e0bf5f2b67c77b7c493c65a5fdf8340e7f",
+          "gitBlob": "3adc24930a3447f1637060ffff7c1888ed2f301d",
+          "files": 1169
+        },
+        {
+          "month": "1954-12",
+          "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1954%E5%B9%B412%E6%9C%88.7z",
+          "sha256": "e22c4f165c8f10dc60c403736e0be752dc8a9545b42e64d25569d473d3e4ab94",
+          "gitBlob": "ac511be0c77e8f644f07f6920e908178440b96fd",
+          "files": 1127
+        }
+      ],
+      "urls": [
+        "https://cn.govopendata.com/renminribao/1954/12/12/1/",
+        "https://cn.govopendata.com/renminribao/1954/12/12/2/",
+        "https://cn.govopendata.com/renminribao/1954/6/6/1/",
+        "https://cn.govopendata.com/renminribao/1954/10/22/1/"
+      ],
+      "observations": [
+        "6月6日社论讨论部分职工旷工、怠工、违反操作与保安规程，主题相近但不是已确认的目标引句。",
+        "10月22日及12月8日社论亦有近似列举；相邻条目08-06所引10月22日文章已在此前恢复，不能因此替08-05撤标。",
+        "Harris印刷页100仍作idle strikes及prevalent；不能直接以近似中文改成旷工，或抹去范围限定的差别。",
+        "4个原注日期的可得录文关键词筛查未给出可直接回填的同句；不等于原报所有版面、译稿或其他转载均已排除。"
+      ]
+    },
+    {
+      "id": "ash-part1-catalog-r28",
+      "recordIds": [
+        "11-03"
+      ],
+      "title": "Economic Aspects of Land Reform in Kiangsu, 1949–52 (Part 1)",
+      "author": "Robert Ash",
+      "publication": "The China Quarterly",
+      "issue": "66",
+      "date": "1976-06",
+      "printedPages": [
+        261,
+        292
+      ],
+      "doi": "10.1017/S0305741000033683",
+      "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/economic-aspects-of-land-reform-in-kiangsu-194952/7EA45F2C148BB99713E6F20F4DF26D90",
+      "kind": "出版社公开摘要、书目及参考文献；尚未取得全文",
+      "accessed": "2026-10-14",
+      "fullTextObtained": false,
+      "evidenceLocation": "公开参考注41、101、108—113、116",
+      "upstreamSource": {
+        "title": "苏南土地改革实施办法",
+        "issuingBodyAsCited": "苏南人民行政公署",
+        "newspaper": "苏南日报",
+        "dateAsCited": "1950-11-28",
+        "printedPageAsCited": 1,
+        "referenceNumber": 109,
+        "originalChineseObtained": false
+      },
+      "observations": [
+        "第41注明定Su-nan为苏南日报；第101注重新明确Su-nan，后续相邻注承接该刊，第109注列文件、1950年11月28日及第1版。",
+        "第112注涉及保护工商业房屋和没收手续，所述条款不等于目标引句已经落实。",
+        "第289页目标正文及其直接注号仍须取得上篇全文核对；不把公开参考注109自动认作目标句的直接注号。",
+        "网页2009年日期为上线日期，期刊发表年月为1976年6月。"
+      ]
+    },
+    {
+      "id": "ash-part2-catalog-r28",
+      "recordIds": [],
+      "title": "Economic Aspects of Land Reform in Kiangsu, 1949–52 (Part 2)",
+      "author": "Robert Ash",
+      "publication": "The China Quarterly",
+      "issue": "67",
+      "date": "1976-09",
+      "printedPages": [
+        519,
+        545
+      ],
+      "doi": "10.1017/S0305741000035505",
+      "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/economic-aspects-of-land-reform-in-kiangsu-194952/E9C4186177ACC63578C69F1307D1E8A1",
+      "kind": "出版社公开摘要、书目及参考文献；尚未取得全文",
+      "accessed": "2026-10-14",
+      "fullTextObtained": false,
+      "evidenceLocation": "公开摘要、期刊信息、篇首星号说明及参考注1",
+      "observations": [
+        "出版社明示本篇是两篇文章中的第二部分；不与第66期上篇合并为同一论文文件。",
+        "译稿第十章注16、17分别引用本篇第521—522、531页，供核查上下文、原报篇名和统计来源；不声称会直接消除三个待核标记。",
+        "SOAS仓储检索结果只提供书目，直接读取返回403；未从该仓储取得全文。"
+      ]
+    },
+    {
+      "id": "wuxi-gazetteer-lead-r28",
+      "recordIds": [
+        "11-03"
+      ],
+      "title": "《无锡县土地志》目录及馆藏线索",
+      "url": "https://shizhiku.com/p/detail/wp79bd1b6bb1/",
+      "additionalUrls": [
+        "https://lscangku.com/book_detail?id=68369",
+        "https://ci.nii.ac.jp/ncid/BB09631828?l=ja"
+      ],
+      "kind": "非官方目录全文和CiNii检索条目；地方志正文未取得",
+      "accessed": "2026-10-14",
+      "evidenceLocation": "目录附八列《苏南土地改革实施办法》（1950年11月28日）",
+      "observations": [
+        "新增与《武进市土地志》附录第四项并行的获取路径；属于目录线索，不能称已读到文件摘要或条文。",
+        "CiNii搜索条目列彭焕明主编、编纂委员会编、江苏人民出版社1998年5月；直接页面读取失败，未把该条目当正文证据。"
+      ]
+    }
+  ],
+  "documentDeliveryRequests": [
+    {
+      "key": "chinese-worker-1957-6",
+      "recordIds": [
+        "10-32"
+      ],
+      "title": "中国工人1957年第6期；Li Ch’un所署文章",
+      "status": "requested_by_user_waiting",
+      "statusLabel": "用户已提交文献传递，等待中",
+      "asOf": "2026-10-14",
+      "evidence": "用户本轮明确告知；未获得传递平台回执或到件",
+      "nextAction": "等待用户提供到件后核查；不重复请求该件"
+    },
+    {
+      "key": "current-scene-1968-vi-5",
+      "recordIds": [
+        "09-14",
+        "09-15",
+        "09-32"
+      ],
+      "title": "Sources of Labor Discontent in China: The Worker-Peasant System；Current Scene VI/5，1968-03-15",
+      "status": "requested_by_user_waiting",
+      "statusLabel": "用户已提交文献传递，等待中",
+      "asOf": "2026-10-14",
+      "evidence": "用户本轮明确告知；未获得传递平台回执或到件",
+      "nextAction": "等待用户提供到件后核查；不重复请求该件"
+    }
+  ],
+  "recommendedFullTextRequests": [
+    {
+      "sourceId": "ash-part1-catalog-r28",
+      "priority": 1,
+      "status": "identified_not_requested",
+      "purpose": "直接复核11-03的英文转引，第289页及相邻页、全部注释优先"
+    },
+    {
+      "sourceId": "ash-part2-catalog-r28",
+      "priority": 2,
+      "status": "identified_not_requested",
+      "purpose": "核第十章注16、17的转引链，第521—522、531页及相邻注释优先"
+    }
+  ],
+  "limitations": [
+    "本轮正式复核3条，待核106处不变；另4条只更新获取状态，未重复正式复核。",
+    "Ash两篇均已读到公开摘要及参考文献，但未取得文章全文；网页上线日期2009年不能替代1976年发表日期。",
+    "中文报纸原件、土地改革实施办法条文及晋绥社论全文仍缺；书目、同文转载、近似主题与搜索摘要不作为目标引文恢复证据。",
+    "苏南日报1950-11-28第1版是Ash参考文献所列来源，尚待中文原刊独立核验；目标句的直接脚注仍须查Ash第289页。",
+    "两项传递请求依据用户自述记为等待中，不表示本轮代为下单、催件或已收到；两个Ash条目尚未提交申请。",
+    "PDF/HTML及排版代码保持原样；没有运行构建。"
+  ],
+  "supplementarySearch": {
+    "candidateOnly": [
+      {
+        "recordId": "03-09",
+        "url": "https://www.lishiyushehui.cn/statics/article/attachment/202103/r9lxeFvbbj3cWnYX.pdf",
+        "title": "“郭四颗事件”与“反封先锋”的构建",
+        "searchSnippetLead": "晋绥日报1947年11月27日社论",
+        "access": "网页及直接下载超时；只有检索片段，不作已核证据"
+      }
+    ],
+    "otherScreening": {
+      "ids": [
+        "08-20",
+        "09-02",
+        "09-03",
+        "09-04",
+        "10-40",
+        "10-41",
+        "10-42",
+        "10-43",
+        "10-44",
+        "11-01"
+      ],
+      "scope": "有限关键词筛查与摘要候选检查，未获目标全文；不计本轮正式复核，也不改状态"
+    },
+    "unusableTextExtraction": {
+      "url": "https://s3.us-west-1.wasabisys.com/p-library/books/cb0fecf8637c769c140cf45a4b2bee36.pdf",
+      "titleFromCover": "中国土地改革史料选编",
+      "pdfPages": 894,
+      "sha256": "287a6d5fb84f14fcb215d3f7f012757a4fa74c95a988ced6f32710668391e372",
+      "scope": "下载后未提取到可用文字层；仅目视封面，未核相关篇页，不作引文证据，未归档整本或声称全文检索阴性"
+    }
+  }
+}

@@ -129,7 +129,7 @@
 3. 关于细节及中文资料，参 Martin King Whyte, “Corrective Labour Camps in China”, *Asian Survey*, March 1973, pp.255-6.
 4. *Xinhua RB*, 22 July 1953.
 5. *Kung-jen RB*, 3 June 1953.
-6. *RMRB*, 12 December 1954；另参 *RMRB*, 30 March, 6 June, 20 August 1954.
+6. *RMRB*, 12 December 1954；另参 *RMRB*, 30 March, 6 June, 20 August 1954. 校注：第二十八轮按本注四个日期筛查可得《人民日报》录文，并阅读相关社论。6月6日第1版《进一步巩固劳动纪律》有部分职工旷工、怠工及违反操作规程等相近叙述；10月22日、12月8日亦有相似列举，仍未定位与本句完全对应的中文。Harris第100页作idle strikes及prevalent，不能据近似报道擅改为旷工或删改范围限定。现译及待核标记保留；该结果不等于已经排查全部原报影像和外文译稿。
 7. *RMRB*, 22 October 1954, *SCMP* 922. 中文引文据[《反对败坏劳动纪律的行为》（1954-10-22）](https://cn.govopendata.com/renminribao/1954/10/22/1/)核校。
 8. *Chang-chiang RB*, Hankow, 11 August 1952.
 9. 转引自 *Seventh Congress ACFTU*, ACFTU, Beijing, 1953, p.56. 校注：中文据赖若愚[《为完成国家工业建设的任务而奋斗》](https://cn.govopendata.com/renminribao/1953/05/11/1/)（1953年5月3日中国工会七大工作报告，5月11日《人民日报》第1版刊载）中的斯大林引语恢复。“烦重”依所获网络录文保留；未核原报版影、斯大林俄文及上述大会英译本第56页。

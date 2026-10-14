@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第二十七轮](reference%20check/2026-10-14-round27.md)：据用户提供的Li与Harper英文全文复核4条，落实Li第26—27页引语、第56注及其与Harris转引的“党委／党干部”异文，并核实Harper第117页第77注。中文原刊和Current Scene目标页仍缺，本轮不撤标，现余106处待核。最新校注已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第二十八轮](reference%20check/2026-10-14-round28.md)：转查3条，补出《苏南日报》1950年11月28日第1版的文件出处，整理Robert Ash两篇待获取全文的论文；《中国工人》和Current Scene两项文献传递已由用户提交，等待中。本轮未取得目标中文，不撤标，现余106处待核。最新校注已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
 
 ## Workflow / 工作流
 

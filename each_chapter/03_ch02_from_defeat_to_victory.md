@@ -226,7 +226,7 @@
 
 38. 这项措施虽在 SW IV, footnote 4, p.118 中被提及，却没有收入 SW 正文。
 
-39. Struggle for the purification of the organization of the party，转引自 Chao Kuo-chün, op. cit., p.90。
+39. Struggle for the purification of the organization of the party，转引自 Chao Kuo-chün, op. cit., p.90。 校注：第二十八轮复核龚子荣[《1947年晋绥的土改整党》](https://www.dswxyjy.org.cn/n/2013/1127/c244516-23671571.html)，其中提及《晋绥日报》社论《为纯洁党的组织而斗争》，但该回顾文章不是社论全文，也未提供本段三个分句。此为此前同文线索的复核，不是独立原始证据；仍需社论原刊或Chao Kuo-chün第90页，不能用内容相近的土地法条款替换引文。
 
 40. 毛多次努力恢复这种阶级分类，例如 13 January 1948, SW IV, p.239；关于这种分类的混乱和自相矛盾，参见 Ygael Gluckstein, Mao’s China, London, 1957, pp.85-9。
 

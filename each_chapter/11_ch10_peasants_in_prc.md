@@ -111,7 +111,7 @@
 11. *General Report, Beijing Municipal People’s Government on Agrarian Reform in the Beijing Suburban Areas*, 21 November 1950, *CB* 72. 校注：中文据[《北京市人民政府关于北京郊区土地改革的总结报告》](https://cn.govopendata.com/renminribao/1950/11/23/2/)第四部分第（4）项恢复。原文在两句之间叙述三村自发土改及其处理经过，正文以省略号表示删节。11月21日为政务院审核批准日，11月23日为《人民日报》刊载日。所据为非官方网络录文；未另核CB72及原报版影。
 12. William Hinton, *Fanshen, A document of revolution in a Chinese village*, New York, 1966, pp.605-6.
 13. 参 Robert Ash 对事件与文件的重构，*Economic aspects of land reform in Kiangsu, 1949-52*, Pts.I & II, *CQ* 66 and 67, June and September 1976.
-14. *Methods of implementing land reform in south Kiangsu*, People’s Administration of Southern Kiangsu, 28 November 1950, Ash, ibid., I, p.289.
+14. *Methods of implementing land reform in south Kiangsu*, People’s Administration of Southern Kiangsu, 28 November 1950, Ash, ibid., I, p.289. 校注：第二十八轮查得Ash[上篇公开书目及参考文献](https://www.cambridge.org/core/journals/china-quarterly/article/abs/economic-aspects-of-land-reform-in-kiangsu-194952/7EA45F2C148BB99713E6F20F4DF26D90)：载The China Quarterly第66期（1976年6月），第261—292页；第109注将《苏南土地改革实施办法》定位到《苏南日报》1950年11月28日第1版。该注的刊名由相邻注及第41注的缩写定义确认。尚未取得Ash第289页正文或中文原报，不能把公开第109注直接当作目标引句的注号。另有《武进市土地志》附录第四项及《无锡县土地志》附八的目录线索，均未取得条文；正文仍待核。
 15. *New China’s Economic Achievements, 1949-1952*, Beijing, 1952, p.194.
 16. From *I-nien-lai t’u kai-ko yün-tung ti ch’eng-chu*, *Hsinhua RB*, 2 July 1951, p.3, and *Hsinhua RB*, 1 December 1951, p.2，转引自 Ash, op. cit., II, pp.521-2.
 17. *Su-nan RB*, Wusih, 1 January 1952, Ash, ibid., II, p.531.
