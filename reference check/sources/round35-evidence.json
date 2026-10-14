@@ -1,0 +1,300 @@
+{
+  "date": "2026-10-14",
+  "round": 35,
+  "formalReviewIds": [
+    "03-10",
+    "08-20",
+    "09-05",
+    "09-06",
+    "09-07",
+    "09-08",
+    "09-09",
+    "11-04",
+    "10-37",
+    "10-38"
+  ],
+  "sources": [
+    {
+      "id": "ash-farm-labour-r35",
+      "recordIds": [
+        "11-04"
+      ],
+      "title": "Robert Ash, Economic Aspects of Land Reform in Kiangsu, 1949–52, Part II",
+      "publication": "The China Quarterly 67, September 1976, pp.519–545",
+      "url": "https://doi.org/10.1017/S0305741000035505",
+      "publisherURL": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/economic-aspects-of-land-reform-in-kiangsu-194952/E9C4186177ACC63578C69F1307D1E8A1",
+      "kind": "用户此前提供的完整论文PDF；本轮复用，新增核对页图，不计为新获全文",
+      "localPath": "reference check/sources/Ash-1976-Land-Reform-Kiangsu-Part2.pdf",
+      "sourcePDFSHA256": "ac98ec98f2dde181eaa6c13d2a5d6d8e12c72935697339447887c2c4ac98e007",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/Ash-1976-Part2-p542.png",
+          "pdfPage": 24,
+          "printedPage": 542,
+          "sha256": "249226b50e4b26f8cf3acdf14e7b6366a45aa9167ff1334762bebbd00e91ed2b",
+          "visuallyVerified": true
+        },
+        {
+          "localPath": "reference check/sources/Ash-1976-Part2-p543.png",
+          "pdfPage": 25,
+          "printedPage": 543,
+          "sha256": "9879b74440f9b8eda59d0b704f5dec64c73a78627185b0923d364d2b53d04c8c",
+          "visuallyVerified": true
+        }
+      ],
+      "observations": [
+        "刊页543注53所转引雇农段与Harris第152页目标英文逐句对应，Harris省去前置的劳资争议处理句和尾部省略号。",
+        "刊页542注50列Jao Shu-Shih、华东军政委员会二次全会、上海1950年7月14日及Current Background 10（1950年9月29日）。",
+        "同页的管文蔚1951年报告不是该段雇农引语的作者；引语在注53内明确归饶漱石。",
+        "已核英文中间来源；未取得CB10或中文报告全文，不撤中文待核标记。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "rmrb-east-china-plenum-r35",
+      "recordIds": [
+        "11-04"
+      ],
+      "title": "人民日报1950年7月21日、24日华东军政委员会会议报道",
+      "kind": "固定Git提交的非官方报刊录文；不是原报扫描，也不是报告全文",
+      "url": "https://github.com/fangj/rmrb/tree/babd76828d15fef7cde1247870632d759fb2aa7f",
+      "archive": {
+        "month": "1950-07",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1950%E5%B9%B407%E6%9C%88.7z",
+        "sha256": "b6121c18e70c7edd295ff10939e32a8717e019d4dd9a5884cc9dbb61ed6af6d5",
+        "gitBlob": "236289fea7f0da990ba4627454e36206a63bc137",
+        "files": 1950
+      },
+      "transcriptions": [
+        {
+          "localPath": "reference check/sources/East-China-Plenum-1950-07-21-Opening-RMRB-transcription.md",
+          "title": "华东军政委员会  举行第二次全体委员会议  此次会议以土地改革问题为中心议题",
+          "date": "1950-07-21",
+          "printedPage": 3,
+          "corpusMember": "1950年07月/1950-07-21_华东军政委员会_举行第二次全体委员会议_此次会议以土地改革问题为中心议题.md",
+          "sha256": "467265d5dbde444752fb26cbbdfecbb6422de2b2b0805efadad30a5a85b827f1",
+          "preservedByteForByte": true
+        },
+        {
+          "localPath": "reference check/sources/East-China-Plenum-1950-07-24-Closing-RMRB-transcription.md",
+          "title": "华东军政委员会二次全会胜利闭幕  原则上通过华东土地改革实施办法  并通过关于干部在进行土改时的八项纪律",
+          "date": "1950-07-24",
+          "printedPage": 1,
+          "corpusMember": "1950年07月/1950-07-24_华东军政委员会二次全会_通电反对美国侵略.md",
+          "sha256": "339f19275e1b6fd7beae5c90ed59c4ba8333a58c1d3dc7d42f7be24160afe3ee",
+          "preservedByteForByte": true
+        }
+      ],
+      "observations": [
+        "7月21日第3版所载新华社上海16日电说会议14日开幕，并听取饶漱石《为完成华东土地改革而奋斗》报告。",
+        "7月24日第1版闭幕报道再次确认题名和报告人，会议22日闭幕。",
+        "两篇均未包含目标雇农引语，只作作者、题名及会议时间的交叉证据。",
+        "本轮两个govopendata对应网页均读取失败；采用此前已经下载的固定Git语料，不声称本轮读取网页成功。"
+      ],
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "rao-archive-candidate-r35",
+      "recordIds": [
+        "11-04"
+      ],
+      "title": "尤国珍：新中国成立初期中南区和华东区保存富农经济政策执行差异解析（第8页）",
+      "url": "https://www.dswxyjy.org.cn/n/2012/1225/c218997-20013103-8.html",
+      "publicationDate": "2012-12-25",
+      "publication": "中共党史研究；中共中央党史和文献研究院网站转载",
+      "kind": "研究文章中的档案书目线索；不是档案原件",
+      "catalogClue": {
+        "author": "饶漱石",
+        "title": "为完成华东土地改革而奋斗",
+        "date": "1950年7月",
+        "holdingInstitution": "浙江省档案馆",
+        "archiveNumber": "J123-18-2"
+      },
+      "assessment": "页面可读，题名、作者和月份与会议报道相合；所引段落讨论富农出租地，不是目标雇农句。档号只作后续索取线索，尚未向档案馆独立核验或取得影像。",
+      "accessed": "2026-10-14"
+    },
+    {
+      "id": "zhejiang-ccrd-adopted-r35",
+      "recordIds": [
+        "10-37",
+        "10-38"
+      ],
+      "title": "中共中央、国务院关于浙江省问题的决定",
+      "date": "1975-07-24",
+      "url": "https://ccrd2024.github.io/CCRD%20%E4%B8%AD%E5%9B%BD%E5%BD%93%E4%BB%A3%E6%94%BF%E6%B2%BB%E8%BF%90%E5%8A%A8%E5%8F%B2%E6%95%B0%E6%8D%AE%E5%BA%93%20%E7%82%B9%E6%AD%A4%E8%BF%9B%E5%85%A5%EF%BC%88HTML%EF%BC%89/0/0/15/000021.htm",
+      "kind": "第三十四轮已归档的网络录文；本轮按用户明确指示采用，不计为新获全文",
+      "sourceStatement": "根据文件的翻印件，翻印者未注明",
+      "localPath": "reference check/sources/Zhejiang-Decision-1975-CCRD-transcription.md",
+      "sha256": "7988018a40f56df9d20f544b42443687e5d1b4effc6e853040160ffb680f6903",
+      "rawDownload": {
+        "localPath": "reference check/sources/Zhejiang-Decision-1975-CCRD-original.html.txt",
+        "sha256": "9cfa461f0144ff70439e3f68267075b0ef9a97725e9de02d8eeb5368077e16a0"
+      },
+      "checkedLocations": {
+        "10-37": "前言第二、三段，保留摘引省略号",
+        "10-38": "第五项末句"
+      },
+      "assessment": "两处正文按录文恢复，撤除待核标记。恢复依据为可访问的中文录文；不声称已取得原件或《匪情月报》原刊，亦不把两个转载网址当作独立版本。"
+    }
+  ],
+  "findings": [
+    {
+      "id": "03-10",
+      "status": "searched_unresolved",
+      "sources": [],
+      "comment": "补查已取得的1949年6月4—5日人民日报录文及网上日期、劳资合作检索，仍未找到毛讲话中目标短句。此前网页403的局限已有本地语料补查，但原广播和合众社稿仍未取得。",
+      "nextAction": "以United Press原电或北京广播1949年6月4日监录为目标；不要把同日其他人的增产讲话归给毛。"
+    },
+    {
+      "id": "08-20",
+      "status": "searched_unresolved",
+      "sources": [],
+      "comment": "将人民日报检索由单日扩至既有1972年5月整月语料，独特数字和地名未命中目标家庭；网上命中主要仍为Harris本书或同名无关人物。没有取得目标新华社电稿或可靠的张殿政汉字证据，本轮不改姓名或引句。",
+      "nextAction": "后续优先查新华社1972年5月11日兰州英文稿的转载及同期英文译刊；中文可扩查甘肃地方报刊，先核人名汉字。"
+    },
+    {
+      "id": "09-05",
+      "status": "searched_unresolved",
+      "sources": [],
+      "comment": "重新核Harris第128页原注54并检索中英文题名、作者和刊名变体，仅找到本书转载及同主题材料；未落实Chang Ho-wei汉字、Hsin-chun-she对应刊名或SCMM534原页。五处不按主题近似文章回填。",
+      "nextAction": "优先获取SCMM534（1966年7月25日）的目录及目标译文，从译刊确认中文刊名、署名和题名；《新建设》暂为候选。"
+    },
+    {
+      "id": "09-06",
+      "status": "searched_unresolved",
+      "sources": [],
+      "comment": "重新核Harris第128页原注54并检索中英文题名、作者和刊名变体，仅找到本书转载及同主题材料；未落实Chang Ho-wei汉字、Hsin-chun-she对应刊名或SCMM534原页。五处不按主题近似文章回填。",
+      "nextAction": "优先获取SCMM534（1966年7月25日）的目录及目标译文，从译刊确认中文刊名、署名和题名；《新建设》暂为候选。"
+    },
+    {
+      "id": "09-07",
+      "status": "searched_unresolved",
+      "sources": [],
+      "comment": "重新核Harris第128页原注54并检索中英文题名、作者和刊名变体，仅找到本书转载及同主题材料；未落实Chang Ho-wei汉字、Hsin-chun-she对应刊名或SCMM534原页。五处不按主题近似文章回填。",
+      "nextAction": "优先获取SCMM534（1966年7月25日）的目录及目标译文，从译刊确认中文刊名、署名和题名；《新建设》暂为候选。"
+    },
+    {
+      "id": "09-08",
+      "status": "searched_unresolved",
+      "sources": [],
+      "comment": "重新核Harris第128页原注54并检索中英文题名、作者和刊名变体，仅找到本书转载及同主题材料；未落实Chang Ho-wei汉字、Hsin-chun-she对应刊名或SCMM534原页。五处不按主题近似文章回填。",
+      "nextAction": "优先获取SCMM534（1966年7月25日）的目录及目标译文，从译刊确认中文刊名、署名和题名；《新建设》暂为候选。"
+    },
+    {
+      "id": "09-09",
+      "status": "searched_unresolved",
+      "sources": [],
+      "comment": "重新核Harris第128页原注54并检索中英文题名、作者和刊名变体，仅找到本书转载及同主题材料；未落实Chang Ho-wei汉字、Hsin-chun-she对应刊名或SCMM534原页。五处不按主题近似文章回填。",
+      "nextAction": "优先获取SCMM534（1966年7月25日）的目录及目标译文，从译刊确认中文刊名、署名和题名；《新建设》暂为候选。"
+    },
+    {
+      "id": "11-04",
+      "status": "partial",
+      "sources": [
+        "ash-farm-labour-r35",
+        "rmrb-east-china-plenum-r35",
+        "rao-archive-candidate-r35"
+      ],
+      "comment": "复用用户已提供Ash下篇全文，刊页543注53完整对应目标英文；542页注50落实饶漱石、二次全会、1950-07-14及CB10。两篇同期人民日报录文确认报告中文题名，公开研究新增浙江省档案馆J123-18-2线索。由已检索未落实转部分核实，中文原件仍缺，不撤标。",
+      "nextAction": "优先查饶漱石《为完成华东土地改革而奋斗》（1950年7月14日）的中文刊本或浙江省档案馆J123-18-2影像；亦可核Current Background 10（1950年9月29日）。档号尚未独立核验。"
+    },
+    {
+      "id": "10-37",
+      "status": "restored",
+      "sources": [
+        "zhejiang-ccrd-adopted-r35"
+      ],
+      "comment": "按用户明确指示采用第三十四轮归档的CCRD网络录文，恢复前言第二、三段对应措辞；保留省略号，并采用录文的“新兴”“纠起宗派斗争”“袭击”等用字。撤除本处待核标记；未声称核到原件影像或中文原刊。",
+      "nextAction": "已按所采录文完成恢复；如日后取得原刊或文件影像，可进行版本比对，不列入剩余待核。"
+    },
+    {
+      "id": "10-38",
+      "status": "restored",
+      "sources": [
+        "zhejiang-ccrd-adopted-r35"
+      ],
+      "comment": "按用户明确指示采用第三十四轮归档的CCRD网络录文，恢复第五项末句“首恶者依法惩办，对群众则予教育，既往不咎”；段落位置差异在注34注明。撤除本处待核标记；未声称核到原件影像或中文原刊。",
+      "nextAction": "已按所采录文完成恢复；如日后取得原刊或文件影像，可进行版本比对，不列入剩余待核。"
+    }
+  ],
+  "searchScope": {
+    "03-10": [
+      "毛泽东 1949年6月4日 工人",
+      "既有人民日报1949年6月4—5日录文：最大限度、合作、资本家、毛主席；查阅相关命中文章，未落实目标句"
+    ],
+    "08-20": [
+      "新华社 1972 十八分之一",
+      "张殿政 兰州",
+      "Chang Tien-cheng -site:libcom.org",
+      "Living standards of Chinese workers rise 1972",
+      "既有人民日报1972年5月全月录文：十八分之一、三辆自行车、张殿、六十三岁、西固；唯一年龄命中为福建山歌报道，排除"
+    ],
+    "09-05": [
+      "新建设 亦工亦农",
+      "财贸部门 劳动制度 新建设",
+      "Chang Ho-wei labour",
+      "worker-peasant Ho-wei",
+      "新建设 1966 1 2 目录"
+    ],
+    "11-04": [
+      "饶漱石 1950年7月14日",
+      "为完成华东土地改革而奋斗",
+      "雇农 耐心教育",
+      "Ash下篇刊页542—543、注50及53；Harris第152页和162页注122；两篇同期会议报道"
+    ],
+    "09-06": [
+      "新建设 亦工亦农",
+      "财贸部门 劳动制度 新建设",
+      "Chang Ho-wei labour",
+      "worker-peasant Ho-wei",
+      "新建设 1966 1 2 目录"
+    ],
+    "09-07": [
+      "新建设 亦工亦农",
+      "财贸部门 劳动制度 新建设",
+      "Chang Ho-wei labour",
+      "worker-peasant Ho-wei",
+      "新建设 1966 1 2 目录"
+    ],
+    "09-08": [
+      "新建设 亦工亦农",
+      "财贸部门 劳动制度 新建设",
+      "Chang Ho-wei labour",
+      "worker-peasant Ho-wei",
+      "新建设 1966 1 2 目录"
+    ],
+    "09-09": [
+      "新建设 亦工亦农",
+      "财贸部门 劳动制度 新建设",
+      "Chang Ho-wei labour",
+      "worker-peasant Ho-wei",
+      "新建设 1966 1 2 目录"
+    ],
+    "10-37": [
+      "复核第三十四轮已归档CCRD录文前言第二、三段，按用户指示采用"
+    ],
+    "10-38": [
+      "复核同一录文第五项末句，按用户指示采用"
+    ]
+  },
+  "limitations": [
+    "按现有台账筛查100条的可推进方向，并不等于重新核查100条原文；本轮正式复核10个编号。",
+    "10-37、10-38依用户接受的CCRD录文恢复；其所据翻印件未署翻印者，未取得原件或所列原刊，不将恢复措辞表述为验证史实。",
+    "11-04由未落实转部分核实，新增英文中间出处及中文题名、档号线索；没有恢复中文原话。",
+    "Ash全文此前已由用户提供，本轮复用；不列为新获得论文。",
+    "两篇报刊材料来自固定Git提交的非官方录文，未取得原报版影；两篇是会议新闻，不是报告全文。",
+    "浙江省档案馆J123-18-2为研究文章转引的档号，尚未核验馆藏或取得原件。",
+    "新建设及Chang Ho-wei汉字仍为待辨认对象；检索未命中不是资料不存在。",
+    "另作Gluckstein劳动纪律段、下乡职工等探索性检索，未获得可据以变更的证据，未计入10条正式复核。",
+    "中国工人和Current Scene两项文献传递继续等待；不另发申请。",
+    "书籍PDF、HTML及排版代码不动。"
+  ],
+  "userSourceAcceptance": {
+    "recordIds": [
+      "10-37",
+      "10-38"
+    ],
+    "instruction": "浙江省问题的决定 你直接按照网络录文替换就行。因为匪情月报也是二手资料，两者可信度都差不多（相对于原始材料而言）。",
+    "appliedDecision": "采用已经核对、归档的CCRD中文录文恢复两处，不再以等待原刊或影像作为本次替换的前提；保留版本来源说明。"
+  }
+}

@@ -8,3 +8,7 @@ Zhejiang-Decision-1975-CCRD-original.html.txt -text
 # Preserve the round 34 transcription and comparison hashes.
 Zhejiang-Decision-1975-CCRD-transcription.md -text
 Zhejiang-Decision-1975-forum-excerpt.txt -text
+
+# Preserve the round 35 newspaper transcription bytes.
+East-China-Plenum-1950-07-21-Opening-RMRB-transcription.md -text
+East-China-Plenum-1950-07-24-Closing-RMRB-transcription.md -text
