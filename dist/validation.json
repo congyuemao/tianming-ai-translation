@@ -1,5 +1,5 @@
 {
-  "pages": 322,
+  "pages": 325,
   "blankPages": [],
   "sparsePages": [
     [
@@ -7,24 +7,46 @@
       97
     ]
   ],
-  "pendingMarkers": 110,
+  "pendingMarkers": 91,
   "replacementCharacters": 0,
   "bookmarks": 26,
   "localFileLinks": [],
   "outOfBoundsWords": [],
   "contentBlocksChecked": 1916,
   "contentBlocksNotExactInPDF": [],
-  "sourceCommit": "ddb7f991377d22cdcc98740611cbfffc0b928641",
-  "pdfSHA256": "47b37c83d6faf9f56e85f1acfa4b60af675bec921d1433d004b98ef0f6b4cc15",
+  "sourceCommit": "28c1cfaa020f54fce9f5702af7a31742056e2d9a",
+  "buildDate": "2026-10-14",
+  "citationAuditRound": 36,
+  "pdfSHA256": "5b9b3b0aae7fb0b770e8ba6057ff01294565642f5a9d6e3a4baa13c975b473e5",
+  "htmlSHA256": "808f8c0592b314e5af3af44471fc5536052d9235315100b20362e6dbec899ea1",
   "chapterHashesMatchBuild": true,
+  "auditLedgerHashMatchesBuild": true,
+  "chapterCount": 23,
   "endnotes": 533,
   "removedLeadingTitleEchoes": 6,
   "htmlChapterNavigation": "pass",
   "htmlNoteNavigation": "pass",
   "mobileHorizontalOverflow": false,
+  "paginationStable": true,
+  "allPDFFontsEmbedded": true,
+  "pdfFontResources": 147,
   "renderedPreviewPages": [
-    55,
-    123,
-    170
+    3,
+    125,
+    171,
+    227,
+    228,
+    229,
+    230,
+    231
+  ],
+  "visuallyReviewedFinalPages": [
+    3,
+    125,
+    171,
+    228,
+    229,
+    230,
+    231
   ]
 }

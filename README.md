@@ -14,7 +14,7 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 [下载 PDF](dist/天命_马克思与毛泽东在现代中国.pdf) · [HTML 阅读版](dist/mandate_of_heaven_zh.html) · [构建记录](dist/build-info.json)
 
-2026 年 10 月 14 日更新：322 页，160 × 230 mm 开本。采用深墨蓝、暖白与朱砂红配色，宋体正文与黑体标题；同步第十九轮引文核查后的全部译稿。23 个章节文件、533 条章末注释及 110 处待核标记完整保留。
+2026 年 10 月 14 日修订：325 页，160 × 230 mm 开本。采用深墨蓝、暖白与朱砂红配色，宋体正文与黑体标题；同步第三十六轮引文核查后的全部译稿。23 个章节文件、533 条章末注释及 91 处待核标记完整保留。
 
 The modern edition includes a new geometric cover, a compact linked contents page, 26 PDF bookmarks, and linked endnotes. The HTML embeds its fonts and supports both desktop and mobile reading. Download the HTML to read it; GitHub's file page displays its source.
 
@@ -22,7 +22,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第三十六轮](reference%20check/2026-10-14-round36.md)：采用用户指定的五组既有中文材料，完成7处引文校引，待核由98处降至91处。所采网络录文、回忆录摘引及当年中文再译刊本的性质和版本差异均已注明。本轮新增4张证据页图、5份目标摘录及来源记录，见[来源目录](reference%20check/sources/README.md)。《中国工人》和Current Scene两项文献传递继续等待。最新引文及校注已写入章节Markdown；上方PDF/HTML维持第十九轮版本，待数轮核查后统一重建。
+2026 年 10 月 14 日已推进至[第三十六轮](reference%20check/2026-10-14-round36.md)：采用用户指定的五组既有中文材料，完成7处引文校引，待核由98处降至91处。所采网络录文、回忆录摘引及当年中文再译刊本的性质和版本差异均已注明。本轮新增4张证据页图、5份目标摘录及来源记录，见[来源目录](reference%20check/sources/README.md)。《中国工人》和Current Scene两项文献传递继续等待。最新引文及校注已写入章节Markdown；上方PDF/HTML已按第三十六轮译稿统一重建，目录页码、书签、嵌入字体与来源链接同步更新。
 
 ## Workflow / 工作流
 
@@ -99,7 +99,7 @@ Cover artwork is authored in `tools/cover.html`; typography and print/screen sty
 pdftoppm -f 1 -l 1 -scale-to 1600 -singlefile -png "dist/天命_马克思与毛泽东在现代中国.pdf" dist/cover
 ```
 
-中间 PDF 和预览保存在被 Git 忽略的 `tmp/pdfs/`。`dist/build-info.json` 记录译稿来源提交、各章 SHA-256、被过滤的重复标题、构建日期与稳定页码结果。新增字体子集之外的字符时，按 [字体说明](tools/fonts/README.md) 重新生成字体。
+中间 PDF 和预览保存在被 Git 忽略的 `tmp/pdfs/`。`dist/build-info.json` 记录译稿来源提交、核查轮次及台账 SHA-256、各章 SHA-256、被过滤的重复标题、构建日期与稳定页码结果。新增字体子集之外的字符时，按 [字体说明](tools/fonts/README.md) 重新生成字体。
 
 ## Notes / 说明
 

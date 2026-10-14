@@ -1,7 +1,13 @@
 {
-  "sourceCommit": "ddb7f991377d22cdcc98740611cbfffc0b928641",
+  "sourceCommit": "28c1cfaa020f54fce9f5702af7a31742056e2d9a",
   "buildDate": "2026-10-14",
-  "pendingMarkers": 110,
+  "citationAudit": {
+    "round": 36,
+    "date": "2026-10-14",
+    "ledger": "reference check/2026-10-14-round36.json",
+    "sha256": "9e0e4cf5a0827e040e332e193413046b492692bd2267d006f1c89c7da7c659d3"
+  },
+  "pendingMarkers": 91,
   "chapters": [
     {
       "file": "00_2015_preface.md",
@@ -31,7 +37,7 @@
       "number": "",
       "chapterNumber": null,
       "kind": "frontmatter",
-      "sha256": "4e3ce694e8f0dff5e304a3f025d5a465721cc3578be42b9ef1fc9c2c04316a6a"
+      "sha256": "f0ec55b4fc316713e15a1a2a7e9bd9a37c8937346b32eb23367f8e3af8fce538"
     },
     {
       "file": "02_ch01_workers_revolution.md",
@@ -51,7 +57,7 @@
       "number": "第2章",
       "chapterNumber": 2,
       "kind": "chapter",
-      "sha256": "f92a7ea906c50f9b3c88b9b7b5e8534d6811d6de4f81f4a2a0cbfbcb5ca950c7"
+      "sha256": "6279e1cd9dad219985df283b8d49711368ee3ec3f992a7863d15159d180ff655"
     },
     {
       "file": "04_ch03_first_phase.md",
@@ -71,7 +77,7 @@
       "number": "第4章",
       "chapterNumber": 4,
       "kind": "chapter",
-      "sha256": "44889081e5a914fe6c399d933374d878986efd08de40846cf0daa9e0b5724aff"
+      "sha256": "8e792bf482765bbaa25827edb0974e16387240887dba4070ba9ccde1362a1270"
     },
     {
       "file": "06_ch05_cultural_revolution.md",
@@ -81,7 +87,7 @@
       "number": "第5章",
       "chapterNumber": 5,
       "kind": "chapter",
-      "sha256": "4d4f85f84945b55526486c1286a320812b6a8020e67fca771fe4e327ac6372af"
+      "sha256": "fdb6e33f23140161600cd1a337cbf21c54dd77c1f646024dc74cfbe52f55b0f4"
     },
     {
       "file": "07_ch06_after_cultural_revolution.md",
@@ -91,7 +97,7 @@
       "number": "第6章",
       "chapterNumber": 6,
       "kind": "chapter",
-      "sha256": "0407cf8c95e725545541fd732d0dc36876c9c5c2b05892015ac1c91ea2c8fd7b"
+      "sha256": "a0cd6ee9d43049b607d33718d1dec05416f783e43f7553aa2b1af39b10422381"
     },
     {
       "file": "08_ch07_workers_in_1950s.md",
@@ -101,7 +107,7 @@
       "number": "第7章",
       "chapterNumber": 7,
       "kind": "chapter",
-      "sha256": "62ca33460383c8b5998ff387b987ef7c968a196da6707f930d0cedcf4422f1d4"
+      "sha256": "39d2f04613e87e604a8325eb9d4b47a034950081c2045a511f6ab908e5537c60"
     },
     {
       "file": "09_ch08_temporary_contract_labour.md",
@@ -111,7 +117,7 @@
       "number": "第8章",
       "chapterNumber": 8,
       "kind": "chapter",
-      "sha256": "ee81120781792ccbb9c0643937efaa415533763a51f941f7416c5a82034d8c9b"
+      "sha256": "5ff5dd958f3c4518e54f77e3c8a2ae5e974ba7d0deef723bc02329a4655395c3"
     },
     {
       "file": "10_ch09_working_class_after_cultural_revolution.md",
@@ -121,7 +127,7 @@
       "number": "第9章",
       "chapterNumber": 9,
       "kind": "chapter",
-      "sha256": "6226b31b316fdc34c7947d059e0b18fe7ca44305e0bec7ac3a6486377074f3d4"
+      "sha256": "d7ee6687b1949a81f1f4f4dd7a4da08d90a2a1b6b4196647e7f26b26ddcd2711"
     },
     {
       "file": "11_ch10_peasants_in_prc.md",
@@ -131,7 +137,7 @@
       "number": "第10章",
       "chapterNumber": 10,
       "kind": "chapter",
-      "sha256": "7640c83dc72a4e497c3b03f77437ca48052db107a6210efe2630989e97e31e5a"
+      "sha256": "c45934bc4733c58c47339128582e75d5e74799c092de2f7c970e97eaab940c63"
     },
     {
       "file": "12_ch11_equality.md",
@@ -141,7 +147,7 @@
       "number": "第11章",
       "chapterNumber": 11,
       "kind": "chapter",
-      "sha256": "3c92c7f7d398a6b981d1db210114cd4a8bd8133eb45f2a3c72ee63121b11f05b"
+      "sha256": "7a82cf688e4140f6df6f3157e475d1350c41777705c6682196f7ea2d4ac9d2ff"
     },
     {
       "file": "13_ch12_democracy.md",
@@ -161,7 +167,7 @@
       "number": "第13章",
       "chapterNumber": 13,
       "kind": "chapter",
-      "sha256": "ea99e63b9993e552a1b51f5a0dc0fc1a93440dcd151939ae533c5ed7ee9b74ef"
+      "sha256": "bf58ecb1ab071f93870030992d0f1b24e258ae4a868b19ef445866640a64cb92"
     },
     {
       "file": "15_ch14_theory.md",
@@ -221,7 +227,7 @@
       "number": "第19章",
       "chapterNumber": 19,
       "kind": "chapter",
-      "sha256": "4f3c92187f847eb19682052eee5c2c40b2d8b72f093e1fbdcf15d4ca2cf741c6"
+      "sha256": "2180b2457f0ff7026a0a77d38f70e241ebff08209d8c80800ec0a5fd5e10fa7c"
     },
     {
       "file": "21_retrospect.md",
@@ -260,7 +266,7 @@
       "text": "回顾"
     }
   ],
-  "pageCount": 322,
+  "pageCount": 325,
   "format": "160 × 230 mm",
   "paginationStable": true,
   "validation": {
@@ -268,7 +274,7 @@
     "chapterCount": 23,
     "noteRefs": 533,
     "endnotes": 533,
-    "pendingMarkers": 110,
+    "pendingMarkers": 91,
     "textPreserved": true
   }
 }

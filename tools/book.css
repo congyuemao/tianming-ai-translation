@@ -66,8 +66,10 @@ strong,b{font-weight:750}
 /* A slightly tighter note-list rhythm prevents isolated final notes in these chapters. */
 @media print{
  #sec-5-03-ch02-from-defeat-to-victory .endnotes li,
+ #sec-16-14-ch13-national-independence .endnotes li,
  #sec-18-16-ch15-foreign-policy .endnotes li{margin-bottom:1.4mm}
  #sec-5-03-ch02-from-defeat-to-victory .endnotes li>p:last-child,
+ #sec-16-14-ch13-national-independence .endnotes li>p:last-child,
  #sec-18-16-ch15-foreign-policy .endnotes li>p:last-child{margin-bottom:0}
 }
 @page{size:160mm 230mm;margin:18mm 17mm 19mm 19mm;@top-left{content:'天命';font-family:BookSans;font-size:7pt;color:#56636a;vertical-align:middle}@bottom-right{content:counter(page);font-family:BookSans;font-size:7.5pt;color:#56636a}}
