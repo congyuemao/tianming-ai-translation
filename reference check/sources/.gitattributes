@@ -1,3 +1,5 @@
 *.pdf binary
 # Preserve the archived transcription's original mixed line endings.
 Xi-Zhongxun-Anti-Bureaucratism-1950-RMRB-transcription.md -text
+# Preserve the round 33 source transcription byte for byte.
+Hangzhou-Troops-1975-08-02-RMRB-transcription.md -text

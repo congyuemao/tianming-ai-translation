@@ -428,3 +428,25 @@ SHA-256：
 中文录文来自[公开语料的固定提交版本](https://github.com/fangj/rmrb/tree/babd76828d15fef7cde1247870632d759fb2aa7f)，原样归档；[公开网页](https://cn.govopendata.com/renminribao/1950/06/07/1/)的搜索索引也显示目标内容，整页读取未成功。两者可能同源，未取得原报版影。两张实物照片来自[中国收藏家协会书报刊文献展览](https://www.sbksc.zcxn.com/html/zhuanti/0405_693.html)第10项，原样保存且保留水印；只核封面及版权，没有获得单行本内文。
 
 完整来源URL、下载文件哈希、页码、逐条结论和缺件说明见[本轮来源记录](round32-evidence.json)。英文书中1952年6月9日及CB158的后续转载链仍未核，不能将报告日期更正等同于验证该链。恢复1条独立引文在正文与注19中的2处标记；另外3条只有英文转引，不撤中文待核标记。详见[第三十二轮报告](../2026-10-14-round32.md)。书籍PDF、HTML保持不变。
+
+## 第三十三轮新增材料（2026-10-14）
+
+新增1份参考PDF，累计32份；另有9幅完整页图和1篇中文报刊录文。
+
+| 新增文件 | 页码或来源 | 用途 |
+| --- | --- | --- |
+| [Forster论文公开PDF](Forster-Hangzhou-Incident-1985.pdf) | 阿德莱德大学，1985年6月，415页 | 杭州事件的原刊及广播书目线索；4篇附文未随公开版提供 |
+| [题名页](Forster-Hangzhou-1985-title.png) | PDF1 | 作者、题名、学位和日期 |
+| [第9页](Forster-Hangzhou-1985-p9.png) | PDF34 | 人民日报8月2日报道及李光善，排除姓名错配 |
+| [第283页](Forster-Hangzhou-1985-p283.png) | PDF308 | 丝绸厂食堂叙述及注74 |
+| [第285页](Forster-Hangzhou-1985-p285.png) | PDF310 | 空军进入五厂及注79 |
+| [第286页](Forster-Hangzhou-1985-p286.png) | PDF311 | 区分人民日报与新华社报道 |
+| [第315页](Forster-Hangzhou-1985-p315.png) | PDF340 | 注21：《匪情月报》及两种英译本 |
+| [第319页](Forster-Hangzhou-1985-p319.png) | PDF344 | 《决定》第84页、干部会议线索 |
+| [第322页](Forster-Hangzhou-1985-p322.png) | PDF347 | 注73—79；目视校正7月21日、FBIS G1—4的OCR误识 |
+| [第324页](Forster-Hangzhou-1985-p324.png) | PDF349 | 注82：新华社8月2日、SWB4976/BII/5—6 |
+| [杭州驻军报道录文](Hangzhou-Troops-1975-08-02-RMRB-transcription.md) | 人民日报1975年8月2日第3版，非官方语料 | 排除同题材错配；未取得原报版影 |
+
+论文来自[大学资料库公开文件](https://digital.library.adelaide.edu.au/server/api/core/bitstreams/4f961047-c066-44ee-bf66-49ef1f446613/content)，完整保存23,719,087字节，MD5与资料库记录一致；SHA-256、页码和逐条结论见[来源记录](round33-evidence.json)。公开本末尾PDF412—415为4篇附文的缺件说明，不能视为所有附件齐备版。页图为Poppler整页渲染，未裁切或改动内容。
+
+报刊录文原样保存自[固定Git提交语料](https://github.com/fangj/rmrb/tree/babd76828d15fef7cde1247870632d759fb2aa7f)，与解包成员逐字节一致；网页直接读取未成功，未归档网页HTML。论文及录文不代替尚缺的中文原刊和广播稿；12个编号均保留待核状态。详见[第三十三轮报告](../2026-10-14-round33.md)。书籍PDF、HTML保持不变。

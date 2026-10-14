@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-14",
+  "round": 33,
+  "formalReviewIds": [
+    "10-37",
+    "10-38",
+    "10-39",
+    "10-40",
+    "10-41",
+    "10-42",
+    "10-43",
+    "10-44",
+    "10-45",
+    "10-46",
+    "10-47",
+    "10-48"
+  ],
+  "sources": [
+    {
+      "id": "forster-hangzhou-1985-r33",
+      "recordIds": [
+        "10-37",
+        "10-38",
+        "10-39",
+        "10-40",
+        "10-41",
+        "10-42",
+        "10-43",
+        "10-44",
+        "10-45",
+        "10-46",
+        "10-47",
+        "10-48"
+      ],
+      "title": "The Hangzhou Incident of 1975: The Impact of Factionalism on a Chinese Provincial Administration",
+      "author": "Keith Forster",
+      "publication": "PhD thesis, Department of Politics, University of Adelaide",
+      "date": "1985-06",
+      "url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/4f961047-c066-44ee-bf66-49ef1f446613/content",
+      "catalogURL": "https://digital.library.adelaide.edu.au/items/c93a749e-18eb-4651-a47b-1b8cba189e6d/full",
+      "handleURL": "https://hdl.handle.net/2440/21447",
+      "accessed": "2026-10-14",
+      "localPath": "reference check/sources/Forster-Hangzhou-Incident-1985.pdf",
+      "kind": "大学资料库公开的博士论文扫描；本轮用于追查其所引原始报刊和广播，不视为中文文件原件",
+      "sourcePDFBytes": 23719087,
+      "sourcePDFPages": 415,
+      "sourcePDFSHA256": "9e97d6076c65b3529025649c1381f7de4dc20e45808c9cedbb495e3770825db6",
+      "repositoryMD5": "6918defd38b27826c6955b81c91342ce",
+      "repositoryMD5Verified": true,
+      "sourcePDFArchived": true,
+      "newlyArchivedThisRound": true,
+      "fullTextObtained": true,
+      "fullTextScope": "完整保存公开下载的02whole.pdf，含论文主体；末尾PDF412—415只有4篇附文的缺件说明，不是原印本全部附文齐全版。",
+      "archiveMethod": "保存下载原始字节，未摘页、重排或增添OCR；另归档9幅目视核对的整页图。",
+      "accessLimit": "只下载公开02whole.pdf；未取得受限完整版，未取得论文所引匪情月报、CLG、Issues & Studies或SWB原页。",
+      "images": [
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-title.png",
+          "pdfPage": 1,
+          "printedPage": null,
+          "sha256": "d76bdf933a944fc3a32caa42c78abe4474ac3df20766770207824fd6a966c1bd",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        },
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-p9.png",
+          "pdfPage": 34,
+          "printedPage": 9,
+          "sha256": "f98df439133b07f2af3284bbc61feaca112d92c676866e9026953a82bddd26eb",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        },
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-p283.png",
+          "pdfPage": 308,
+          "printedPage": 283,
+          "sha256": "ec180ca185448f0bcc18d1ed8162c3b0b2636ed191b5f7c46711584ba5d40d70",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        },
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-p285.png",
+          "pdfPage": 310,
+          "printedPage": 285,
+          "sha256": "259a803179d1ae865e47fcd0cfe835331d624bcf9d27e1dae130aad3b8172fa7",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        },
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-p286.png",
+          "pdfPage": 311,
+          "printedPage": 286,
+          "sha256": "55d528cfa7ced17c9403875f0cca61f41ed2939d305b31673666751f23c9868a",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        },
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-p315.png",
+          "pdfPage": 340,
+          "printedPage": 315,
+          "sha256": "0556a4d918f6e2d5323d4e229f6e52d274d1719a7dcba51acf7420a2e302089a",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        },
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-p319.png",
+          "pdfPage": 344,
+          "printedPage": 319,
+          "sha256": "1c3f1c193b1b492cb84eea928627fc005f254670715d94562cfa147c26505676",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        },
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-p322.png",
+          "pdfPage": 347,
+          "printedPage": 322,
+          "sha256": "6ea314e4924a3bcf66cb214ea6d5e4cd98669565d8438977f13ab31abbbf183c",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        },
+        {
+          "localPath": "reference check/sources/Forster-Hangzhou-1985-p324.png",
+          "pdfPage": 349,
+          "printedPage": 324,
+          "sha256": "215dac5f8767e5d7405c8b92dc3262a4c79ceaa396393e0edd56da0cfac2aa95",
+          "visuallyChecked": true,
+          "rendering": "Poppler整页渲染，未裁切或改动页面内容。"
+        }
+      ],
+      "evidenceLocation": "刊页9、283、285—286、315注21、319注43/47/48、322注73—79、324注82；另核题名页。",
+      "observations": [
+        "第315页注21列《关于浙江省问题的决定》：Feiqing Yuebao 18:11 (1976), p.85；第319页注43/48及第322页注78指p.84或pp.84—85。卷期年份仅按Forster书目转录，未独立见刊，不推算第11期的月份。",
+        "同注列Chinese Law and Government 10:1 (1977), pp.8—11，以及Issues & Studies 12:6 (1976), pp.102—105；讨论jiesan/qudi的不同译法。不能据此恢复中文文件引号。",
+        "第283页食堂菜样不足叙述引注74；第322页原图注74明确ZPS, 21 July 1975, ibid., BII/4，ibid承接注73的SWB FE/4967。OCR误识为27，已排除。",
+        "相邻注75才是ZPS, 27 July 1975, FBIS/CHI, 148 (1975), G1—4；OCR把G识成C。两条不能合并。",
+        "第285页空军进入五厂叙述指注79；第322页注79为ZPS, 8 August 1975, SWB FE/4979/BII/4—6。属具体续查线索，尚未取得广播原文。",
+        "第286页将人民日报报道与新华社杭州电稿区别讨论，注82（刊页324）为Xinhua, 2 August 1975, SWB FE/4976/BII/5—6，支持继续查原注，但不证明水泥、姓名等待核引句。",
+        "全文OCR检索canteen、bus driver、night shift、buns、hot soup、off-duty和Li/Ni姓名变体，结合上述页影复核，未落实目标中文引句。OCR阴性结果不等于扫描所有页面都不存在。"
+      ]
+    },
+    {
+      "id": "rmrb-hangzhou-19750802-r33",
+      "recordIds": [
+        "10-40",
+        "10-41",
+        "10-42",
+        "10-43",
+        "10-44",
+        "10-45",
+        "10-46"
+      ],
+      "title": "浙江驻军某部指战员到工厂参加劳动 进一步加强军民团结",
+      "author": "本报通讯员",
+      "publication": "人民日报",
+      "date": "1975-08-02",
+      "page": 3,
+      "url": "https://cn.govopendata.com/renminribao/1975/08/02/3/",
+      "localPath": "reference check/sources/Hangzhou-Troops-1975-08-02-RMRB-transcription.md",
+      "kind": "公开语料的非官方报刊录文；用于排除同题材错配，未取得原报版影",
+      "accessed": "2026-10-14",
+      "sourceCorpus": {
+        "month": "1975-08",
+        "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1975%E5%B9%B408%E6%9C%88.7z",
+        "sha256": "3764a70797b639c929cbdd4b434197d7bc5c911e2713939bb296405b738b3820",
+        "gitBlob": "844c1af5730e0092102bc0cf5a978fc1c4e86edb",
+        "files": 1097
+      },
+      "originalMemberName": "1975-08-02_浙江驻军某部指战员到工厂参加劳动_进一步加强军民团结.md",
+      "sha256": "4f9746184e70ad4413952af433e600171a6dd2f717ad0fcfe03c2c9c07e15ffe",
+      "fullTextObtained": true,
+      "archiveMatchesExtractedMember": true,
+      "accessMethod": "读取此前已下载的固定Git提交月度语料解包成员；本轮网页直接访问失败，没有声称获取该页HTML。",
+      "assessment": "全文署李光善、武万万，叙及擦洗机器四个多小时及帮厨等；没有七连两小时完成一天工作、Li Jiming/Ni Zhongsheng或十人卸五十吨水泥的目标段落。不可用李光善去猜改Li Jiming。"
+    }
+  ],
+  "findings": [
+    {
+      "id": "10-37",
+      "status": "partial",
+      "sources": [
+        "forster-hangzhou-1985-r33"
+      ],
+      "comment": "Forster刊页315注21及319、322页提供《匪情月报》18:11 (1976), pp.84—85和两种英译本的具体线索；原刊未获，维持partial，不用后出论文反向恢复中文。",
+      "nextAction": "优先取得《匪情月报》18卷11期（Forster标1976）84—85页、封面或目录；另可比对CLG 10(1),1977,8—11及I&S 12(6),1976,102—105。"
+    },
+    {
+      "id": "10-38",
+      "status": "partial",
+      "sources": [
+        "forster-hangzhou-1985-r33"
+      ],
+      "comment": "同一《决定》的结尾引句：补到中文刊物及英译本出处线索，未见原刊目标句，维持partial。",
+      "nextAction": "与10-37共用中文刊页任务，核文件结尾和措辞；刊期月份不得凭期号推算。"
+    },
+    {
+      "id": "10-39",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33"
+      ],
+      "comment": "Forster注73指1975-07-21 ZPS及SWB FE/4967/BII/5—6；与Harris原注4965有别。只列为邻近报道线索，不据此改期号或恢复整段。",
+      "nextAction": "并查原注SWB4965与新增SWB4967/BII/5—6，逐句辨认后才能改原注。"
+    },
+    {
+      "id": "10-40",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33",
+        "rmrb-hangzhou-19750802-r33"
+      ],
+      "comment": "Forster注82与原注新华社1975-08-02、SWB4976/BII/5—6一致；论文没有两小时完成一天水泥装卸的原句，人民日报同日报道也不对应。保留未落实。",
+      "nextAction": "取得SWB4976/BII/5—6及相关中文电稿，核七连、水泥和工时数字。"
+    },
+    {
+      "id": "10-41",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33",
+        "rmrb-hangzhou-19750802-r33"
+      ],
+      "comment": "Forster刊页285及注79提供空军入五厂的1975-08-08 ZPS、SWB4979/BII/4—6线索；尚无不怕热不怕累的目标中文稿，不撤标。",
+      "nextAction": "取得SWB4979/BII/4—6或1975-08-08浙江广播中文稿，核五厂及目标句。"
+    },
+    {
+      "id": "10-42",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33",
+        "rmrb-hangzhou-19750802-r33"
+      ],
+      "comment": "沿空军五厂报道线索查找姓名，论文未落实Li Jiming对应原句；同日人民日报所见李光善属于另一个叙述，不猜改姓名。",
+      "nextAction": "与10-41同查；必须有中文署名才能替换罗马字姓名。"
+    },
+    {
+      "id": "10-43",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33",
+        "rmrb-hangzhou-19750802-r33"
+      ],
+      "comment": "新论文及同日报道未落实Ni Zhongsheng与卸煤起泡引句；不能凭罗马字拼写猜定中文姓名。",
+      "nextAction": "与10-41同查，核副司令员姓名和卸煤段。"
+    },
+    {
+      "id": "10-44",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33",
+        "rmrb-hangzhou-19750802-r33"
+      ],
+      "comment": "新论文及人民日报同日报道未落实十人卸五十吨水泥的句段；通用的不怕疲劳措辞不作为对应证据。",
+      "nextAction": "并查SWB4976/BII/5—6与4979/BII/4—6，核十人、五十吨水泥及原句。"
+    },
+    {
+      "id": "10-45",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33",
+        "rmrb-hangzhou-19750802-r33"
+      ],
+      "comment": "论文刊页319注47给出7月23—24日浙江广播及SWB4967/BII/1—3的干部会议线索，未落实工厂狠批刘少奇林彪这一具体引句。",
+      "nextAction": "查SWB4967/BII/1—3及7月23—24日报道，但不预设干部会议稿就是工厂引句来源。"
+    },
+    {
+      "id": "10-46",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33",
+        "rmrb-hangzhou-19750802-r33"
+      ],
+      "comment": "刊页283食堂菜样不足段落指注74：目视原页应为7月21日浙江广播、SWB4967/BII/4，非OCR的27日；仍未见馒头、热菜汤目标句，只作新线索。",
+      "nextAction": "优先查1975-07-21浙江广播对应SWB4967/BII/4；7月27日FBIS/CHI148/G1—4为另一相邻材料。"
+    },
+    {
+      "id": "10-47",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33"
+      ],
+      "comment": "检查论文相关段落及OCR的公交、夜班词组，未找到司机晚间返回跑车引句；继续保持无独立注号的限制。",
+      "nextAction": "仍需独立定位杭州公交报道；邻段脚注不自动归入本条。"
+    },
+    {
+      "id": "10-48",
+      "status": "searched_unresolved",
+      "sources": [
+        "forster-hangzhou-1985-r33"
+      ],
+      "comment": "检查论文相关段落及休假劳动措辞，未找到本条引句；8月2日报道的一般参加劳动不能代替休假带头劳动的原话。",
+      "nextAction": "仍需独立定位干部休假劳动报道；邻段脚注不自动归入本条。"
+    }
+  ],
+  "limitations": [
+    "正式复核12个固定编号，不表示本轮逐条重查了全部100处。未取得足以恢复目标中文引句的证据，无新增撤标或状态升级。",
+    "Forster论文为后出的研究文献；只确认其书目与叙述，不等于已经取得它引用的中文文件、广播、SWB或期刊原页。",
+    "完整保存公开02whole.pdf（415页）；PDF412—415仅为4篇附文的缺件说明，不称原印本所有附件均已获得。只精读、目视核对列明页，不声称通读415页。",
+    "《匪情月报》18卷11期（1976）、84—85页是Forster所列书目，原刊未见，不独立保证刊期，不将11期写成11月。",
+    "刊页322注74日期以扫描为准：21 July，非OCR的27；注75才是27 July，且FBIS页码应为G1—4，非OCR的C1—4。",
+    "SWB4965与4967线索尚未核定对应关系，不因同题材直接改原注期号；无独立注号的引句不自动继承邻注。",
+    "人民日报录文来自固定提交的非官方语料，未见原报版影；网页读取失败。用于排除错配，不把李光善猜作Li Jiming。",
+    "两项文献传递继续等待，Ash两篇状态不变；不发新的申请。归档沿用reference check/sources，dist和tools不变。"
+  ]
+}
