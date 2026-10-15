@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-16",
+  "round": 37,
+  "gitBase": "76eaf5f6a856fe4a611b31c7ffe5b2382e7a2e81",
+  "formalReviewIds": [
+    "09-16"
+  ],
+  "sources": [
+    {
+      "id": "zhou-wenge-network-pdf-r37",
+      "recordIds": [
+        "09-16"
+      ],
+      "title": "周恩来文革讲话",
+      "kind": "用户提供的PDF；网络整理，非正式出版物",
+      "accessed": "2026-10-16",
+      "originalFilename": "周恩来文革讲话 (周恩来) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "localPath": "reference check/sources/Zhou-Enlai-Wenge-Speeches-network-compilation.pdf",
+      "sha256": "06221810503e08bba1d67722f3b13c464acce65d909c55c7b34caebe5417b2b6",
+      "byteLength": 6955615,
+      "pdfPages": 2690,
+      "originalPdfArchived": true,
+      "archiveMethod": "完整字节复制用户附件，未删页、裁切、改字或增添OCR；原附件与归档件SHA-256一致。",
+      "coverTranscription": {
+        "version": "1.0",
+        "date": "2024年10月",
+        "imprint": "21世纪文化革命出版社",
+        "qualification": "仅照录封面文字；不作为正式出版资质或作者审定证明。"
+      },
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/Zhou-Wenge-title.png",
+          "pdfPage": 1,
+          "printedPage": null,
+          "sha256": "e9458c1dbbc9814b3e71595ef1ccc9bb017ea5a79dad032dfae9ee45bbe22d3d",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+        },
+        {
+          "localPath": "reference check/sources/Zhou-Wenge-p276.png",
+          "pdfPage": 299,
+          "printedPage": 276,
+          "sha256": "1497e261edc604f6f1892adb33be99b82bd428db517dfb04fccae463325cd25b",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+        },
+        {
+          "localPath": "reference check/sources/Zhou-Wenge-p290.png",
+          "pdfPage": 313,
+          "printedPage": 290,
+          "sha256": "c4769fa0bccb7874bd08a68a146623021472c8807733e92bf5e6e79b23c5f3ad",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+        },
+        {
+          "localPath": "reference check/sources/Zhou-Wenge-p305.png",
+          "pdfPage": 328,
+          "printedPage": 305,
+          "sha256": "74cd840b3215fcb68229dbf8eb465cae1e7fb31ced4f0ee5bd7e4056e4ed9633",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+        },
+        {
+          "localPath": "reference check/sources/Zhou-Wenge-p314.png",
+          "pdfPage": 337,
+          "printedPage": 314,
+          "sha256": "af3c89e63b4ae98f0d2bb6c1750e0bd2baf7fa29a23cd477f4bbe79e868e7ab3",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+        },
+        {
+          "localPath": "reference check/sources/Zhou-Wenge-p1082.png",
+          "pdfPage": 1105,
+          "printedPage": 1082,
+          "sha256": "ce1775d25a8fda0ecee0afe3b28a905f24ebeeaf6d57d75b8ca527929bf0b76d",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+        },
+        {
+          "localPath": "reference check/sources/Zhou-Wenge-p1083.png",
+          "pdfPage": 1106,
+          "printedPage": 1083,
+          "sha256": "68ab6e77662853b4e47dbd7403a5fee81794b9b2333f1ce3f9e5e358312f4fdc",
+          "visuallyVerified": true,
+          "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+        }
+      ],
+      "targetExcerpts": {
+        "localPath": "reference check/sources/Zhou-Wenge-temporary-workers-excerpts.md",
+        "sha256": "b62c6f497017eae200ef74042b57f804dd2eca87849ad6384a10e904b7c8ddef"
+      },
+      "observations": [
+        "第046篇文内署1966-10-22，书内290页提供工程临时性和社会分工理由，已录出中文原句。",
+        "第050篇文内署1966-10-27，书内314页有相近段但措辞不同，并有“是否临时工”疑似讹字；未擅改。",
+        "第175篇文内署1967-01-29，对浙江代表说临时工一律转正涉及财政开支，仅作主题旁证。",
+        "未找到“由于中国的情况”逐字对应短句；上述讲话与上海大字报的转引关系未核定。"
+      ]
+    },
+    {
+      "id": "current-scene-public-snippets-r37",
+      "recordIds": [
+        "09-16"
+      ],
+      "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+      "journal": "Current Scene",
+      "volume": "VI",
+      "issue": 5,
+      "date": "1968-03-15",
+      "accessed": "2026-10-16",
+      "kind": "原刊数字化本的Google Books公开检索片段，非整页或全文",
+      "url": "https://books.google.com/books?id=10ojAQAAMAAJ&pg=RA4-PA10&jscmd=SearchWithinVolume2&q=%22Chou%22%20%22circumstances%22&hl=en",
+      "googleBooksVolumeId": "10ojAQAAMAAJ",
+      "volumeDescription": "Current Scene: Developments in Mainland China, Volumes 6–8",
+      "fullTextObtained": false,
+      "pageImageObtained": false,
+      "visuallyVerified": false,
+      "targetPrintedPages": [
+        2,
+        10
+      ],
+      "pageIds": [
+        "RA4-PA2",
+        "RA4-PA10"
+      ],
+      "checks": [
+        "RA4-PA10将Harris的目标英文短引语归于Chou En-lai，并指向保留临时工、合同工制度。",
+        "RA4-PA2出现相同短引语及Chou En-lai归属。",
+        "目标文章标题在RA4-PA1命中；RA7-PA13参考注列该标题、VI/5和1968年3月15日。",
+        "第10页片段还对这些报道的真实性保留判断；不能当作周恩来讲话原始记录。"
+      ],
+      "limitations": [
+        "只核短引语、人物及篇目定位；未读完整第10页。",
+        "未据片段证实上海大字报的具体出处、日期或中文措辞。",
+        "不据后出书目直接确认原刊作者署名或整篇页数。"
+      ],
+      "queries": [
+        {
+          "query": "\"circumstances in China\"",
+          "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22circumstances%20in%20China%22",
+          "responseFileSHA256": "78c75699a9ad8d983bdbfebfa4e84bbb4aa2a49d1f8b9ac3605c431cf11c3dc5",
+          "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-targeted-snippets.json",
+          "reportedResultCount": 2,
+          "returnedPageIds": [
+            "RA4-PA2",
+            "RA4-PA10"
+          ],
+          "relevantPageIds": [
+            "RA4-PA2",
+            "RA4-PA10"
+          ]
+        },
+        {
+          "query": "\"Sources of Labor Discontent\"",
+          "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22Sources%20of%20Labor%20Discontent%22",
+          "responseFileSHA256": "78c75699a9ad8d983bdbfebfa4e84bbb4aa2a49d1f8b9ac3605c431cf11c3dc5",
+          "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-targeted-snippets.json",
+          "reportedResultCount": 3,
+          "returnedPageIds": [
+            "RA4-PA1",
+            "RA7-PA13",
+            "RA21-PA4"
+          ],
+          "relevantPageIds": [
+            "RA4-PA1",
+            "RA7-PA13"
+          ]
+        },
+        {
+          "query": "\"national economy\"",
+          "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22national%20economy%22",
+          "responseFileSHA256": "78c75699a9ad8d983bdbfebfa4e84bbb4aa2a49d1f8b9ac3605c431cf11c3dc5",
+          "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-targeted-snippets.json",
+          "reportedResultCount": 3,
+          "returnedPageIds": [
+            "RA16-PA5",
+            "RA21-PA4",
+            "RA36-PA17"
+          ],
+          "relevantPageIds": []
+        },
+        {
+          "query": "\"Chou\" \"circumstances\"",
+          "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22Chou%22%20%22circumstances%22",
+          "responseFileSHA256": "f43e104e4e093450c4f6e13b7fe1cfe788da440f44df11f052a78d8b98f6ce7b",
+          "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-attribution-snippets.json",
+          "reportedResultCount": 3,
+          "returnedPageIds": [
+            "RA4-PA2",
+            "RA4-PA10",
+            "RA55-PA19"
+          ],
+          "relevantPageIds": [
+            "RA4-PA2",
+            "RA4-PA10"
+          ]
+        },
+        {
+          "query": "\"Shanghai\" \"circumstances\"",
+          "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22Shanghai%22%20%22circumstances%22",
+          "responseFileSHA256": "f43e104e4e093450c4f6e13b7fe1cfe788da440f44df11f052a78d8b98f6ce7b",
+          "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-attribution-snippets.json",
+          "reportedResultCount": 3,
+          "returnedPageIds": [
+            "RA4-PA10",
+            "RA8-PA21",
+            "RA20-PA3"
+          ],
+          "relevantPageIds": [
+            "RA4-PA10"
+          ]
+        },
+        {
+          "query": "\"because of\" \"circumstances\"",
+          "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22because%20of%22%20%22circumstances%22",
+          "responseFileSHA256": "f43e104e4e093450c4f6e13b7fe1cfe788da440f44df11f052a78d8b98f6ce7b",
+          "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-attribution-snippets.json",
+          "reportedResultCount": 3,
+          "returnedPageIds": [
+            "RA4-PA2",
+            "RA4-PA10",
+            "RA38-PA13"
+          ],
+          "relevantPageIds": [
+            "RA4-PA2",
+            "RA4-PA10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sheehan-citation-lead-r37",
+      "recordIds": [
+        "09-16"
+      ],
+      "title": "Chinese Workers: A New History",
+      "author": "Jackie Sheehan",
+      "publication": "Routledge, 1998；所读PDF版权页列2002年电子版",
+      "accessed": "2026-10-16",
+      "kind": "后出研究著作的页码线索，不代替原刊或中文原件",
+      "url": "https://files.libcom.org/files/ChineseWorkers-ANewHistory-Jackie%20Sheehan.pdf",
+      "checkedPrintedPages": [
+        119,
+        247
+      ],
+      "pdfPagesOneBased": [
+        130,
+        258
+      ],
+      "readMethod": "公开PDF解析文本；截图接口未成功，未做该书整页目视核验",
+      "visuallyVerified": false,
+      "localArchiveCreated": false,
+      "finding": "第119页关于周恩来保留工农制度的叙述指向Solomon 1968:10；第247页书目将该项列为R. Solomon，Current Scene 6(5):1–26。作者与页数仅按该书著录，未独立核实。"
+    }
+  ],
+  "findings": [
+    {
+      "id": "09-16",
+      "status": "partial",
+      "sources": [
+        "zhou-wenge-network-pdf-r37",
+        "current-scene-public-snippets-r37",
+        "sheehan-citation-lead-r37"
+      ],
+      "comment": "已依用户指定PDF录出关于工程临时性、社会分工的两句中文，标明网络整理、非正式出版物。进一步在Current Scene VI/5（1968-03-15）第10页及第2页的公开检索片段中命中Harris短引语，并确认片段将其归于周恩来；Sheehan第119页亦指向该文第10页。但原刊整页、上海大字报中文原文和本PDF第046、050、175篇与短引语的对应关系仍缺，不能强行替换中文短引语，保留待核。",
+      "nextAction": "取得既有文献传递中的Current Scene VI/5整期后优先核第9—10页及相关注释，追到上海大字报的日期、载体和中文原句；不重复申请。"
+    }
+  ],
+  "userSourceAcceptance": {
+    "instruction": "来源标注为这个PDF文件，但是说明这是网络整理，不是正式出版物",
+    "appliedDecision": "直接引用用户PDF文件、篇题、文内日期、书内页码与PDF页序；在校注采用已核原句，不因网络整理性质拒用；未确认同一引句或载体的部分明确保留。"
+  },
+  "screening": "reference check/2026-10-16-round37-screening.json",
+  "harrisComparison": {
+    "localResearchFile": "tmp/research19/English-source.pdf",
+    "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+    "checkedPages": [
+      {
+        "localPath": "reference check/sources/Harris-2015-p124.png",
+        "pdfPage": 143,
+        "printedPage": 124,
+        "sha256": "ee3d6c7d182666c2d100eb5f844bbdc6d12cb6cb431eac6d1f7de2391b8939f0",
+        "visuallyVerified": true
+      },
+      {
+        "localPath": "reference check/sources/Harris-2015-p128.png",
+        "pdfPage": 147,
+        "printedPage": 128,
+        "sha256": "82adf4f527e6871f22ce826d2aceb94e8c0c4ae931f2ae88aa9191b93b232b10",
+        "visuallyVerified": true
+      }
+    ],
+    "scope": "只核目标句及其相邻注释，不是本轮通读全书。",
+    "targetQuoteEnglish": "because of the circumstances in China"
+  },
+  "limitations": [
+    "用户指定PDF已采为核查来源，统一标注网络整理、非正式出版物；封面署名、机构、版本和日期仅作照录。",
+    "全文做关键词检索而非逐页通读；正式逐条复核对象只有09-16，其他周恩来叙事背景不误计成他的待核引语。",
+    "第046篇原句已录入校注；英文原刊片段已命中Harris短引语及人物归属，但中文逐字对应、上海大字报转引关系仍缺。",
+    "第050篇与第046篇分别署10月27日和10月22日，内容近似但措辞不同，不作为相互独立认证，也不静默修订“是否临时工”等疑似讹字。",
+    "第175篇浙江谈话只作旁证，不移植为上海大字报原话。",
+    "相邻英文第58注的日期用于广州材料，不能自动用于周恩来句；Current Scene公开片段已读，但整期及中国工人两项既有文献传递仍待，未重复申请。",
+    "同步后的全书润色保留；累计台账的currentParagraph按润色后的对应位置刷新，历史excerpt/paragraph及旧结论保留。",
+    "本轮仅增校注和核查档案；dist仍是2026-10-15润色构建，不包含本轮新增校注。",
+    "Google Books只提供有限的原刊检索片段；没有整页图，不能宣称已读整页，也不据关键词在同页出现判定全部叙述成立。"
+  ],
+  "originalCitationFollowUp": {
+    "englishWordingFoundInPrimaryIndexedSnippets": true,
+    "attributionToZhouFoundInPrimaryIndexedSnippets": true,
+    "fullOriginalPageObtained": false,
+    "shanghaiPosterIdentified": false,
+    "chineseOriginalMatched": false,
+    "fullTextDeliveryStillWaiting": true
+  }
+}

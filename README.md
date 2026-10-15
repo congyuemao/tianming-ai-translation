@@ -26,7 +26,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 14 日已推进至[第三十六轮](reference%20check/2026-10-14-round36.md)：采用用户指定的五组既有中文材料，完成7处引文校引，待核由98处降至91处。所采网络录文、回忆录摘引及当年中文再译刊本的性质和版本差异均已注明。本轮新增4张证据页图、5份目标摘录及来源记录，见[来源目录](reference%20check/sources/README.md)。《中国工人》和Current Scene两项文献传递继续等待。最新引文及校注已写入章节Markdown；上方PDF/HTML已按第三十六轮译稿统一重建，目录页码、书签、嵌入字体与来源链接同步更新。
+2026 年 10 月 16 日已推进至[第三十八轮](reference%20check/2026-10-16-round38.md)：按用户批准的“据英文底本忠实回译并标注BBC出处”标准，采用8份BBC《世界广播摘要》扫描页及摘片，落实杭州工厂相关引文10处，待核由91处降至81处。累计144处已落实或按采用版本校引、25处部分核实、56处已检索未落实。回译性质、刊行日期与广播／电讯日期、原书节写和BBC异文均已注明；不再要求中文原广播稿或录音。附件及逐句对照见[来源目录](reference%20check/sources/README.md)。两项既有文献传递继续等待。章节Markdown已更新；上方PDF/HTML仍为10月15日润色版，尚未包含第37—38轮修改。
 
 ## Workflow / 工作流
 
@@ -53,6 +53,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
    - Translate explanatory note prose into Chinese while preserving bibliographic metadata.
    - For Mao Zedong, party documents, newspapers, and other Chinese-language originals, restore the original Chinese wording when reliably found.
    - 每章注释从 1 重新编号；说明性注释译为中文，书目元数据保留英文；能找到中文原文的毛泽东、党史文件和报刊引文，尽量恢复原文。
+   - 用户于2026年10月16日明确批准：BBC英文记录与书中引文对应后，按书中措辞忠实回译并标明BBC出处，即视作落实；无需再取得中文原广播稿或录音。校注须说明回译性质，不称为中文原句恢复。
    - Reports, cumulative ledgers, and source scans are indexed in [reference check/](reference%20check/README.md) / 历轮核查报告、累计台账及来源扫描见该目录。
 
 5. **Human Review / 人工校对**

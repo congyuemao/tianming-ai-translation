@@ -19,3 +19,11 @@ Tan-Zhenlin-1966-09-07-excerpt.md -text
 Shen-Memoir-Wenhui-1967-01-06-excerpts.md -text
 Mao-Land-Reform-1948-05-25-excerpt.md -text
 Communist-Continue-Revolution-1975-04-excerpt.md -text
+
+# Preserve round 37 excerpt and evidence hashes across checkout filters.
+Zhou-Wenge-temporary-workers-excerpts.md -text
+round37-evidence.json -text
+
+# Preserve round 38 comparison and evidence hashes across checkout filters.
+BBC-Hangzhou-1975-backtranslation-comparison.md -text
+round38-evidence.json -text

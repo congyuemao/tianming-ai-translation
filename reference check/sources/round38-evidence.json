@@ -1,0 +1,565 @@
+{
+  "date": "2026-10-16",
+  "round": 38,
+  "gitBase": "76eaf5f6a856fe4a611b31c7ffe5b2382e7a2e81",
+  "workingTreeBase": {
+    "note": "本轮开始时第37轮修改尚未提交；以其现行工作区和台账为基线，保留全部既有修改。",
+    "chapterSHA256": "6e69b0ce8d40fb5afaf9d3141fa013687972e3513dd0ec4370b16216ef18f2b4",
+    "previousLedgerSHA256": "07740ffe80c876aa95c54fb24ffb4b5974707f2b33ebee2d8e1a4a0f97145ed0"
+  },
+  "formalReviewIds": [
+    "10-39",
+    "10-40",
+    "10-41",
+    "10-42",
+    "10-43",
+    "10-44",
+    "10-45",
+    "10-46",
+    "10-47",
+    "10-48"
+  ],
+  "userSourceAcceptance": {
+    "instruction": "按照书中引用进行忠实回译，同时标注BBC出处，即可视作落实，无需再查找中文原广播稿或者录音。",
+    "date": "2026-10-16",
+    "appliedDecision": "以附件中的BBC英文监听／电讯记录核对Harris引文，忠实回译、明确BBC期号页码及广播／电讯时间后按已落实计；不把取得中文原稿或录音设为撤标前提，不将回译冒称中文原句。",
+    "namePolicy": "两名军官沿用Harris罗马字并标明BBC拼法；不要求先获得中文姓名才落实已对应的引文。"
+  },
+  "sources": [
+    {
+      "id": "bbc-fe4967-bii4-r38",
+      "recordIds": [
+        "10-39",
+        "10-45",
+        "10-46",
+        "10-47",
+        "10-48"
+      ],
+      "kind": "用户提供的BBC SWB英文记录扫描页或既有摘片；非中文原稿、非录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "CHEKIANG_PROVINCIAL_SERVICE__1975-07-29.pdf",
+      "localPath": "reference check/sources/BBC-SWB-FE4967-BII4-1975-07-29.pdf",
+      "sha256": "5a1339dd9b26960ac4a950e3b5373ea9d1fb2691e4c9bbd5cbb6d81c0a3f7a1d",
+      "byteLength": 266727,
+      "pdfPages": 1,
+      "publicationDate": "1975-07-29",
+      "archiveMethod": "逐字节复制用户附件，保留原有裁切范围和全部页面，不增添OCR或合并PDF。",
+      "textLayerPresent": false,
+      "scope": "完整刊页；本轮五处对应引文均在第(i)则。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4967-BII4-1975-07-29.png",
+          "pdfPage": 1,
+          "printedPage": 4,
+          "printedPageBasis": "页眉直接可见",
+          "sha256": "4b1556eebbab207a6eccf0392f48286024ba85fb80501cf17115d41f89fe1092",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe4967-bii5-r38",
+      "recordIds": [],
+      "kind": "用户提供的BBC SWB英文记录扫描页或既有摘片；非中文原稿、非录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "CHEKIANG_PROVINCIAL_SERVICE__1975-07-29 (1).pdf",
+      "localPath": "reference check/sources/BBC-SWB-FE4967-BII5-1975-07-29.pdf",
+      "sha256": "315b88e4d770a0e62a2175e04f70aca940a62cb9b4c31ba0c12cea8766f1454c",
+      "byteLength": 274283,
+      "pdfPages": 1,
+      "publicationDate": "1975-07-29",
+      "archiveMethod": "逐字节复制用户附件，保留原有裁切范围和全部页面，不增添OCR或合并PDF。",
+      "textLayerPresent": false,
+      "scope": "完整刊页；第(ii)则陆军入厂背景，与8月空军报道分开。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4967-BII5-1975-07-29.png",
+          "pdfPage": 1,
+          "printedPage": 5,
+          "printedPageBasis": "页眉直接可见",
+          "sha256": "5534bce65b625fd6e2cfd7f6d6cf4b9180aa55b5d1798723feff1c56bd018d04",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe4967-bii6-r38",
+      "recordIds": [],
+      "kind": "用户提供的BBC SWB英文记录扫描页或既有摘片；非中文原稿、非录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "CHEKIANG_PROVINCIAL_SERVICE__1975-07-29 (2).pdf",
+      "localPath": "reference check/sources/BBC-SWB-FE4967-BII6-1975-07-29.pdf",
+      "sha256": "b15bedda34f52388b5dc9c4a27a2f1db8f67b4328b535c78f89ed4143d1fddbb",
+      "byteLength": 240537,
+      "pdfPages": 1,
+      "publicationDate": "1975-07-29",
+      "archiveMethod": "逐字节复制用户附件，保留原有裁切范围和全部页面，不增添OCR或合并PDF。",
+      "textLayerPresent": false,
+      "scope": "完整刊页；上接7月21日报道，下半页另起7月25日0400 GMT浙江广播。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4967-BII6-1975-07-29.png",
+          "pdfPage": 1,
+          "printedPage": 6,
+          "printedPageBasis": "页眉直接可见",
+          "sha256": "20c5c4d192bf92beea9faffe6426ee56fe953b7eb31be7b9af0f98fdde679036",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe4979-air-extract-r38",
+      "recordIds": [
+        "10-41",
+        "10-42",
+        "10-43",
+        "10-44"
+      ],
+      "kind": "用户提供的BBC SWB英文记录扫描页或既有摘片；非中文原稿、非录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "CHEKIANG_PROVINCIAL_SERVICE__1975-08-12.pdf",
+      "localPath": "reference check/sources/BBC-SWB-FE4979-Air-Force-1975-08-12-extract.pdf",
+      "sha256": "e3c20cd0d180f4b34453a3f0bb45b39b2cd70c988634609708c647301f056789",
+      "byteLength": 510028,
+      "pdfPages": 3,
+      "publicationDate": "1975-08-12",
+      "archiveMethod": "逐字节复制用户附件，保留原有裁切范围和全部页面，不增添OCR或合并PDF。",
+      "textLayerPresent": false,
+      "scope": "用户附件为三页既有摘片，未保留页眉；首片有题名及8月8日0400 GMT来源，后两片与完整刊页5、6重叠。首片原刊页码未由页眉直接核定。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4979-Air-Force-1975-08-12-extract-pdf1.png",
+          "pdfPage": 1,
+          "printedPage": null,
+          "printedPageBasis": "摘片未保留页眉，不声称已目视核定刊页号",
+          "sha256": "05774227c9af9f6ae1f0d8c9c14e9e7345c3f3648822e74d1ea6eea7c1ec6fb3",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4979-Air-Force-1975-08-12-extract-pdf2.png",
+          "pdfPage": 2,
+          "printedPage": 5,
+          "printedPageBasis": "未保留页眉；与带页眉的独立附件对应",
+          "sha256": "325f4f0c574298cad18b8204852159b869d0131f20a722dcc701265c62deed44",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4979-Air-Force-1975-08-12-extract-pdf3.png",
+          "pdfPage": 3,
+          "printedPage": 6,
+          "printedPageBasis": "未保留页眉；与带页眉的独立附件对应",
+          "sha256": "5a09b7decebbb20a6eec58b05ef6348a36252eca7e66342d86cc562e9367739d",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe4979-bii5-r38",
+      "recordIds": [
+        "10-41",
+        "10-42",
+        "10-43",
+        "10-44"
+      ],
+      "kind": "用户提供的BBC SWB英文记录扫描页或既有摘片；非中文原稿、非录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "CHEKIANG_PROVINCIAL_SERVICE__1975-08-12 (1).pdf",
+      "localPath": "reference check/sources/BBC-SWB-FE4979-BII5-1975-08-12.pdf",
+      "sha256": "82654a6d0688c67390a48a2dbf4377f85d67d499b097dd01c2aa7e7e31adab9d",
+      "byteLength": 266697,
+      "pdfPages": 1,
+      "publicationDate": "1975-08-12",
+      "archiveMethod": "逐字节复制用户附件，保留原有裁切范围和全部页面，不增添OCR或合并PDF。",
+      "textLayerPresent": false,
+      "scope": "完整刊页；四处空军引文、罗马字姓名及十人五十吨数字均在本页。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4979-BII5-1975-08-12.png",
+          "pdfPage": 1,
+          "printedPage": 5,
+          "printedPageBasis": "页眉直接可见",
+          "sha256": "99c5fb3822c12232a752faec0f13351a23bbc6e0a7fe32b1cd69296d4f63277a",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe4979-bii6-r38",
+      "recordIds": [
+        "10-41",
+        "10-42",
+        "10-43",
+        "10-44"
+      ],
+      "kind": "用户提供的BBC SWB英文记录扫描页或既有摘片；非中文原稿、非录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "SHANGHAI_CITY_SERVICE__1975-08-12.pdf",
+      "localPath": "reference check/sources/BBC-SWB-FE4979-BII6-1975-08-12.pdf",
+      "sha256": "b9fb01baada6274f4e4a6c1864fdb86164a73d31c8b56e68e113c9c970bb0574",
+      "byteLength": 235771,
+      "pdfPages": 1,
+      "publicationDate": "1975-08-12",
+      "archiveMethod": "逐字节复制用户附件，保留原有裁切范围和全部页面，不增添OCR或合并PDF。",
+      "textLayerPresent": false,
+      "scope": "完整刊页；上半页仍为空军报道续文，下半页另起Heroism of Two Shanghai Traffic Policemen，来源Shanghai city service 0001 GMT 2 Aug 75；不能按文件名将整页归为上海广播。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4979-BII6-1975-08-12.png",
+          "pdfPage": 1,
+          "printedPage": 6,
+          "printedPageBasis": "页眉直接可见",
+          "sha256": "3195888e4ffff0ce9729c9eb2a0cc645e398aded02e457f34f01876c5cc25cef",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe4976-ncna-extract-r38",
+      "recordIds": [
+        "10-40"
+      ],
+      "kind": "用户提供的BBC SWB英文记录扫描页或既有摘片；非中文原稿、非录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "NCNA__1975-08-08.pdf",
+      "localPath": "reference check/sources/BBC-SWB-FE4976-PLA-Six-Factories-1975-08-08-extract.pdf",
+      "sha256": "e0aa01a6a2a247e24dbf7e9d82b250b9884d7b00cd580d21e33af670a20613ac",
+      "byteLength": 289443,
+      "pdfPages": 2,
+      "publicationDate": "1975-08-08",
+      "archiveMethod": "逐字节复制用户附件，保留原有裁切范围和全部页面，不增添OCR或合并PDF。",
+      "textLayerPresent": false,
+      "scope": "用户附件为两页既有摘片；首片有题名、新华社中文电讯时间及带引文摘要说明，后片与完整刊页6重叠。首片原刊页码未由页眉直接核定。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4976-PLA-Six-Factories-1975-08-08-extract-pdf1.png",
+          "pdfPage": 1,
+          "printedPage": null,
+          "printedPageBasis": "摘片未保留页眉，不声称已目视核定刊页号",
+          "sha256": "aa48f7a864083748ebaba0d0b7a1f1f02fa28ab30c24b6526aed8fc4c8d0a359",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4976-PLA-Six-Factories-1975-08-08-extract-pdf2.png",
+          "pdfPage": 2,
+          "printedPage": 6,
+          "printedPageBasis": "未保留页眉；与带页眉的独立附件对应",
+          "sha256": "418e45059e1ab585475d35df618f87cb601e52819c00f44148343c4b0e330ce1",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe4976-bii6-r38",
+      "recordIds": [
+        "10-40"
+      ],
+      "kind": "用户提供的BBC SWB英文记录扫描页或既有摘片；非中文原稿、非录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "NCNA__1975-08-08 (1).pdf",
+      "localPath": "reference check/sources/BBC-SWB-FE4976-BII6-1975-08-08.pdf",
+      "sha256": "00637e2ae501a8b628ad3eeefc14df775ee8e95da0def5a9fe1d78ea4a1ae8dc",
+      "byteLength": 257518,
+      "pdfPages": 1,
+      "publicationDate": "1975-08-08",
+      "archiveMethod": "逐字节复制用户附件，保留原有裁切范围和全部页面，不增添OCR或合并PDF。",
+      "textLayerPresent": false,
+      "scope": "完整刊页；第七连及两小时完成一天工作句。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4976-BII6-1975-08-08.png",
+          "pdfPage": 1,
+          "printedPage": 6,
+          "printedPageBasis": "页眉直接可见",
+          "sha256": "22af5c2ddd79bfb0ca7efc731484e94e7747a6efdf4e1bb4d975acb6947939fc",
+          "visuallyVerified": true,
+          "rendering": "Poppler渲染完整附件页面，最长边2400像素；未进一步裁切、改字或重排。"
+        }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "title": "Production Problems in Hangchow Factories: PLA’s Help",
+      "publication": "BBC SWB FE/4967/BII/4—6",
+      "publicationDate": "1975-07-29",
+      "origin": "Hangchow, Chekiang provincial service",
+      "originDate": "1975-07-21",
+      "originTimeGMT": "0400",
+      "form": "Text of reports; (i) and (ii)",
+      "targetPage": "FE/4967/BII/4",
+      "recordIds": [
+        "10-39",
+        "10-45",
+        "10-46",
+        "10-47",
+        "10-48"
+      ]
+    },
+    {
+      "title": "Chekiang Air Force Units Sent to Hangchow Factories",
+      "publication": "BBC SWB FE/4979；直接核定带页眉刊页BII/5、6",
+      "publicationDate": "1975-08-12",
+      "origin": "Hangchow, Chekiang provincial service",
+      "originDate": "1975-08-08",
+      "originTimeGMT": "0400",
+      "form": "Text of report",
+      "targetPage": "FE/4979/BII/5",
+      "recordIds": [
+        "10-41",
+        "10-42",
+        "10-43",
+        "10-44"
+      ]
+    },
+    {
+      "title": "PLA Unit Sends Armymen to Work in Six Hangchow Factories",
+      "publication": "BBC SWB FE/4976；直接核定带页眉刊页BII/6",
+      "publicationDate": "1975-08-08",
+      "origin": "NCNA in Chinese",
+      "originDate": "1975-08-02",
+      "originTimeGMT": "0345",
+      "form": "Précis, with quotations, of report",
+      "targetPage": "FE/4976/BII/6",
+      "recordIds": [
+        "10-40"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "10-39",
+      "harrisEnglish": "unable to increase production under the pernicious influence of the counter-revolutionary revisionist line and bourgeois factionalism and due to the sabotage activities of a handful of class enemies",
+      "bbcEnglish": "During a certain period in the past, they were unable to increase production because of the pernicious influence of the counter-revolutionary revisionist line, bourgeois factionalism and sabotage by a handful of class enemies.",
+      "backTranslation": "在反革命修正主义路线和资产阶级派性的恶劣影响下，又由于一小撮阶级敌人的破坏活动，无法增加产量",
+      "evidenceLocation": "BBC FE/4967/BII/4，第(i)则首段；Harris第142页／PDF161",
+      "comparison": "BBC段落的具体主语是杭州丝绸印染联合厂，Harris概括为杭州工人；按书中引文范围回译，不增入BBC的时间状语，也不据该引句独立证实军队接管的叙述。"
+    },
+    {
+      "id": "10-40",
+      "harrisEnglish": "they completed one day’s work in two hours and were praised by the workers",
+      "bbcEnglish": "They completed one day's work in two hours and were praised by the workers.",
+      "backTranslation": "他们用两小时完成了一天的工作，受到工人赞扬",
+      "evidenceLocation": "BBC FE/4976/BII/6，七连段；Harris第142页／PDF161",
+      "comparison": "目标句一致。BBC上一句将具体工作记作(?taking inventory)，并在cement warehouse后标[as transmitted]；Harris只写worked at the cement warehouses，现译将额外增加的“装卸”改为“干活”。"
+    },
+    {
+      "id": "10-41",
+      "harrisEnglish": "They all took the initiative in carrying forward the same vigour...and worked continuously, fearing neither heat nor fatigue.",
+      "bbcEnglish": "they all took the initiative in carrying forward the same vigour, the same revolutionary enthusiasm and the same daring death-defying spirit displayed by their revolutionary predecessors in the revolutionary war years and worked continuously, fearing neither heat nor fatigue, in an effort to make greater contributions to industrial production.",
+      "backTranslation": "他们都主动发扬同样的干劲……连续劳动，不怕炎热，也不怕疲劳",
+      "evidenceLocation": "BBC FE/4979/BII/5，第5段；Harris第142页／PDF161",
+      "comparison": "保留Harris的省略号及节引范围，不补入其省略的革命热情等长分句。"
+    },
+    {
+      "id": "10-42",
+      "harrisEnglish": "set a good example to the fighters by arduously working for a few hours",
+      "bbcEnglish": "While working at the Hangchow steam turbine works, (Li Chi-ming), commander of a unit, set a good example to the fighters by arduously working at a machine for a few hours.",
+      "backTranslation": "苦干几个小时，为战士们树立了好榜样",
+      "evidenceLocation": "BBC FE/4979/BII/5，第6段；Harris第142页／PDF161",
+      "comparison": "BBC含at a machine，Harris未引，正文按Harris范围回译。BBC姓名为(Li Chi-ming)，Harris为Li Jiming；保留原书罗马字，不猜汉字，不以汉字姓名未定阻止引文落实。"
+    },
+    {
+      "id": "10-43",
+      "harrisEnglish": "actively took the lead in unloading coal. He never uttered a word despite the blisters on his hands",
+      "bbcEnglish": "He actively took the lead in unloading coal. He never uttered a word despite the blisters on his hands.",
+      "backTranslation": "主动带头卸煤，尽管手上起了泡，也没有吭一声",
+      "evidenceLocation": "BBC FE/4979/BII/5，第6段；Harris第142页／PDF161",
+      "comparison": "两版目标句对应；BBC此前姓名拼作(Ni Chung-sheng)，原书为Ni Zhongsheng，照原书保留。将旧译“一句累也没喊”收回为“没有吭一声”，不加原句未说的累。"
+    },
+    {
+      "id": "10-44",
+      "harrisEnglish": "In one day, ten cadres and fighters unloaded fifty tons of cement, and none of them complained of being tired.",
+      "bbcEnglish": "In one day, 10 cadres and fighters unloaded 50 tons of cement, and none of them complained of being tired.",
+      "backTranslation": "十名干部战士一天卸下五十吨水泥，“没有一个人喊累”",
+      "evidenceLocation": "BBC FE/4979/BII/5，末段；Harris第142页／PDF161",
+      "comparison": "十人、一天、五十吨及尾句均一致；按正文原有叙述与引语分界保留数字，将尾句忠实回译。"
+    },
+    {
+      "id": "10-45",
+      "harrisEnglish": "vigorously denounce Liu Shaoqi and Lin Biao",
+      "bbcEnglish": "They have vigorously denounced the crimes of Liu Shao-chi and Lin Piao in trying to split the Party and the working class and repudiated bourgeois factionalism.",
+      "backTranslation": "狠批刘少奇、林彪",
+      "evidenceLocation": "BBC FE/4967/BII/4，第(i)则第2段；Harris第142页／PDF161",
+      "comparison": "Harris作简短节引，正文按其范围保留，不用BBC较长句替换。现有译文可忠实表达该短句，仅撤标。"
+    },
+    {
+      "id": "10-46",
+      "harrisEnglish": "cooks in the cafeteria strove to increase the variety of dishes. They provide the workers with steamed bread and hot vegetable soup.",
+      "bbcEnglish": "Cooks in the cafeterias strive to increase the variety of the dishes. They provide the workers with steamed bread and hot vegetable soup, and endeavour to satisfy the needs of the workers.",
+      "backTranslation": "食堂的炊事员努力增加菜肴的品种。他们给工人供应馒头和热菜汤",
+      "evidenceLocation": "BBC FE/4967/BII/4，第(i)则第3段；Harris第142页／PDF161",
+      "comparison": "按Harris两句回译，保留句间停顿，不补入BBC的and endeavour后续分句。"
+    },
+    {
+      "id": "10-47",
+      "harrisEnglish": "returned in the evening to drive the night shift",
+      "bbcEnglish": "After finishing their regular runs in the day time, bus drivers return to the factory in the evening to drive the night shift workers.",
+      "backTranslation": "晚上又回来开夜班车",
+      "evidenceLocation": "BBC FE/4967/BII/4，第(i)则第3段末；Harris第142—143页／PDF161—162",
+      "comparison": "BBC具体指晚间回厂接送夜班工人；Harris简写为drive the night shift。依用户要求按书中引文回译，版本差异写入校注，不把中文译句称作原广播中文措辞。"
+    },
+    {
+      "id": "10-48",
+      "harrisEnglish": "have made use of their holidays and days off to do manual labour and have taken the lead in tackling the most difficult jobs",
+      "bbcEnglish": "All of them have made use of their holidays and days off to do manual labour and have taken the lead in tackling the most difficult jobs.",
+      "backTranslation": "利用假期和休息日参加体力劳动，并带头承担最困难的工作",
+      "evidenceLocation": "BBC FE/4967/BII/4，第(i)则末段；Harris第143页／PDF162",
+      "comparison": "按书中引用范围回译，假期、休息日、体力劳动及带头承担困难工作均保留。"
+    }
+  ],
+  "comparisonFile": {
+    "localPath": "reference check/sources/BBC-Hangzhou-1975-backtranslation-comparison.md",
+    "sha256": "5d118db1c78bbb7a5d8e4ebea640ecdbc1e5c2482d887a96c91dddad53f97fd7"
+  },
+  "harrisComparison": {
+    "localResearchFile": "tmp/research19/English-source.pdf",
+    "sha256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+    "checkedPages": [
+      {
+        "localPath": "reference check/sources/Harris-2015-p142.png",
+        "pdfPage": 161,
+        "printedPage": 142,
+        "sha256": "b49f272199d4c47131d95afc61c019fc6b71dc402b699ee7626d9420b07441c1",
+        "visuallyVerified": true,
+        "rendering": "Poppler整页渲染，最长边2200像素，保留原书页外标记；无裁切。"
+      },
+      {
+        "localPath": "reference check/sources/Harris-2015-p143.png",
+        "pdfPage": 162,
+        "printedPage": 143,
+        "sha256": "12e4fee13df7c0843082db81f77985400017bbb62aca24400ecc22c70420cbed",
+        "visuallyVerified": true,
+        "rendering": "Poppler整页渲染，最长边2200像素，保留原书页外标记；无裁切。"
+      },
+      {
+        "localPath": "reference check/sources/Harris-2015-p146.png",
+        "pdfPage": 165,
+        "printedPage": 146,
+        "sha256": "71c59f978cd7bda38b9420432e9b50f8c2f377e906e8ce05ea7b33c50ee41e0c",
+        "visuallyVerified": true,
+        "rendering": "Poppler整页渲染，最长边2200像素，保留原书页外标记；无裁切。"
+      }
+    ],
+    "scope": "第142—143页引句与第146页注102、103；未重新通读全书。"
+  },
+  "findings": [
+    {
+      "id": "10-39",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4967-bii4-r38"
+      ],
+      "comment": "BBC段落的具体主语是杭州丝绸印染联合厂，Harris概括为杭州工人；按书中引文范围回译，不增入BBC的时间状语，也不据该引句独立证实军队接管的叙述。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-40",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4976-ncna-extract-r38",
+        "bbc-fe4976-bii6-r38"
+      ],
+      "comment": "目标句一致。BBC上一句将具体工作记作(?taking inventory)，并在cement warehouse后标[as transmitted]；Harris只写worked at the cement warehouses，现译将额外增加的“装卸”改为“干活”。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-41",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4979-air-extract-r38",
+        "bbc-fe4979-bii5-r38",
+        "bbc-fe4979-bii6-r38"
+      ],
+      "comment": "保留Harris的省略号及节引范围，不补入其省略的革命热情等长分句。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-42",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4979-air-extract-r38",
+        "bbc-fe4979-bii5-r38",
+        "bbc-fe4979-bii6-r38"
+      ],
+      "comment": "BBC含at a machine，Harris未引，正文按Harris范围回译。BBC姓名为(Li Chi-ming)，Harris为Li Jiming；保留原书罗马字，不猜汉字，不以汉字姓名未定阻止引文落实。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-43",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4979-air-extract-r38",
+        "bbc-fe4979-bii5-r38",
+        "bbc-fe4979-bii6-r38"
+      ],
+      "comment": "两版目标句对应；BBC此前姓名拼作(Ni Chung-sheng)，原书为Ni Zhongsheng，照原书保留。将旧译“一句累也没喊”收回为“没有吭一声”，不加原句未说的累。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-44",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4979-air-extract-r38",
+        "bbc-fe4979-bii5-r38",
+        "bbc-fe4979-bii6-r38"
+      ],
+      "comment": "十人、一天、五十吨及尾句均一致；按正文原有叙述与引语分界保留数字，将尾句忠实回译。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-45",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4967-bii4-r38"
+      ],
+      "comment": "Harris作简短节引，正文按其范围保留，不用BBC较长句替换。现有译文可忠实表达该短句，仅撤标。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-46",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4967-bii4-r38"
+      ],
+      "comment": "按Harris两句回译，保留句间停顿，不补入BBC的and endeavour后续分句。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-47",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4967-bii4-r38"
+      ],
+      "comment": "BBC具体指晚间回厂接送夜班工人；Harris简写为drive the night shift。依用户要求按书中引文回译，版本差异写入校注，不把中文译句称作原广播中文措辞。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    },
+    {
+      "id": "10-48",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4967-bii4-r38"
+      ],
+      "comment": "按书中引用范围回译，假期、休息日、体力劳动及带头承担困难工作均保留。 已按用户指定标准落实，不再要求中文原广播稿或录音；回译性质和BBC出处已写入译稿。",
+      "nextAction": null
+    }
+  ],
+  "limitations": [
+    "按用户明确批准的BBC英文记录加忠实回译标准落实，非恢复中文原广播措辞；不再以中文原稿或录音缺失保留这10处待核。",
+    "8份附件共11页，含2份原有摘片PDF及6份整页PDF；原样保存，不把摘片当作整页或整期。",
+    "各附件的广播／电讯日期与BBC刊行日期分别记录；2份含别篇内容的整页按篇题边界区分。",
+    "摘片与整页重叠属于同一版影，不能作为多份独立证据。",
+    "Harris对司机句的节写及七连工作内容的疑点在校注说明；两个军官姓名保留罗马字，不凭读音推定汉字。",
+    "未重建dist成品，PDF/HTML仍为2026-10-15润色版，含91处旧待核标记，不含第37—38轮校注与此次撤标。",
+    "其余215个编号状态不变，两项既有文献传递不变。"
+  ]
+}
