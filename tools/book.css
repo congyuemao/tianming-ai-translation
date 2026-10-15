@@ -65,9 +65,15 @@ strong,b{font-weight:750}
 .reader-bar,.back-to-toc,.skip-link{display:none}
 /* A slightly tighter note-list rhythm prevents isolated final notes in these chapters. */
 @media print{
+ #sec-1-00-2015-preface .endnotes{line-height:1.6}
+ #sec-20-18-ch17-modern-capitalism-bourgeois-revolution .endnotes{line-height:1.55;margin-top:8mm}
+ #sec-1-00-2015-preface .endnotes li,
+ #sec-20-18-ch17-modern-capitalism-bourgeois-revolution .endnotes li,
  #sec-5-03-ch02-from-defeat-to-victory .endnotes li,
  #sec-16-14-ch13-national-independence .endnotes li,
  #sec-18-16-ch15-foreign-policy .endnotes li{margin-bottom:1.4mm}
+ #sec-1-00-2015-preface .endnotes li>p:last-child,
+ #sec-20-18-ch17-modern-capitalism-bourgeois-revolution .endnotes li>p:last-child,
  #sec-5-03-ch02-from-defeat-to-victory .endnotes li>p:last-child,
  #sec-16-14-ch13-national-independence .endnotes li>p:last-child,
  #sec-18-16-ch15-foreign-policy .endnotes li>p:last-child{margin-bottom:0}
