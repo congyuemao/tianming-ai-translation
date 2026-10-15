@@ -1,10 +1,10 @@
 {
-  "pages": 325,
+  "pages": 322,
   "blankPages": [],
   "sparsePages": [
     [
       1,
-      97
+      79
     ]
   ],
   "pendingMarkers": 91,
@@ -12,41 +12,47 @@
   "bookmarks": 26,
   "localFileLinks": [],
   "outOfBoundsWords": [],
-  "contentBlocksChecked": 1916,
+  "contentBlocksChecked": 1573,
   "contentBlocksNotExactInPDF": [],
-  "sourceCommit": "28c1cfaa020f54fce9f5702af7a31742056e2d9a",
-  "buildDate": "2026-10-14",
+  "contentBlocksOutOfOrder": [],
+  "sourceCommit": "44850f5c44ceebe54ca0474fb10b3c8fc7dfcb60",
+  "buildDate": "2026-10-15",
   "citationAuditRound": 36,
-  "pdfSHA256": "5b9b3b0aae7fb0b770e8ba6057ff01294565642f5a9d6e3a4baa13c975b473e5",
-  "htmlSHA256": "808f8c0592b314e5af3af44471fc5536052d9235315100b20362e6dbec899ea1",
+  "pdfSHA256": "9230696d9167a60597565f83d8e8d71d2260af575787f1c0daa38298b0fe2881",
+  "htmlSHA256": "d35caab0405c05d4b614183243720bb26b62472ebe50cf015e8b490b67add1b5",
   "chapterHashesMatchBuild": true,
   "auditLedgerHashMatchesBuild": true,
   "chapterCount": 23,
   "endnotes": 533,
   "removedLeadingTitleEchoes": 6,
-  "htmlChapterNavigation": "pass",
-  "htmlNoteNavigation": "pass",
-  "mobileHorizontalOverflow": false,
+  "brokenHTMLAnchors": [],
   "paginationStable": true,
   "allPDFFontsEmbedded": true,
   "pdfFontResources": 147,
+  "unembeddedFonts": [],
+  "missingProseFontCharacters": "",
+  "rendering": "Repository builder with local setContent loading in place of file URL; all HTML, styles, fonts and rendering checks unchanged.",
+  "htmlChapterNavigation": "pass",
+  "htmlNoteNavigation": "pass",
+  "mobileHorizontalOverflow": false,
   "renderedPreviewPages": [
     3,
-    125,
-    171,
-    227,
-    228,
-    229,
-    230,
-    231
+    8,
+    16,
+    106,
+    178,
+    247,
+    274,
+    292,
+    301,
+    307,
+    322
   ],
   "visuallyReviewedFinalPages": [
-    3,
-    125,
-    171,
-    228,
-    229,
-    230,
-    231
-  ]
+    8,
+    292,
+    322
+  ],
+  "fontEmbeddingCheck": "Font program data for ordinary fonts; embedded CharProcs streams for Type 3 fonts.",
+  "decorativeFallbackCharacters": "✦"
 }

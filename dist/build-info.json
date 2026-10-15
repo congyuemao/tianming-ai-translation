@@ -1,11 +1,11 @@
 {
-  "sourceCommit": "28c1cfaa020f54fce9f5702af7a31742056e2d9a",
-  "buildDate": "2026-10-14",
+  "sourceCommit": "44850f5c44ceebe54ca0474fb10b3c8fc7dfcb60",
+  "buildDate": "2026-10-15",
   "citationAudit": {
     "round": 36,
     "date": "2026-10-14",
     "ledger": "reference check/2026-10-14-round36.json",
-    "sha256": "9e0e4cf5a0827e040e332e193413046b492692bd2267d006f1c89c7da7c659d3"
+    "sha256": "e9d44003c978ad25838992940e8765a433516a3155eb650bf4425815e2fb4916"
   },
   "pendingMarkers": 91,
   "chapters": [
@@ -17,7 +17,7 @@
       "number": "",
       "chapterNumber": null,
       "kind": "frontmatter",
-      "sha256": "6c79b7682ffc0e26fb384928aec83de62a21bff55c837732228b6fb02d2c1363"
+      "sha256": "8b0ed7cf638316054e0790dafd96a2d1f46e4ba66137156b893a97393987954a"
     },
     {
       "file": "01_1978_preface.md",
@@ -27,7 +27,7 @@
       "number": "",
       "chapterNumber": null,
       "kind": "frontmatter",
-      "sha256": "e51e9683402eb2afba61d0a6244394d13cd3bde30cbf2b3fe2d15865eb83084c"
+      "sha256": "d5ad4cf831a045d4eec8b5a52ae32ab640204efaf3aaa4380599e04d469b4b84"
     },
     {
       "file": "01a_notes_for_reader.md",
@@ -37,7 +37,7 @@
       "number": "",
       "chapterNumber": null,
       "kind": "frontmatter",
-      "sha256": "f0ec55b4fc316713e15a1a2a7e9bd9a37c8937346b32eb23367f8e3af8fce538"
+      "sha256": "e34db6b2d6db7e6f7f4a331d5b2f7d67aba364e9688a978d62a5c25f0c23da5a"
     },
     {
       "file": "02_ch01_workers_revolution.md",
@@ -47,7 +47,7 @@
       "number": "第1章",
       "chapterNumber": 1,
       "kind": "chapter",
-      "sha256": "8dbc1754c2bc9d7dc735568ae3c00a8f68c6e63c248674d46713966b925f7a84"
+      "sha256": "ea12861b2e27a4c8b22514da18190d88aa008d23d21604e056d4e64a1b155877"
     },
     {
       "file": "03_ch02_from_defeat_to_victory.md",
@@ -57,7 +57,7 @@
       "number": "第2章",
       "chapterNumber": 2,
       "kind": "chapter",
-      "sha256": "6279e1cd9dad219985df283b8d49711368ee3ec3f992a7863d15159d180ff655"
+      "sha256": "1a07850d093fa2a40a3ae0a974e03736776f34a1f1db93a74cf3d80b9e1e4dba"
     },
     {
       "file": "04_ch03_first_phase.md",
@@ -67,7 +67,7 @@
       "number": "第3章",
       "chapterNumber": 3,
       "kind": "chapter",
-      "sha256": "926e7b36821045e2a429dd4e9838c5ad2fae41e0d4e69f79bed575c5725df1fe"
+      "sha256": "94b8d83fd5c2a26e4bbfaca917486485da3a82f4c5e0ae74c9869d85f3cb7191"
     },
     {
       "file": "05_ch04_great_leap_forward_and_after.md",
@@ -77,7 +77,7 @@
       "number": "第4章",
       "chapterNumber": 4,
       "kind": "chapter",
-      "sha256": "8e792bf482765bbaa25827edb0974e16387240887dba4070ba9ccde1362a1270"
+      "sha256": "82e4a7d4f929ebd7399d7689b3c73a063cbe165ced6f57460e18bbc8834db41b"
     },
     {
       "file": "06_ch05_cultural_revolution.md",
@@ -87,7 +87,7 @@
       "number": "第5章",
       "chapterNumber": 5,
       "kind": "chapter",
-      "sha256": "fdb6e33f23140161600cd1a337cbf21c54dd77c1f646024dc74cfbe52f55b0f4"
+      "sha256": "4c7c342f66875d5c0cb94009cba72e8a7b707f1afef9d8049c079f707a504e38"
     },
     {
       "file": "07_ch06_after_cultural_revolution.md",
@@ -97,7 +97,7 @@
       "number": "第6章",
       "chapterNumber": 6,
       "kind": "chapter",
-      "sha256": "a0cd6ee9d43049b607d33718d1dec05416f783e43f7553aa2b1af39b10422381"
+      "sha256": "2aba5e5924befa06eee97258c204d882c52e28fa781f540c8cdd7dd3955038d7"
     },
     {
       "file": "08_ch07_workers_in_1950s.md",
@@ -107,7 +107,7 @@
       "number": "第7章",
       "chapterNumber": 7,
       "kind": "chapter",
-      "sha256": "39d2f04613e87e604a8325eb9d4b47a034950081c2045a511f6ab908e5537c60"
+      "sha256": "0f8e22737e983a2da00ee3c02b3ecc970ce08de04441fab967fe529fa7ca2740"
     },
     {
       "file": "09_ch08_temporary_contract_labour.md",
@@ -117,7 +117,7 @@
       "number": "第8章",
       "chapterNumber": 8,
       "kind": "chapter",
-      "sha256": "5ff5dd958f3c4518e54f77e3c8a2ae5e974ba7d0deef723bc02329a4655395c3"
+      "sha256": "521b72ed833ad3c4e43826803f65b0803d99d0d3e55e0fd65b183d23b320bec9"
     },
     {
       "file": "10_ch09_working_class_after_cultural_revolution.md",
@@ -127,7 +127,7 @@
       "number": "第9章",
       "chapterNumber": 9,
       "kind": "chapter",
-      "sha256": "d7ee6687b1949a81f1f4f4dd7a4da08d90a2a1b6b4196647e7f26b26ddcd2711"
+      "sha256": "e725c0c6529fcf0ba4a0ba29579828e6332b78e37e5581cfc7b601003fc1be52"
     },
     {
       "file": "11_ch10_peasants_in_prc.md",
@@ -137,7 +137,7 @@
       "number": "第10章",
       "chapterNumber": 10,
       "kind": "chapter",
-      "sha256": "c45934bc4733c58c47339128582e75d5e74799c092de2f7c970e97eaab940c63"
+      "sha256": "c0574ffdb636fdbfaf92dbd9981acdc39f869624303c551ee873502b83b9e90c"
     },
     {
       "file": "12_ch11_equality.md",
@@ -147,7 +147,7 @@
       "number": "第11章",
       "chapterNumber": 11,
       "kind": "chapter",
-      "sha256": "7a82cf688e4140f6df6f3157e475d1350c41777705c6682196f7ea2d4ac9d2ff"
+      "sha256": "eeee3b3539d58d638587935b494d9313231f8d7684a695fec087a330355328e9"
     },
     {
       "file": "13_ch12_democracy.md",
@@ -157,7 +157,7 @@
       "number": "第12章",
       "chapterNumber": 12,
       "kind": "chapter",
-      "sha256": "0cb1066709bfdc602bc08431fcdc43bec00d4adc09c835f46999dafa4edcdefe"
+      "sha256": "5b7c888fdb1b4d68643f0ad29cb0561e20896489fdc2076c78d1d88f2b09a324"
     },
     {
       "file": "14_ch13_national_independence.md",
@@ -167,7 +167,7 @@
       "number": "第13章",
       "chapterNumber": 13,
       "kind": "chapter",
-      "sha256": "bf58ecb1ab071f93870030992d0f1b24e258ae4a868b19ef445866640a64cb92"
+      "sha256": "23ef3e35583d7a70ad281f77af3196089f3376d31b3fa247d7aeff1c8ec97f04"
     },
     {
       "file": "15_ch14_theory.md",
@@ -177,7 +177,7 @@
       "number": "第14章",
       "chapterNumber": 14,
       "kind": "chapter",
-      "sha256": "b66ef841409df2c98ba5e819c42aba1342388c9a2cce2abf17fcc8196498e6be"
+      "sha256": "697db6aa758698431016ccb6aef6aa558e79d2038f3d284b03b65f347df52ca1"
     },
     {
       "file": "16_ch15_foreign_policy.md",
@@ -187,7 +187,7 @@
       "number": "第15章",
       "chapterNumber": 15,
       "kind": "chapter",
-      "sha256": "7c71ec98045deef55521fbc6451f51163606e4e2c32c127ab8835d68cacb1873"
+      "sha256": "f6ea943c88e3de566a08478b8edf341b95f5ea698ee7eeea781922071afcc9a1"
     },
     {
       "file": "17_ch16_mao_zedong_thought_abroad.md",
@@ -197,7 +197,7 @@
       "number": "第16章",
       "chapterNumber": 16,
       "kind": "chapter",
-      "sha256": "7880a3e5691fe65e11f439853a20dd1336d89e56fecd47966ccd73f41c0251d4"
+      "sha256": "2b388ac1c3cd3c92d79b48f6dbd0cc1304ea87ace89ec6558451d3ea0a0534e9"
     },
     {
       "file": "18_ch17_modern_capitalism_bourgeois_revolution.md",
@@ -207,7 +207,7 @@
       "number": "第17章",
       "chapterNumber": 17,
       "kind": "chapter",
-      "sha256": "dd10f50f20e3a3ca5773129487826122415073ac36d186d9dc9252759f7e3f0a"
+      "sha256": "b2f59301aa58e40089cbbe148eec5689103fa3683a8161834f0481baa2e4cec1"
     },
     {
       "file": "19_ch18_soviet_union_new_class.md",
@@ -217,7 +217,7 @@
       "number": "第18章",
       "chapterNumber": 18,
       "kind": "chapter",
-      "sha256": "d9a13cb1047df664d8a7eab2d4b1767ed6c59e84be485c1b9cf47acf9321e0ba"
+      "sha256": "5e5bf61a26a0f11147e0870ad69117c39a7ad03fa058896f8fa15d7ef2b55995"
     },
     {
       "file": "20_ch19_mao_zedong_thought.md",
@@ -227,7 +227,7 @@
       "number": "第19章",
       "chapterNumber": 19,
       "kind": "chapter",
-      "sha256": "2180b2457f0ff7026a0a77d38f70e241ebff08209d8c80800ec0a5fd5e10fa7c"
+      "sha256": "4ec7091beee050e05a58532049333f80dcac870a79d3b8cb37434f5ed5f75a86"
     },
     {
       "file": "21_retrospect.md",
@@ -237,7 +237,7 @@
       "number": "",
       "chapterNumber": null,
       "kind": "chapter",
-      "sha256": "71400996462a2c9ab2833912eb5540acb8066a7b82aa84287604f791ec9171cb"
+      "sha256": "791d453fd634682c0f75086ccc64beda8f0662e1a92809d6690a9492e5152de6"
     }
   ],
   "removedLeadingTitleEchoes": [
@@ -266,7 +266,7 @@
       "text": "回顾"
     }
   ],
-  "pageCount": 325,
+  "pageCount": 322,
   "format": "160 × 230 mm",
   "paginationStable": true,
   "validation": {

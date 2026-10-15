@@ -14,11 +14,15 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 [下载 PDF](dist/天命_马克思与毛泽东在现代中国.pdf) · [HTML 阅读版](dist/mandate_of_heaven_zh.html) · [构建记录](dist/build-info.json)
 
-2026 年 10 月 14 日修订：325 页，160 × 230 mm 开本。采用深墨蓝、暖白与朱砂红配色，宋体正文与黑体标题；同步第三十六轮引文核查后的全部译稿。23 个章节文件、533 条章末注释及 91 处待核标记完整保留。
+2026 年 10 月 15 日修订：322 页，160 × 230 mm 开本。采用深墨蓝、暖白与朱砂红配色，宋体正文与黑体标题；在第三十六轮引文核查基础上，完成全书英文对照润色。23 个章节文件、533 条章末注释及 91 处待核标记完整保留。
 
 The modern edition includes a new geometric cover, a compact linked contents page, 26 PDF bookmarks, and linked endnotes. The HTML embeds its fonts and supports both desktop and mobile reading. Download the HTML to read it; GitHub's file page displays its source.
 
 生成时只显示一次章节标题，并过滤正文开头与主标题等价的旧标题行，例如“15. 外交政策”。这项处理仅发生在排版层，不修改章节 Markdown。HTML 内嵌字体，可离线阅读；来源材料链接指向 GitHub 归档。
+
+## Full-book Polish / 全书润色
+
+2026 年 10 月 15 日完成两篇序言、读者说明、十九章正文与回顾的对照校读。修订包括长从句拆分、语气强度复核、英语惯用表达的中文转化、错译纠正与遗漏补足；不弱化作者表述，不添加防御性观点。1,419 个段落的顺序和 1,715 处引号内文字保持不变。详见[校读记录](polish/2026-10-15.md)及[机器校验](polish/2026-10-15.json)；引文与英文底本中尚需复核的具体疑点在记录中单列。PDF、HTML、嵌入字体、目录与构建记录已同步更新。
 
 ## Citation Audit / 引文核查进度
 
@@ -66,6 +70,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 - `each_chapter/` - chapter-level Markdown translation drafts / 逐章中文 Markdown 草稿
 - `reference check/` - citation-check reports, cumulative JSON ledgers, and source materials / 引文核查报告、累计JSON台账与来源材料
+- `polish/` - full-book editorial review and preservation checks / 全书润色校读记录与引文、段落保护校验
 - `skills/book-translation-polish/` - local Codex skill for translation polishing / 本项目使用的 Codex 翻译润色 skill
 - `tools/` - build and PDF finalization scripts / 构建与 PDF 收尾脚本
 - `dist/` - generated HTML, page-map data, table of contents data, and final PDF / 生成的 HTML、页码映射、目录数据和最终 PDF

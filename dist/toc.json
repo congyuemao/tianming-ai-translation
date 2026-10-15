@@ -13,7 +13,7 @@
     "shortTitle": "1978年版序言",
     "number": "",
     "kind": "frontmatter",
-    "page": 10
+    "page": 9
   },
   {
     "id": "sec-3-01a-notes-for-reader",
@@ -21,7 +21,7 @@
     "shortTitle": "读者说明",
     "number": "",
     "kind": "frontmatter",
-    "page": 11
+    "page": 10
   },
   {
     "id": "sec-4-02-ch01-workers-revolution",
@@ -29,7 +29,7 @@
     "shortTitle": "工人革命",
     "number": "第1章",
     "kind": "chapter",
-    "page": 16
+    "page": 15
   },
   {
     "id": "sec-5-03-ch02-from-defeat-to-victory",
@@ -37,7 +37,7 @@
     "shortTitle": "从失败到胜利",
     "number": "第2章",
     "kind": "chapter",
-    "page": 31
+    "page": 30
   },
   {
     "id": "sec-6-04-ch03-first-phase",
@@ -45,7 +45,7 @@
     "shortTitle": "第一阶段",
     "number": "第3章",
     "kind": "chapter",
-    "page": 51
+    "page": 50
   },
   {
     "id": "sec-7-05-ch04-great-leap-forward-and-after",
@@ -53,7 +53,7 @@
     "shortTitle": "大跃进及其后果",
     "number": "第4章",
     "kind": "chapter",
-    "page": 63
+    "page": 62
   },
   {
     "id": "sec-8-06-ch05-cultural-revolution",
@@ -61,7 +61,7 @@
     "shortTitle": "文化大革命",
     "number": "第5章",
     "kind": "chapter",
-    "page": 78
+    "page": 77
   },
   {
     "id": "sec-9-07-ch06-after-cultural-revolution",
@@ -69,7 +69,7 @@
     "shortTitle": "文化大革命之后",
     "number": "第6章",
     "kind": "chapter",
-    "page": 93
+    "page": 92
   },
   {
     "id": "sec-10-08-ch07-workers-in-1950s",
@@ -77,7 +77,7 @@
     "shortTitle": "1950年代的工人",
     "number": "第7章",
     "kind": "chapter",
-    "page": 106
+    "page": 105
   },
   {
     "id": "sec-11-09-ch08-temporary-contract-labour",
@@ -85,7 +85,7 @@
     "shortTitle": "临时工与合同工：“工农制度”",
     "number": "第8章",
     "kind": "chapter",
-    "page": 128
+    "page": 127
   },
   {
     "id": "sec-12-10-ch09-working-class-after-cultural-revolution",
@@ -93,7 +93,7 @@
     "shortTitle": "文化大革命之后的工人阶级",
     "number": "第9章",
     "kind": "chapter",
-    "page": 138
+    "page": 137
   },
   {
     "id": "sec-13-11-ch10-peasants-in-prc",
@@ -101,7 +101,7 @@
     "shortTitle": "中华人民共和国中的农民",
     "number": "第10章",
     "kind": "chapter",
-    "page": 157
+    "page": 156
   },
   {
     "id": "sec-14-12-ch11-equality",
@@ -109,7 +109,7 @@
     "shortTitle": "平等",
     "number": "第11章",
     "kind": "chapter",
-    "page": 175
+    "page": 174
   },
   {
     "id": "sec-15-13-ch12-democracy",
@@ -117,7 +117,7 @@
     "shortTitle": "民主",
     "number": "第12章",
     "kind": "chapter",
-    "page": 194
+    "page": 193
   },
   {
     "id": "sec-16-14-ch13-national-independence",
@@ -125,7 +125,7 @@
     "shortTitle": "民族独立",
     "number": "第13章",
     "kind": "chapter",
-    "page": 210
+    "page": 209
   },
   {
     "id": "sec-17-15-ch14-theory",
@@ -133,7 +133,7 @@
     "shortTitle": "理论",
     "number": "第14章",
     "kind": "chapter",
-    "page": 231
+    "page": 230
   },
   {
     "id": "sec-18-16-ch15-foreign-policy",
@@ -141,7 +141,7 @@
     "shortTitle": "外交政策",
     "number": "第15章",
     "kind": "chapter",
-    "page": 244
+    "page": 243
   },
   {
     "id": "sec-19-17-ch16-mao-zedong-thought-abroad",
@@ -149,7 +149,7 @@
     "shortTitle": "毛泽东思想在海外",
     "number": "第16章",
     "kind": "chapter",
-    "page": 267
+    "page": 266
   },
   {
     "id": "sec-20-18-ch17-modern-capitalism-bourgeois-revolution",
@@ -157,7 +157,7 @@
     "shortTitle": "现代资本主义与资产阶级革命",
     "number": "第17章",
     "kind": "chapter",
-    "page": 284
+    "page": 283
   },
   {
     "id": "sec-21-19-ch18-soviet-union-new-class",
@@ -165,7 +165,7 @@
     "shortTitle": "苏联与新阶级的兴起",
     "number": "第18章",
     "kind": "chapter",
-    "page": 295
+    "page": 293
   },
   {
     "id": "sec-22-20-ch19-mao-zedong-thought",
@@ -173,7 +173,7 @@
     "shortTitle": "毛泽东思想",
     "number": "第19章",
     "kind": "chapter",
-    "page": 309
+    "page": 306
   },
   {
     "id": "sec-23-21-retrospect",
@@ -181,6 +181,6 @@
     "shortTitle": "回顾",
     "number": "",
     "kind": "chapter",
-    "page": 322
+    "page": 319
   }
 ]
