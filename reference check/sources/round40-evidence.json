@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-16",
+  "round": 40,
+  "gitBase": "31c373512d3ca34a0fc5c23acc373f9e598b4116",
+  "formalReviewIds": [
+    "07-07"
+  ],
+  "sources": [
+    {
+      "id": "bbc-fe4857-bii11-r40",
+      "recordIds": [
+        "07-07"
+      ],
+      "kind": "用户提供的BBC SWB英文记录整页扫描；原注北京广播的候选旁证页，未命中目标引句",
+      "accessed": "2026-10-16",
+      "originalFilename": "PEKING_HOME_SERVICE__1975-03-18.pdf",
+      "uploadedFileId": "file_0000000018cc81faa115af69bd9645d4",
+      "localPath": "reference check/sources/BBC-SWB-FE4857-BII11-1975-03-18.pdf",
+      "sha256": "23cee7a3a8cd99e53337db388b3e59f23a74504a65086b755b19d39080ff6d0b",
+      "byteLength": 266500,
+      "pdfPages": 1,
+      "publicationDate": "1975-03-18",
+      "publicationDateBasis": "页眉直接印18 Mar 75",
+      "swbReference": "FE/4857/BII/11",
+      "broadcastStation": "Peking home service",
+      "broadcastDate": "1975-03-12",
+      "broadcastTimeGMT": "08:00",
+      "title": "A County’s Struggle against Capitalist Tendencies",
+      "reportTypeAsPrinted": "(i) Precis, with quotations, of report by Kueite County Party Committee, “Dare to criticize capitalist tendencies”",
+      "textLayerPresent": false,
+      "archiveMethod": "逐字节复制用户附件，未裁切、改字或增加OCR。",
+      "scope": "上部为学校教育报道续文；中下部另起县委反资本主义倾向报道第(i)则，续文已在本轮第二附件BII/12核对。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4857-BII11-1975-03-18.png",
+          "pdfPage": 1,
+          "printedPage": "FE/4857/BII/11",
+          "sha256": "21921011d14ece0a0c7ea86b73e4679e9615daad7f51c943824142db69c935c2",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF按2倍比例渲染整个附件页面，未裁切或改字。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe4857-bii12-r40",
+      "recordIds": [
+        "07-07"
+      ],
+      "kind": "用户提供的BBC SWB英文记录整页扫描；原注北京广播的候选旁证页，未命中目标引句",
+      "accessed": "2026-10-16",
+      "originalFilename": "PEKING_HOME_SERVICE__1975-03-18 (1).pdf",
+      "uploadedFileId": "file_0000000000cc81f485daa55a9cae808d",
+      "localPath": "reference check/sources/BBC-SWB-FE4857-BII12-1975-03-18.pdf",
+      "sha256": "c6116a77b1432973a0cd1af40132d4e5639d31668306c80e71abb8fff8592c56",
+      "byteLength": 255392,
+      "pdfPages": 1,
+      "publicationDate": "1975-03-18",
+      "publicationDateBasis": "页眉直接印18 Mar 75",
+      "swbReference": "FE/4857/BII/12",
+      "broadcastStation": "Peking home service",
+      "broadcastDate": "1975-03-12",
+      "broadcastTimeGMT": "08:00",
+      "title": "A County’s Struggle against Capitalist Tendencies",
+      "reportTypeAsPrinted": "第(i)则续文；(ii) Excerpts from an article by (Kuo Ta-chang), “Arm the masses with the theory of the dictatorship of the proletariat”",
+      "textLayerPresent": false,
+      "archiveMethod": "逐字节复制用户附件，未裁切、改字或增加OCR。",
+      "scope": "接续并结束BII/11的第(i)则Kueite县委报告；下部另起第(ii)则Kuo Ta-chang文章摘录，页末in the与BII/13的light of衔接，本轮已补齐。未见目标手段名单。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4857-BII12-1975-03-18.png",
+          "pdfPage": 1,
+          "printedPage": "FE/4857/BII/12",
+          "sha256": "79a5e923113930c80f9bdd4286c70a1e7b7266232216932975ba96e8221a7e7d",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF按2倍比例渲染整个附件页面，未裁切或改字。"
+        }
+      ],
+      "broadcastTimeBasis": "承BII/11同一报道组的来源行，本页未重复印出电台和播出时间。"
+    },
+    {
+      "id": "bbc-fe4857-bii13-r40",
+      "recordIds": [
+        "07-07"
+      ],
+      "kind": "用户提供的BBC SWB英文记录整页扫描；原注北京广播的候选旁证页，未命中目标引句",
+      "accessed": "2026-10-16",
+      "originalFilename": "KINN_PROVINCIAL_SERVICE__1975-03-18.pdf",
+      "uploadedFileId": "file_000000009a148211b2feb0ff886d3601",
+      "localPath": "reference check/sources/BBC-SWB-FE4857-BII13-1975-03-18.pdf",
+      "sha256": "f04f64be4e6fbf9a013704242754f02621b25304ee2e69340213531ecced0d1f",
+      "byteLength": 281720,
+      "pdfPages": 1,
+      "publicationDate": "1975-03-18",
+      "publicationDateBasis": "页眉直接印18 Mar 75",
+      "swbReference": "FE/4857/BII/13",
+      "broadcastStation": "Peking home service",
+      "broadcastDate": "1975-03-12",
+      "broadcastTimeGMT": "08:00",
+      "title": "A County’s Struggle against Capitalist Tendencies",
+      "reportTypeAsPrinted": "上部为第(ii)则文章摘录续文；下部另篇为Precis, with quotations of report published in the 6th March Kirin Daily。",
+      "textLayerPresent": false,
+      "archiveMethod": "逐字节复制用户附件，未裁切、改字或增加OCR。",
+      "scope": "上部接续并结束北京广播第(ii)则Kuo Ta-chang文章摘录；下部另起Kirin Meeting Studies a Store’s Struggle against Bourgeois Ideas，长春吉林省台1975-03-07 1130 GMT，属另一篇。北京全文及本页吉林起首均未见目标手段名单。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4857-BII13-1975-03-18.png",
+          "pdfPage": 1,
+          "printedPage": "FE/4857/BII/13",
+          "sha256": "edda9e9f11ef58f754d3c0f07e7b82bffbce75a2ba50b16f51a87e56365906e2",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF按2倍比例渲染整个附件页面，未裁切或改字。"
+        }
+      ],
+      "broadcastTimeBasis": "上部承BII/11北京广播来源行；下部吉林报道另列Changchun, Kirin provincial service 11.30 gmt 7 Mar 75。"
+    }
+  ],
+  "harrisComparison": {
+    "printedPage": 96,
+    "pdfPage": 115,
+    "note": 116,
+    "originalNote": "Harbin radio, in SWB FE/4856, 3, BII/5, 18 Mar. 1975; cf. also Beijing radio, 12 Mar. ibid., BII/II",
+    "imagePath": "reference check/sources/Harris-source-p96-round40.png",
+    "imageSHA256": "bc49da64a3de7d9bba9cf81b5d5f5ddb921e8e0c98c2e1063f79d6524335e0e6",
+    "visuallyVerified": true
+  },
+  "comparisonFile": "reference check/sources/BBC-FE4857-Peking-1975-source-comparison.md",
+  "findings": [
+    {
+      "id": "07-07",
+      "status": "searched_unresolved",
+      "sources": [
+        "bbc-fe4857-bii11-r40",
+        "bbc-fe4857-bii12-r40",
+        "bbc-fe4857-bii13-r40"
+      ],
+      "comment": "已核北京广播FE/4857/BII/11—13完整两则：第(i)则县委报告及第(ii)则Kuo Ta-chang文章摘录。实际刊号4857与原注4856不同，广播日期1975年3月12日0800 GMT及起首页11与原注线索相符；北京全文未见目标腐蚀干部手段名单。哈尔滨稿仍缺，07-07状态及待核标记不变。",
+      "nextAction": "北京两则已完整取得，无需再为这组北京材料请求续页。继续查哈尔滨稿：优先另查FE/4857/BII/5，同时保留原注FE/4856/BII/5；候选位置均未取得，不能认定实际出处。原注另列“3”的含义仍待核。"
+    }
+  ],
+  "limitations": [
+    "已完整取得北京A County’s Struggle against Capitalist Tendencies第(i)、(ii)两则，范围为FE/4857/BII/11—13上部；哈尔滨稿及FE/4856原页仍缺。",
+    "实际刊号FE/4857及刊日1975-03-18直接据三页页眉；北京广播为1975-03-12 0800 GMT。",
+    "原注北京广播日期与起首页11线索吻合，但完整两则未见目标引句；不把原注全部FE/4856一律改成FE/4857。",
+    "北京第(i)则为带引文摘要、第(ii)则为文章摘录；非中文广播原稿，未据同题材文字拼接或替换目标引句。",
+    "BII/13下部吉林报道属于另一篇，本轮只读所获起首，未取得其续页，不将该篇也说成完整核对。",
+    "Kueite、Kuo Ta-chang等罗马字名称保留扫描拼法，本轮未核定汉字。",
+    "正文全部待核标记及措辞不变；未重建PDF/HTML，成品仍不含第37—40轮修改。"
+  ],
+  "userSearchReport": {
+    "content": "用户表示本次仅找到北京相关内容，此前未找到哈尔滨内容。",
+    "date": "2026-10-16"
+  },
+  "reports": [
+    {
+      "title": "A County’s Struggle against Capitalist Tendencies",
+      "broadcastSource": "Peking home service, 0800 GMT, 12 March 1975",
+      "parts": [
+        {
+          "part": "i",
+          "attribution": "Kueite County Party Committee",
+          "title": "Dare to criticize capitalist tendencies",
+          "pagesRead": [
+            "FE/4857/BII/11",
+            "FE/4857/BII/12"
+          ],
+          "completePartRead": true,
+          "targetListFound": false
+        },
+        {
+          "part": "ii",
+          "attribution": "Kuo Ta-chang",
+          "title": "Arm the masses with the theory of the dictatorship of the proletariat",
+          "pagesRead": [
+            "FE/4857/BII/12",
+            "FE/4857/BII/13上部"
+          ],
+          "completePartRead": true,
+          "targetListFound": false
+        }
+      ]
+    },
+    {
+      "title": "Kirin Meeting Studies a Store’s Struggle against Bourgeois Ideas",
+      "broadcastSource": "Changchun, Kirin provincial service, 1130 GMT, 7 March 1975",
+      "sourceNewspaper": "Kirin Daily, 6 March 1975",
+      "pagesRead": [
+        "FE/4857/BII/13下部"
+      ],
+      "completeReportRead": false,
+      "relationship": "新篇，非上部北京广播续文；不据本页吉林起首落实哈尔滨引文。"
+    }
+  ]
+}

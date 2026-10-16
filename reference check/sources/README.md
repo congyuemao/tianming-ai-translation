@@ -559,3 +559,17 @@ CCRD原始网页SHA-256为 `9cfa461f0144ff70439e3f68267075b0ef9a97725e9de02d8eeb
 上海报道题为 **Urgent Order by Shanghai Financial Supervision Group**，来源行是 **Shanghai regional service 23.10 GMT 27.2.67**，BBC标注为 **Precis of report**。广播日期是1967年2月27日；文件名中的1967-02-28尚未由刊行日期页佐证，两者分别记录。09-30按已批准的BBC英文核对与忠实回译标准落实，保持原有中文引号内文字不变；09-31继续待核。
 
 文件哈希、实际阅读范围与篇题边界见[证据记录](round39-evidence.json)，本轮处理见[第39轮报告](../2026-10-16-round39.md)。书籍PDF/HTML未重建。
+
+## 第四十轮：北京广播完整两则及刊号差异（2026-10-16）
+
+用户陆续提供3份单页附件，均原字节归档，参考PDF累计46份。实际页眉为 **FE/4857/BII/11—13，18 Mar 75**，与原书注116所列FE/4856不同。
+
+| 归档材料 | 内容与用途 |
+| --- | --- |
+| [第11页PDF](BBC-SWB-FE4857-BII11-1975-03-18.pdf)／[页图](BBC-SWB-FE4857-BII11-1975-03-18.png) | 原附件`PEKING_HOME_SERVICE__1975-03-18.pdf`；北京报道第(i)则起首及1975年3月12日0800 GMT来源行。 |
+| [第12页PDF](BBC-SWB-FE4857-BII12-1975-03-18.pdf)／[页图](BBC-SWB-FE4857-BII12-1975-03-18.png) | 原附件同名`(1)`；第(i)则结束，第(ii)则文章摘录起首。 |
+| [第13页PDF](BBC-SWB-FE4857-BII13-1975-03-18.pdf)／[页图](BBC-SWB-FE4857-BII13-1975-03-18.png) | 原附件`KINN_PROVINCIAL_SERVICE__1975-03-18.pdf`；上部结束北京第(ii)则，下部另起吉林报道。 |
+| [Harris第96页注116](Harris-source-p96-round40.png) | 原注FE/4856、3、BII/5及北京广播BII/II的著录，底本PDF115。 |
+| [比对记录](BBC-FE4857-Peking-1975-source-comparison.md)／[证据JSON](round40-evidence.json) | 三附件与4张图的哈希、篇题边界、已刊两则完整读取范围及未命中结论。 |
+
+北京总题为 *A County’s Struggle against Capitalist Tendencies*，两则分别为Kueite县委报告摘要与Kuo Ta-chang文章摘录，现已齐备；两则均未见目标腐蚀干部手段名单。07-07仍待核，哈尔滨稿仍缺，不能把原注期号全部径改为4857。本轮正文不变，只补充第6章注12；待核保持80处。PDF/HTML未重建，详见[第40轮报告](../2026-10-16-round40.md)。

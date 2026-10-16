@@ -110,7 +110,7 @@
 
 11. *Hung-ch’i*, August 1973；另参 Su Hsi, *RMRB*, 11 January 1974, *SCMP* 5547, 6 February 1974。 中文引文据[黎坚《重视上层建筑领域的革命》](https://www.bannedthought.net/China/Magazines/Hongqi/1973/Hongqi1973N8-OCR-sm.pdf)核校。两句分别见《红旗》1973年第8期刊页4、7（PDF第7、10页），已目视核对原刊扫描；不据此确认另列1974年报文。
 
-12. Harbin radio, in *SWB FE/4856*, 3, BII/5, 18 Mar. 1975；另参 Beijing radio, 12 Mar., ibid., BII/II。
+12. Harbin radio, in *SWB FE/4856*, 3, BII/5, 18 Mar. 1975；另参 Beijing radio, 12 Mar., ibid., BII/II。 校注：用户提供的北京广播候选材料见[第11页](../reference%20check/sources/BBC-SWB-FE4857-BII11-1975-03-18.pdf)、[第12页](../reference%20check/sources/BBC-SWB-FE4857-BII12-1975-03-18.pdf)和[第13页](../reference%20check/sources/BBC-SWB-FE4857-BII13-1975-03-18.pdf)，页眉为SWB FE/4857/BII/11—13，18 March 1975；篇题为“A County’s Struggle against Capitalist Tendencies”，来源为Peking home service, 0800 GMT, 12 March 1975。广播日期及起首页11与原注北京条目线索相符，但刊号4857与原注4856不同。已核完整第(i)则县委报告与第(ii)则文章摘录，均未见本段列举的腐蚀干部手段。哈尔滨稿仍缺，目标引句保留待核；所获北京页不据以直接改定哈尔滨条目的刊号。
 
 13. *Kuang-ming RB*, 17 April 1975, *SCMP* 5834。
 
