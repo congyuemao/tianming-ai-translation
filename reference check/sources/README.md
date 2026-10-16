@@ -544,3 +544,18 @@ CCRD原始网页SHA-256为 `9cfa461f0144ff70439e3f68267075b0ef9a97725e9de02d8eeb
 另归档Harris[第142页](Harris-2015-p142.png)、[第143页](Harris-2015-p143.png)、[第146页](Harris-2015-p146.png)3张整页图，对照引句与原注102、103。英文底本复用既有研究文件，未重复归档整书。目标句人工转录、Harris节引范围、司机句差异及七连任务疑点见[逐句对照](BBC-Hangzhou-1975-backtranslation-comparison.md)。
 
 所有PDF与原附件逐字节一致，SHA-256、页码、标题边界及14张图像的哈希见[证据记录](round38-evidence.json)。正文、注35和注36已更新，详见[第三十八轮报告](../2026-10-16-round38.md)。书籍PDF/HTML未重建，仍为10月15日润色版。
+
+## 第三十九轮：FE/2404上海接管财产摘要（2026-10-16）
+
+新增2份用户附件，均按原字节保存，累计参考PDF43份。另归档2张附件整页图、1张Harris底本目标页图。
+
+| 归档文件 | 原附件名／位置 | 核查用途 |
+| --- | --- | --- |
+| [FE/2404/B/35](BBC-SWB-FE2404-B35.pdf)／[页图](BBC-SWB-FE2404-B35.png) | `SHENYANG_RADIO_BROADCAST__1967-02-28.pdf`，1页 | 中部上海接管财产摘要直接对应09-30；页末另起沈阳广播报道，不能依文件名错配电台。 |
+| [FE/2404/B/36](BBC-SWB-FE2404-B36.pdf)／[页图](BBC-SWB-FE2404-B36.png) | `NANCHANG_REGIONAL_SERVICE__1967-02-28.pdf`，1页 | 上部续辽宁报道，中下部另起南昌会议；未见09-31目标引句。 |
+| [Harris底本第126页](Harris-source-p126-round39.png) | 仓库原始英文PDF第145页 | 接管财产引句、注64位置及相邻十七个组织响应引句；另复核既有[第128页注释图](Harris-2015-p128.png)。 |
+| [英文摘要与回译对照](BBC-FE2404-Shanghai-1967-comparison.md) | 人工转录完整两段上海摘要 | 原书节引范围、Financial Supervision Group主语差别及09-31未命中结论。 |
+
+上海报道题为 **Urgent Order by Shanghai Financial Supervision Group**，来源行是 **Shanghai regional service 23.10 GMT 27.2.67**，BBC标注为 **Precis of report**。广播日期是1967年2月27日；文件名中的1967-02-28尚未由刊行日期页佐证，两者分别记录。09-30按已批准的BBC英文核对与忠实回译标准落实，保持原有中文引号内文字不变；09-31继续待核。
+
+文件哈希、实际阅读范围与篇题边界见[证据记录](round39-evidence.json)，本轮处理见[第39轮报告](../2026-10-16-round39.md)。书籍PDF/HTML未重建。

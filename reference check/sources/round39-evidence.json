@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-16",
+  "round": 39,
+  "gitBase": "6bc998765086c49f92f39abfa36c4033c9009b46",
+  "formalReviewIds": [
+    "09-30",
+    "09-31"
+  ],
+  "userSourceAcceptance": {
+    "instruction": "按照书中引用进行忠实回译，同时标注BBC出处，即可视作落实，无需再查找中文原广播稿或者录音。",
+    "date": "2026-10-16",
+    "appliedDecision": "以附件中的BBC英文监听／电讯记录核对Harris引文，忠实回译、明确BBC期号页码及广播／电讯时间后按已落实计；不把取得中文原稿或录音设为撤标前提，不将回译冒称中文原句。"
+  },
+  "sources": [
+    {
+      "id": "bbc-fe2404-b35-r39",
+      "recordIds": [
+        "09-30",
+        "09-31"
+      ],
+      "kind": "用户提供的BBC SWB英文记录扫描页；非中文原稿或录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "SHENYANG_RADIO_BROADCAST__1967-02-28.pdf",
+      "uploadedFileId": "file_00000000a34c820e89b6be65954c7517",
+      "localPath": "reference check/sources/BBC-SWB-FE2404-B35.pdf",
+      "sha256": "8f21e56ac7326041e5564a2fc54336f74d9a4c7511946ebbc211d134e2ce70f2",
+      "byteLength": 161016,
+      "pdfPages": 1,
+      "publicationDate": null,
+      "publicationDateCandidateFromFilename": "1967-02-28",
+      "publicationDateBasis": "附件名含日期，但扫描页只显示刊号、分部和页码，未见刊行日期；不将文件名当作已核刊日。",
+      "archiveMethod": "原样复制附件字节；未裁切、合并、改字或添加OCR。",
+      "textLayerPresent": false,
+      "scope": "上部为山西报道续文；中部完整刊载上海财产接管摘要；下部另起辽宁宣誓大会报道。上海摘要对应09-30，没有09-31的十七个组织引文。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE2404-B35.png",
+          "pdfPage": 1,
+          "printedPage": "FE/2404/B/35",
+          "printedPageBasis": "页眉直接可见",
+          "sha256": "d7cf904a2b2f135119ec4d53732658b8f975cc5d6daceba92ec953f3a870c852",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF按2倍比例渲染整个附件页面，未裁切或改字。"
+        }
+      ]
+    },
+    {
+      "id": "bbc-fe2404-b36-r39",
+      "recordIds": [
+        "09-30",
+        "09-31"
+      ],
+      "kind": "用户提供的BBC SWB英文记录扫描页；非中文原稿或录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "NANCHANG_REGIONAL_SERVICE__1967-02-28.pdf",
+      "uploadedFileId": "file_000000009a308211af4501f19b5b091b",
+      "localPath": "reference check/sources/BBC-SWB-FE2404-B36.pdf",
+      "sha256": "b230f629b08cbca605c9d42a7977a9623ec07f936c56850a821a97aaffc83c49",
+      "byteLength": 171605,
+      "pdfPages": 1,
+      "publicationDate": null,
+      "publicationDateCandidateFromFilename": "1967-02-28",
+      "publicationDateBasis": "附件名含日期，但扫描页只显示刊号、分部和页码，未见刊行日期；不将文件名当作已核刊日。",
+      "archiveMethod": "原样复制附件字节；未裁切、合并、改字或添加OCR。",
+      "textLayerPresent": false,
+      "scope": "上部接续辽宁宣誓大会报道；中下部另起南昌干部会议报道，来源为Nanchang regional service，1967-02-26 1420 GMT。未见两条目标引文。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE2404-B36.png",
+          "pdfPage": 1,
+          "printedPage": "FE/2404/B/36",
+          "printedPageBasis": "页眉直接可见",
+          "sha256": "edcf4ae981c8cb5c33f880e9b12140af9db1b0e8fce01baf080639708afb414a",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF按2倍比例渲染整个附件页面，未裁切或改字。"
+        }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "title": "Urgent Order by Shanghai Financial Supervision Group",
+      "swbReference": "FE/2404/B/35",
+      "broadcastStation": "Shanghai regional service",
+      "broadcastDate": "1967-02-27",
+      "broadcastTimeGMT": "23:10",
+      "reportTypeAsPrinted": "Precis of report",
+      "publicationDate": null,
+      "completeReportOnProvidedPage": true,
+      "paragraphsTranscribed": [
+        "The Financial Supervision Group of the Liaison Headquarters For Opposing Economism of the Shanghai Revolutionary Committee, in co-ordination with other revolutionary organisations, today took charge of the property and funds of organisations of contract and temporary workers and liaison centres of young intellectuals working in rural areas, of youths working in support of the frontiers and of State farm workers.",
+        "The Shanghai revolutionary organisations issued an urgent order demanding that all units stop supplying material and funds to the organisations of contract workers and temporary workers and the liaison centres."
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "09-30",
+      "harrisEnglish": "today took over the property and funds of organizations of contract and temporary workers and liaison centres of young intellectuals working in rural areas, of youth working in support of frontiers, and of State farm workers",
+      "bbcEnglish": "The Financial Supervision Group of the Liaison Headquarters For Opposing Economism of the Shanghai Revolutionary Committee, in co-ordination with other revolutionary organisations, today took charge of the property and funds of organisations of contract and temporary workers and liaison centres of young intellectuals working in rural areas, of youths working in support of the frontiers and of State farm workers.",
+      "backTranslation": "今天接管了合同工、临时工组织以及下乡知识青年、支边青年和国营农场工人联络站的财产和经费",
+      "evidenceLocation": "BBC FE/2404/B/35中部上海报道第一段；Harris刊页126（仓库英文底本PDF145），原注64见刊页128（PDF147）。",
+      "comparison": "took over与took charge of、拼写及单复数略异，目标财产、经费与组织类别对应。原书省略Financial Supervision Group及协同其他组织的说明；按原书范围保留中文回译，差异写入注16。"
+    }
+  ],
+  "harrisComparison": {
+    "localPath": "Mandate of Heaven Marx and Mao in Modern China (Nigel Harris [Harris, Nigel]) (z-library.sk, 1lib.sk, z-lib.sk) (2).pdf",
+    "sha256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+    "printedPage": 126,
+    "pdfPage": 145,
+    "imagePath": "reference check/sources/Harris-source-p126-round39.png",
+    "imageSHA256": "178ea6c8e87f5a1812400ac7977bd338ed4ed528f1214289450ed7788b6ccc3e",
+    "originalNote": 64,
+    "notePrintedPage": 128,
+    "notePdfPage": 147,
+    "existingNoteImagePath": "reference check/sources/Harris-2015-p128.png"
+  },
+  "comparisonFile": "reference check/sources/BBC-FE2404-Shanghai-1967-comparison.md",
+  "findings": [
+    {
+      "id": "09-30",
+      "status": "restored",
+      "sources": [
+        "bbc-fe2404-b35-r39"
+      ],
+      "comment": "直接对应BBC上海广播摘要；现有中文引句忠实表达Harris节引，保持引号内文字不变，只撤除待核标记并补出处及回译说明。",
+      "nextAction": null
+    },
+    {
+      "id": "09-31",
+      "status": "searched_unresolved",
+      "sources": [
+        "bbc-fe2404-b35-r39",
+        "bbc-fe2404-b36-r39"
+      ],
+      "comment": "B/35上海摘要两段完整，第二段止于停止提供物资和经费；下一篇为辽宁宣誓大会，B/36续辽宁并另起南昌。所获两页未见十七个组织或拥护中央临时工通知引句，不能随09-30撤标。",
+      "nextAction": "继续核同注《文汇报》1967年2月28日及SCMP 174（原注如此），1967年4月10日，第6页；如查SWB，应另找上海十七个组织响应中央临时工通知的报道，现有材料未给出另一确定刊页。"
+    }
+  ],
+  "limitations": [
+    "本轮09-30按既有用户批准标准落实，中文为据英文底本回译，未称恢复中文原广播措辞；不要求另取中文稿或录音。",
+    "附件文件名不代表整页唯一电台，篇题及来源行优先；上海目标实际在文件名含SHENYANG的B/35中部。",
+    "两附件名含1967-02-28，页内未印刊行日期；上海广播时间已目视核定为1967-02-27 2310 GMT。",
+    "B/35的上海报道为Precis of report，即摘要；不能当作完整广播逐字稿。",
+    "09-31仍待核；只读所获B/35—36，未读本期其余页面，不将两页未见扩大成整期不存在。",
+    "未重建dist成品，PDF/HTML仍为2026-10-15润色版，含91处旧待核标记，不含第37—39轮修改。"
+  ]
+}
