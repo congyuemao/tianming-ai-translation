@@ -573,3 +573,17 @@ CCRD原始网页SHA-256为 `9cfa461f0144ff70439e3f68267075b0ef9a97725e9de02d8eeb
 | [比对记录](BBC-FE4857-Peking-1975-source-comparison.md)／[证据JSON](round40-evidence.json) | 三附件与4张图的哈希、篇题边界、已刊两则完整读取范围及未命中结论。 |
 
 北京总题为 *A County’s Struggle against Capitalist Tendencies*，两则分别为Kueite县委报告摘要与Kuo Ta-chang文章摘录，现已齐备；两则均未见目标腐蚀干部手段名单。07-07仍待核，哈尔滨稿仍缺，不能把原注期号全部径改为4857。本轮正文不变，只补充第6章注12；待核保持80处。PDF/HTML未重建，详见[第40轮报告](../2026-10-16-round40.md)。
+
+## 第四十一轮：西安广播模糊扫描与底本对照（2026-10-16）
+
+新增用户单页附件`HOFEI_RADIO__1975-03-21.pdf`，原字节保存，参考PDF累计47份。目标位于 **SHENSI** 段，来源为 **Sian radio，1975年3月11日1100 GMT**；附件文件名不作为电台归属依据。
+
+| 新增材料 | 用途 |
+| --- | --- |
+| [BBC扫描PDF](BBC-SWB-FE4860-BII20-1975-03-21.pdf)／[整页图](BBC-SWB-FE4860-BII20-1975-03-21.png) | FE/4860/BII/20；陕西段下半部两处加班费引句。 |
+| [陕西段放大图](BBC-SWB-FE4860-BII20-Shensi-detail.png) | 保留原图重影与粘连，辨认工厂、电台、时间、车间工作组及文章题名；不作生成修复。 |
+| [页眉局部](BBC-SWB-FE4860-BII20-header-detail.png) | 刊号、页码及21 Mar的残形；年份残损，完整1975-03-21另据附件名。 |
+| [Harris第135页](Harris-source-p135-round41.png)／[第145页](Harris-source-p145-round41.png) | 清晰英文底本两处引句及原注86，分别为PDF154、164。 |
+| [对照记录](BBC-FE4860-Sian-1975-comparison.md)／[证据JSON](round41-evidence.json) | 区分BBC可辨要素与Harris完整引句；保存原件及5张图的哈希与阅读范围。 |
+
+10-28、10-29依用户已批准的BBC英文核对与忠实回译标准落实，待核从80降至78处。只按Harris清晰底本回译，不把书中文字倒填成BBC逐字转录，不称恢复了中文原广播稿。第9章注19已注明残损与出处；PDF/HTML未重建，详见[第41轮报告](../2026-10-16-round41.md)。

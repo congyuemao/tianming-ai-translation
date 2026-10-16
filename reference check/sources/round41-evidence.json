@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-16",
+  "round": 41,
+  "gitBase": "dd933b6264c794f968926069a7052e262f2df1ab",
+  "formalReviewIds": [
+    "10-28",
+    "10-29"
+  ],
+  "sources": [
+    {
+      "id": "bbc-fe4860-bii20-r41",
+      "recordIds": [
+        "10-28",
+        "10-29"
+      ],
+      "kind": "用户提供的BBC SWB扫描页，页眉浅淡、陕西段下半部字形粘连；非中文稿或录音",
+      "accessed": "2026-10-16",
+      "originalFilename": "HOFEI_RADIO__1975-03-21.pdf",
+      "uploadedFileId": "file_00000000bcf4820e834eedd8055972cc",
+      "localPath": "reference check/sources/BBC-SWB-FE4860-BII20-1975-03-21.pdf",
+      "sha256": "93065b05f92cfbba5d45e4cd7b7930384db2c53b4b9aeed1e5fa88b112cc69d0",
+      "byteLength": 249376,
+      "pdfPages": 1,
+      "textLayerPresent": false,
+      "embeddedImage": {
+        "width": 2905,
+        "height": 4181,
+        "bitsPerComponent": 1
+      },
+      "swbReference": "FE/4860/BII/20",
+      "referenceBasis": "页眉可辨FE/4860、BII及页码20的残形，与Harris原注86的刊号和第20页相符；不称页眉每个字符均清晰。",
+      "publicationDateCandidate": "1975-03-21",
+      "publicationDateBasis": "原附件名署1975-03-21；页眉21 Mar可辨，年份残损，不冒称完整刊日逐字清晰。",
+      "broadcastStation": "Sian radio",
+      "broadcastDate": "1975-03-11",
+      "broadcastTimeGMT": "11:00",
+      "broadcastTimeBasis": "SHENSI段起首直接可读Sian radio said (1100 gmt 11 Mar 75)。",
+      "sectionHeading": "SHENSI",
+      "overallReportTitle": null,
+      "factoryAsPrinted": "Paochi light-bulb factory",
+      "archiveMethod": "原样保存PDF全部字节；另存原页及未修复的局部放大图。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4860-BII20-1975-03-21.png",
+          "sha256": "05e099231f23ac97cc6fac2291583510b9f651d0d47d332719d1ee9e2ecbf805",
+          "scope": "原附件整页，2倍渲染",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF页面渲染；后两幅按1.7倍。未锐化、重绘、生成补字或增加OCR。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4860-BII20-header-detail.png",
+          "sha256": "1ef36089a31395f3b4b37b605c71e5f10f87f86c246ab2b4e5679fc040ddb632",
+          "scope": "原页页眉局部，4倍渲染，字形残缺保留",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF页面渲染；后两幅按1.7倍。未锐化、重绘、生成补字或增加OCR。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4860-BII20-Shensi-detail.png",
+          "sha256": "98f9780584c9b55f3eea39d354e4eb15eb93cd7777b51beb3d920d88a40470bb",
+          "scope": "原页陕西段局部，4倍渲染，重影与粘连保留",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF页面渲染；后两幅按1.7倍。未锐化、重绘、生成补字或增加OCR。"
+        }
+      ],
+      "readingScope": "逐页目视全部一页，重点精读SHENSI段。该页还含贵州、山东、新疆等段，不能由附件名HOFEI归给合肥电台。",
+      "legibility": "起首工厂、电台、时间清楚；目标两句重影粘连，但季度、任务压力、加班费、No 14/No 5及文章题名和教育启发尾句的对应关系可识别。不提供无疑义的BBC逐字全文转录。"
+    }
+  ],
+  "images": [
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4860-BII20-1975-03-21.png",
+      "sha256": "05e099231f23ac97cc6fac2291583510b9f651d0d47d332719d1ee9e2ecbf805",
+      "scope": "原附件整页，2倍渲染",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF页面渲染；后两幅按1.7倍。未锐化、重绘、生成补字或增加OCR。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4860-BII20-header-detail.png",
+      "sha256": "1ef36089a31395f3b4b37b605c71e5f10f87f86c246ab2b4e5679fc040ddb632",
+      "scope": "原页页眉局部，4倍渲染，字形残缺保留",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF页面渲染；后两幅按1.7倍。未锐化、重绘、生成补字或增加OCR。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4860-BII20-Shensi-detail.png",
+      "sha256": "98f9780584c9b55f3eea39d354e4eb15eb93cd7777b51beb3d920d88a40470bb",
+      "scope": "原页陕西段局部，4倍渲染，重影与粘连保留",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF页面渲染；后两幅按1.7倍。未锐化、重绘、生成补字或增加OCR。"
+    },
+    {
+      "localPath": "reference check/sources/Harris-source-p135-round41.png",
+      "sha256": "0c783872fa8c32cfa4ba57a913ea7f9a4df004407048302e19403ee60d1e89bb",
+      "scope": "英文底本PDF154，刊页135，完整页",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF页面渲染；后两幅按1.7倍。未锐化、重绘、生成补字或增加OCR。"
+    },
+    {
+      "localPath": "reference check/sources/Harris-source-p145-round41.png",
+      "sha256": "007cd1c5b70d919b89ebd80eb8a1194c140dccde74efa1f04f0eb36e832f5b05",
+      "scope": "英文底本PDF164，刊页145，原注86，完整页",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF页面渲染；后两幅按1.7倍。未锐化、重绘、生成补字或增加OCR。"
+    }
+  ],
+  "comparisons": {
+    "10-28": {
+      "harrisEnglish": "in the fourth quarter when time was pressing, the tasks were heavy and pressure was great, some people forgot the previous lesson and decided to pay the workers overtime.",
+      "backTranslation": "在第四季度，时间紧、任务重、压力大，有些人忘记了过去的教训，决定给工人发加班费。",
+      "bbcVisibleCorrespondence": "第四季度、time was pressing、tasks were heavy、pressure was great、forgot the previous lesson、pay the workers及加班字样；重影存在，不提供BBC无疑义逐字转录。"
+    },
+    "10-29": {
+      "harrisEnglish": "After comrades of Number 14 work group of Number 5 workshop wrote an article, Do we work hard to make greater contributions or to earn more money?, they were greatly educated and enlightened ideologically.",
+      "backTranslation": "五号车间十四工作组的同志发表《我们苦干是为了作出更大贡献，还是为了多拿钱？》之后，在思想上受到很大教育和启发。",
+      "bbcVisibleCorrespondence": "No 14 work group of No 5 workshop；Do we work hard to make greater contributions, or to earn more money?；were greatly educated and enlightened ideologically。字形粘连，但编号、题名及尾句足以交叉定位。"
+    }
+  },
+  "comparisonFile": "reference check/sources/BBC-FE4860-Sian-1975-comparison.md",
+  "userSourceAcceptance": {
+    "instruction": "按照书中引用进行忠实回译，同时标注BBC出处，即可视作落实，无需再查找中文原广播稿或者录音。",
+    "date": "2026-10-16",
+    "appliedDecision": "以附件中的BBC英文监听／电讯记录核对Harris引文，忠实回译、明确BBC期号页码及广播／电讯时间后按已落实计；不把取得中文原稿或录音设为撤标前提，不将回译冒称中文原句。"
+  },
+  "findings": [
+    {
+      "id": "10-28",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4860-bii20-r41"
+      ],
+      "comment": "BBC陕西段和Harris两处节引对应。依既有用户批准标准，按Harris清晰底本忠实回译并标明BBC出处，按落实处理；保留扫描残损说明，不将Harris文字当作从BBC恢复的逐字录文。",
+      "nextAction": null
+    },
+    {
+      "id": "10-29",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4860-bii20-r41"
+      ],
+      "comment": "BBC陕西段和Harris两处节引对应。依既有用户批准标准，按Harris清晰底本忠实回译并标明BBC出处，按落实处理；保留扫描残损说明，不将Harris文字当作从BBC恢复的逐字录文。",
+      "nextAction": null
+    }
+  ],
+  "limitations": [
+    "扫描为1位黑白图像，陕西目标段存在重影和粘连；仅作原样放大，不声称恢复已经丢失的笔画。",
+    "BBC段首来源与工厂清楚、目标段关键要素可交叉定位；回译依Harris清晰底本，不将该书文字反填为BBC逐字转录。",
+    "页眉刊号、页码和日期部分字形残损；FE/4860/BII/20结合可辨残形及Harris原注核定，1975-03-21仅列附件日期与部分页眉支持的日期信息。",
+    "此处是英文记录核对后的回译，不是恢复中文广播稿；依用户既有批准标准，不以缺少中文稿或录音阻止落实。",
+    "原第八章周恩来校注已经在dd933b6移至章末；本轮仅同步台账现行段落和注号，不改该章文件。",
+    "未重建PDF/HTML，成品仍为2026-10-15版，尚未包含第37—41轮及周恩来校注移位修改。"
+  ]
+}
