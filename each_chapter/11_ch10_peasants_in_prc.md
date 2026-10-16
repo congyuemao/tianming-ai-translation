@@ -72,9 +72,9 @@
 
 1969 年以后那段向“右”的短期摆动，使私人种植、饲养牲畜以及手工业、贸易、贩运等“副业”活动，重新被确认为农村人口不可侵犯的权利。甚至前两项还被明确说成同“资本主义道路”无关，反而有助于抑制通胀和黑市。〔34〕然而，后来再次向“左”摆动时，报刊又抱怨说私人种植和副业活动发展得太过分，自由市场扩张得太远，太多农村劳动力卷入私人贸易和商品投机，而党干部也在参与其中，甚至暗中包工。〔35〕
 
-但当一些干部顺着这条逻辑提出，应彻底废除自留地和自由市场时，他们又被提醒说，这些活动其实是“社会主义经济的补充部分”，如果废除，“就会挫伤群众走社会主义道路的积极性，破坏生产力的发展”【原文待核】。〔36〕这与工资差别问题如出一辙。为了维持群众“走社会主义道路的积极性”，国家不得不保留一系列又被自己说成会导向资本主义的做法。
+但当一些干部顺着这条逻辑提出，应彻底废除自留地和自由市场时，他们又被提醒说，这些活动其实是“社会主义经济的补充部分”，如果废除，“就会挫伤群众走社会主义道路的积极性，破坏生产力的发展”。〔36〕这与工资差别问题如出一辙。为了维持群众“走社会主义道路的积极性”，国家不得不保留一系列又被自己说成会导向资本主义的做法。
 
-这些活动到底有多重要？理论上，农村副业只是村庄经济边缘补充，可有些报道却说明并非如此。某一例子中，基层干部对自己副业居然过于赚钱显得颇为不安：“我们生产和销售的变压器开关并没有列入国家计划。我们到处跑，找市场、签合同；原材料自己生产；有些产品还替别人加工。当然，这对国家计划有影响。我们得想一想，这种副业生产方式究竟是社会主义的还是资本主义的”【原文待核】。〔37〕
+这些活动到底有多重要？理论上，农村副业只是村庄经济边缘补充，可有些报道却说明并非如此。某一例子中，基层干部对自己副业居然过于赚钱显得颇为不安：“我们生产和销售的变压器开关并没有列入国家计划。我们到处跑，找市场、签合同；原材料自己生产；有些产品还替别人加工。当然，这对国家计划有影响。我们得想一想，这种副业生产方式究竟是社会主义的还是资本主义的”。〔37〕
 
 大多数受谴责的做法，只使较富裕的生产队、大队和农户获益。对于贫困农户，特别是那些长期处于“亏空”状态，也就是消费总是超过收入的人来说，无论是“右”的时候还是“左”的时候，日子都谈不上改观。1975 年底，广东一些穷村还写信给在香港的亲属求援，信中说地方干部正在逼债。有人抱怨：“还不起的，就得卖自行车、卖手表、卖缝纫机、卖值钱家具，甚至卖猪崽来还债。这个运动在干部领导下搞得很猛，谁也不敢反对”【原文待核】。〔38〕
 
@@ -133,8 +133,8 @@
 33. Ibid., p.253. 中文引文据[苏联《政治经济学教科书》阅读笔记（社会主义部分、第三版）第一部分（从第二十章到二十三章）](https://www.marxists.org/chinese/maozedong/1968/4-175.htm)核校。英文底本作 private property / communes and transport，中文录文作“社有变国有”及“全国交通运输”，此处据中文核正。
 34. *RMRB*, 22 October 1971.
 35. Radio broadcasts, Hubei 11, 24 February and 2 March 1975, Gansu, 16 February 1975, Jiangsu, 16 February 1975, in *Current Scene* XIII, 3-4, March-April 1975.
-36. Secretary of a County Party Committee，转引自 Changchun radio (Kirin), 28 July 1975, *SWB* 4973/BII/8.
-37. Liu Cheng-sung, of Niulantaotzu production brigade, Wuchiang County, Hebei, Shihchiachuang radio, Hebei, 18 August 1975, *SWB* 4989/BII/10, 23 August 1975.
+36. Secretary of a County Party Committee，转引自 Changchun radio (Kirin), 28 July 1975, *SWB* 4973/BII/8. 校注：已核[BBC FE/4973/BII/8起首](../reference%20check/sources/BBC-SWB-FE4973-BII8-1975-08-05.pdf)及[第9页续文](../reference%20check/sources/BBC-SWB-FE4973-BII9-1975-08-05.pdf)，刊日1975年8月5日。条目题为“Kirin County Allows Small Farm Plots ‘at Present Stage’”，来源注明长春吉林电台1975年7月28日1130 GMT。原注列报道起页8；“社会主义经济的补充部分”及“挫伤群众……积极性，破坏生产力的发展”两处对应英文均在第9页上部。该部分仍属吉林报道，下方才另起甘肃报道。本文依Harris引句忠实回译，不称中文广播原话；[英文摘句与对照](../reference%20check/sources/BBC-FE4973-Kirin-1975-comparison.md)另存。
+37. Liu Cheng-sung, of Niulantaotzu production brigade, Wuchiang County, Hebei, Shihchiachuang radio, Hebei, 18 August 1975, *SWB* 4989/BII/10, 23 August 1975. 校注：已核[BBC FE/4989/BII/10](../reference%20check/sources/BBC-SWB-FE4989-BII10-1975-08-23.pdf)及[第11页续文](../reference%20check/sources/BBC-SWB-FE4989-BII11-1975-08-23.pdf)，刊日1975年8月23日。条目题为“Hopei Brigade Halts Erroneous Sideline Production”，来源注明石家庄河北电台1975年8月18日1100 GMT。第10页Liu Cheng-sung段与本文完整引句对应；第11页上部续完河北报道，并附8月18日《河北日报》编者按，贵州报道另起。本文按Harris所引范围忠实回译，不称中文广播原话；人名、大队名的汉字形式未核，仍保留罗马字。参[英文摘句与对照](../reference%20check/sources/BBC-FE4989-Hopei-1975-comparison.md)。
 38. *Ming Pau*, 23 December 1975, in *Translations of PRC* 299, *JPRS* 63125, 21 January 1976, pp.9-10.
 39. 13 December 1963, in *Mao Papers*, p.88；另参 *Miscellany II*, p.252.
 40. 这一点由 *Kuang-ming RB*, 17 April 1975, *SCMP* 5845, 5 May 1975 提出；另参 Shih Ta, *RMRB*, 3 April 1975, *SCMP* 5844, 2 May 1975, and *Kuang-ming RB*, 19 May 1975, *SCMP* 75-23, 2-6 January 1976.

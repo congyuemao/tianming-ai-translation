@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-16",
+  "round": 44,
+  "gitBase": "3bec4fdad0b0d2cf8ad76c907cd0ded7e76ab260",
+  "formalReviewIds": [
+    "10-35",
+    "10-36",
+    "11-17",
+    "11-18"
+  ],
+  "sources": [
+    {
+      "id": "bbc-fe4964-bii9-r44",
+      "recordIds": [
+        "10-35"
+      ],
+      "kind": "用户提供BBC SWB单页扫描，原字节归档",
+      "originalFilename": "SHANGHAI_CITY_SERVICE__1975-07-25.pdf",
+      "uploadedFileId": "file_00000000118c81faa584353944d4a216",
+      "localPath": "reference check/sources/BBC-SWB-FE4964-BII9-1975-07-25.pdf",
+      "sha256": "1b38d50fe5d92ae9dc46320873172f87fe55e710e588300211f8cd136ce62d60",
+      "byteLength": 227909,
+      "pdfPages": 1,
+      "accessed": "2026-10-16",
+      "swbReference": "FE/4964/BII/9",
+      "publicationDate": "1975-07-25",
+      "publicationDateBasis": "原书第146页注98列25 July 1975，与两个附件名一致；扫描页眉日期残损，不称日期全部可辨。",
+      "scope": "完整上海条目起首、引文、工厂党委挑选工人段及末段上半。",
+      "imagePath": "reference check/sources/BBC-SWB-FE4964-BII9-1975-07-25.png",
+      "imageSHA256": "0c7b21d84ebad85be74b3a649ebaadcbbe6444290c1ab8512f375bb63a815e00",
+      "visuallyVerified": true
+    },
+    {
+      "id": "bbc-fe4964-bii10-r44",
+      "recordIds": [
+        "10-35"
+      ],
+      "kind": "用户提供BBC SWB单页扫描，原字节归档",
+      "originalFilename": "INNER_MONGOLIA_REGIONAL_SERVICE__1975-07-25.pdf",
+      "uploadedFileId": "file_0000000067e881fabbc1d1961cf3f681",
+      "localPath": "reference check/sources/BBC-SWB-FE4964-BII10-1975-07-25.pdf",
+      "sha256": "f9b308a3f9f3ab4f640d19a136373fcb7da8ba5c84235033e47e2037685ce0e8",
+      "byteLength": 211795,
+      "pdfPages": 1,
+      "accessed": "2026-10-16",
+      "swbReference": "FE/4964/BII/10",
+      "publicationDate": "1975-07-25",
+      "publicationDateBasis": "原书第146页注98列25 July 1975，与两个附件名一致；扫描页眉日期残损，不称日期全部可辨。",
+      "scope": "顶部三行接续上海条目末段；随后Farmland Improvement Conference in Inner Mongolia为另一报道，不属于上海稿。",
+      "imagePath": "reference check/sources/BBC-SWB-FE4964-BII10-1975-07-25.png",
+      "imageSHA256": "b1d30a7e180bba6081a9fe932ec7552b637ddc1110c8adc34d7254d111d9f874",
+      "visuallyVerified": true
+    },
+    {
+      "id": "bbc-fe4971-bii8-r44",
+      "recordIds": [
+        "10-36"
+      ],
+      "kind": "用户提供BBC SWB单页扫描，原字节归档",
+      "originalFilename": "SHENSI_PROVINCIAL_SERVICE__1975-08-02.pdf",
+      "uploadedFileId": "file_0000000097c081fa9866076b10d360cc",
+      "localPath": "reference check/sources/BBC-SWB-FE4971-BII8-1975-08-02.pdf",
+      "sha256": "47f00a1f06a88fc5399d946b0402168d709ecb7f7380fe597fd6699e9c951b2a",
+      "byteLength": 224789,
+      "pdfPages": 1,
+      "accessed": "2026-10-16",
+      "swbReference": "FE/4971/BII/8",
+      "publicationDate": "1975-08-02",
+      "publicationDateBasis": "扫描页眉可读，与附件名相符。",
+      "scope": "西安高压开关厂报道完整摘录；顶部上一条续文不归入该厂。",
+      "imagePath": "reference check/sources/BBC-SWB-FE4971-BII8-1975-08-02.png",
+      "imageSHA256": "e326a6fabb6ed2bb603ec6669863a93f84975ec51e6ebcbc0afeed3feb312510",
+      "visuallyVerified": true
+    },
+    {
+      "id": "bbc-fe4973-bii8-r44",
+      "recordIds": [
+        "11-17"
+      ],
+      "kind": "用户提供BBC SWB单页扫描，原字节归档",
+      "originalFilename": "KIRIN_PROVINCIAL_SERVICE__1975-08-05.pdf",
+      "uploadedFileId": "file_0000000089f881f484d474258c6ce992",
+      "localPath": "reference check/sources/BBC-SWB-FE4973-BII8-1975-08-05.pdf",
+      "sha256": "26bc3ca11869d717713fa605993b74a8ddd4974d88dba8200fceb1e1d244c914",
+      "byteLength": 228948,
+      "pdfPages": 1,
+      "accessed": "2026-10-16",
+      "swbReference": "FE/4973/BII/8",
+      "publicationDate": "1975-08-05",
+      "publicationDateBasis": "扫描页眉可读，与附件名相符。",
+      "scope": "下部吉林Huaite县报道起首，题名及来源行；上部旅大报道为另一条。",
+      "imagePath": "reference check/sources/BBC-SWB-FE4973-BII8-1975-08-05.png",
+      "imageSHA256": "47460fbc0182d56e21cfc0bd006c1358820b94c2026fc88e46a4878d73705e81",
+      "visuallyVerified": true
+    },
+    {
+      "id": "bbc-fe4973-bii9-r44",
+      "recordIds": [
+        "11-17"
+      ],
+      "kind": "用户提供BBC SWB单页扫描，原字节归档",
+      "originalFilename": "KANSU_PROVINCIAL_SERVICE__1975-08-05.pdf",
+      "uploadedFileId": "file_0000000051c081f88d5d3a2878a4d0a6",
+      "localPath": "reference check/sources/BBC-SWB-FE4973-BII9-1975-08-05.pdf",
+      "sha256": "2d53c5401d1ae64d84f966dca6207780cade23d826a07ad5f85bb231438350c0",
+      "byteLength": 234905,
+      "pdfPages": 1,
+      "accessed": "2026-10-16",
+      "swbReference": "FE/4973/BII/9",
+      "publicationDate": "1975-08-05",
+      "publicationDateBasis": "扫描页眉可读，与附件名相符。",
+      "scope": "上部接续吉林报道并含完整目标引句；下部另起甘肃兰州报道，不归入吉林稿。",
+      "imagePath": "reference check/sources/BBC-SWB-FE4973-BII9-1975-08-05.png",
+      "imageSHA256": "9fd215d22f6350ec79488c57f92c0488ea908570fbfb396b6c3f9c35a7fe1235",
+      "visuallyVerified": true
+    },
+    {
+      "id": "bbc-fe4989-bii10-r44",
+      "recordIds": [
+        "11-18"
+      ],
+      "kind": "用户提供BBC SWB单页扫描，原字节归档",
+      "originalFilename": "HOPEI_PROVINCIAL_SERVICE__1975-08-23.pdf",
+      "uploadedFileId": "file_0000000087dc820b82f13c221426dfb9",
+      "localPath": "reference check/sources/BBC-SWB-FE4989-BII10-1975-08-23.pdf",
+      "sha256": "a5cb8c9f05310445b10c8ea399722b12ebf0f19a6d44967f1d7bd6e8aad2fd51",
+      "byteLength": 252058,
+      "pdfPages": 1,
+      "accessed": "2026-10-16",
+      "swbReference": "FE/4989/BII/10",
+      "publicationDate": "1975-08-23",
+      "publicationDateBasis": "扫描页眉可读，与附件名相符。",
+      "scope": "河北副业报道第(a)则起首至末段上半，含Liu Cheng-sung目标引句。",
+      "imagePath": "reference check/sources/BBC-SWB-FE4989-BII10-1975-08-23.png",
+      "imageSHA256": "5590347505a483c00f9b7b02e494ed21bb70d8a3ecc80355bf279b16293df253",
+      "visuallyVerified": true
+    },
+    {
+      "id": "bbc-fe4989-bii11-r44",
+      "recordIds": [
+        "11-18"
+      ],
+      "kind": "用户提供BBC SWB单页扫描，原字节归档",
+      "originalFilename": "KWEICHOW_PROVINCIAL_SERVICE__1975-08-23.pdf",
+      "uploadedFileId": "file_00000000ac20820ba6dd87a6ddb96737",
+      "localPath": "reference check/sources/BBC-SWB-FE4989-BII11-1975-08-23.pdf",
+      "sha256": "d2b52bb1fb17e2531f3650fd78dede1aee2d992b9c5fc013ef4a42a344df52f6",
+      "byteLength": 242942,
+      "pdfPages": 1,
+      "accessed": "2026-10-16",
+      "swbReference": "FE/4989/BII/11",
+      "publicationDate": "1975-08-23",
+      "publicationDateBasis": "扫描页眉可读，与附件名相符。",
+      "scope": "顶部续完第(a)则，接第(b)则8月18日河北日报编者按；下部贵州上山下乡报道另起。",
+      "imagePath": "reference check/sources/BBC-SWB-FE4989-BII11-1975-08-23.png",
+      "imageSHA256": "6f33419baa22e2d8e8bc802344d9b3c26a89c4deb14aa397e88982787d8bf945",
+      "visuallyVerified": true
+    }
+  ],
+  "images": [
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4964-BII9-1975-07-25.png",
+      "sha256": "0c7b21d84ebad85be74b3a649ebaadcbbe6444290c1ab8512f375bb63a815e00",
+      "scope": "完整上海条目起首、引文、工厂党委挑选工人段及末段上半。",
+      "rendering": "Poppler整页等比渲染，长边2400像素；未修字或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4964-BII10-1975-07-25.png",
+      "sha256": "b1d30a7e180bba6081a9fe932ec7552b637ddc1110c8adc34d7254d111d9f874",
+      "scope": "顶部三行接续上海条目末段；随后Farmland Improvement Conference in Inner Mongolia为另一报道，不属于上海稿。",
+      "rendering": "Poppler整页等比渲染，长边2400像素；未修字或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/Harris-source-p139-round44.png",
+      "sha256": "d8a9c89ab767bfa0733e181763d46360a578294f32ef7b968bd8cc9c54bbbc8b",
+      "scope": "底本PDF158，刊页139：完整引句、selected斜体及后文factory committee；已目视核对。",
+      "rendering": "Poppler整页等比渲染，长边2200像素。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4971-BII8-1975-08-02.png",
+      "sha256": "e326a6fabb6ed2bb603ec6669863a93f84975ec51e6ebcbc0afeed3feb312510",
+      "scope": "西安高压开关厂报道完整摘录；顶部上一条续文不归入该厂。",
+      "rendering": "Poppler整页等比渲染，长边2400像素；未修字或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4973-BII8-1975-08-05.png",
+      "sha256": "47460fbc0182d56e21cfc0bd006c1358820b94c2026fc88e46a4878d73705e81",
+      "scope": "下部吉林Huaite县报道起首，题名及来源行；上部旅大报道为另一条。",
+      "rendering": "Poppler整页等比渲染，长边2400像素；未修字或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4973-BII9-1975-08-05.png",
+      "sha256": "9fd215d22f6350ec79488c57f92c0488ea908570fbfb396b6c3f9c35a7fe1235",
+      "scope": "上部接续吉林报道并含完整目标引句；下部另起甘肃兰州报道，不归入吉林稿。",
+      "rendering": "Poppler整页等比渲染，长边2400像素；未修字或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4989-BII10-1975-08-23.png",
+      "sha256": "5590347505a483c00f9b7b02e494ed21bb70d8a3ecc80355bf279b16293df253",
+      "scope": "河北副业报道第(a)则起首至末段上半，含Liu Cheng-sung目标引句。",
+      "rendering": "Poppler整页等比渲染，长边2600像素；未修字或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4989-BII11-1975-08-23.png",
+      "sha256": "6f33419baa22e2d8e8bc802344d9b3c26a89c4deb14aa397e88982787d8bf945",
+      "scope": "顶部续完第(a)则，接第(b)则8月18日河北日报编者按；下部贵州上山下乡报道另起。",
+      "rendering": "Poppler整页等比渲染，长边2600像素；未修字或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/Harris-source-p158-round44.png",
+      "sha256": "2ad96984b62b4d48eddcfe69f90f94acd1eef1ac23e15746077de6ffa46e425e",
+      "scope": "Harris刊页158，PDF177；11-17、11-18引文，已目视核对。",
+      "rendering": "Poppler整页等比渲染，长边2400像素。"
+    },
+    {
+      "localPath": "reference check/sources/Harris-source-p163-round44.png",
+      "sha256": "2eb93c80447ab49ab820317d3f909673dadd435d686735c10a5f8f72c8d4e1f9",
+      "scope": "Harris刊页163，PDF182；11-17、11-18原注140、141，已目视核对。",
+      "rendering": "Poppler整页等比渲染，长边2400像素。"
+    }
+  ],
+  "findings": [
+    {
+      "id": "10-35",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4964-bii9-r44",
+        "bbc-fe4964-bii10-r44"
+      ],
+      "comment": "上海附件FE/4964/BII/9的首段引句与Harris第139页对应，selected着重为Harris所加；BBC为leading posts，Harris作leading positions，含义相同。后文明确factory’s Party committee selected。另一个附件BII/10顶部接续该报道末段。依用户已批准的BBC核对、忠实回译并注明出处标准，10-35落实，撤除1处待核。",
+      "nextAction": "本条按BBC核对与忠实回译标准已落实，无需再索取中文广播原稿或录音。"
+    },
+    {
+      "id": "10-36",
+      "status": "searched_unresolved",
+      "sources": [
+        "bbc-fe4971-bii8-r44"
+      ],
+      "comment": "FE/4971/BII/8确为原注100所指陕西材料：西安高压开关厂学习班与劳动纪律报道。它不是黑龙江广播，不含“派性活动严重干扰和破坏了我们的革命与生产”目标引句。本轮核定陕西旁证，10-36仍已检索未落实，不撤标。",
+      "nextAction": "无需重复索取FE/4971/BII/8；目标仍查黑龙江广播及China News Summary 577—578（1975年8月），目前不能确定黑龙江广播确切播出日或BBC页码。"
+    },
+    {
+      "id": "11-17",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4973-bii8-r44",
+        "bbc-fe4973-bii9-r44"
+      ],
+      "comment": "FE/4973/BII/8下部为吉林Huaite县报道起首，明确长春广播1975年7月28日1130 GMT；两处目标措辞均在BII/9上部，即甘肃文件的吉林续文。与Harris刊页158引句相应，现译忠实回译，按用户标准落实并撤标。",
+      "nextAction": "本条已落实，无需再索取中文广播原稿或录音；引用页明确为起页8、目标页9。"
+    },
+    {
+      "id": "11-18",
+      "status": "restored",
+      "sources": [
+        "bbc-fe4989-bii10-r44",
+        "bbc-fe4989-bii11-r44"
+      ],
+      "comment": "FE/4989/BII/10的Liu Cheng-sung段含完整目标引句，与Harris刊页158对应；第11页续完河北报道并附河北日报编者按，下部贵州稿另起。石家庄广播1975年8月18日1100 GMT，刊日8月23日。现译保留，按用户标准落实并撤标。",
+      "nextAction": "本条已落实，无需再索取中文广播原稿或录音；Liu Cheng-sung与Niulantaotzu汉字形式未核，不臆造。"
+    }
+  ],
+  "limitations": [
+    "按用户批准标准以BBC英文记录核对Harris后忠实回译；所获三处目标不称中文广播原话。",
+    "FE/4971/BII/8为陕西旁证，不含10-36黑龙江引句，该条仍未落实。",
+    "4973原注列起页BII/8，目标引句在BII/9；依据跨页关系注明，不将甘肃附件误归作引句来源台。",
+    "4989/BII/11顶部仍属河北报道，含第(a)则续文及第(b)则河北日报编者按；其下贵州报道无关。",
+    "上海两页日期页眉残损，刊日据原书注98及附件名；其余三组刊号与日期可据扫描页眉核对。",
+    "未核定Hsu Wei-huan、Liu Cheng-sung、Niulantaotzu的汉字形式，不臆造；正文不增添这些姓名地名。",
+    "本轮正文仅撤3个标记，史料引句、作者判断、语气及段落顺序不变；只在章末注补核查信息；未重建PDF/HTML。"
+  ],
+  "broadcast": {
+    "station": "Shanghai city service",
+    "date": "1975-07-18",
+    "timeGMT": "0700",
+    "title": "Workers’ Management Groups Reinstated in a Shanghai Factory",
+    "reportTitle": "Cadres take part in labour, workers take part in management",
+    "factoryAsPrinted": "Shanghai watch and clock parts factory",
+    "format": "Précis, with quotations"
+  },
+  "manualTranscription": {
+    "method": "据版影核读，合并换行；统一弯引号，跨页末段标点按句读整理；不以OCR倒填残字。",
+    "targetBBC": "a number of workers have been selected to assume leading posts and take part in management work in various departments and offices by the factory.",
+    "selectionBBC": "The factory’s Party committee selected a number of workers and asked them to take part in management work.",
+    "recommendationBBC": "Now the representatives of workers are recommended by the masses and they begin their management work after approval by the Party committee and after attending the study classes.",
+    "lastParagraphAcrossPages": "“Recently, the factory’s Party committee summed up the experience in having cadres take part in collective productive labour and having workers take part in management work and further developed the system. Workers are now invited to take part in study with the Party committee’s central study group and to discuss production tasks. Through various methods, the Party committee has striven to make sure that the factory’s leadership is in the hands of genuine Marxists and workers.”",
+    "Harris": "a number of workers have been selected to assume leading positions and take part in management work",
+    "HarrisEmphasis": "selected",
+    "translation": "一批工人被挑选出来，担任领导职务并参与管理工作"
+  },
+  "sourceReading": "上海BII/9全条与BII/10顶部续文；陕西FE/4971/BII/8目标报道四段完整读取；吉林FE/4973/BII/8下部至9上部完整条目；河北FE/4989/BII/10及11上部第(a)则与第(b)则编者按。相邻内蒙古、旅大、甘肃、贵州报道仅核边界，不称逐句核完这些报道。",
+  "additionalBroadcasts": [
+    {
+      "recordId": "10-36",
+      "title": "Study Sessions Restore Discipline at Sian Works",
+      "station": "Sian, Shensi provincial service",
+      "date": "1975-07-26",
+      "timeGMT": "1300",
+      "format": "Excerpts from report",
+      "factoryAsPrinted": "Sian high-tension switch factory",
+      "targetQuoteFound": false
+    },
+    {
+      "recordId": "11-17",
+      "title": "Kirin County Allows Small Farm Plots “at Present Stage”",
+      "station": "Changchun, Kirin provincial service",
+      "date": "1975-07-28",
+      "timeGMT": "1130",
+      "format": "Précis, with quotations",
+      "countyAsPrinted": "Huaite",
+      "secretaryAsPrinted": "(Hsu Wei-huan)",
+      "startPage": "FE/4973/BII/8",
+      "targetPage": "FE/4973/BII/9",
+      "targetQuoteFound": true
+    },
+    {
+      "recordId": "11-18",
+      "title": "Hopei Brigade Halts Erroneous Sideline Production",
+      "station": "Shihchiachuang, Hopei provincial service",
+      "date": "1975-08-18",
+      "timeGMT": "1100",
+      "format": "(a) Précis, with quotations; (b) Text of 18th August Hopei Daily editor’s note",
+      "speakerAsPrinted": "(Liu Cheng-sung), a Party member",
+      "brigadeAsPrinted": "(Niulantaotzu)",
+      "countyAsPrinted": "Wuchiang",
+      "targetPage": "FE/4989/BII/10",
+      "targetQuoteFound": true
+    }
+  ],
+  "additionalTranscriptions": {
+    "10-36": "Having launched the masses to expose and criticize, they have dealt severely with bad people sabotaging the work of grasping revolution and promoting production and disturbing order in society. As to workers who have made ordinary mistakes, study classes have been held to help them to correct their errors. At the same time they have strictly observed work attendance and the post responsibility system and strengthened the workers’ sense of organization and discipline.",
+    "11-17": "This made them understand that, at the present stage, the commune members are allowed by policy to farm small plots for their personal needs and to engage in limited household sideline production as a supplementary part of the socialist economy. If all the small plots tilled for personal needs and household sideline production were abolished without considering the present levels of the force of production and of the consciousness of the people, this would dampen the masses’ enthusiasm for socialism and undermine the development of the forces of production.",
+    "11-18": "However, the production and marketing of our transformer switches are not included in the state plan. We have travelled far to look for and sign marketing contracts; we have produced the raw materials for transformer switches ourselves. We have also processed some products for others. This of course has an impact on the state plan. We should consider whether such a way of sideline production is socialist or capitalist, and whether or not it is conducive to consolidating the dictatorship of the proletariat.",
+    "method": "仅录目视核实段落，合并换行，统一弯引号；正文回译按Harris实际截引范围，不补入BBC额外句子。"
+  },
+  "comparisonFiles": [
+    "reference check/sources/BBC-FE4964-Shanghai-1975-comparison.md",
+    "reference check/sources/BBC-FE4971-Shensi-1975-comparison.md",
+    "reference check/sources/BBC-FE4973-Kirin-1975-comparison.md",
+    "reference check/sources/BBC-FE4989-Hopei-1975-comparison.md"
+  ]
+}
