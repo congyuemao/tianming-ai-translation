@@ -1,0 +1,1101 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="公开数据查询平台，提供新闻联播、人民日报、参考消息、裁判文书等权威信息的实时更新和历史数据查询服务。">
+    <meta name="keywords" content="新闻联播,人民日报,参考消息,裁判文书,公开数据,数据查询">
+
+    
+    
+    <link rel="canonical" href="https://cn.govopendata.com/renminribao/1975/03/21/4/" />
+    
+    
+        <link rel="alternate" hreflang="zh-Hans" href="https://cn.govopendata.com/renminribao/1975/03/21/4/">
+        <link rel="alternate" hreflang="x-default" href="https://cn.govopendata.com/renminribao/1975/03/21/4/">
+    
+    <meta name="description" content="人民日报电子版档案，覆盖1946-2003年重要版面与历史报道，可按年份、月份与日期检索。">
+    <meta name="keywords" content="人民日报,人民日报电子版,人民日报历史,人民网,中央日报">
+
+
+    
+
+    <!-- Twitter Card标签 - 优化卡片显示 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@govopendata">
+    <meta name="twitter:creator" content="@govopendata">
+    <meta name="twitter:title" content="人民日报 1975-03-21 第4版 电子版">
+    <meta name="twitter:description" content="1975年3月21日人民日报第{{ page
+}}版电子版，提供当日人民日报完整内容、实时更新、历史查询">
+    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png">
+    <meta name="twitter:image:alt" content="公开数据查询平台logo">
+    <meta name="twitter:url" content="https://cn.govopendata.com/renminribao/1975/03/21/4/">
+    
+    <!-- Open Graph 标签 (对Twitter和其他社交媒体都有效) -->
+    <meta property="og:url" content="https://cn.govopendata.com/renminribao/1975/03/21/4/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="人民日报 1975-03-21 第4版 电子版" />
+    <meta property="og:description" content="查阅人民日报电子版档案，获取1946-2003年重要报道与版面。" />
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png" />
+    <meta property="og:site_name" content="公开数据查询平台" />
+    
+    <!-- 预连接关键第三方域名 - 提升性能 -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+
+    <!-- 布局样式必须在首次绘制前生效，避免异步换肤造成整页位移。 -->
+    <!-- 静态文件名带内容哈希（ManifestStaticFilesStorage），nginx 的 immutable 长缓存才不会让改动卡在用户浏览器里 -->
+    <!-- 全站唯一样式表：design-system/modern-ui/layout/components/裁剪后的 Bootstrap/图标
+         按原顺序拼接而成，由 scripts/build_css.py 生成，改任何源 CSS 或模板后都要重跑 -->
+    <link rel="stylesheet" href="/static/css/site.9433fe1b5c14.css">
+    
+    
+<style>
+    /* Reserve room for common 250–300px creatives; do not collapse unfilled slots.
+       Larger fluid/automatic ads may still expand: never clip their content. */
+    .ad-section,
+    .ad-reserved {
+        min-height: 320px;
+    }
+
+    /* AdSense can reset ancestor min-height to 0 !important. An intrinsic
+       spacer still contributes to auto height without clipping the creative. */
+    .ad-reserved {
+        display: flow-root;
+    }
+
+    .ad-reserved::before {
+        content: "";
+        float: left;
+        width: 0;
+        height: 320px;
+        pointer-events: none;
+    }
+
+    /* Keep icon font swaps from changing the width of navigation and buttons. */
+    .fas,
+    .fab {
+        display: inline-block;
+        width: 1.25em;
+        text-align: center;
+    }
+
+    @media print {
+        .ad-section,
+        .ad-reserved {
+            display: none;
+        }
+    }
+</style>
+
+
+
+    <!-- 核心JavaScript -->
+    <script type="module">
+        document.addEventListener('DOMContentLoaded', () => {
+            // 移动端导航菜单折叠，替代 Bootstrap collapse 插件（站内不再加载 jQuery/Popper/Bootstrap JS）
+            const toggler = document.querySelector('.navbar-toggler');
+            const menu = toggler && document.getElementById(toggler.getAttribute('aria-controls'));
+            if (menu) {
+                toggler.addEventListener('click', () => {
+                    const open = menu.classList.toggle('show');
+                    toggler.classList.toggle('collapsed', !open);
+                    toggler.setAttribute('aria-expanded', String(open));
+                });
+            }
+
+            // 导航栏滚动效果
+            const navbar = document.querySelector('.navbar');
+            let lastScrollTop = 0;
+
+            // 优化滚动性能
+            const backToTop = document.getElementById('back-to-top');
+            let lastKnownScrollPosition = 0;
+            let ticking = false;
+
+            if (backToTop || navbar) {
+                document.addEventListener('scroll', () => {
+                    lastKnownScrollPosition = window.scrollY;
+                    if (!ticking) {
+                        window.requestAnimationFrame(() => {
+                            // 导航栏滚动效果
+                            if (navbar) {
+                                if (lastKnownScrollPosition > 50) {
+                                    navbar.classList.add('scrolled');
+                                } else {
+                                    navbar.classList.remove('scrolled');
+                                }
+                            }
+
+                            // 返回顶部按钮
+                            if (backToTop) {
+                                if (lastKnownScrollPosition > 100) {
+                                    backToTop.style.display = 'flex';
+                                    backToTop.classList.add('visible');
+                                } else {
+                                    backToTop.classList.remove('visible');
+                                    setTimeout(() => {
+                                        if (!backToTop.classList.contains('visible')) {
+                                            backToTop.style.display = 'none';
+                                        }
+                                    }, 300); // 等待过渡效果完成
+                                }
+                            }
+
+                            lastScrollTop = lastKnownScrollPosition;
+                            ticking = false;
+                        });
+                        ticking = true;
+                    }
+                }, { passive: true });
+
+                if (backToTop) {
+                    backToTop.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    });
+                }
+            }
+        });
+
+        // 简化的广告容器管理（为将来的 Google AdSense 准备）
+        // 当添加 AdSense 代码时，可以在这里添加简单的加载逻辑
+    </script>
+
+    <!-- 注意：安全头部应该在 nginx HTTP 响应头中设置，而不是 meta 标签 -->
+    <!-- X-Frame-Options, X-Content-Type-Options 等已在 nginx.conf 中配置 -->
+    
+<title>人民日报 1975-03-21 第4版电子版,人民日报历史</title>
+
+    
+    <link rel="icon" href="/static/favicon.6e88fbe0490a.ico">
+    
+    <!-- 结构化数据 -->
+    
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://cn.govopendata.com/renminribao/1975/03/21/4/"
+      },
+      "headline": "1975年3月21日人民日报第4版",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png",
+        "height": 800,
+        "width": 800
+      },
+      "datePublished": "1975-03-21T00:00:00+08:00",
+      "dateModified": "1975-03-21T00:00:00+08:00",
+      "author": {
+        "@type": "Organization",
+        "name": "人民日报社",
+        "url": "http://www.people.com.cn/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "人民日报社",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "description": "1975年3月21日人民日报第4版电子版，提供当日人民日报完整内容、实时更新、历史查询",
+      "articleSection": "新闻",
+      "keywords": "人民日报,1975-03-21,第4版,人民网,新闻",
+      "inLanguage": "zh-CN",
+      "isAccessibleForFree": "True",
+      "articleBody": "1975年3月21日人民日报第4版页面摘要，收录本版 14 篇文章并支持逐篇阅读与日期跳转。"
+    }
+    </script>
+
+
+    <!-- 本地预览不向生产 GA 发送流量。 -->
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NESVRSV0K"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-7NESVRSV0K', {
+            // Do not transmit search terms, URL tokens or fragment identifiers.
+            'page_location': location.origin + location.pathname,
+            'page_referrer': document.referrer ? new URL(document.referrer).origin + '/' : '',
+            'anonymize_ip': true,
+            'cookie_flags': 'SameSite=None;Secure'
+        });
+    </script>
+    
+    <script defer src="/static/js/business-analytics.cbd318a76718.js"></script>
+
+    <script>
+        // Clarity延迟加载优化 - 用户交互或3秒后加载（不影响GA/AdSense）
+        (function(){
+            var clarityLoaded = false;
+            var loadClarity = function(){
+                if (clarityLoaded) return;
+                clarityLoaded = true;
+                (function(c,l,a,r,i,t,y){
+                    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                })(window, document, "clarity", "script", "8xt1bc41fx");
+            };
+
+            // 用户交互时加载
+            var events = ['scroll', 'click', 'mousemove', 'touchstart'];
+            events.forEach(function(event) {
+                window.addEventListener(event, loadClarity, {once: true, passive: true});
+            });
+
+            // 3秒后兜底加载
+            setTimeout(loadClarity, 3000);
+        })();
+    </script>
+
+    
+    
+    <!-- adsense 自动广告代码 - 默认账号 -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6097273492653659"
+    crossorigin="anonymous"></script>
+    
+    
+
+    <script type="speculationrules">
+    {
+        "prefetch": [{
+            "where": {
+                "and": [
+                    { "href_matches": "/*" },
+                    { "not": { "href_matches": "/ads.txt" } }
+                ]
+            },
+            "eagerness": "moderate"
+        }]
+    }
+    </script>
+</head>
+
+<body data-ad-eligibility="eligible">
+    <!-- 跳转到主要内容的链接 -->
+    <a href="#main-content" class="sr-only sr-only-focusable">跳转到主要内容</a>
+
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top" role="navigation" aria-label="主导航">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">
+                cn.govopendata.com
+            </a>
+            <button class="navbar-toggler" type="button" aria-controls="navbarContent" aria-expanded="false" aria-label="切换导航">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/" aria-current="page">首页</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/xinwenlianbo/">新闻联播</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/renminribao/">人民日报</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/cankaoxiaoxi/">参考消息</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/caipanwenshu/">裁判文书</a>
+                    </li>
+                </ul>
+
+                
+                <form class="form-inline my-2 my-lg-0 search-form" action="/search/" method="get" role="search">
+                    <input class="form-control mr-sm-2 search-input" type="search" name="q" placeholder="搜索" aria-label="搜索网站内容">
+                    <button class="btn btn-outline-light my-2 my-sm-0" type="submit" aria-label="提交搜索">搜索</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Google AdSense 广告位预留
+    <div class="adsense-container text-center" style="padding: 10px 0;">
+        <div class="container-fluid">
+            在这里添加 Google AdSense 代码
+        </div>
+    </div>
+    -->
+
+    <main id="main-content" class="main-content" role="main" data-archive-available="false">
+        
+<div class="container-fluid detail-container renminribao-detail">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <header class="article-header">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">首页</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/">人民日报</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/">1975年</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/03/">3月</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/03/21/">21日</a></li>
+                    <li class="breadcrumb-item active">第4版</li>
+                </ol>
+                <p class="section-label">人民日报电子版</p>
+                <h1 class="article-title">
+                    1975年3月21日 · 第4版
+                </h1>
+                <div class="article-meta">
+                    <span class="meta-item">
+                        <i class="fas fa-calendar-alt"></i>
+                        1975-03-21
+                    </span>
+                    <span class="meta-item">
+                        <i class="fas fa-layer-group"></i>
+                        第4版
+                    </span>
+                </div>
+                <div class="article-actions">
+                    <a href="/renminribao/1975/03/21/"
+                        class="action-link">
+                        查看当天全部版面
+                    </a>
+                    <a href="https://twitter.com/intent/tweet?url=https://cn.govopendata.com/renminribao/1975/03/21/4/"
+                        class="btn-share" aria-label="分享到Twitter">
+                        <i class="fab fa-twitter"></i>
+                        分享这一版
+                    </a>
+                </div>
+
+            </header>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 col-lg-9">
+            <main class="article-content">
+                
+<details class="reading-toc">
+    <summary>本页目录（14 篇）</summary>
+    <nav aria-label="本页文章目录">
+        <ol>
+            
+            <li><a href="#article-460656">毛主席关于理论问题重要指示鼓舞广大干群积极性  上海郊区春耕生产搞得热气腾腾</a></li>
+            
+            <li><a href="#article-460657">各级领导干部改进作风深入生产第一线  天津郊区扎扎实实抓好春耕生产</a></li>
+            
+            <li><a href="#article-460658">广大军垦战士战寒冷斗冰雪  黑龙江生产建设部队备耕春耕迅速展开</a></li>
+            
+            <li><a href="#article-460659">为庆祝柬埔寨民族统一阵线成立五周年中国对外友协举办的图片展览在京开幕</a></li>
+            
+            <li><a href="#article-460660">朝鲜《劳动新闻》代表团访问沙石峪、天津和中朝友好人民公社</a></li>
+            
+            <li><a href="#article-460661">拉贾拉南外长在上海、苏州参观访问</a></li>
+            
+            <li><a href="#article-460662">结束在南京的参观访问  拉腊基外交国务大臣前往苏州</a></li>
+            
+            <li><a href="#article-460663">坚决贯彻“以防为主，以消为辅”的消防工作方针  南港大队由“火灾港”变成“安全港”</a></li>
+            
+            <li><a href="#article-460664">斯里兰卡代表团访问南京后回北京</a></li>
+            
+            <li><a href="#article-460665">柴泽民会见并宴请“安盟”访华代表团</a></li>
+            
+            <li><a href="#article-460666">张香山会见日本朋友</a></li>
+            
+            <li><a href="#article-460667">日本部落解放同盟访华团离京</a></li>
+            
+            <li><a href="#article-460668">英国贸易部驻议会次官埃里克·迪金斯到京</a></li>
+            
+            <li><a href="#article-460669">比利时海运代表团到京</a></li>
+            
+        </ol>
+    </nav>
+</details>
+
+
+                
+                <article class="content-section" id="article-460656">
+                    <h2 class="content-heading" id="460656">毛主席关于理论问题重要指示鼓舞广大干群积极性  上海郊区春耕生产搞得热气腾腾</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社上海一九七五年三月二十日电　上海市郊区各级干部深入春耕生产第一线，和社员群众一起学习毛主席关于理论问题的重要指示，加强对春耕生产的领导，全郊区春耕备耕生产搞得热气腾腾。</p>
+<p>目前，上海市郊区的大小河道上，罱泥船、运肥船络绎不绝，社员们正忙着积肥、送肥。全郊区一百四十多万亩棉田已经深翻多次，并施上了一层黑黝黝的泥肥。稻种、棉种的复晒和精选工作也在加紧进行。由于加强了田间管理，麦子、油菜等越冬作物生长茁壮。</p>
+<p>为了加强对春耕生产的领导，入春以来，上海郊区各县都有二分之一到三分之二的县委常委深入社队蹲点，各公社也有大批干部下到基层。金山县委领导干部来到亭新公社红卫大队后，一边向基层干部和群众宣传学好马克思主义关于无产阶级专政理论的重要性，一边踏田检查，帮助生产队安排春耕生产。他们发现有一部分三麦、油菜长势较差，立即同干部和社员一起突击追施了肥料。上海县委一名副书记，在马桥公社俞塘大队蹲点中，坚持与群众同吃、同住、同劳动，和群众一起联系实际反复学习毛主席的重要指示，使大家受到深刻教育。社员们自觉地把搞好春耕生产提高到发展集体经济、巩固无产阶级专政的高度来认识，发扬艰苦奋斗的革命精神，扎扎实实地搞好春耕生产。这个大队的积肥、造肥活动和棉田深翻工作都搞得很好。</p>
+<p>上海郊区各级干部在深入基层的过程中，还注意抓好典型，表扬先进，推动面上的工作。青浦县新桥公社向阳大队平均每个劳动力耕种四亩多地，春耕任务十分繁重。全大队的干部和社员学理论，抓路线，大闹春耕生产，从三月一日开始，连续突击十天，基本积足了早稻基肥。青浦县委立即总结了他们的经验，并在这里召开了积肥现场会，推动全县迅速掀起了群众性的积肥热潮。</p>
+<p>上海郊区各县干部和社员群众在搞好理论学习，促进春耕生产的同时，还采取有效措施，抓紧麦子、油菜等越冬作物的管理工作。有些社队还组织了防病治虫的专业队伍，调查分析今年病害的特点，提前做好消灭病虫害的准备工作，决心在不利的气候条件下，夺取夏熟作物的丰收。</p>
+                    </div>
+                </article>
+                
+                
+                
+                <div class="ad-section">
+                    <div class="ad-reserved">
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                        data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                </div>
+                
+                
+                
+                <article class="content-section" id="article-460657">
+                    <h2 class="content-heading" id="460657">各级领导干部改进作风深入生产第一线  天津郊区扎扎实实抓好春耕生产</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社天津一九七五年三月二十日电　天津郊区农村掀起了学理论、抓路线、促春耕的热潮。目前，全郊区已经播种早熟作物二十五万多亩，占计划的近百分之六十；汉沽区、西郊区和宝坻县已经完成播种任务，播种质量一般比往年好。其它各种农作物的播种准备工作正在加紧进行。</p>
+<p>天津郊区的冬小麦已经返青，各社队都在抓紧田间管理工作：锄划、耙压和追肥，浇返青水。全市三百零七万亩冬小麦田已普遍锄划、耙压了一两遍，多的达四、五遍。南郊区组织三百多个小麦管理专业队，对麦田加强管理，全区二十六万多亩冬小麦，有一半以上已经追施了肥料。</p>
+<p>为了夺取今年农业新丰收，天津市郊各区、县去冬以来都开展群众性的积肥活动。所积肥料质量之好，数量之多，是过去所没有的。到三月上旬，全市共积肥造肥一千三百八十五万车，其中有六百多万车已经运到田间。</p>
+<p>为了取得领导春耕生产的主动权，各级领导干部改进作风，深入农村基层。据东郊区、南郊区、汉沽区、宝坻县、武清县、宁河县和静海县七个区、县的统计，就有三千七百多名干部深入春耕生产第一线。他们一面参加集体生产劳动，一面带领广大社员认真学习毛主席关于理论问题的重要指示，学习马克思、恩格斯、列宁关于无产阶级专政的部分论述。在学习过程中，广大干部、群众联系实际，深入批林批孔，批判资本主义倾向，打击阶级敌人的破坏活动，进一步激发起大干社会主义的积极性，使今年的春耕生产搞得既轰轰烈烈，又扎扎实实。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460658">
+                    <h2 class="content-heading" id="460658">广大军垦战士战寒冷斗冰雪  黑龙江生产建设部队备耕春耕迅速展开</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>据新华社哈尔滨电　黑龙江生产建设部队各级领导干部深入生产第一线，同广大群众一起认真学习毛主席关于理论问题的重要指示，深入批林批孔，促使备耕、春耕生产迅速展开。</p>
+<p>时令已届初春，但祖国东北边疆大地依然被冰雪覆盖着。广大军垦战士冒着寒冷，正在积肥送粪，兴修农田水利，检修农业机械，做好种子发芽试验等，为夺取今年农业新丰收而努力。</p>
+<p>黑龙江生产建设部队去年获得农业丰收，向国家交售商品粮达十四亿多斤。为了增产更多的粮食支援国家建设，去年秋收结束以来，全部队就掀起了农田基本建设热潮。</p>
+<p>现在，黑龙江生产建设部队有六千多名各级领导干部和机关干部，深入到备耕春耕生产第一线，同广大群众一起学习无产阶级专政理论，深入批林批孔，促进备耕、春耕生产。去年粮食亩产过《纲要》的三十团党委，在检查备耕工作时发现有些连队进度不快，增产措施不完全适应今年农业增产的要求。团党委主要领导干部立即深入五连蹲点。他们同全连军垦战士一起学习无产阶级专政理论，批判懦夫懒汉世界观，提高无产阶级专政下继续革命的觉悟，进一步激发了大家的社会主义积极性，很短时间就往地里送了三百一十多万斤粪肥，同时积造有机肥二千万斤。（附图片）</p>
+<p>黑龙江省尚志县委领导成员在春耕生产第一线，同尚志公社富国大队干部、社员群众一起学习马克思、恩格斯、列宁关于无产阶级专政的部分论述。</p>
+<p>新华社记者摄</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460659">
+                    <h2 class="content-heading" id="460659">为庆祝柬埔寨民族统一阵线成立五周年中国对外友协举办的图片展览在京开幕</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社一九七五年三月二十日讯　柬埔寨民族统一阵线成立五周年图片展览今天下午在中国美术馆正式开幕。</p>
+<p>这个图片展览是中国人民对外友好协会为庆祝柬埔寨民族统一阵线成立五周年而举办的。五年前，朗诺卖国集团在美国策动下发动了反动政变。英雄的柬埔寨人民在以国家元首诺罗敦·西哈努克亲王为主席的民族统一阵线和以宾努亲王为首相、乔森潘为副首相的王国民族团结政府的领导下，组成了自己的子弟兵，毅然奋起反对美国的侵略和朗诺集团的卖国罪行。五年来，柬埔寨爱国军民团结战斗，解放了百分之九十七的国土，形成了拥有六百万人口的解放区，而朗诺集团正陷入军事、政治、经济的全面危机。今天展出的一百六十八幅图片，反映了柬埔寨爱国军民英勇战斗的革命精神和柬埔寨的大好革命形势，以及解放区工农业、文教卫生事业发展的情况。</p>
+<p>展出的许多图片，生动地体现了中柬两国人民的伟大友谊和战斗团结。</p>
+<p>出席开幕式的有，柬埔寨民族统一阵线中央政治局委员杨森安将军和夫人，柬埔寨民族团结政府外交副大臣万比尼和夫人，柬埔寨驻中国大使笃坎敦和夫人以及在京的柬埔寨贵宾。</p>
+<p>外交部副部长韩念龙，中国人民解放军副总参谋长王尚荣，文化部负责人王曼恬，对外友协会长柴泽民、副会长林林，中国驻柬埔寨大使孙浩等出席了开幕式。</p>
+<p>今天，首都工农兵群众数百人同柬埔寨战友一起观看了图片展览。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460660">
+                    <h2 class="content-heading" id="460660">朝鲜《劳动新闻》代表团访问沙石峪、天津和中朝友好人民公社</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社一九七五年三月二十日讯　由朝鲜劳动党中央委员、《劳动新闻》总编辑李用益率领的朝鲜《劳动新闻》代表团，在《人民日报》负责人鲁瑛、肖泽曜分别陪同下，参观访问了河北省沙石峪以及天津市和北京市郊区的中朝友好人民公社。</p>
+<p>十七日上午，当代表团到达沙石峪时，受到沙石峪大队党支部书记张贵顺和社员们的热烈欢迎。朝鲜战友参观了梯田、蓄水池，访问了社员家庭。中午，中共河北省唐山地委副书记曹子栋设宴招待了贵宾。下午，代表团乘飞机到达天津，中共天津市委书记、市革委会副主任王曼恬到机场迎接。中共天津市委第二书记、市革委会第一副主任吴岱设宴欢迎代表团。朝鲜同志在天津参观了新港和天津市实验仪器厂。</p>
+<p>二十日上午，代表团访问了北京市郊区中朝友好人民公社，受到公社党委书记李春林和公社干部的热烈欢迎。代表团在这里参观了治河工地、养牛场、乳制品厂以及社员艺术作品展览室等。李用益团长热情洋溢地称赞社员们在劳动中取得的成就，并向公社赠送了纪念品。</p>
+                    </div>
+                </article>
+                
+                
+                
+                <div class="ad-section in-article">
+                    <div class="ad-reserved">
+                    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"
+                        data-ad-format="fluid" data-ad-client="ca-pub-6097273492653659" data-ad-slot="6196769737"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                </div>
+                
+                
+                
+                <article class="content-section" id="article-460661">
+                    <h2 class="content-heading" id="460661">拉贾拉南外长在上海、苏州参观访问</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社上海一九七五年三月二十日电　新加坡共和国外交部长斯·拉贾拉南和由他率领的新加坡共和国政府友好代表团，由外交部亚洲司副司长程瑞声陪同，在上海、苏州进行参观访问。</p>
+<p>拉贾拉南外长等新加坡贵宾十八日由北京到达上海时，在机场受到上海市革命委员会副主任冯国柱和有关方面负责人白光标、袁冬林、董海棠的欢迎。当晚，冯国柱副主任设宴招待新加坡贵宾。</p>
+<p>拉贾拉南等贵宾在上海参观访问了上海乐团、上海工业展览会，乘船游览了黄浦江。</p>
+<p>昨天下午，拉贾拉南外长等贵宾到苏州访问，受到苏州市革委会副主任许耀林、常委辛再久等人的欢迎。贵宾们在苏州参观了苏州市刺绣研究所，游览留园、拙政园和虎丘，出席了市革委会举行的欢迎宴会。贵宾们已在今天乘车回到上海。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460662">
+                    <h2 class="content-heading" id="460662">结束在南京的参观访问  拉腊基外交国务大臣前往苏州</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社南京一九七五年三月二十日电　摩洛哥王国外交国务大臣艾哈迈德·拉腊基博士和夫人以及由他率领的摩洛哥代表团，结束了在南京的参观访问，由外交部西亚北非司代司长周觉陪同，今天乘火车离开这里前往苏州。随同代表团来访的摩洛哥驻中国大使阿卜杜勒·拉希姆·哈尔凯特也同车前往。</p>
+<p>摩洛哥代表团是昨天上午由北京乘飞机到达这里参观访问的。前往机场和车站迎送的有：江苏省革命委员会副主任杨广立，南京市革命委员会副主任王昭铨等。</p>
+<p>江苏省革命委员会昨天晚上举行宴会，欢迎摩洛哥代表团。</p>
+<p>摩洛哥贵宾在南京参观了长江大桥、电影机械厂，游览了中山陵园、玄武湖，观看了南京市红小兵演出的文艺节目。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460663">
+                    <h2 class="content-heading" id="460663">坚决贯彻“以防为主，以消为辅”的消防工作方针  南港大队由“火灾港”变成“安全港”</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>南港大队由“火灾港”变成“安全港”</p>
+<p>据新华社广州电　防火安全工作搞得好不好，关键在领导。这是广东省儋县海头公社南港大队的经验。这个大队位于北部湾东南海岸，是一个“刮风沙成浪，日出如火烫”的渔港。解放前有“火灾港”之称。解放后，南港大队党支部狠抓阶级斗争，充分发动群众，坚决贯彻“以防为主，以消为辅”的消防工作方针，使“火灾港”变成了二十三年来从未发生过火灾的“安全港”，确保了国家和人民生命财产的安全，有力地推动了革命和生产的蓬勃发展。</p>
+<p>南港大队党支部把抓好安全防火工作列入议事日程，持之以恒，每年定期进行研究、布置、检查和总结。大队成立了防火指挥部，由大队党支部书记担任指挥，副书记和治保主任担任副指挥，参加人员五十八人。这个组织既是防火指挥机构，又是义务消防队。还设置专职防火员，进行防火安全宣传和检查。街道成立了二十五个联防小组，负责轮流值班检查防火。</p>
+<p>南港大队多年没有发生火灾，有些社员、干部以为可以松一口气了。大队党支部针对这种错误思想，反复进行两个阶级、两条道路、两条路线斗争的教育，组织群众对妄图破坏安全防火工作的阶级敌人进行批判；同时发动大家开展回忆对比，忆旧社会南港人民不但深受三座大山的压迫，而且年年遭受火灾的祸害，仅一九三二年一次火灾就烧毁了全港一百多户，国民党反动派还趁火打劫，逼得多少人家破人亡，妻离子散。解放后，南港人民在党的领导下，抓阶级斗争，抓安全防火工作，保证了革命和生产的顺利发展。群众经过忆苦思甜，提高了阶级斗争觉悟和开展防火工作的自觉性。党支部并利用大小会、广播等形式，宣传防火的重要意义和消防知识，使防火工作进一步地深入人心，保持良好的防火习惯。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460664">
+                    <h2 class="content-heading" id="460664">斯里兰卡代表团访问南京后回北京</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社南京一九七五年三月二十日电　由阿努拉·班达拉奈克率领的斯里兰卡代表团，在南京参观访问以后，今天下午由外交部亚洲司副司长王晓云陪同，乘飞机离开南京回北京。</p>
+<p>今天中午，江苏省革命委员会副主任杨广立举行宴会，欢迎斯里兰卡代表团。江苏省革命委员会副主任赵桂香，南京市革命委员会副主任王昭铨等出席宴会作陪。</p>
+<p>斯里兰卡代表团是昨天上午从北京到达南京的。代表团抵离南京时，赵桂香副主任等到机场迎送。代表团在南京参观了长江大桥、紫金山天文台，并游览了名胜古迹。</p>
+<p>代表团还曾到扬州参观了扬州玉器雕刻厂、江都水利工程和施桥船闸。</p>
+                    </div>
+                </article>
+                
+                
+                
+                <div class="ad-section in-article">
+                    <div class="ad-reserved">
+                    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"
+                        data-ad-format="fluid" data-ad-client="ca-pub-6097273492653659" data-ad-slot="6196769737"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                </div>
+                
+                
+                
+                <article class="content-section" id="article-460665">
+                    <h2 class="content-heading" id="460665">柴泽民会见并宴请“安盟”访华代表团</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社一九七五年三月二十日讯对外友协会长柴泽民今天会见并宴请了由争取安哥拉彻底独立全国联盟总司令萨姆埃尔·契瓦勒率领的争取安哥拉彻底独立全国联盟访华代表团，同他们进行了亲切友好的谈话。对外友协副会长杨骥及有关方面负责人何功楷、赵春正、路奎等参加了会见和宴会。</p>
+<p>“安盟”访华代表团是应对外友协的邀请于三月十九日到达北京的。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460666">
+                    <h2 class="content-heading" id="460666">张香山会见日本朋友</h2>
+                    <div class="content-body" data-reading-body>
+                        <p class="content-kicker">外事往来</p>
+<p>中日友协副会长张香山二十日下午会见了以野本胜彦为团长、野本龟守为秘书长的日本埼玉县部落解放同盟青年友好访华团，宾主进行了友好的交谈。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460667">
+                    <h2 class="content-heading" id="460667">日本部落解放同盟访华团离京</h2>
+                    <div class="content-body" data-reading-body>
+                        <p class="content-kicker">外事往来</p>
+<p>日本部落解放同盟访华团结束了在北京的访问，十八日乘飞机离开北京前往我国南方访问，然后回国。代表团在北京期间，参观访问了工厂、公社、学校，同首都工人代表进行了座谈。中日友协会长廖承志会见了访华团全体成员，同他们进行了亲切友好的谈话。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460668">
+                    <h2 class="content-heading" id="460668">英国贸易部驻议会次官埃里克·迪金斯到京</h2>
+                    <div class="content-body" data-reading-body>
+                        <p class="content-kicker">外事往来</p>
+<p>英国贸易部驻议会次官埃里克·迪金斯一行五人，于十九日到达北京。外贸部副部长柴树藩等到机场迎接。到机场迎接的还有英国驻中国大使游德。</p>
+                    </div>
+                </article>
+                
+                
+                
+                <div class="ad-section in-article">
+                    <div class="ad-reserved">
+                    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"
+                        data-ad-format="fluid" data-ad-client="ca-pub-6097273492653659" data-ad-slot="6196769737"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                </div>
+                
+                
+                
+                <article class="content-section" id="article-460669">
+                    <h2 class="content-heading" id="460669">比利时海运代表团到京</h2>
+                    <div class="content-body" data-reading-body>
+                        <p class="content-kicker">外事往来</p>
+<p>由比利时外交外贸部交通司司长安德烈·勒·德沃日拉尔率领的比利时海运代表团一行五人，十九日乘飞机到达北京。前往机场迎接的有交通部水运局副局长董华民。比利时驻中国大使格鲁特哈特也到机场迎接。</p>
+<p>（新华社）</p>
+                    </div>
+                </article>
+                
+                
+                
+            </main>
+
+            
+            <div class="ad-section banner-bottom">
+                <div class="ad-reserved">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                    data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                </div>
+            </div>
+            
+
+            <section class="related-links">
+                
+                <a class="related-link-card" href="/renminribao/1975/03/20/">
+                    <span class="related-label">上一期人民日报</span>
+                    <span class="related-date">1975-03-20</span>
+                </a>
+                
+                
+                <a class="related-link-card" href="/cankaoxiaoxi/1975/03/21/">
+                    <span class="related-label">同日参考消息</span>
+                    <span class="related-date">1975-03-21</span>
+                </a>
+                
+                
+                <a class="related-link-card" href="/renminribao/1975/03/22/">
+                    <span class="related-label">下一期人民日报</span>
+                    <span class="related-date">1975-03-22</span>
+                </a>
+                
+            </section>
+        </div>
+
+        <div class="col-12 col-lg-3">
+            <aside class="sidebar-detail">
+                <div class="sidebar-card-detail">
+                    <div class="sidebar-card-header">
+                        <i class="fas fa-calendar-alt"></i>
+                        <h3 class="sidebar-title">跳转日期</h3>
+                    </div>
+                    <div class="sidebar-card-body">
+                        
+                        <form action="/renminribao/jump_news/" method="get" class="date-jump-form">
+                            
+                            <div>
+    <label for="datepicker">历史上的人民日报(1946-2003):</label>
+
+
+
+<input type="date" name="news_date" value="1949-10-01" id="datepicker" required>
+    
+      
+    
+</div>
+                            <button type="submit" class="btn-submit-date">
+                                <i class="fas fa-calendar-check"></i>
+                                查看
+                            </button>
+                        </form>
+                    </div>
+                </div>
+
+                
+                <div class="sidebar-card-detail ad-card">
+                    <div class="sidebar-card-body" style="padding: 10px; min-height: 280px;">
+                        <div class="ad-reserved">
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                            data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </aside>
+        </div>
+    </div>
+</div>
+
+<style>
+    .renminribao-detail {
+        --accent-color: #cc3333;
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 24px 20px 40px;
+    }
+
+    .renminribao-detail .article-header {
+        padding-bottom: 20px;
+        margin-bottom: 24px;
+        border-bottom: 2px solid rgba(204, 51, 51, 0.1);
+    }
+
+    .renminribao-detail .section-label {
+        font-size: 0.95rem;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--accent-color);
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .renminribao-detail .article-title {
+        font-size: 2.25rem;
+        font-weight: 700;
+        color: #000;
+        margin-bottom: 12px;
+    }
+
+    .renminribao-detail .article-meta {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+        color: #333;
+        font-size: 1rem;
+    }
+
+    .renminribao-detail .meta-item i {
+        margin-right: 6px;
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .article-actions {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+
+        align-items: center;
+        justify-content: center;
+        margin-top: 16px;
+    }
+
+    .renminribao-detail .action-link {
+        color: var(--accent-color);
+        font-weight: 600;
+    }
+
+    .renminribao-detail .btn-share {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: var(--accent-color);
+        color: #fff;
+        border-radius: 999px;
+        padding: 8px 18px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .btn-share:hover {
+        color: #fff;
+        background: #a82828;
+        text-decoration: none;
+        transform: translateY(-1px);
+    }
+
+    .renminribao-detail .date-navigation {
+        display: flex;
+        gap: 16px;
+        margin-top: 24px;
+        flex-wrap: wrap;
+    }
+
+    .renminribao-detail .nav-btn {
+        flex: 1 1 240px;
+        min-width: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 18px;
+        border: 1px solid rgba(204, 51, 51, 0.2);
+        border-radius: 16px;
+        color: #111;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .nav-btn i {
+        font-size: 1rem;
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .nav-btn:hover {
+        text-decoration: none;
+        border-color: var(--accent-color);
+        color: var(--accent-color);
+        box-shadow: 0 8px 20px rgba(204, 51, 51, 0.15);
+    }
+
+    .renminribao-detail .nav-btn-date {
+        font-size: 0.95rem;
+        opacity: 0.8;
+    }
+
+    .renminribao-detail .nav-btn-disabled {
+        background: #f5f5f5;
+        border-color: #e5e5e5;
+        color: #999;
+        cursor: not-allowed;
+    }
+
+    .renminribao-detail .article-content {
+        background: #fff;
+        border-radius: 24px;
+        padding: 8px 32px 24px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+    }
+
+    .renminribao-detail .content-section {
+        padding: 32px 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    }
+
+    .renminribao-detail .content-section:last-child {
+        border-bottom: none;
+    }
+
+    .renminribao-detail .content-heading {
+        font-size: 1.9rem;
+        font-weight: 700;
+        color: #111;
+        margin-bottom: 16px;
+        padding-left: 18px;
+        border-left: 4px solid var(--accent-color);
+    }
+
+    .renminribao-detail .content-body {
+        font-size: 1.12rem;
+        line-height: 1.9;
+        color: #1a1a1a;
+    }
+
+    .renminribao-detail .content-section,
+    .renminribao-detail .content-heading {
+        scroll-margin-top: 88px;
+    }
+
+    .renminribao-detail .content-body .content-kicker {
+        display: inline-block;
+        margin-bottom: 10px;
+        padding: 2px 10px;
+        border-radius: 999px;
+        background: rgba(204, 51, 51, 0.08);
+        color: var(--accent-color);
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-indent: 0;
+    }
+
+    .renminribao-detail .content-body .content-subtitle {
+        color: #555;
+        font-weight: 600;
+        text-indent: 0;
+        margin-bottom: 0.8rem;
+    }
+
+    .renminribao-detail .content-body p {
+        margin-bottom: 1rem;
+        text-indent: 2em;
+    }
+
+    .renminribao-detail .ad-section {
+        margin: 28px 0;
+        text-align: center;
+    }
+
+    .renminribao-detail .related-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        margin: 40px 0;
+    }
+
+    .renminribao-detail .related-link-card {
+        flex: 1 1 260px;
+        padding: 18px;
+        border-radius: 16px;
+        border: 1px solid rgba(204, 51, 51, 0.2);
+        background: rgba(204, 51, 51, 0.04);
+        color: #111;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .related-link-card:hover {
+        text-decoration: none;
+        border-color: var(--accent-color);
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(204, 51, 51, 0.15);
+    }
+
+    .renminribao-detail .related-label {
+        display: block;
+        font-size: 0.95rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--accent-color);
+        margin-bottom: 4px;
+    }
+
+    .renminribao-detail .related-date {
+        font-size: 1.1rem;
+    }
+
+    .renminribao-detail .sidebar-detail {
+        position: sticky;
+        top: 90px;
+    }
+
+    .renminribao-detail .sidebar-card-detail {
+        background: #fff;
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+        margin-bottom: 24px;
+        overflow: hidden;
+        border: 1px solid rgba(0, 0, 0, 0.04);
+    }
+
+    .renminribao-detail .sidebar-card-header {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 18px 20px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    }
+
+    .renminribao-detail .sidebar-card-header i {
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .sidebar-title {
+        margin: 0;
+        font-size: 1.1rem;
+        font-weight: 700;
+    }
+
+    .renminribao-detail .sidebar-card-body {
+        padding: 20px;
+    }
+
+    .renminribao-detail .date-jump-form button {
+        width: 100%;
+        border: none;
+        border-radius: 999px;
+        padding: 10px 16px;
+        background: var(--accent-color);
+        color: #fff;
+        font-weight: 600;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        transition: background 0.3s ease;
+    }
+
+    .renminribao-detail .date-jump-form button:hover {
+        background: #a82828;
+    }
+
+    .renminribao-detail .toc-nav {
+        max-height: 360px;
+        overflow-y: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+    @media (max-width: 1024px) {
+        .renminribao-detail {
+            padding: 16px;
+        }
+
+        .renminribao-detail .article-content {
+            padding: 16px;
+        }
+
+        .renminribao-detail .sidebar-detail {
+            position: static;
+            margin-top: 24px;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .renminribao-detail .article-title {
+            font-size: 1.75rem;
+        }
+
+        .renminribao-detail .date-navigation {
+            flex-direction: column;
+        }
+
+        .renminribao-detail .nav-btn {
+            flex: 1 1 auto;
+        }
+
+        .renminribao-detail .content-heading {
+            font-size: 1.5rem;
+        }
+
+        .renminribao-detail .content-body {
+            font-size: 1.05rem;
+        }
+    }
+</style>
+
+    </main>
+
+    <footer class="footer mt-auto py-3 bg-light">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <ul class="footer-links">
+                        <li><a href="/xinwenlianbo/">新闻联播文字版</a></li>
+                        <li><a href="/renminribao/">人民日报历史档案</a></li>
+                        <li><a href="/cankaoxiaoxi/">参考消息历史档案</a></li>
+                        <li><a href="/caipanwenshu/">裁判文书归档</a></li>
+                        <li><a href="/search/">站内搜索</a></li>
+                        <li><a href="/privacy/">隐私政策</a></li>
+                    </ul>
+                    <p class="mb-0">© 2026 cn.govopendata.com - 公开数据查询平台</p>
+                    
+                    <!-- Twitter分享按钮 - 使用固定域名而非动态获取 -->
+                        <a href="https://twitter.com/intent/tweet?url=https://cn.govopendata.com/renminribao/1975/03/21/4/"
+                           class="btn btn-sm btn-outline-primary twitter-share-button" 
+                           aria-label="分享到Twitter">
+                            <i class="fab fa-twitter"></i> 分享到Twitter
+                        </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <button id="back-to-top" class="btn back-to-top" title="返回顶部" aria-label="返回顶部">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+        <span class="sr-only">返回顶部</span>
+    </button>
+
+    <!-- 处理无JavaScript环境 -->
+    <noscript>
+        <style>
+            .back-to-top { display: none !important; }
+            img.lazy { opacity: 1 !important; }
+        </style>
+        <div class="alert alert-warning" role="alert">
+            请启用JavaScript以获得最佳体验。
+        </div>
+    </noscript>
+
+    
+</body>
+</html>

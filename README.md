@@ -26,7 +26,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 16 日已推进至[第四十二轮](reference%20check/2026-10-16-round42.md)：在用户附件PDF第5页定位FE/4862/i所载《人民日报》1975年3月21日社论短摘要。末尾注明“Details to be published later”，原注旁证已核，但没有07-09的住房、汽车等完整目标引句，故待核仍为78处；累计147处已落实、25处部分核实、53处已检索未落实。只补第6章注14，正文不变。附件含FE、SU、EE三部分，原样归档；摘要位置及释义见[来源目录](reference%20check/sources/README.md)。PDF/HTML仍为10月15日润色版，尚未包含第37—42轮及校注移位修改。
+2026 年 10 月 16 日已推进至[第四十三轮](reference%20check/2026-10-16-round43.md)：按用户提供的《人民日报》网页核定1975年3月21日第1版社论《领导干部要带头学好》，两处中文表述与FE/4862/i摘要对应。社论全文及当日六版录文检索未见07-09住房、汽车等完整目标引句，故待核仍为78处；累计147处已落实、25处部分核实、53处已检索未落实。只补第6章注14，正文不变。中文全文、中英对照及网页存档见[来源目录](reference%20check/sources/README.md)。PDF/HTML仍为10月15日润色版，尚未包含第37—43轮及校注移位修改。
 
 ## Workflow / 工作流
 

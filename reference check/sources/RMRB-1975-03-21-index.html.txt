@@ -1,0 +1,584 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="公开数据查询平台，提供新闻联播、人民日报、参考消息、裁判文书等权威信息的实时更新和历史数据查询服务。">
+    <meta name="keywords" content="新闻联播,人民日报,参考消息,裁判文书,公开数据,数据查询">
+
+    
+    
+    <link rel="canonical" href="https://cn.govopendata.com/renminribao/1975/03/21/" />
+    
+    
+        <link rel="alternate" hreflang="zh-Hans" href="https://cn.govopendata.com/renminribao/1975/03/21/">
+        <link rel="alternate" hreflang="x-default" href="https://cn.govopendata.com/renminribao/1975/03/21/">
+    
+    <meta name="description" content="1975年3月21日人民日报全部 6 个版面及文章标题索引。">
+    <meta name="keywords" content="人民日报,人民日报电子版,人民日报历史,人民网,中央日报">
+
+
+    
+
+    <!-- Twitter Card标签 - 优化卡片显示 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@govopendata">
+    <meta name="twitter:creator" content="@govopendata">
+    <meta name="twitter:title" content="人民日报电子版档案">
+    <meta name="twitter:description" content="查阅人民日报电子版档案，获取1946-2003年重要报道与版面。">
+    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png">
+    <meta name="twitter:image:alt" content="公开数据查询平台logo">
+    <meta name="twitter:url" content="https://cn.govopendata.com/renminribao/1975/03/21/">
+    
+    <!-- Open Graph 标签 (对Twitter和其他社交媒体都有效) -->
+    <meta property="og:url" content="https://cn.govopendata.com/renminribao/1975/03/21/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="人民日报电子版档案" />
+    <meta property="og:description" content="查阅人民日报电子版档案，获取1946-2003年重要报道与版面。" />
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png" />
+    <meta property="og:site_name" content="公开数据查询平台" />
+    
+    <!-- 预连接关键第三方域名 - 提升性能 -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+
+    <!-- 布局样式必须在首次绘制前生效，避免异步换肤造成整页位移。 -->
+    <!-- 静态文件名带内容哈希（ManifestStaticFilesStorage），nginx 的 immutable 长缓存才不会让改动卡在用户浏览器里 -->
+    <!-- 全站唯一样式表：design-system/modern-ui/layout/components/裁剪后的 Bootstrap/图标
+         按原顺序拼接而成，由 scripts/build_css.py 生成，改任何源 CSS 或模板后都要重跑 -->
+    <link rel="stylesheet" href="/static/css/site.9433fe1b5c14.css">
+    
+    
+<style>
+    /* Reserve room for common 250–300px creatives; do not collapse unfilled slots.
+       Larger fluid/automatic ads may still expand: never clip their content. */
+    .ad-section,
+    .ad-reserved {
+        min-height: 320px;
+    }
+
+    /* AdSense can reset ancestor min-height to 0 !important. An intrinsic
+       spacer still contributes to auto height without clipping the creative. */
+    .ad-reserved {
+        display: flow-root;
+    }
+
+    .ad-reserved::before {
+        content: "";
+        float: left;
+        width: 0;
+        height: 320px;
+        pointer-events: none;
+    }
+
+    /* Keep icon font swaps from changing the width of navigation and buttons. */
+    .fas,
+    .fab {
+        display: inline-block;
+        width: 1.25em;
+        text-align: center;
+    }
+
+    @media print {
+        .ad-section,
+        .ad-reserved {
+            display: none;
+        }
+    }
+</style>
+
+
+
+    <!-- 核心JavaScript -->
+    <script type="module">
+        document.addEventListener('DOMContentLoaded', () => {
+            // 移动端导航菜单折叠，替代 Bootstrap collapse 插件（站内不再加载 jQuery/Popper/Bootstrap JS）
+            const toggler = document.querySelector('.navbar-toggler');
+            const menu = toggler && document.getElementById(toggler.getAttribute('aria-controls'));
+            if (menu) {
+                toggler.addEventListener('click', () => {
+                    const open = menu.classList.toggle('show');
+                    toggler.classList.toggle('collapsed', !open);
+                    toggler.setAttribute('aria-expanded', String(open));
+                });
+            }
+
+            // 导航栏滚动效果
+            const navbar = document.querySelector('.navbar');
+            let lastScrollTop = 0;
+
+            // 优化滚动性能
+            const backToTop = document.getElementById('back-to-top');
+            let lastKnownScrollPosition = 0;
+            let ticking = false;
+
+            if (backToTop || navbar) {
+                document.addEventListener('scroll', () => {
+                    lastKnownScrollPosition = window.scrollY;
+                    if (!ticking) {
+                        window.requestAnimationFrame(() => {
+                            // 导航栏滚动效果
+                            if (navbar) {
+                                if (lastKnownScrollPosition > 50) {
+                                    navbar.classList.add('scrolled');
+                                } else {
+                                    navbar.classList.remove('scrolled');
+                                }
+                            }
+
+                            // 返回顶部按钮
+                            if (backToTop) {
+                                if (lastKnownScrollPosition > 100) {
+                                    backToTop.style.display = 'flex';
+                                    backToTop.classList.add('visible');
+                                } else {
+                                    backToTop.classList.remove('visible');
+                                    setTimeout(() => {
+                                        if (!backToTop.classList.contains('visible')) {
+                                            backToTop.style.display = 'none';
+                                        }
+                                    }, 300); // 等待过渡效果完成
+                                }
+                            }
+
+                            lastScrollTop = lastKnownScrollPosition;
+                            ticking = false;
+                        });
+                        ticking = true;
+                    }
+                }, { passive: true });
+
+                if (backToTop) {
+                    backToTop.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    });
+                }
+            }
+        });
+
+        // 简化的广告容器管理（为将来的 Google AdSense 准备）
+        // 当添加 AdSense 代码时，可以在这里添加简单的加载逻辑
+    </script>
+
+    <!-- 注意：安全头部应该在 nginx HTTP 响应头中设置，而不是 meta 标签 -->
+    <!-- X-Frame-Options, X-Content-Type-Options 等已在 nginx.conf 中配置 -->
+    
+    <title>1975年3月21日人民日报电子版,人民日报历史</title>
+
+    
+    <link rel="icon" href="/static/favicon.6e88fbe0490a.ico">
+    
+    <!-- 结构化数据 -->
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "url": "https://cn.govopendata.com/renminribao/1975/03/21/",
+      "name": "1975年3月21日人民日报",
+      "description": "1975年3月21日人民日报版面与文章索引。",
+      "datePublished": "1975-03-21",
+      "inLanguage": "zh-CN",
+      "isPartOf": { "@type": "WebSite", "url": "https://cn.govopendata.com/" },
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "人民日报", "item": "https://cn.govopendata.com/renminribao/" },
+          { "@type": "ListItem", "position": 2, "name": "1975年", "item": "https://cn.govopendata.com/renminribao/1975/" },
+          { "@type": "ListItem", "position": 3, "name": "3月", "item": "https://cn.govopendata.com/renminribao/1975/03/" },
+          { "@type": "ListItem", "position": 4, "name": "21日" }
+        ]
+      }
+    }
+    </script>
+
+
+    <!-- 本地预览不向生产 GA 发送流量。 -->
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NESVRSV0K"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-7NESVRSV0K', {
+            // Do not transmit search terms, URL tokens or fragment identifiers.
+            'page_location': location.origin + location.pathname,
+            'page_referrer': document.referrer ? new URL(document.referrer).origin + '/' : '',
+            'anonymize_ip': true,
+            'cookie_flags': 'SameSite=None;Secure'
+        });
+    </script>
+    
+    <script defer src="/static/js/business-analytics.cbd318a76718.js"></script>
+
+    <script>
+        // Clarity延迟加载优化 - 用户交互或3秒后加载（不影响GA/AdSense）
+        (function(){
+            var clarityLoaded = false;
+            var loadClarity = function(){
+                if (clarityLoaded) return;
+                clarityLoaded = true;
+                (function(c,l,a,r,i,t,y){
+                    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                })(window, document, "clarity", "script", "8xt1bc41fx");
+            };
+
+            // 用户交互时加载
+            var events = ['scroll', 'click', 'mousemove', 'touchstart'];
+            events.forEach(function(event) {
+                window.addEventListener(event, loadClarity, {once: true, passive: true});
+            });
+
+            // 3秒后兜底加载
+            setTimeout(loadClarity, 3000);
+        })();
+    </script>
+
+    
+    
+    <!-- adsense 自动广告代码 - 默认账号 -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6097273492653659"
+    crossorigin="anonymous"></script>
+    
+    
+
+    <script type="speculationrules">
+    {
+        "prefetch": [{
+            "where": {
+                "and": [
+                    { "href_matches": "/*" },
+                    { "not": { "href_matches": "/ads.txt" } }
+                ]
+            },
+            "eagerness": "moderate"
+        }]
+    }
+    </script>
+</head>
+
+<body data-ad-eligibility="eligible">
+    <!-- 跳转到主要内容的链接 -->
+    <a href="#main-content" class="sr-only sr-only-focusable">跳转到主要内容</a>
+
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top" role="navigation" aria-label="主导航">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">
+                cn.govopendata.com
+            </a>
+            <button class="navbar-toggler" type="button" aria-controls="navbarContent" aria-expanded="false" aria-label="切换导航">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/" aria-current="page">首页</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/xinwenlianbo/">新闻联播</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/renminribao/">人民日报</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/cankaoxiaoxi/">参考消息</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/caipanwenshu/">裁判文书</a>
+                    </li>
+                </ul>
+
+                
+                <form class="form-inline my-2 my-lg-0 search-form" action="/search/" method="get" role="search">
+                    <input class="form-control mr-sm-2 search-input" type="search" name="q" placeholder="搜索" aria-label="搜索网站内容">
+                    <button class="btn btn-outline-light my-2 my-sm-0" type="submit" aria-label="提交搜索">搜索</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Google AdSense 广告位预留
+    <div class="adsense-container text-center" style="padding: 10px 0;">
+        <div class="container-fluid">
+            在这里添加 Google AdSense 代码
+        </div>
+    </div>
+    -->
+
+    <main id="main-content" class="main-content" role="main" data-archive-available="true">
+        
+<div class="archive-page">
+    <header class="archive-header">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">首页</a></li>
+            <li class="breadcrumb-item"><a href="/renminribao/">人民日报</a></li>
+            <li class="breadcrumb-item"><a href="/renminribao/1975/">1975年</a></li>
+            <li class="breadcrumb-item"><a href="/renminribao/1975/03/">3月</a></li>
+            <li class="breadcrumb-item active" aria-current="page">21日</li>
+        </ol>
+        <h1>1975年3月21日 人民日报</h1>
+        <p class="archive-desc">星期五 · 共 6 个版面，点击版面或标题阅读全文。</p>
+        <nav class="archive-pager" aria-label="日期切换">
+            <a href="/renminribao/1975/03/20/"><i class="fas fa-chevron-left" aria-hidden="true"></i>前一天</a>
+            <a class="archive-pager-up" href="/renminribao/1975/03/">3月全部日期</a>
+            <a href="/cankaoxiaoxi/1975/03/21/">同日参考消息</a>
+            <a href="/renminribao/1975/03/22/">后一天<i class="fas fa-chevron-right" aria-hidden="true"></i></a>
+        </nav>
+    </header>
+
+
+    <div class="archive-layout">
+        <div>
+            
+            <section class="archive-entry">
+                <h2><a href="/renminribao/1975/03/21/1/">第1版</a></h2>
+                <ul>
+                    
+                    <li><a href="/renminribao/1975/03/21/1/#460641">毛主席语录</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/1/#460642">领导干部要带头学好</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/1/#460643">在伟大领袖毛主席、党中央的亲切关怀和领导下  中国工会、共青团、妇女全国代表大会各筹备组第一次会议在京分别举行</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/1/#460644">在结束对伊朗访问的回国途中  朴成哲副总理等路经北京  李强部长、韩念龙副部长等到机场迎送</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/1/#460645">一大批女飞行人员担任领导工作</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/1/#460646">在全国人民学习无产阶级专政理论热潮中  部分省、自治区文艺调演继续进行  参加第二批调演的六省代表团正式开始演出</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/1/#460647">突尼斯总理赫迪·努伊拉应周总理邀请将来我国正式访问</a></li>
+                    
+                </ul>
+            </section>
+            
+            <div class="ad-section">
+                <div class="ad-reserved">
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-6097273492653659"
+                    data-ad-slot="7757138659"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                </div>
+            </div>
+            
+            
+            
+            <section class="archive-entry">
+                <h2><a href="/renminribao/1975/03/21/2/">第2版</a></h2>
+                <ul>
+                    
+                    <li><a href="/renminribao/1975/03/21/2/#460648">无产阶级专政是由共产党领导的</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/2/#460649">用无产阶级专政的理论武装农民</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/2/#460650">克服经验主义　认真学习理论  石家庄第二棉纺织厂党委领导成员努力搞清楚为什么要对资产阶级专政</a></li>
+                    
+                </ul>
+            </section>
+            
+            
+            
+            <section class="archive-entry">
+                <h2><a href="/renminribao/1975/03/21/3/">第3版</a></h2>
+                <ul>
+                    
+                    <li><a href="/renminribao/1975/03/21/3/#460651">理论学得好　阵地守得牢——上海泰山旅社职工坚持抵制资产阶级思想侵蚀的事迹</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/3/#460652">破“情面”　抗腐蚀</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/3/#460653">发生在登记室的故事</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/3/#460654">全心全意地依靠工人阶级——天津合成化学厂贯彻执行“鞍钢宪法”大搞群众运动的事迹</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/3/#460655">图片</a></li>
+                    
+                </ul>
+            </section>
+            
+            
+            <div class="ad-section in-article">
+                <div class="ad-reserved">
+                <ins class="adsbygoogle"
+                     style="display:block; text-align:center;"
+                     data-ad-layout="in-article"
+                     data-ad-format="fluid"
+                     data-ad-client="ca-pub-6097273492653659"
+                     data-ad-slot="6196769737"></ins>
+                <script>
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                </div>
+            </div>
+            
+            
+            <section class="archive-entry">
+                <h2><a href="/renminribao/1975/03/21/4/">第4版</a></h2>
+                <ul>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460656">毛主席关于理论问题重要指示鼓舞广大干群积极性  上海郊区春耕生产搞得热气腾腾</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460657">各级领导干部改进作风深入生产第一线  天津郊区扎扎实实抓好春耕生产</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460658">广大军垦战士战寒冷斗冰雪  黑龙江生产建设部队备耕春耕迅速展开</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460659">为庆祝柬埔寨民族统一阵线成立五周年中国对外友协举办的图片展览在京开幕</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460660">朝鲜《劳动新闻》代表团访问沙石峪、天津和中朝友好人民公社</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460661">拉贾拉南外长在上海、苏州参观访问</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460662">结束在南京的参观访问  拉腊基外交国务大臣前往苏州</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460663">坚决贯彻“以防为主，以消为辅”的消防工作方针  南港大队由“火灾港”变成“安全港”</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460664">斯里兰卡代表团访问南京后回北京</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460665">柴泽民会见并宴请“安盟”访华代表团</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460666">张香山会见日本朋友</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460667">日本部落解放同盟访华团离京</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460668">英国贸易部驻议会次官埃里克·迪金斯到京</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/4/#460669">比利时海运代表团到京</a></li>
+                    
+                </ul>
+            </section>
+            
+            
+            
+            <section class="archive-entry">
+                <h2><a href="/renminribao/1975/03/21/5/">第5版</a></h2>
+                <ul>
+                    
+                    <li><a href="/renminribao/1975/03/21/5/#460670">在敌人暂时控制的一些省会前线  柬埔寨人民武装英勇奋战歼灭许多敌人  猛烈进攻敌人军事基地乃良取得重大战果</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/5/#460671">南朝鲜人民继续开展争民主反暴政斗争  南朝鲜统一革命党谴责朴正熙集团压制舆论的罪行</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/5/#460672">越南、越南南方共和分别同利比亚建交</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/5/#460673">柬王国政府将发行新钞票</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/5/#460674">泰国组成新政府</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/5/#460675">民主也门纪行</a></li>
+                    
+                </ul>
+            </section>
+            
+            
+            
+            <section class="archive-entry">
+                <h2><a href="/renminribao/1975/03/21/6/">第6版</a></h2>
+                <ul>
+                    
+                    <li><a href="/renminribao/1975/03/21/6/#460676">第三世界自力更生积极发展民族工业  坦桑尼亚重视恢复手工业和发展小工业　斯里兰卡大力发展小型工业  摩洛哥发展民族工业取得成就　秘鲁和阿尔及利亚签署矿业合作协定</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/6/#460677">勃列日涅夫农业政策破产的十年</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/6/#460678">口蜜腹剑的假朋友</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/6/#460679">面上“朋友”　台下踢脚  印报揭露苏修在印度搞间谍阴谋活动</a></li>
+                    
+                    <li><a href="/renminribao/1975/03/21/6/#460680">非洲统一组织解放委员会发表声明  强烈谴责南部非洲种族主义政权暗杀契特波  索尔兹伯里大学非洲学生游行示威抗议杀害契特波的卑劣行径</a></li>
+                    
+                </ul>
+            </section>
+            
+            
+            
+
+            <nav class="archive-pager" aria-label="日期切换">
+                <a href="/renminribao/1975/03/20/"><i class="fas fa-chevron-left" aria-hidden="true"></i>1975-03-20</a>
+                <a href="/renminribao/1975/03/22/">1975-03-22<i class="fas fa-chevron-right" aria-hidden="true"></i></a>
+            </nav>
+        </div>
+        
+<aside class="archive-side" aria-label="归档导航">
+    <section class="archive-side-card">
+        <h2>按日期查找</h2>
+        
+        <form action="/renminribao/jump_news/" method="get">
+            
+            <div>
+    <label for="datepicker">历史上的人民日报(1946-2003):</label>
+
+
+
+<input type="date" name="news_date" value="1949-10-01" id="datepicker" required>
+    
+      
+    
+</div>
+            <button type="submit">查看</button>
+        </form>
+    </section>
+    <section class="archive-side-card">
+        <h2>浏览更多</h2>
+        <ul>
+            <li><a href="/renminribao/">人民日报全部年份</a></li>
+            <li><a href="/xinwenlianbo/">新闻联播文字版</a></li>
+            <li><a href="/renminribao/">人民日报历史档案</a></li>
+            <li><a href="/cankaoxiaoxi/">参考消息历史档案</a></li>
+            <li><a href="/caipanwenshu/">裁判文书归档</a></li>
+        </ul>
+    </section>
+</aside>
+
+    </div>
+</div>
+
+    </main>
+
+    <footer class="footer mt-auto py-3 bg-light">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <ul class="footer-links">
+                        <li><a href="/xinwenlianbo/">新闻联播文字版</a></li>
+                        <li><a href="/renminribao/">人民日报历史档案</a></li>
+                        <li><a href="/cankaoxiaoxi/">参考消息历史档案</a></li>
+                        <li><a href="/caipanwenshu/">裁判文书归档</a></li>
+                        <li><a href="/search/">站内搜索</a></li>
+                        <li><a href="/privacy/">隐私政策</a></li>
+                    </ul>
+                    <p class="mb-0">© 2026 cn.govopendata.com - 公开数据查询平台</p>
+                    
+                    <!-- Twitter分享按钮 - 使用固定域名而非动态获取 -->
+                        <a href="https://twitter.com/intent/tweet?url=https://cn.govopendata.com/renminribao/1975/03/21/"
+                           class="btn btn-sm btn-outline-primary twitter-share-button" 
+                           aria-label="分享到Twitter">
+                            <i class="fab fa-twitter"></i> 分享到Twitter
+                        </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <button id="back-to-top" class="btn back-to-top" title="返回顶部" aria-label="返回顶部">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+        <span class="sr-only">返回顶部</span>
+    </button>
+
+    <!-- 处理无JavaScript环境 -->
+    <noscript>
+        <style>
+            .back-to-top { display: none !important; }
+            img.lazy { opacity: 1 !important; }
+        </style>
+        <div class="alert alert-warning" role="alert">
+            请启用JavaScript以获得最佳体验。
+        </div>
+    </noscript>
+
+    
+</body>
+</html>

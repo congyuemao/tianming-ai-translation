@@ -1,0 +1,973 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="公开数据查询平台，提供新闻联播、人民日报、参考消息、裁判文书等权威信息的实时更新和历史数据查询服务。">
+    <meta name="keywords" content="新闻联播,人民日报,参考消息,裁判文书,公开数据,数据查询">
+
+    
+    
+    <link rel="canonical" href="https://cn.govopendata.com/renminribao/1975/03/21/1/" />
+    
+    
+        <link rel="alternate" hreflang="zh-Hans" href="https://cn.govopendata.com/renminribao/1975/03/21/1/">
+        <link rel="alternate" hreflang="x-default" href="https://cn.govopendata.com/renminribao/1975/03/21/1/">
+    
+    <meta name="description" content="人民日报电子版档案，覆盖1946-2003年重要版面与历史报道，可按年份、月份与日期检索。">
+    <meta name="keywords" content="人民日报,人民日报电子版,人民日报历史,人民网,中央日报">
+
+
+    
+
+    <!-- Twitter Card标签 - 优化卡片显示 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@govopendata">
+    <meta name="twitter:creator" content="@govopendata">
+    <meta name="twitter:title" content="人民日报 1975-03-21 第1版 电子版">
+    <meta name="twitter:description" content="1975年3月21日人民日报第{{ page
+}}版电子版，提供当日人民日报完整内容、实时更新、历史查询">
+    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png">
+    <meta name="twitter:image:alt" content="公开数据查询平台logo">
+    <meta name="twitter:url" content="https://cn.govopendata.com/renminribao/1975/03/21/1/">
+    
+    <!-- Open Graph 标签 (对Twitter和其他社交媒体都有效) -->
+    <meta property="og:url" content="https://cn.govopendata.com/renminribao/1975/03/21/1/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="人民日报 1975-03-21 第1版 电子版" />
+    <meta property="og:description" content="查阅人民日报电子版档案，获取1946-2003年重要报道与版面。" />
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png" />
+    <meta property="og:site_name" content="公开数据查询平台" />
+    
+    <!-- 预连接关键第三方域名 - 提升性能 -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+
+    <!-- 布局样式必须在首次绘制前生效，避免异步换肤造成整页位移。 -->
+    <!-- 静态文件名带内容哈希（ManifestStaticFilesStorage），nginx 的 immutable 长缓存才不会让改动卡在用户浏览器里 -->
+    <!-- 全站唯一样式表：design-system/modern-ui/layout/components/裁剪后的 Bootstrap/图标
+         按原顺序拼接而成，由 scripts/build_css.py 生成，改任何源 CSS 或模板后都要重跑 -->
+    <link rel="stylesheet" href="/static/css/site.9433fe1b5c14.css">
+    
+    
+<style>
+    /* Reserve room for common 250–300px creatives; do not collapse unfilled slots.
+       Larger fluid/automatic ads may still expand: never clip their content. */
+    .ad-section,
+    .ad-reserved {
+        min-height: 320px;
+    }
+
+    /* AdSense can reset ancestor min-height to 0 !important. An intrinsic
+       spacer still contributes to auto height without clipping the creative. */
+    .ad-reserved {
+        display: flow-root;
+    }
+
+    .ad-reserved::before {
+        content: "";
+        float: left;
+        width: 0;
+        height: 320px;
+        pointer-events: none;
+    }
+
+    /* Keep icon font swaps from changing the width of navigation and buttons. */
+    .fas,
+    .fab {
+        display: inline-block;
+        width: 1.25em;
+        text-align: center;
+    }
+
+    @media print {
+        .ad-section,
+        .ad-reserved {
+            display: none;
+        }
+    }
+</style>
+
+
+
+    <!-- 核心JavaScript -->
+    <script type="module">
+        document.addEventListener('DOMContentLoaded', () => {
+            // 移动端导航菜单折叠，替代 Bootstrap collapse 插件（站内不再加载 jQuery/Popper/Bootstrap JS）
+            const toggler = document.querySelector('.navbar-toggler');
+            const menu = toggler && document.getElementById(toggler.getAttribute('aria-controls'));
+            if (menu) {
+                toggler.addEventListener('click', () => {
+                    const open = menu.classList.toggle('show');
+                    toggler.classList.toggle('collapsed', !open);
+                    toggler.setAttribute('aria-expanded', String(open));
+                });
+            }
+
+            // 导航栏滚动效果
+            const navbar = document.querySelector('.navbar');
+            let lastScrollTop = 0;
+
+            // 优化滚动性能
+            const backToTop = document.getElementById('back-to-top');
+            let lastKnownScrollPosition = 0;
+            let ticking = false;
+
+            if (backToTop || navbar) {
+                document.addEventListener('scroll', () => {
+                    lastKnownScrollPosition = window.scrollY;
+                    if (!ticking) {
+                        window.requestAnimationFrame(() => {
+                            // 导航栏滚动效果
+                            if (navbar) {
+                                if (lastKnownScrollPosition > 50) {
+                                    navbar.classList.add('scrolled');
+                                } else {
+                                    navbar.classList.remove('scrolled');
+                                }
+                            }
+
+                            // 返回顶部按钮
+                            if (backToTop) {
+                                if (lastKnownScrollPosition > 100) {
+                                    backToTop.style.display = 'flex';
+                                    backToTop.classList.add('visible');
+                                } else {
+                                    backToTop.classList.remove('visible');
+                                    setTimeout(() => {
+                                        if (!backToTop.classList.contains('visible')) {
+                                            backToTop.style.display = 'none';
+                                        }
+                                    }, 300); // 等待过渡效果完成
+                                }
+                            }
+
+                            lastScrollTop = lastKnownScrollPosition;
+                            ticking = false;
+                        });
+                        ticking = true;
+                    }
+                }, { passive: true });
+
+                if (backToTop) {
+                    backToTop.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    });
+                }
+            }
+        });
+
+        // 简化的广告容器管理（为将来的 Google AdSense 准备）
+        // 当添加 AdSense 代码时，可以在这里添加简单的加载逻辑
+    </script>
+
+    <!-- 注意：安全头部应该在 nginx HTTP 响应头中设置，而不是 meta 标签 -->
+    <!-- X-Frame-Options, X-Content-Type-Options 等已在 nginx.conf 中配置 -->
+    
+<title>人民日报 1975-03-21 第1版电子版,人民日报历史</title>
+
+    
+    <link rel="icon" href="/static/favicon.6e88fbe0490a.ico">
+    
+    <!-- 结构化数据 -->
+    
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://cn.govopendata.com/renminribao/1975/03/21/1/"
+      },
+      "headline": "1975年3月21日人民日报第1版",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png",
+        "height": 800,
+        "width": 800
+      },
+      "datePublished": "1975-03-21T00:00:00+08:00",
+      "dateModified": "1975-03-21T00:00:00+08:00",
+      "author": {
+        "@type": "Organization",
+        "name": "人民日报社",
+        "url": "http://www.people.com.cn/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "人民日报社",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "description": "1975年3月21日人民日报第1版电子版，提供当日人民日报完整内容、实时更新、历史查询",
+      "articleSection": "新闻",
+      "keywords": "人民日报,1975-03-21,第1版,人民网,新闻",
+      "inLanguage": "zh-CN",
+      "isAccessibleForFree": "True",
+      "articleBody": "1975年3月21日人民日报第1版页面摘要，收录本版 7 篇文章并支持逐篇阅读与日期跳转。"
+    }
+    </script>
+
+
+    <!-- 本地预览不向生产 GA 发送流量。 -->
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NESVRSV0K"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-7NESVRSV0K', {
+            // Do not transmit search terms, URL tokens or fragment identifiers.
+            'page_location': location.origin + location.pathname,
+            'page_referrer': document.referrer ? new URL(document.referrer).origin + '/' : '',
+            'anonymize_ip': true,
+            'cookie_flags': 'SameSite=None;Secure'
+        });
+    </script>
+    
+    <script defer src="/static/js/business-analytics.cbd318a76718.js"></script>
+
+    <script>
+        // Clarity延迟加载优化 - 用户交互或3秒后加载（不影响GA/AdSense）
+        (function(){
+            var clarityLoaded = false;
+            var loadClarity = function(){
+                if (clarityLoaded) return;
+                clarityLoaded = true;
+                (function(c,l,a,r,i,t,y){
+                    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                })(window, document, "clarity", "script", "8xt1bc41fx");
+            };
+
+            // 用户交互时加载
+            var events = ['scroll', 'click', 'mousemove', 'touchstart'];
+            events.forEach(function(event) {
+                window.addEventListener(event, loadClarity, {once: true, passive: true});
+            });
+
+            // 3秒后兜底加载
+            setTimeout(loadClarity, 3000);
+        })();
+    </script>
+
+    
+    
+    <!-- adsense 自动广告代码 - 默认账号 -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6097273492653659"
+    crossorigin="anonymous"></script>
+    
+    
+
+    <script type="speculationrules">
+    {
+        "prefetch": [{
+            "where": {
+                "and": [
+                    { "href_matches": "/*" },
+                    { "not": { "href_matches": "/ads.txt" } }
+                ]
+            },
+            "eagerness": "moderate"
+        }]
+    }
+    </script>
+</head>
+
+<body data-ad-eligibility="eligible">
+    <!-- 跳转到主要内容的链接 -->
+    <a href="#main-content" class="sr-only sr-only-focusable">跳转到主要内容</a>
+
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top" role="navigation" aria-label="主导航">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">
+                cn.govopendata.com
+            </a>
+            <button class="navbar-toggler" type="button" aria-controls="navbarContent" aria-expanded="false" aria-label="切换导航">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/" aria-current="page">首页</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/xinwenlianbo/">新闻联播</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/renminribao/">人民日报</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/cankaoxiaoxi/">参考消息</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/caipanwenshu/">裁判文书</a>
+                    </li>
+                </ul>
+
+                
+                <form class="form-inline my-2 my-lg-0 search-form" action="/search/" method="get" role="search">
+                    <input class="form-control mr-sm-2 search-input" type="search" name="q" placeholder="搜索" aria-label="搜索网站内容">
+                    <button class="btn btn-outline-light my-2 my-sm-0" type="submit" aria-label="提交搜索">搜索</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Google AdSense 广告位预留
+    <div class="adsense-container text-center" style="padding: 10px 0;">
+        <div class="container-fluid">
+            在这里添加 Google AdSense 代码
+        </div>
+    </div>
+    -->
+
+    <main id="main-content" class="main-content" role="main" data-archive-available="false">
+        
+<div class="container-fluid detail-container renminribao-detail">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <header class="article-header">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">首页</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/">人民日报</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/">1975年</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/03/">3月</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/03/21/">21日</a></li>
+                    <li class="breadcrumb-item active">第1版</li>
+                </ol>
+                <p class="section-label">人民日报电子版</p>
+                <h1 class="article-title">
+                    1975年3月21日 · 第1版
+                </h1>
+                <div class="article-meta">
+                    <span class="meta-item">
+                        <i class="fas fa-calendar-alt"></i>
+                        1975-03-21
+                    </span>
+                    <span class="meta-item">
+                        <i class="fas fa-layer-group"></i>
+                        第1版
+                    </span>
+                </div>
+                <div class="article-actions">
+                    <a href="/renminribao/1975/03/21/"
+                        class="action-link">
+                        查看当天全部版面
+                    </a>
+                    <a href="https://twitter.com/intent/tweet?url=https://cn.govopendata.com/renminribao/1975/03/21/1/"
+                        class="btn-share" aria-label="分享到Twitter">
+                        <i class="fab fa-twitter"></i>
+                        分享这一版
+                    </a>
+                </div>
+
+            </header>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 col-lg-9">
+            <main class="article-content">
+                
+<details class="reading-toc">
+    <summary>本页目录（7 篇）</summary>
+    <nav aria-label="本页文章目录">
+        <ol>
+            
+            <li><a href="#article-460641">毛主席语录</a></li>
+            
+            <li><a href="#article-460642">领导干部要带头学好</a></li>
+            
+            <li><a href="#article-460643">在伟大领袖毛主席、党中央的亲切关怀和领导下  中国工会、共青团、妇女全国代表大会各筹备组第一次会议在京分别举行</a></li>
+            
+            <li><a href="#article-460644">在结束对伊朗访问的回国途中  朴成哲副总理等路经北京  李强部长、韩念龙副部长等到机场迎送</a></li>
+            
+            <li><a href="#article-460645">一大批女飞行人员担任领导工作</a></li>
+            
+            <li><a href="#article-460646">在全国人民学习无产阶级专政理论热潮中  部分省、自治区文艺调演继续进行  参加第二批调演的六省代表团正式开始演出</a></li>
+            
+            <li><a href="#article-460647">突尼斯总理赫迪·努伊拉应周总理邀请将来我国正式访问</a></li>
+            
+        </ol>
+    </nav>
+</details>
+
+
+                
+                <article class="content-section" id="article-460641">
+                    <h2 class="content-heading" id="460641">毛主席语录</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>列宁为什么说对资产阶级专政，这个问题要搞清楚。这个问题不搞清楚，就会变修正主义。要使全国知道。</p>
+                    </div>
+                </article>
+                
+                
+                
+                <div class="ad-section">
+                    <div class="ad-reserved">
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                        data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                </div>
+                
+                
+                
+                <article class="content-section" id="article-460642">
+                    <h2 class="content-heading" id="460642">领导干部要带头学好</h2>
+                    <div class="content-body" data-reading-body>
+                        <p class="content-kicker">社论</p>
+<p>伟大领袖毛主席关于理论问题的重要指示，引起了全党全军全国人民的高度重视。一个学习马克思主义关于无产阶级专政理论的运动，正在全国蓬勃兴起。</p>
+<p>毛主席关于理论问题的指示，既讲了经济基础，又讲了上层建筑，提出了中国还存在产生新的资产阶级分子的土壤，再一次告诫全党警惕出修正主义。这是个重大的理论问题，也是个实践问题。毛主席的指示进一步提出了无产阶级专政下继续革命的根本问题，具有极其重要的现实意义和深远的历史意义。各级党委要把学习毛主席的重要指示，当作首要任务来抓。领导干部，特别是党的高级干部要带头学好。</p>
+<p>二十多年来，毛主席在领导我们进行反对修正主义，防止资本主义复辟，巩固无产阶级专政的斗争中，反复强调党的高级干部要认真学习马克思主义。特别是在党的第十次路线斗争中，毛主席对看书学习作过多次指示。毛主席要求党的中央委员和高、中级干部“都应程度不同地认真看书学习，弄通马克思主义”。毛主席在外地巡视期间同沿途各地负责同志谈话时指出：“庐山会议上讲了要读马、列的书。我希望你们今后多读点书。”这次，毛主席又指出：“林彪一类如上台，搞资本主义制度很容易。因此，要多看点马列主义的书。”我们各级领导同志，要牢记毛主席的教导，把无产阶级专政的问题搞清楚，坚定地执行党的基本路线，更好地领导群众在无产阶级专政下继续革命。</p>
+<p>马克思主义的理论和无产阶级专政的实践告诉我们，社会主义社会是从资本主义社会脱胎出来的。在这个相当长的历史阶段里，衰亡着的资本主义与生长着的共产主义彼此斗争。如果不从理论上搞清楚这个问题，就看不到阶级斗争和党内两条路线斗争的长期性、复杂性，看不到在社会主义条件下城乡资本主义因素还会发展，看不到社会主义社会尚存在着的那部分资产阶级法权还会产生新的资产阶级分子。这就不可能从经济基础和上层建筑两个方面，坚持无产阶级专政下的继续革命。</p>
+<p>一切修正主义分子，总要在无产阶级专政问题上制造混乱，欺骗那些不读书、不学理论的人。我们有些做领导工作的同志，由于在理论上分辨不清，甚至把资本主义的东西当作社会主义的东西，把修正主义的口号当作马克思主义的口号。党的第九次路线斗争和第十次路线斗争中，都有这样的教训。我们要认真看书学习，力求把无产阶级专政的理论弄懂、弄通，在今后的阶级斗争、路线斗争中，才不至于上当受骗。</p>
+<p>搞清楚无产阶级专政的问题，是要下功夫的。我们要反复学习毛主席关于理论问题的重要指示，围绕这个指示认真读书。要学好马克思、恩格斯、列宁关于无产阶级专政的语录，并且努力多读一点马列和毛主席关于无产阶级专政的主要著作。为了弄清楚社会主义社会中的商品、货币、按劳分配等问题，必须读一点政治经济学，了解一点社会发展史。多次的经验证明，对毛主席的指示要深刻理解，要真正搞清楚毛主席讲的是什么。不要以为学了一遍两遍就懂得了，不要学一阵松一阵，要坚持常年学。那种“说起来重要，做起来次要，忙起来不要”的态度必须坚决改掉。一九五九年反对彭德怀反党集团时，毛主席指出：“现在，主要危险是经验主义。”十多年来的事实证明，经验主义是修正主义的助手。犯有经验主义错误的人，轻视理论，轻视坚持毛主席的正确路线的重要性，把局部经验误认为普遍真理。他们的实践带有很大的盲目性，很容易跟着修正主义路线走。我们一定要遵照毛主席的教导，努力学习马克思主义理论，提高自觉性，减少盲目性。</p>
+<p>要发扬理论联系实际的革命学风。在学习中注意联系我国革命的实际情况和无产阶级专政的历史经验，不要钻到枝节问题里去。要联系党内两条路线斗争的历史，特别是第十次路线斗争的历史，研究林彪一类反党集团产生的社会基础。要研究两个阶级、两条道路、两条路线斗争的现状，批判修正主义路线，批判资本主义倾向，批判资产阶级法权思想。对二十多年来政治、思想、经济各方面的变化，要作系统的周密的调查研究。要研究政策问题，包括经济政策。要联系自己的思想，自觉地改造世界观，打掉资产阶级的作风，抵制资本主义的侵蚀，密切联系群众，同群众打成一片，发扬党的艰苦奋斗的光荣传统。</p>
+<p>现在，群众学习的积极性很高，坚持在无产阶级专政下继续革命的决心很大。领导干部一定要走在前头，领导好党员和群众的学习，注意总结学习中的先进经验。通过学习，进一步推动批林批孔运动的深入发展，促进全国的安定团结，夺取抓革命，促生产，促工作，促战备的新胜利。</p>
+<p>各级领导同志，让我们带头学好无产阶级专政的理论，带头做限制资产阶级法权的模范，带头做无产阶级专政下继续革命的先锋战士！</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460643">
+                    <h2 class="content-heading" id="460643">在伟大领袖毛主席、党中央的亲切关怀和领导下  中国工会、共青团、妇女全国代表大会各筹备组第一次会议在京分别举行</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社一九七五年三月二十日讯　在伟大领袖毛主席、党中央亲切关怀和领导下，中国工会第九次全国代表大会、中国共产主义青年团第十次全国代表大会、中国妇女第四次全国代表大会各筹备组第一次会议，于二月二十六日到三月二十日在北京分别举行。</p>
+<p>党中央领导同志接见了出席会议的同志，并且讲了话。</p>
+<p>会议讨论研究了为工、青、妇代表大会起草工作报告的问题，讨论了修改三个组织章程的问题，并且商量决定了三个大会代表名额的分配和产生办法。</p>
+<p>会议自始至终以毛主席关于理论问题的重要指示为指导思想。与会同志通过认真学习、热烈讨论，深切地体会到，弄清无产阶级对资产阶级专政的理论问题，对于坚定地执行党在社会主义历史阶段的基本路线，胜利地进行反修防修斗争，巩固无产阶级专政，防止资本主义复辟，坚持无产阶级专政下的继续革命，以及对于加强工会、共青团、妇联组织的建设，都具有极其重要的现实意义和深远的历史意义。</p>
+<p>参加会议的同志畅谈了当前国内外的大好形势，总结了我国工人运动、青年运动、妇女运动的经验。他们高兴地看到，在无产阶级文化大革命和批林批孔运动中，在党的领导下，我国工人阶级登上了上层建筑斗、批、改的政治舞台，充分发挥了主力军的作用，加强了无产阶级对资产阶级的全面专政；广大共青团员、红卫兵、青年和广大妇女，奋起批判修正主义，批判资产阶级，批判孔孟之道，朝气蓬勃地战斗在各条战线上，为社会主义革命和社会主义建设做出了重大贡献。</p>
+<p>会议决定，在进行适当的准备以后，召开工、青、妇全国代表大会，建立全国的领导机构。</p>
+<p>会议号召，工、青、妇组织的各级干部，要带头学好毛主席关于理论问题的指示，带头促进安定团结，带头抵制资产阶级思想的侵蚀，积极支持和总结群众中学习好的先进人物和先进经验。会议号召广大工人、共青团员、红卫兵、青年、妇女迅速行动起来，深入地学习无产阶级专政的理论，批判资本主义和修正主义，普及、深入、持久地开展批林批孔运动，大干社会主义，促进革命大团结，抓革命，促生产，促工作，促战备，促进国民经济的新高潮，用优异的成绩，迎接工、青、妇全国代表大会的召开。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460644">
+                    <h2 class="content-heading" id="460644">在结束对伊朗访问的回国途中  朴成哲副总理等路经北京  李强部长、韩念龙副部长等到机场迎送</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社一九七五年三月二十日讯　朝鲜民主主义人民共和国政务院副总理朴成哲及其一行，在结束对伊朗访问的回国途中，今天中午乘专机路经北京。</p>
+<p>外贸部部长李强，外交部副部长韩念龙，朝鲜驻中国大使玄峻极和伊朗驻中国大使艾哈迈德·阿里·巴赫拉米，到机场迎送。在机场，李强部长、韩念龙副部长设午宴招待朴成哲副总理等朝鲜同志。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460645">
+                    <h2 class="content-heading" id="460645">一大批女飞行人员担任领导工作</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>据新华社讯　在毛主席革命路线指引下，中国人民解放军空军飞行部队破除旧观念，提拔了一大批女飞行人员担任领导工作。她们走上领导工作岗位后，刻苦攻读马列著作和毛主席著作，密切联系群众，在斗争的实践中茁壮成长。</p>
+<p>某航空兵部队是一个女飞行人员比较集中的单位，过去就比较重视培养女飞行干部。现在，这个部队担任中队长以上领导职务的女干部，占女飞行人员的百分之二十一，她们既能驾驶飞机执行任务，又能组织和带领部队完成各项任务，在斗争中发挥了很大作用。四届人大代表王善富，是个工人家庭出身的女领航员，在批林整风、批林批孔运动中，带头学习，带头批判，成长很快，现在已被提拔为某师副政治委员。航空兵某团飞行副大队长汪云、韩淑琴，是在批林批孔中提拔起来的女飞行干部。她俩严格要求自己，刻苦攻读马列著作和毛主席著作，带头批判林彪与孔孟之道，对大队批林批孔起了推动作用。</p>
+                    </div>
+                </article>
+                
+                
+                
+                <div class="ad-section in-article">
+                    <div class="ad-reserved">
+                    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"
+                        data-ad-format="fluid" data-ad-client="ca-pub-6097273492653659" data-ad-slot="6196769737"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                </div>
+                
+                
+                
+                <article class="content-section" id="article-460646">
+                    <h2 class="content-heading" id="460646">在全国人民学习无产阶级专政理论热潮中  部分省、自治区文艺调演继续进行  参加第二批调演的六省代表团正式开始演出</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社一九七五年三月二十日讯　由文化部举办的部分省、自治区文艺调演正在继续进行。</p>
+<p>参加第一批调演的新疆、陕西、黑龙江、四川等省、区代表团的演出，已经结束。参加第二批调演的广东、湖北、河南、云南、吉林、甘肃六省代表团，今晚已正式开始演出。</p>
+<p>这六个省在共分四轮的演出中，将演出粤剧、汉剧、豫剧、评剧、吉剧、陇剧、傣剧、滇剧、曲剧、潮剧、琼剧、花灯、越调等地方戏移植的革命样板戏全剧或折子戏，以及二人转、单出头、坐唱等曲艺形式移植革命样板戏的节目。这些省还将演出近几年来创作的反映无产阶级文化大革命、社会主义革命和建设以及革命历史题材的节目。这些节目的形式有京剧、话剧、豫剧、白剧、楚剧、汉剧、高山剧、陇剧、曲剧，也有音乐、舞蹈和曲艺。</p>
+<p>这次部分省、自治区文艺调演，是在全国人民学习毛主席关于理论问题重要指示的热潮中举行的。调演期间，革命文艺战士们一面演出，一面认真学习毛主席的重要指示和马克思、恩格斯、列宁关于无产阶级专政的论述。在第一批调演就要结束和第二批调演即将开始的时候，参加这两批调演的十个省、区的文艺战士，三月十七日举行了学习毛主席关于理论问题重要指示的汇报会。会上，革命文艺战士们表示，一定要努力学习马克思主义、列宁主义、毛泽东思想关于无产阶级专政的理论，提高关于无产阶级专政问题的认识，认真学习革命样板戏的经验，搞好调演，把无产阶级文艺革命进行到底，为巩固无产阶级专政而奋斗。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460647">
+                    <h2 class="content-heading" id="460647">突尼斯总理赫迪·努伊拉应周总理邀请将来我国正式访问</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社一九七五年三月二十日讯　应中华人民共和国国务院总理周恩来的邀请，突尼斯共和国总理赫迪·努伊拉阁下和夫人将于一九七五年四月一日到达北京，对我国进行正式访问。</p>
+                    </div>
+                </article>
+                
+                
+                
+            </main>
+
+            
+            <div class="ad-section banner-bottom">
+                <div class="ad-reserved">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                    data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                </div>
+            </div>
+            
+
+            <section class="related-links">
+                
+                <a class="related-link-card" href="/renminribao/1975/03/20/">
+                    <span class="related-label">上一期人民日报</span>
+                    <span class="related-date">1975-03-20</span>
+                </a>
+                
+                
+                <a class="related-link-card" href="/cankaoxiaoxi/1975/03/21/">
+                    <span class="related-label">同日参考消息</span>
+                    <span class="related-date">1975-03-21</span>
+                </a>
+                
+                
+                <a class="related-link-card" href="/renminribao/1975/03/22/">
+                    <span class="related-label">下一期人民日报</span>
+                    <span class="related-date">1975-03-22</span>
+                </a>
+                
+            </section>
+        </div>
+
+        <div class="col-12 col-lg-3">
+            <aside class="sidebar-detail">
+                <div class="sidebar-card-detail">
+                    <div class="sidebar-card-header">
+                        <i class="fas fa-calendar-alt"></i>
+                        <h3 class="sidebar-title">跳转日期</h3>
+                    </div>
+                    <div class="sidebar-card-body">
+                        
+                        <form action="/renminribao/jump_news/" method="get" class="date-jump-form">
+                            
+                            <div>
+    <label for="datepicker">历史上的人民日报(1946-2003):</label>
+
+
+
+<input type="date" name="news_date" value="1949-10-01" id="datepicker" required>
+    
+      
+    
+</div>
+                            <button type="submit" class="btn-submit-date">
+                                <i class="fas fa-calendar-check"></i>
+                                查看
+                            </button>
+                        </form>
+                    </div>
+                </div>
+
+                
+                <div class="sidebar-card-detail ad-card">
+                    <div class="sidebar-card-body" style="padding: 10px; min-height: 280px;">
+                        <div class="ad-reserved">
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                            data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </aside>
+        </div>
+    </div>
+</div>
+
+<style>
+    .renminribao-detail {
+        --accent-color: #cc3333;
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 24px 20px 40px;
+    }
+
+    .renminribao-detail .article-header {
+        padding-bottom: 20px;
+        margin-bottom: 24px;
+        border-bottom: 2px solid rgba(204, 51, 51, 0.1);
+    }
+
+    .renminribao-detail .section-label {
+        font-size: 0.95rem;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--accent-color);
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .renminribao-detail .article-title {
+        font-size: 2.25rem;
+        font-weight: 700;
+        color: #000;
+        margin-bottom: 12px;
+    }
+
+    .renminribao-detail .article-meta {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+        color: #333;
+        font-size: 1rem;
+    }
+
+    .renminribao-detail .meta-item i {
+        margin-right: 6px;
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .article-actions {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+
+        align-items: center;
+        justify-content: center;
+        margin-top: 16px;
+    }
+
+    .renminribao-detail .action-link {
+        color: var(--accent-color);
+        font-weight: 600;
+    }
+
+    .renminribao-detail .btn-share {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: var(--accent-color);
+        color: #fff;
+        border-radius: 999px;
+        padding: 8px 18px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .btn-share:hover {
+        color: #fff;
+        background: #a82828;
+        text-decoration: none;
+        transform: translateY(-1px);
+    }
+
+    .renminribao-detail .date-navigation {
+        display: flex;
+        gap: 16px;
+        margin-top: 24px;
+        flex-wrap: wrap;
+    }
+
+    .renminribao-detail .nav-btn {
+        flex: 1 1 240px;
+        min-width: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 18px;
+        border: 1px solid rgba(204, 51, 51, 0.2);
+        border-radius: 16px;
+        color: #111;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .nav-btn i {
+        font-size: 1rem;
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .nav-btn:hover {
+        text-decoration: none;
+        border-color: var(--accent-color);
+        color: var(--accent-color);
+        box-shadow: 0 8px 20px rgba(204, 51, 51, 0.15);
+    }
+
+    .renminribao-detail .nav-btn-date {
+        font-size: 0.95rem;
+        opacity: 0.8;
+    }
+
+    .renminribao-detail .nav-btn-disabled {
+        background: #f5f5f5;
+        border-color: #e5e5e5;
+        color: #999;
+        cursor: not-allowed;
+    }
+
+    .renminribao-detail .article-content {
+        background: #fff;
+        border-radius: 24px;
+        padding: 8px 32px 24px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+    }
+
+    .renminribao-detail .content-section {
+        padding: 32px 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    }
+
+    .renminribao-detail .content-section:last-child {
+        border-bottom: none;
+    }
+
+    .renminribao-detail .content-heading {
+        font-size: 1.9rem;
+        font-weight: 700;
+        color: #111;
+        margin-bottom: 16px;
+        padding-left: 18px;
+        border-left: 4px solid var(--accent-color);
+    }
+
+    .renminribao-detail .content-body {
+        font-size: 1.12rem;
+        line-height: 1.9;
+        color: #1a1a1a;
+    }
+
+    .renminribao-detail .content-section,
+    .renminribao-detail .content-heading {
+        scroll-margin-top: 88px;
+    }
+
+    .renminribao-detail .content-body .content-kicker {
+        display: inline-block;
+        margin-bottom: 10px;
+        padding: 2px 10px;
+        border-radius: 999px;
+        background: rgba(204, 51, 51, 0.08);
+        color: var(--accent-color);
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-indent: 0;
+    }
+
+    .renminribao-detail .content-body .content-subtitle {
+        color: #555;
+        font-weight: 600;
+        text-indent: 0;
+        margin-bottom: 0.8rem;
+    }
+
+    .renminribao-detail .content-body p {
+        margin-bottom: 1rem;
+        text-indent: 2em;
+    }
+
+    .renminribao-detail .ad-section {
+        margin: 28px 0;
+        text-align: center;
+    }
+
+    .renminribao-detail .related-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        margin: 40px 0;
+    }
+
+    .renminribao-detail .related-link-card {
+        flex: 1 1 260px;
+        padding: 18px;
+        border-radius: 16px;
+        border: 1px solid rgba(204, 51, 51, 0.2);
+        background: rgba(204, 51, 51, 0.04);
+        color: #111;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .related-link-card:hover {
+        text-decoration: none;
+        border-color: var(--accent-color);
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(204, 51, 51, 0.15);
+    }
+
+    .renminribao-detail .related-label {
+        display: block;
+        font-size: 0.95rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--accent-color);
+        margin-bottom: 4px;
+    }
+
+    .renminribao-detail .related-date {
+        font-size: 1.1rem;
+    }
+
+    .renminribao-detail .sidebar-detail {
+        position: sticky;
+        top: 90px;
+    }
+
+    .renminribao-detail .sidebar-card-detail {
+        background: #fff;
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+        margin-bottom: 24px;
+        overflow: hidden;
+        border: 1px solid rgba(0, 0, 0, 0.04);
+    }
+
+    .renminribao-detail .sidebar-card-header {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 18px 20px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    }
+
+    .renminribao-detail .sidebar-card-header i {
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .sidebar-title {
+        margin: 0;
+        font-size: 1.1rem;
+        font-weight: 700;
+    }
+
+    .renminribao-detail .sidebar-card-body {
+        padding: 20px;
+    }
+
+    .renminribao-detail .date-jump-form button {
+        width: 100%;
+        border: none;
+        border-radius: 999px;
+        padding: 10px 16px;
+        background: var(--accent-color);
+        color: #fff;
+        font-weight: 600;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        transition: background 0.3s ease;
+    }
+
+    .renminribao-detail .date-jump-form button:hover {
+        background: #a82828;
+    }
+
+    .renminribao-detail .toc-nav {
+        max-height: 360px;
+        overflow-y: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+    @media (max-width: 1024px) {
+        .renminribao-detail {
+            padding: 16px;
+        }
+
+        .renminribao-detail .article-content {
+            padding: 16px;
+        }
+
+        .renminribao-detail .sidebar-detail {
+            position: static;
+            margin-top: 24px;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .renminribao-detail .article-title {
+            font-size: 1.75rem;
+        }
+
+        .renminribao-detail .date-navigation {
+            flex-direction: column;
+        }
+
+        .renminribao-detail .nav-btn {
+            flex: 1 1 auto;
+        }
+
+        .renminribao-detail .content-heading {
+            font-size: 1.5rem;
+        }
+
+        .renminribao-detail .content-body {
+            font-size: 1.05rem;
+        }
+    }
+</style>
+
+    </main>
+
+    <footer class="footer mt-auto py-3 bg-light">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <ul class="footer-links">
+                        <li><a href="/xinwenlianbo/">新闻联播文字版</a></li>
+                        <li><a href="/renminribao/">人民日报历史档案</a></li>
+                        <li><a href="/cankaoxiaoxi/">参考消息历史档案</a></li>
+                        <li><a href="/caipanwenshu/">裁判文书归档</a></li>
+                        <li><a href="/search/">站内搜索</a></li>
+                        <li><a href="/privacy/">隐私政策</a></li>
+                    </ul>
+                    <p class="mb-0">© 2026 cn.govopendata.com - 公开数据查询平台</p>
+                    
+                    <!-- Twitter分享按钮 - 使用固定域名而非动态获取 -->
+                        <a href="https://twitter.com/intent/tweet?url=https://cn.govopendata.com/renminribao/1975/03/21/1/"
+                           class="btn btn-sm btn-outline-primary twitter-share-button" 
+                           aria-label="分享到Twitter">
+                            <i class="fab fa-twitter"></i> 分享到Twitter
+                        </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <button id="back-to-top" class="btn back-to-top" title="返回顶部" aria-label="返回顶部">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+        <span class="sr-only">返回顶部</span>
+    </button>
+
+    <!-- 处理无JavaScript环境 -->
+    <noscript>
+        <style>
+            .back-to-top { display: none !important; }
+            img.lazy { opacity: 1 !important; }
+        </style>
+        <div class="alert alert-warning" role="alert">
+            请启用JavaScript以获得最佳体验。
+        </div>
+    </noscript>
+
+    
+</body>
+</html>

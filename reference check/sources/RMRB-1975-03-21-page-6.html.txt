@@ -1,0 +1,962 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="公开数据查询平台，提供新闻联播、人民日报、参考消息、裁判文书等权威信息的实时更新和历史数据查询服务。">
+    <meta name="keywords" content="新闻联播,人民日报,参考消息,裁判文书,公开数据,数据查询">
+
+    
+    
+    <link rel="canonical" href="https://cn.govopendata.com/renminribao/1975/03/21/6/" />
+    
+    
+        <link rel="alternate" hreflang="zh-Hans" href="https://cn.govopendata.com/renminribao/1975/03/21/6/">
+        <link rel="alternate" hreflang="x-default" href="https://cn.govopendata.com/renminribao/1975/03/21/6/">
+    
+    <meta name="description" content="人民日报电子版档案，覆盖1946-2003年重要版面与历史报道，可按年份、月份与日期检索。">
+    <meta name="keywords" content="人民日报,人民日报电子版,人民日报历史,人民网,中央日报">
+
+
+    
+
+    <!-- Twitter Card标签 - 优化卡片显示 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@govopendata">
+    <meta name="twitter:creator" content="@govopendata">
+    <meta name="twitter:title" content="人民日报 1975-03-21 第6版 电子版">
+    <meta name="twitter:description" content="1975年3月21日人民日报第{{ page
+}}版电子版，提供当日人民日报完整内容、实时更新、历史查询">
+    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png">
+    <meta name="twitter:image:alt" content="公开数据查询平台logo">
+    <meta name="twitter:url" content="https://cn.govopendata.com/renminribao/1975/03/21/6/">
+    
+    <!-- Open Graph 标签 (对Twitter和其他社交媒体都有效) -->
+    <meta property="og:url" content="https://cn.govopendata.com/renminribao/1975/03/21/6/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="人民日报 1975-03-21 第6版 电子版" />
+    <meta property="og:description" content="查阅人民日报电子版档案，获取1946-2003年重要报道与版面。" />
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png" />
+    <meta property="og:site_name" content="公开数据查询平台" />
+    
+    <!-- 预连接关键第三方域名 - 提升性能 -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+
+    <!-- 布局样式必须在首次绘制前生效，避免异步换肤造成整页位移。 -->
+    <!-- 静态文件名带内容哈希（ManifestStaticFilesStorage），nginx 的 immutable 长缓存才不会让改动卡在用户浏览器里 -->
+    <!-- 全站唯一样式表：design-system/modern-ui/layout/components/裁剪后的 Bootstrap/图标
+         按原顺序拼接而成，由 scripts/build_css.py 生成，改任何源 CSS 或模板后都要重跑 -->
+    <link rel="stylesheet" href="/static/css/site.9433fe1b5c14.css">
+    
+    
+<style>
+    /* Reserve room for common 250–300px creatives; do not collapse unfilled slots.
+       Larger fluid/automatic ads may still expand: never clip their content. */
+    .ad-section,
+    .ad-reserved {
+        min-height: 320px;
+    }
+
+    /* AdSense can reset ancestor min-height to 0 !important. An intrinsic
+       spacer still contributes to auto height without clipping the creative. */
+    .ad-reserved {
+        display: flow-root;
+    }
+
+    .ad-reserved::before {
+        content: "";
+        float: left;
+        width: 0;
+        height: 320px;
+        pointer-events: none;
+    }
+
+    /* Keep icon font swaps from changing the width of navigation and buttons. */
+    .fas,
+    .fab {
+        display: inline-block;
+        width: 1.25em;
+        text-align: center;
+    }
+
+    @media print {
+        .ad-section,
+        .ad-reserved {
+            display: none;
+        }
+    }
+</style>
+
+
+
+    <!-- 核心JavaScript -->
+    <script type="module">
+        document.addEventListener('DOMContentLoaded', () => {
+            // 移动端导航菜单折叠，替代 Bootstrap collapse 插件（站内不再加载 jQuery/Popper/Bootstrap JS）
+            const toggler = document.querySelector('.navbar-toggler');
+            const menu = toggler && document.getElementById(toggler.getAttribute('aria-controls'));
+            if (menu) {
+                toggler.addEventListener('click', () => {
+                    const open = menu.classList.toggle('show');
+                    toggler.classList.toggle('collapsed', !open);
+                    toggler.setAttribute('aria-expanded', String(open));
+                });
+            }
+
+            // 导航栏滚动效果
+            const navbar = document.querySelector('.navbar');
+            let lastScrollTop = 0;
+
+            // 优化滚动性能
+            const backToTop = document.getElementById('back-to-top');
+            let lastKnownScrollPosition = 0;
+            let ticking = false;
+
+            if (backToTop || navbar) {
+                document.addEventListener('scroll', () => {
+                    lastKnownScrollPosition = window.scrollY;
+                    if (!ticking) {
+                        window.requestAnimationFrame(() => {
+                            // 导航栏滚动效果
+                            if (navbar) {
+                                if (lastKnownScrollPosition > 50) {
+                                    navbar.classList.add('scrolled');
+                                } else {
+                                    navbar.classList.remove('scrolled');
+                                }
+                            }
+
+                            // 返回顶部按钮
+                            if (backToTop) {
+                                if (lastKnownScrollPosition > 100) {
+                                    backToTop.style.display = 'flex';
+                                    backToTop.classList.add('visible');
+                                } else {
+                                    backToTop.classList.remove('visible');
+                                    setTimeout(() => {
+                                        if (!backToTop.classList.contains('visible')) {
+                                            backToTop.style.display = 'none';
+                                        }
+                                    }, 300); // 等待过渡效果完成
+                                }
+                            }
+
+                            lastScrollTop = lastKnownScrollPosition;
+                            ticking = false;
+                        });
+                        ticking = true;
+                    }
+                }, { passive: true });
+
+                if (backToTop) {
+                    backToTop.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    });
+                }
+            }
+        });
+
+        // 简化的广告容器管理（为将来的 Google AdSense 准备）
+        // 当添加 AdSense 代码时，可以在这里添加简单的加载逻辑
+    </script>
+
+    <!-- 注意：安全头部应该在 nginx HTTP 响应头中设置，而不是 meta 标签 -->
+    <!-- X-Frame-Options, X-Content-Type-Options 等已在 nginx.conf 中配置 -->
+    
+<title>人民日报 1975-03-21 第6版电子版,人民日报历史</title>
+
+    
+    <link rel="icon" href="/static/favicon.6e88fbe0490a.ico">
+    
+    <!-- 结构化数据 -->
+    
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://cn.govopendata.com/renminribao/1975/03/21/6/"
+      },
+      "headline": "1975年3月21日人民日报第6版",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png",
+        "height": 800,
+        "width": 800
+      },
+      "datePublished": "1975-03-21T00:00:00+08:00",
+      "dateModified": "1975-03-21T00:00:00+08:00",
+      "author": {
+        "@type": "Organization",
+        "name": "人民日报社",
+        "url": "http://www.people.com.cn/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "人民日报社",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/People%27s_Daily_logo.png",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "description": "1975年3月21日人民日报第6版电子版，提供当日人民日报完整内容、实时更新、历史查询",
+      "articleSection": "新闻",
+      "keywords": "人民日报,1975-03-21,第6版,人民网,新闻",
+      "inLanguage": "zh-CN",
+      "isAccessibleForFree": "True",
+      "articleBody": "1975年3月21日人民日报第6版页面摘要，收录本版 5 篇文章并支持逐篇阅读与日期跳转。"
+    }
+    </script>
+
+
+    <!-- 本地预览不向生产 GA 发送流量。 -->
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NESVRSV0K"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-7NESVRSV0K', {
+            // Do not transmit search terms, URL tokens or fragment identifiers.
+            'page_location': location.origin + location.pathname,
+            'page_referrer': document.referrer ? new URL(document.referrer).origin + '/' : '',
+            'anonymize_ip': true,
+            'cookie_flags': 'SameSite=None;Secure'
+        });
+    </script>
+    
+    <script defer src="/static/js/business-analytics.cbd318a76718.js"></script>
+
+    <script>
+        // Clarity延迟加载优化 - 用户交互或3秒后加载（不影响GA/AdSense）
+        (function(){
+            var clarityLoaded = false;
+            var loadClarity = function(){
+                if (clarityLoaded) return;
+                clarityLoaded = true;
+                (function(c,l,a,r,i,t,y){
+                    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                })(window, document, "clarity", "script", "8xt1bc41fx");
+            };
+
+            // 用户交互时加载
+            var events = ['scroll', 'click', 'mousemove', 'touchstart'];
+            events.forEach(function(event) {
+                window.addEventListener(event, loadClarity, {once: true, passive: true});
+            });
+
+            // 3秒后兜底加载
+            setTimeout(loadClarity, 3000);
+        })();
+    </script>
+
+    
+    
+    <!-- adsense 自动广告代码 - 默认账号 -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6097273492653659"
+    crossorigin="anonymous"></script>
+    
+    
+
+    <script type="speculationrules">
+    {
+        "prefetch": [{
+            "where": {
+                "and": [
+                    { "href_matches": "/*" },
+                    { "not": { "href_matches": "/ads.txt" } }
+                ]
+            },
+            "eagerness": "moderate"
+        }]
+    }
+    </script>
+</head>
+
+<body data-ad-eligibility="eligible">
+    <!-- 跳转到主要内容的链接 -->
+    <a href="#main-content" class="sr-only sr-only-focusable">跳转到主要内容</a>
+
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top" role="navigation" aria-label="主导航">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">
+                cn.govopendata.com
+            </a>
+            <button class="navbar-toggler" type="button" aria-controls="navbarContent" aria-expanded="false" aria-label="切换导航">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/" aria-current="page">首页</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/xinwenlianbo/">新闻联播</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/renminribao/">人民日报</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/cankaoxiaoxi/">参考消息</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/caipanwenshu/">裁判文书</a>
+                    </li>
+                </ul>
+
+                
+                <form class="form-inline my-2 my-lg-0 search-form" action="/search/" method="get" role="search">
+                    <input class="form-control mr-sm-2 search-input" type="search" name="q" placeholder="搜索" aria-label="搜索网站内容">
+                    <button class="btn btn-outline-light my-2 my-sm-0" type="submit" aria-label="提交搜索">搜索</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Google AdSense 广告位预留
+    <div class="adsense-container text-center" style="padding: 10px 0;">
+        <div class="container-fluid">
+            在这里添加 Google AdSense 代码
+        </div>
+    </div>
+    -->
+
+    <main id="main-content" class="main-content" role="main" data-archive-available="false">
+        
+<div class="container-fluid detail-container renminribao-detail">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <header class="article-header">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">首页</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/">人民日报</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/">1975年</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/03/">3月</a></li>
+                    <li class="breadcrumb-item"><a href="/renminribao/1975/03/21/">21日</a></li>
+                    <li class="breadcrumb-item active">第6版</li>
+                </ol>
+                <p class="section-label">人民日报电子版</p>
+                <h1 class="article-title">
+                    1975年3月21日 · 第6版
+                </h1>
+                <div class="article-meta">
+                    <span class="meta-item">
+                        <i class="fas fa-calendar-alt"></i>
+                        1975-03-21
+                    </span>
+                    <span class="meta-item">
+                        <i class="fas fa-layer-group"></i>
+                        第6版
+                    </span>
+                </div>
+                <div class="article-actions">
+                    <a href="/renminribao/1975/03/21/"
+                        class="action-link">
+                        查看当天全部版面
+                    </a>
+                    <a href="https://twitter.com/intent/tweet?url=https://cn.govopendata.com/renminribao/1975/03/21/6/"
+                        class="btn-share" aria-label="分享到Twitter">
+                        <i class="fab fa-twitter"></i>
+                        分享这一版
+                    </a>
+                </div>
+
+            </header>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 col-lg-9">
+            <main class="article-content">
+                
+<details class="reading-toc">
+    <summary>本页目录（5 篇）</summary>
+    <nav aria-label="本页文章目录">
+        <ol>
+            
+            <li><a href="#article-460676">第三世界自力更生积极发展民族工业  坦桑尼亚重视恢复手工业和发展小工业　斯里兰卡大力发展小型工业  摩洛哥发展民族工业取得成就　秘鲁和阿尔及利亚签署矿业合作协定</a></li>
+            
+            <li><a href="#article-460677">勃列日涅夫农业政策破产的十年</a></li>
+            
+            <li><a href="#article-460678">口蜜腹剑的假朋友</a></li>
+            
+            <li><a href="#article-460679">面上“朋友”　台下踢脚  印报揭露苏修在印度搞间谍阴谋活动</a></li>
+            
+            <li><a href="#article-460680">非洲统一组织解放委员会发表声明  强烈谴责南部非洲种族主义政权暗杀契特波  索尔兹伯里大学非洲学生游行示威抗议杀害契特波的卑劣行径</a></li>
+            
+        </ol>
+    </nav>
+</details>
+
+
+                
+                <article class="content-section" id="article-460676">
+                    <h2 class="content-heading" id="460676">第三世界自力更生积极发展民族工业  坦桑尼亚重视恢复手工业和发展小工业　斯里兰卡大力发展小型工业  摩洛哥发展民族工业取得成就　秘鲁和阿尔及利亚签署矿业合作协定</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>据新华社达累斯萨拉姆一九七五年三月十八日电　坦桑尼亚政府和人民自力更生发展小工业，取得了积极成果。据统计，现在坦桑尼亚已经建立手工业作坊六百多个，小工厂三百七十多个。</p>
+<p>坦桑尼亚政府一直积极采取措施，大力恢复手工业，发展小工业。坦桑尼亚政府特意建立小工业发展局，并在全国各专区配备了专职官员，负责指导各地小工业的建设。</p>
+<p>坦桑尼亚政府特别注意恢复和发展独立前被殖民主义扼杀的传统的手工业。马孔德族人民精湛的木刻工艺又恢复了青春，远销世界各地，仅一九七三年就为国家增加了六百六十万坦桑尼亚先令的外汇。桑给巴尔政府订购了大批草席，既调动了农民生产的积极性，又改变了桑给巴尔过去每年动用大批外汇进口草席的状况。</p>
+<p>坦桑尼亚在发展小工业时，注意就地取材，自力更生。在卢肖托县生长着一种“金合欢”树，树皮可以提炼制造皮革用的丹宁酸。一九六七年，坦桑尼亚政府把殖民主义建立的提炼丹宁酸的工厂收归国有，并辞退了外国经理和工程师，任命坦桑尼亚人担任这些领导职务，从此，生产蒸蒸日上，年年增产。</p>
+<p>坦桑尼亚政府强调小工业支援农业生产，鼓励地方和农村自力更生兴办打铁、制砖、制盐、造纸、提炼食油、制造肥皂等小工厂、小作坊。</p>
+<p>新华社科伦坡电　斯里兰卡近年来自力更生地发展小型工业，取得了显著成就。</p>
+<p>到一九七四年九月，全国已拥有小型工业单位七百多个，能够生产农机具、肥料、药品、皮革、糖、陶器、砖瓦等生产和人民日常生活必需的产品。这些小型工业的共同特点是投资少，建设快，收效快，并可使用当地的原材料。因而，不仅迅速发展了生产，而且能通过生产积累资金，在民族经济中发挥着有益的作用。</p>
+<p>为了帮助这些小型工厂提高技术，一九七三年以来，斯里兰卡政府在全国各地建立了十个中型的轻工业机械推广站。推广站共投资一百一十四万卢比，去年产品的总值已达一百九十万卢比。</p>
+<p>新华社拉巴特电　摩洛哥积极利用本国资源发展民族工业，一些工业品已经实现了自给或部分自给，有些工业产品的出口量迅速增加。</p>
+<p>摩洛哥磷酸盐资源丰富，是世界最大的磷酸盐输出国。过去在殖民统治下，摩洛哥没有自己的磷酸盐化工业，现在摩洛哥的这些工业产品逐步做到了自给并且有所出口。据官方统计，一九七二年，摩洛哥出口的磷肥达三十五万七千多吨，磷酸和硫酸也已运销国外。</p>
+<p>过去，摩洛哥所需的食糖全部依靠进口。独立后，政府采取积极措施发展糖料作物的生产和建立制糖工业。首先在水利、肥料和信贷等方面提供便利条件鼓励扩大甜菜生产。同时在甜菜产区相继建立了八座糖厂。据统计，一九七三年，全国食糖产量达二十二万吨，满足了本国需要量的百分之五十一。</p>
+<p>摩洛哥政府先后对一些外国人经营的水泥厂实行摩洛哥化并扩大其生产能力，同时建立了一些新厂，水泥产量迅速提高。过去摩洛哥所需水泥大部分是进口的，到一九七四年已经实现了自给。</p>
+<p>新华社利马一九七五年三月十九日电秘鲁政府和阿尔及利亚政府最近签署了一项矿业合作协定。</p>
+<p>根据这项协定，两国将派矿业方面的代表团进行互访，以便加强技术交流，增加两国间的贸易。</p>
+<p>协定还规定，秘鲁向阿尔及利亚出售的矿产品的价格将每年进行调整，以便避免由于西方国家通货膨胀造成的损失。（附图片）</p>
+<p>坦桑尼亚发扬自力更生精神，利用本国生产的棉花，发展纺织工业。图为达累斯萨拉姆友谊纺织厂的女工在车间工作。　新华社发</p>
+                    </div>
+                </article>
+                
+                
+                
+                <div class="ad-section">
+                    <div class="ad-reserved">
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                        data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                </div>
+                
+                
+                
+                <article class="content-section" id="article-460677">
+                    <h2 class="content-heading" id="460677">勃列日涅夫农业政策破产的十年</h2>
+                    <div class="content-body" data-reading-body>
+                        <p class="content-subtitle">新华社记者述评</p>
+<p>日益严重的苏联农业状况，早已是举世共知的，也是克里姆林宫内部争斗的一个焦点。但是，勃列日涅夫总是千方百计加以掩饰，甚至无耻吹嘘。最近，勃列日涅夫指令苏联报刊为他上台后在一九六五年三月举行的中央全会十周年发表文章，宣传这次全会是苏联农业的一个“转折点”，开创了“新阶段”，而勃列日涅夫在发展农业方面“作出重大的个人贡献”云云。</p>
+<p>苏联报刊的这些言不由衷的吹捧，倒引起了人们的兴趣。我们不妨来分析一下，苏联的农业这十年来出现了怎样的“转折”，勃列日涅夫又作出了什么“重大的个人贡献”。</p>
+<p>在这十年里，苏联粮食和其它一些主要农产品的产量极不稳定。十年中有六年粮食减产。而在目前正在执行的第九个五年计划的前四年里，粮食就减产三次。从一九七一年到一九七四年，粮食比原订计划少生产了一千二百四十五万吨。去年产量比前年少二千七百万吨。根据苏联官方公布的数字，作为制糖和榨油主要原料的甜菜和向日葵籽，以及居民生活中消费量很大的土豆，第九个五年计划前四年的平均产量，全都低于第八个五年计划的年平均产量。一九七三年，甜菜、向日葵、土豆、蔬菜的收购计划都未完成。一九七四年，这些作物又比一九七三年有大幅度的减产。</p>
+<p>畜牧业的状况更为严重。早在赫鲁晓夫统治时期，畜牧业就是苏联农业中最落后的部门，勃列日涅夫上台后，情况仍然很糟糕。十年来，猪的存栏头数多次大幅度下降。一九六八——一九六九两年内就减少九百万头。一九七三年初比一九七二年初减少四百八十万头。一九六五年到一九七五年间，只有三个年头达到或略微超过一九六三年的水平。这十一年间，猪每年的平均存栏头数比一九六三年减少约八百七十万头。奶牛和羊的存栏头数近十年来始终徘徊不前，一些年度也大幅度减少。第九个五年计划前四年，肉、奶、羊毛生产都没有完成原订计划指标。苏联最高苏维埃联盟院计划预算委员会主席瓦申科最近承认：“在发展饲料基地，提高牲畜产品率和牲畜繁殖方面的落后现象阻碍了畜产品生产的扩大。”</p>
+<p>面对粮食歉收和其它农产品严重不足的局面，勃列日涅夫向资本主义国家大量购买粮食，加紧盘剥其“大家庭”的“兄弟”，以求摆脱市场供应紧张的困境。在这方面，勃列日涅夫倒真是作出了“重大的个人贡献”，开创了“新阶段”。近十年来，苏联共进口粮食七千多万吨，比这以前的十年间增加了十倍。一九七三年是苏联历史上进口粮食创纪录的一年，达二千三百九十万吨。苏联除长期从古巴进口食糖外，还从巴西等国抢购食糖。它的蔬菜、水果、肉、奶等，也需仰赖于东欧。苏联商业部长供认，从这些国家进口的蔬菜、水果和果品蔬菜罐头“对我国这些产品的销售量的增长有着相当大的影响”。勃列日涅夫一再吹嘘的“使农业生产得到很大增长，从而近几年内即可不断扩大和改善居民的食品供应和工业原料的供应”的牛皮，实际上早已破产。</p>
+<p>苏联农业之所以出现如此严重局面，是因为在这十年里，勃列日涅夫在执行修正主义的农业路线和政策方面，比他的前任赫鲁晓夫走得更远。</p>
+<p>赫鲁晓夫修正主义集团篡权以后，使苏联原来的集体农庄和国营农场蜕化变质，农业劳动者重新沦为受压迫、受剥削的雇佣奴隶。勃列日涅夫上台后，制订了《土地立法原则》、公开废除三十年代的《农业劳动组合示范章程》而代之以新的章程，从立法上肯定了农业中的业已复辟的资本主义生产关系。结果，农村中两极分化更加尖锐，劳动人民备受剥削压迫，丧失劳动积极性，农业生产力进一步遭到严重破坏。农民不堪受剥削与压迫，纷纷流出农村。据苏联《记者》杂志透露，从一九五九年到一九七○年，每年平均有一百五十万人流出农村，近年来，每年达二百万人。在一九六五年三月全会和以后的一些会议上，勃列日涅夫一伙多次表示要“坚决加强”农业的“物质技术装备”，给农业提供大量机械、化肥和电力，并把这说成是实现农业发展纲领的“保证”，是解决农业问题的“途径”。然而，由于勃列日涅夫在推行社会帝国主义侵略扩张政策方面比赫鲁晓夫更加疯狂，大量人力、物力用于扩军备战，这方面的许诺大都落了空。在第八个五年计划期间，向农业提供的拖拉机、载重汽车和谷物联合收割机等主要设备和物资，都没有完成原订计划。第九个五年计划前四年，向农业提供拖拉机的计划年年完不成，谷物收割机除一九七一年达到原订指标外，其余三年也都没有完成计划。根据苏联官方的材料计算，现有农业机械装备比需要量少三分之二，动力装备少五分之四到六分之五，农业用电量比需要量少三分之二，化肥少百分之七十一至七十五。</p>
+<p>由于勃列日涅夫集团在企业中大力推行利润挂帅的资本主义经营方针，工业企业不愿生产盈利少的农业机械及其零备件，这也是为农业提供物质技术设备计划连年完不成的重要原因之一。而且这些企业生产的为数不多的农业机械，还都是粗制滥造的，质量极差。某些机器花费在保养和维修上的费用“超过机器原价数倍”，本来规定的使用期为八、九年的机器，实际三、四年就报废了。据苏联报刊透露，目前农业中使用的机械有百分之六十一到六十五已经磨损需要更换，而由于缺乏零备件，“一些大的农业区……农机修理工作很落后”，“许多地区有百分之十五到二十的农业机器不能使用”。</p>
+<p>勃列日涅夫上台后，曾经多次表示要实行“广泛的土壤改良计划”，十年过去了，苏联农田基本建设仍然十分落后。耕地面积不断缩小，大量土地荒芜和被盐碱风沙侵蚀的现象继续严重存在。水利建设速度缓慢，常常不能按时完工。有些水利设施长年失修，已不能再用。改良过的土地使用效率也很低。苏联《经济报》透露：“在非黑土地带、远东、乌克兰的波列西耶地区和白俄罗斯的许多地区，（土壤改良）工作情况是十分落后的。”到目前为止，苏联水浇地在耕地面积中仅占百分之五左右。在谷物种植面积中只占百分之二左右。农业抗灾能力差，勃列日涅夫许下的“缩小农业对自然力的依赖”的诺言落了空。</p>
+<p>但是，勃列日涅夫从不承认自己农业政策的失败，而且总是把一切错误推到别人身上。在一九七二年农业大减产之后，勃列日涅夫把农业部长马茨凯维奇撤了职。当水利工作进展缓慢而受到各方面责难时，勃列日涅夫集团则以党中央名义作出决议，把责任推给土壤改良和水利部。再不然，就把减产归咎于“天气不好”。</p>
+<p>在农业一再减产的情况下，苏修统治集团在农业政策上的争吵进一步激化。去年苏修中央十二月全会前后，勃列日涅夫亲自主管的、被认为是勃列日涅夫“作出重大的个人贡献”的农业工作，受到指责。去年十一月，柯西金在吉尔吉斯的讲话中，抱怨农业落后“影响了其它经济部门”。十二月全会之后召开的最高苏维埃会议上，苏联部长会议副主席、国家计划委员会主席巴伊巴科夫指出，由于“缺少农业产品”，影响了消费品工业计划的完成。联盟院计划预算委员会主席瓦申科批评农业工作存在“重大缺点”。从十一月下旬开始，《消息报》连续发表大谈一九七四年农业“教训”的文章，指责农业中存在的问题，特别是批评了“尽管天气不好，收成还不坏”的说法。</p>
+<p>事实表明，过去的十年，是勃列日涅夫农业政策破产的十年。在这种情况下，还大谈什么“转折点”和勃列日涅夫“重大的个人贡献”，不仅是可笑的，简直是可悲的。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460678">
+                    <h2 class="content-heading" id="460678">口蜜腹剑的假朋友</h2>
+                    <div class="content-body" data-reading-body>
+                        <p class="content-subtitle">董方</p>
+<p>三月十七日，印度国防部长斯·辛格在印度联邦院碰到了一个难题。他在答复问题时，尽管躲躲闪闪地承认印度最近破获的一件间谍案中牵连到“一个或几个外国人”，却不敢直说究竟是那国人。倒是印度报纸直接了当地指出，那“几个外国人”不是别人，正是印度的所谓“亲密朋友”苏修的驻印人员。</p>
+<p>原来，苏修在印度收买了两名印度军官，搜集印度的秘密军事情报。事情败露之后，印度军官遭到判刑，而与之有关的苏修人员被驱逐出境。</p>
+<p>这件事情，不能不激起印度舆论的强烈愤慨。因为苏修一向吹嘘它对印度是如何如何的“友好”。就在这个间谍案被破获前不久，苏修国防部长格列奇科率领一个庞大、高级的军事代表团访问了印度。他在印度期间到处吹嘘“苏印友谊经受了时间的考验”，宣称苏修把“印度看作是他们的亲密的友好邻国和可靠朋友”。真是甜言蜜语，说的比唱的还好听。然而，为时不久，苏修驻印度人员却利用一切机会，在“好朋友”家里大搞间谍活动。这就在印度人民面前戳穿了格列奇科之流高唱的所谓“苏印友谊”，完全是骗人的鬼话。</p>
+<p>苏修在印度的丑行，又一次清楚地暴露了它的社会帝国主义的面目。为了争霸世界，扩张渗透，苏修在世界上到处进行间谍活动。它不但对自己的对手搞，也对自己的“朋友”搞。它口蜜腹剑，明抢暗偷，不择手段，即使被人当场拿获，驱逐出境，也决不甘心停止这种罪恶勾当。这一切，都是由它的社会帝国主义的本性所决定的。</p>
+<p>印度国防部长说什么“没有查明”印度军官的罪行，他们只不过是从“外国人”手里接受了“一瓶白兰地”而已。难道印度军官仅仅因为接受了“一瓶白兰地”就要被判处徒刑和降级使用，而送“一瓶白兰地”的那“几个外国人”也要被驱逐出境吗？斯·辛格先生可能是碍于“情面”，不便多说，但是苏修这个“朋友”的丑恶嘴脸，不是几句虚饰之词可以掩盖得了的。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460679">
+                    <h2 class="content-heading" id="460679">面上“朋友”　台下踢脚  印报揭露苏修在印度搞间谍阴谋活动</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社一九七五年三月十九日讯　新德里消息：印度报纸最近揭露了苏联在印度进行间谍活动和其它阴谋活动的丑恶行径。</p>
+<p>据《印度斯坦时报》三月十四日报道，苏联利用两名印度空军军官大肆收集印度的秘密情报。这两名军官是在一个秘密的火箭工程中工作的航空工程师。他们向苏联提供了两年半的秘密情报。印度情报官员发现，苏联人在印度喀拉拉邦的一家旅馆里把一大笔钱交给他们当中的一个人，作为对他们提供情报的报酬。他们随即被捕，其中一个被军事法庭判了罪。</p>
+<p>据法新社报道，在这家报纸发表了这个消息之后，印度国防部长斯·辛格三月十七日在议会答复问题时说，同这个案件有牵连的“一个或几个外国人”已经不在印度。他还说：“你们自己可以得出结论”。</p>
+<p>在揭露这件事之前，《印度斯坦时报》三月十日还揭露，苏联官员曾偷偷地参加印度执政党国大党的一个秘密会议。</p>
+<p>这家报纸说，国大党三月初在奥里萨邦举行的秘密会议上，人们发现有四个苏联人在场。他们是苏联驻印度大使馆的二等秘书、苏联驻加尔各答副领事和两名苏联的“大学校长”。</p>
+<p>报纸还说，这些苏联人据说是为了“执行文化方面的任务”而前往奥里萨邦的。消息指出，这个会议“甚至许多国大党人都没有被邀请参加”。</p>
+<p>消息说，苏联人参与印度执政党的秘密会议的事引起了印度政界人士的忧虑。一些国大党人，包括某些高级领导人在内，被“外国人打进印度政治生活”这件事弄得很狼狈。</p>
+                    </div>
+                </article>
+                
+                
+                
+                
+                
+                <article class="content-section" id="article-460680">
+                    <h2 class="content-heading" id="460680">非洲统一组织解放委员会发表声明  强烈谴责南部非洲种族主义政权暗杀契特波  索尔兹伯里大学非洲学生游行示威抗议杀害契特波的卑劣行径</h2>
+                    <div class="content-body" data-reading-body>
+                        <p>新华社达累斯萨拉姆一九七五年三月十九日电非洲统一组织解放委员会三月十九日在这里发表声明，强烈谴责种族主义政权暗杀津巴布韦非洲民族联盟最高委员会主席契特波。</p>
+<p>声明指出，这一残暴的暗杀行动，是南部非洲的种族主义政权以及它们的外国主子企图阻止非洲这一地区革命的历史趋势的又一垂死挣扎的表现。</p>
+<p>声明指出，种族主义政权对于和平解决是毫无兴趣的。声明强调说，这些狂热的种族主义分子最能理解的语言就是武力的语言。</p>
+<p>声明呼吁津巴布韦自由战士作好准备，用各种方法加强各方面的斗争。</p>
+<p>新华社一九七五年三月二十日讯　索尔兹伯里消息：在索尔兹伯里大学学习的非洲学生三月十九日举行游行示威，强烈抗议罗得西亚种族主义者暗杀津巴布韦非洲民族联盟最高委员会主席契特波的卑鄙行径。</p>
+<p>这一天，数百名非洲学生到索尔兹伯里市场广场去进行抗议示威。当他们途经索尔兹伯里当局办公楼前时，罗得西亚反动当局竟出动警察进行镇压，逮捕了一些示威学生。</p>
+<p>当天，非洲学生还汇集到津巴布韦非洲民族联盟领导人罗伯特·穆加贝的住所前，表示悼念契特波主席。</p>
+<p>据报道，一部分非洲学生还举行绝食斗争，抗议敌人杀害契特波的罪行。</p>
+                    </div>
+                </article>
+                
+                
+                
+            </main>
+
+            
+            <div class="ad-section banner-bottom">
+                <div class="ad-reserved">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                    data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                </div>
+            </div>
+            
+
+            <section class="related-links">
+                
+                <a class="related-link-card" href="/renminribao/1975/03/20/">
+                    <span class="related-label">上一期人民日报</span>
+                    <span class="related-date">1975-03-20</span>
+                </a>
+                
+                
+                <a class="related-link-card" href="/cankaoxiaoxi/1975/03/21/">
+                    <span class="related-label">同日参考消息</span>
+                    <span class="related-date">1975-03-21</span>
+                </a>
+                
+                
+                <a class="related-link-card" href="/renminribao/1975/03/22/">
+                    <span class="related-label">下一期人民日报</span>
+                    <span class="related-date">1975-03-22</span>
+                </a>
+                
+            </section>
+        </div>
+
+        <div class="col-12 col-lg-3">
+            <aside class="sidebar-detail">
+                <div class="sidebar-card-detail">
+                    <div class="sidebar-card-header">
+                        <i class="fas fa-calendar-alt"></i>
+                        <h3 class="sidebar-title">跳转日期</h3>
+                    </div>
+                    <div class="sidebar-card-body">
+                        
+                        <form action="/renminribao/jump_news/" method="get" class="date-jump-form">
+                            
+                            <div>
+    <label for="datepicker">历史上的人民日报(1946-2003):</label>
+
+
+
+<input type="date" name="news_date" value="1949-10-01" id="datepicker" required>
+    
+      
+    
+</div>
+                            <button type="submit" class="btn-submit-date">
+                                <i class="fas fa-calendar-check"></i>
+                                查看
+                            </button>
+                        </form>
+                    </div>
+                </div>
+
+                
+                <div class="sidebar-card-detail ad-card">
+                    <div class="sidebar-card-body" style="padding: 10px; min-height: 280px;">
+                        <div class="ad-reserved">
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6097273492653659"
+                            data-ad-slot="7757138659" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </aside>
+        </div>
+    </div>
+</div>
+
+<style>
+    .renminribao-detail {
+        --accent-color: #cc3333;
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 24px 20px 40px;
+    }
+
+    .renminribao-detail .article-header {
+        padding-bottom: 20px;
+        margin-bottom: 24px;
+        border-bottom: 2px solid rgba(204, 51, 51, 0.1);
+    }
+
+    .renminribao-detail .section-label {
+        font-size: 0.95rem;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--accent-color);
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .renminribao-detail .article-title {
+        font-size: 2.25rem;
+        font-weight: 700;
+        color: #000;
+        margin-bottom: 12px;
+    }
+
+    .renminribao-detail .article-meta {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+        color: #333;
+        font-size: 1rem;
+    }
+
+    .renminribao-detail .meta-item i {
+        margin-right: 6px;
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .article-actions {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+
+        align-items: center;
+        justify-content: center;
+        margin-top: 16px;
+    }
+
+    .renminribao-detail .action-link {
+        color: var(--accent-color);
+        font-weight: 600;
+    }
+
+    .renminribao-detail .btn-share {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: var(--accent-color);
+        color: #fff;
+        border-radius: 999px;
+        padding: 8px 18px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .btn-share:hover {
+        color: #fff;
+        background: #a82828;
+        text-decoration: none;
+        transform: translateY(-1px);
+    }
+
+    .renminribao-detail .date-navigation {
+        display: flex;
+        gap: 16px;
+        margin-top: 24px;
+        flex-wrap: wrap;
+    }
+
+    .renminribao-detail .nav-btn {
+        flex: 1 1 240px;
+        min-width: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 18px;
+        border: 1px solid rgba(204, 51, 51, 0.2);
+        border-radius: 16px;
+        color: #111;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .nav-btn i {
+        font-size: 1rem;
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .nav-btn:hover {
+        text-decoration: none;
+        border-color: var(--accent-color);
+        color: var(--accent-color);
+        box-shadow: 0 8px 20px rgba(204, 51, 51, 0.15);
+    }
+
+    .renminribao-detail .nav-btn-date {
+        font-size: 0.95rem;
+        opacity: 0.8;
+    }
+
+    .renminribao-detail .nav-btn-disabled {
+        background: #f5f5f5;
+        border-color: #e5e5e5;
+        color: #999;
+        cursor: not-allowed;
+    }
+
+    .renminribao-detail .article-content {
+        background: #fff;
+        border-radius: 24px;
+        padding: 8px 32px 24px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+    }
+
+    .renminribao-detail .content-section {
+        padding: 32px 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    }
+
+    .renminribao-detail .content-section:last-child {
+        border-bottom: none;
+    }
+
+    .renminribao-detail .content-heading {
+        font-size: 1.9rem;
+        font-weight: 700;
+        color: #111;
+        margin-bottom: 16px;
+        padding-left: 18px;
+        border-left: 4px solid var(--accent-color);
+    }
+
+    .renminribao-detail .content-body {
+        font-size: 1.12rem;
+        line-height: 1.9;
+        color: #1a1a1a;
+    }
+
+    .renminribao-detail .content-section,
+    .renminribao-detail .content-heading {
+        scroll-margin-top: 88px;
+    }
+
+    .renminribao-detail .content-body .content-kicker {
+        display: inline-block;
+        margin-bottom: 10px;
+        padding: 2px 10px;
+        border-radius: 999px;
+        background: rgba(204, 51, 51, 0.08);
+        color: var(--accent-color);
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-indent: 0;
+    }
+
+    .renminribao-detail .content-body .content-subtitle {
+        color: #555;
+        font-weight: 600;
+        text-indent: 0;
+        margin-bottom: 0.8rem;
+    }
+
+    .renminribao-detail .content-body p {
+        margin-bottom: 1rem;
+        text-indent: 2em;
+    }
+
+    .renminribao-detail .ad-section {
+        margin: 28px 0;
+        text-align: center;
+    }
+
+    .renminribao-detail .related-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        margin: 40px 0;
+    }
+
+    .renminribao-detail .related-link-card {
+        flex: 1 1 260px;
+        padding: 18px;
+        border-radius: 16px;
+        border: 1px solid rgba(204, 51, 51, 0.2);
+        background: rgba(204, 51, 51, 0.04);
+        color: #111;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .renminribao-detail .related-link-card:hover {
+        text-decoration: none;
+        border-color: var(--accent-color);
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(204, 51, 51, 0.15);
+    }
+
+    .renminribao-detail .related-label {
+        display: block;
+        font-size: 0.95rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--accent-color);
+        margin-bottom: 4px;
+    }
+
+    .renminribao-detail .related-date {
+        font-size: 1.1rem;
+    }
+
+    .renminribao-detail .sidebar-detail {
+        position: sticky;
+        top: 90px;
+    }
+
+    .renminribao-detail .sidebar-card-detail {
+        background: #fff;
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+        margin-bottom: 24px;
+        overflow: hidden;
+        border: 1px solid rgba(0, 0, 0, 0.04);
+    }
+
+    .renminribao-detail .sidebar-card-header {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 18px 20px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    }
+
+    .renminribao-detail .sidebar-card-header i {
+        color: var(--accent-color);
+    }
+
+    .renminribao-detail .sidebar-title {
+        margin: 0;
+        font-size: 1.1rem;
+        font-weight: 700;
+    }
+
+    .renminribao-detail .sidebar-card-body {
+        padding: 20px;
+    }
+
+    .renminribao-detail .date-jump-form button {
+        width: 100%;
+        border: none;
+        border-radius: 999px;
+        padding: 10px 16px;
+        background: var(--accent-color);
+        color: #fff;
+        font-weight: 600;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        transition: background 0.3s ease;
+    }
+
+    .renminribao-detail .date-jump-form button:hover {
+        background: #a82828;
+    }
+
+    .renminribao-detail .toc-nav {
+        max-height: 360px;
+        overflow-y: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+    @media (max-width: 1024px) {
+        .renminribao-detail {
+            padding: 16px;
+        }
+
+        .renminribao-detail .article-content {
+            padding: 16px;
+        }
+
+        .renminribao-detail .sidebar-detail {
+            position: static;
+            margin-top: 24px;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .renminribao-detail .article-title {
+            font-size: 1.75rem;
+        }
+
+        .renminribao-detail .date-navigation {
+            flex-direction: column;
+        }
+
+        .renminribao-detail .nav-btn {
+            flex: 1 1 auto;
+        }
+
+        .renminribao-detail .content-heading {
+            font-size: 1.5rem;
+        }
+
+        .renminribao-detail .content-body {
+            font-size: 1.05rem;
+        }
+    }
+</style>
+
+    </main>
+
+    <footer class="footer mt-auto py-3 bg-light">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <ul class="footer-links">
+                        <li><a href="/xinwenlianbo/">新闻联播文字版</a></li>
+                        <li><a href="/renminribao/">人民日报历史档案</a></li>
+                        <li><a href="/cankaoxiaoxi/">参考消息历史档案</a></li>
+                        <li><a href="/caipanwenshu/">裁判文书归档</a></li>
+                        <li><a href="/search/">站内搜索</a></li>
+                        <li><a href="/privacy/">隐私政策</a></li>
+                    </ul>
+                    <p class="mb-0">© 2026 cn.govopendata.com - 公开数据查询平台</p>
+                    
+                    <!-- Twitter分享按钮 - 使用固定域名而非动态获取 -->
+                        <a href="https://twitter.com/intent/tweet?url=https://cn.govopendata.com/renminribao/1975/03/21/6/"
+                           class="btn btn-sm btn-outline-primary twitter-share-button" 
+                           aria-label="分享到Twitter">
+                            <i class="fab fa-twitter"></i> 分享到Twitter
+                        </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <button id="back-to-top" class="btn back-to-top" title="返回顶部" aria-label="返回顶部">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+        <span class="sr-only">返回顶部</span>
+    </button>
+
+    <!-- 处理无JavaScript环境 -->
+    <noscript>
+        <style>
+            .back-to-top { display: none !important; }
+            img.lazy { opacity: 1 !important; }
+        </style>
+        <div class="alert alert-warning" role="alert">
+            请启用JavaScript以获得最佳体验。
+        </div>
+    </noscript>
+
+    
+</body>
+</html>
