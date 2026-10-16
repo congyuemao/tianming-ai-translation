@@ -26,7 +26,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 16 日已推进至[第四十一轮](reference%20check/2026-10-16-round41.md)：核对用户提供的模糊BBC西安广播扫描，依据可辨出处与目标段要素，对照Harris清晰底本落实加班费相关引文10-28、10-29。待核由80降至78处，累计147处已落实、25处部分核实、53处已检索未落实。扫描原样保存，放大图保留重影与粘连，不将书中文字反填为BBC逐字录文。已补第9章注19，并同步此前第8章周恩来校注移位后的台账定位；现行章节有534条章末注。材料见[来源目录](reference%20check/sources/README.md)。PDF/HTML仍为10月15日润色版，尚未包含第37—41轮及校注移位修改。
+2026 年 10 月 16 日已推进至[第四十二轮](reference%20check/2026-10-16-round42.md)：在用户附件PDF第5页定位FE/4862/i所载《人民日报》1975年3月21日社论短摘要。末尾注明“Details to be published later”，原注旁证已核，但没有07-09的住房、汽车等完整目标引句，故待核仍为78处；累计147处已落实、25处部分核实、53处已检索未落实。只补第6章注14，正文不变。附件含FE、SU、EE三部分，原样归档；摘要位置及释义见[来源目录](reference%20check/sources/README.md)。PDF/HTML仍为10月15日润色版，尚未包含第37—42轮及校注移位修改。
 
 ## Workflow / 工作流
 

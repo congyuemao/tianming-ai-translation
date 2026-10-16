@@ -114,7 +114,7 @@
 
 13. *Kuang-ming RB*, 17 April 1975, *SCMP* 5834。
 
-14. *Kuang-ming RB*, 28 June 1975；另见 *RMRB*, 21 March 1975, in *SWB* 4862/i, 24 March 1975；*Hung-ch’i*, August 1975, and Beijing radio, 7 August 1975, ibid.。 校注：[《北京钢院》1976年3月30日第95期扫描](../reference%20check/sources/Beijing-Gangyuan-1976-03-30.pdf)第2版《党内走资派与资产阶级法权》（志学文）有“他们有了好房子，有汽车、薪水高，还有服务员，比资本家还厉害”，与此处后半句相应；但前文措辞不同，刊期也晚于原注所列1975年报刊，不能据此落实完整引句的出处。另核[《红旗》1975年第8期](../reference%20check/sources/Hongqi1975N8.pdf)目录及第35—37、59—61页两篇干部关系、拒腐蚀文章，未见此完整引句；其余篇目未逐页审校。仍保留待核。
+14. *Kuang-ming RB*, 28 June 1975；另见 *RMRB*, 21 March 1975, in *SWB* 4862/i, 24 March 1975；*Hung-ch’i*, August 1975, and Beijing radio, 7 August 1975, ibid.。 校注：[《北京钢院》1976年3月30日第95期扫描](../reference%20check/sources/Beijing-Gangyuan-1976-03-30.pdf)第2版《党内走资派与资产阶级法权》（志学文）有“他们有了好房子，有汽车、薪水高，还有服务员，比资本家还厉害”，与此处后半句相应；但前文措辞不同，刊期也晚于原注所列1975年报刊，不能据此落实完整引句的出处。另核[《红旗》1975年第8期](../reference%20check/sources/Hongqi1975N8.pdf)目录及第35—37、59—61页两篇干部关系、拒腐蚀文章，未见此完整引句；其余篇目未逐页审校。仍保留待核。 本轮已核所列SWB FE/4862/i（24 March 1975），见[用户扫描PDF第5页](../reference%20check/sources/BBC-SWB-4862-FE-SU-EE-1975-03-24-user-bundle.pdf#page=5)及[摘要放大图](../reference%20check/sources/BBC-SWB-FE4862-i-editorial-detail.png)。页底标题为“‘People’s Daily’ editorial on studying Mao’s instruction”，明确指3月21日《人民日报》社论，由NCNA转播；“i”是综述页页码。该条仅摘述学习无产阶级专政理论及部分领导干部混淆资本主义与社会主义、修正主义与马克思主义的问题，双星注为“Details to be published later”（详情以后刊载）。此旁证出处已核，但摘要没有本文“好房子、汽车、高工资、勤务员”等完整引句，不能据此撤除待核。
 
 15. Hubei provincial service, Wuhan radio, 30 June 1975, *SWB* 4947/BII/12。
 

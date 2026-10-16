@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-16",
+  "round": 42,
+  "gitBase": "2665c554450263c26ea7552f5d28fb796ef26640",
+  "formalReviewIds": [
+    "07-09"
+  ],
+  "sources": [
+    {
+      "id": "bbc-fe4862-i-r42",
+      "recordIds": [
+        "07-09"
+      ],
+      "kind": "用户提供的BBC SWB扫描合包；目标是FE/4862/i上《人民日报》社论的短摘要，属原注旁证",
+      "accessed": "2026-10-16",
+      "originalFilename": "NCNA__1975-03-24 (1 of 1).pdf",
+      "uploadedFileId": "file_00000000d5f081f49b3f6a473434c62b",
+      "localPath": "reference check/sources/BBC-SWB-4862-FE-SU-EE-1975-03-24-user-bundle.pdf",
+      "sha256": "b8116923dde5eb225dc92128f8ed77fdb96742d097cab8d4c5ee64065391a238",
+      "byteLength": 8347566,
+      "pdfPages": 44,
+      "textLayerPresent": false,
+      "archiveMethod": "原字节保存44页附件，未拆改或添加OCR文本层；检索OCR另存并明确未经全文校订。",
+      "publicationDate": "1975-03-24",
+      "swbReference": "FE/4862/i",
+      "targetPdfPage": 5,
+      "title": "‘People’s Daily’ editorial on studying Mao’s instruction",
+      "newspaperDate": "1975-03-21",
+      "transmittingAgency": "NCNA",
+      "broadcastDate": null,
+      "broadcastTimeGMT": null,
+      "timeLimit": "综述页覆盖0900 GMT 21 March至1200 GMT 22 March 1975；该条未单列新华社发稿时刻，不把报纸日期当作已核发稿时间。",
+      "scope": "附件PDF1—27为FE/4862部分，28—31为SU/4862/A3/1—4，32—44为EE/4862/C/1—13；不是44页均属远东卷。",
+      "checkedPages": [
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4862-contents.png",
+          "pdfPage": 2,
+          "sha256": "a52a240fcc3eba61683ea8a913d147b4ad3efd5814ce5d5b8e4d86ea5801b3a0",
+          "scope": "FE/4862目录首张，刊日24 Mar 75",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4862-i.png",
+          "pdfPage": 5,
+          "sha256": "e00f97e1f96004985631f97b0c9b531dc806b528a6ee0757cf9726cb5248c002",
+          "scope": "FE/4862/i综述页，页底为目标社论摘要",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-FE4862-i-editorial-detail.png",
+          "pdfPage": 5,
+          "sha256": "81b250b86989976c914fd93678f5f2783b54679cc9432b78028fa6c9492de987",
+          "scope": "页底社论摘要及单、双星说明的放大局部",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-4862-SU-boundary.png",
+          "pdfPage": 28,
+          "sha256": "3bb88ea0766a1133da7b4ce7283e1d4c25504be25d4ec6a2f08ec541b08824b6",
+          "scope": "SU/4862/A3/1，说明原附件另含SU部分",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+        },
+        {
+          "localPath": "reference check/sources/BBC-SWB-4862-EE-boundary.png",
+          "pdfPage": 32,
+          "sha256": "115fbe75a68b1c519f375203aa710b59444a5ea0e082c7ebdd9c61cbbfce2096",
+          "scope": "EE/4862/C/1，说明原附件另含EE部分",
+          "visuallyVerified": true,
+          "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+        }
+      ],
+      "ocrPagesScreened": 44,
+      "visuallyReadPdfPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        27,
+        28,
+        31,
+        32,
+        44
+      ],
+      "readingLimit": "目标摘要与篇题、双星说明逐字目视核对；其余页面仅OCR筛查与所列页目视，不声称逐字通读44页。",
+      "englishTranscription": "An editorial in the 21st March ‘People’s Daily’, transmitted by the NCNA, said that Party Committees should regard “as their foremost task” the study of Mao’s instruction on proletarian dictatorship. “Some of our comrades in leading positions”, the editorial said, “even regard capitalist things as socialist, and revisionist slogans as Marxist.”",
+      "footnoteMarker": "**",
+      "footnoteMeaningAsPrinted": "Details to be published later",
+      "ocrFile": "reference check/sources/BBC-SWB-4862-user-bundle-OCR.txt",
+      "ocrSHA256": "e86c9ea040759671838b88590ed9d86280d39f6a9fab200fd85500fa230e4a51"
+    }
+  ],
+  "images": [
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4862-contents.png",
+      "pdfPage": 2,
+      "sha256": "a52a240fcc3eba61683ea8a913d147b4ad3efd5814ce5d5b8e4d86ea5801b3a0",
+      "scope": "FE/4862目录首张，刊日24 Mar 75",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4862-i.png",
+      "pdfPage": 5,
+      "sha256": "e00f97e1f96004985631f97b0c9b531dc806b528a6ee0757cf9726cb5248c002",
+      "scope": "FE/4862/i综述页，页底为目标社论摘要",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-FE4862-i-editorial-detail.png",
+      "pdfPage": 5,
+      "sha256": "81b250b86989976c914fd93678f5f2783b54679cc9432b78028fa6c9492de987",
+      "scope": "页底社论摘要及单、双星说明的放大局部",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-4862-SU-boundary.png",
+      "pdfPage": 28,
+      "sha256": "3bb88ea0766a1133da7b4ce7283e1d4c25504be25d4ec6a2f08ec541b08824b6",
+      "scope": "SU/4862/A3/1，说明原附件另含SU部分",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+    },
+    {
+      "localPath": "reference check/sources/BBC-SWB-4862-EE-boundary.png",
+      "pdfPage": 32,
+      "sha256": "115fbe75a68b1c519f375203aa710b59444a5ea0e082c7ebdd9c61cbbfce2096",
+      "scope": "EE/4862/C/1，说明原附件另含EE部分",
+      "visuallyVerified": true,
+      "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+    }
+  ],
+  "findings": [
+    {
+      "id": "07-09",
+      "status": "partial",
+      "sources": [
+        "bbc-fe4862-i-r42"
+      ],
+      "comment": "原注SWB4862/i、1975年3月24日及所转述3月21日《人民日报》社论均在附件PDF5页底确认。该处是短摘要，**注明Details to be published later，不是全文；没有待核的住房、汽车、工资、勤务员等完整引句。旁证已取得，原条目继续部分核实，待核标记不变。",
+      "nextAction": "无需重复索取FE/4862/i；完整目标仍优先查原注直接来源《光明日报》1975年6月28日及北京广播1975年8月7日。若展开3月21日社论旁证，查《人民日报》当日原文或BBC后续刊载；本摘要未给后续确切刊号，不推定。"
+    }
+  ],
+  "limitations": [
+    "本轮核定原注所列旁证位置，不代表取得目标完整引句；07-09维持partial，待核不变。",
+    "FE/4862/i的i为综述页页码；在用户附件中是PDF第5页。该条双星标明详情后刊，不能当作本期社论全文。",
+    "附件合含FE、SU、EE三部分，44页不得统称FE/4862全文；OCR全部页面不等于逐字通读全部扫描。",
+    "该条明确报纸日期1975-03-21与NCNA来源，但未单列转播日期或时间，不能据报纸日期虚构广播时刻。",
+    "既有《北京钢院》和《红旗》核查结论保留，正文与引文不变；未重建PDF/HTML。"
+  ],
+  "comparisonFile": "reference check/sources/BBC-FE4862-i-Peoples-Daily-summary.md"
+}
