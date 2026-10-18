@@ -14,7 +14,7 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 [下载 PDF](dist/天命_马克思与毛泽东在现代中国.pdf) · [HTML 阅读版](dist/mandate_of_heaven_zh.html) · [构建记录](dist/build-info.json)
 
-2026 年 10 月 15 日修订：322 页，160 × 230 mm 开本。采用深墨蓝、暖白与朱砂红配色，宋体正文与黑体标题；在第三十六轮引文核查基础上，完成全书英文对照润色。23 个章节文件、533 条章末注释及 91 处待核标记完整保留。
+2026 年 10 月 18 日修订：324 页，160 × 230 mm 开本。沿用深墨蓝、暖白与朱砂红配色、宋体正文与黑体标题；在全书英文对照润色基础上，同步至第四十五轮引文核查，纳入第37—45轮修订及第八章校注移位。23 个章节文件、534 条章末注释及 75 处待核标记完整保留，嵌入字体已补齐新增汉字。
 
 The modern edition includes a new geometric cover, a compact linked contents page, 26 PDF bookmarks, and linked endnotes. The HTML embeds its fonts and supports both desktop and mobile reading. Download the HTML to read it; GitHub's file page displays its source.
 
@@ -26,7 +26,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 16 日已推进至[第四十五轮](reference%20check/2026-10-16-round45.md)：收到Current Scene VI/5全文，8条升为部分核实，周恩来短引语补到完整原页；标明广州广播转引层次及文汇报2月19日报日差异。固定225条为150处已落实、33处部分核实、42处已检索未落实，待核仍75处；只补第8章8条章末注，正文未改。Current Scene文献传递已收到，《中国工人》1957年第6期继续等待。原刊、页图和对照见[来源目录](reference%20check/sources/README.md)。PDF/HTML仍为10月15日润色版，尚未包含第37—45轮及校注移位修改。
+2026 年 10 月 16 日已推进至[第四十五轮](reference%20check/2026-10-16-round45.md)：收到Current Scene VI/5全文，8条升为部分核实，周恩来短引语补到完整原页；标明广州广播转引层次及文汇报2月19日报日差异。固定225条为150处已落实、33处部分核实、42处已检索未落实，待核仍75处；只补第8章8条章末注，正文未改。Current Scene文献传递已收到，《中国工人》1957年第6期继续等待。原刊、页图和对照见[来源目录](reference%20check/sources/README.md)。PDF/HTML已于10月18日按最新稿件重建，包含第37—45轮及校注移位修改；页码、字体、正文与链接校验见[验证记录](dist/validation.json)。
 
 ## Workflow / 工作流
 

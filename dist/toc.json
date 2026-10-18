@@ -93,7 +93,7 @@
     "shortTitle": "文化大革命之后的工人阶级",
     "number": "第9章",
     "kind": "chapter",
-    "page": 137
+    "page": 138
   },
   {
     "id": "sec-13-11-ch10-peasants-in-prc",
@@ -101,7 +101,7 @@
     "shortTitle": "中华人民共和国中的农民",
     "number": "第10章",
     "kind": "chapter",
-    "page": 156
+    "page": 158
   },
   {
     "id": "sec-14-12-ch11-equality",
@@ -109,7 +109,7 @@
     "shortTitle": "平等",
     "number": "第11章",
     "kind": "chapter",
-    "page": 174
+    "page": 176
   },
   {
     "id": "sec-15-13-ch12-democracy",
@@ -117,7 +117,7 @@
     "shortTitle": "民主",
     "number": "第12章",
     "kind": "chapter",
-    "page": 193
+    "page": 195
   },
   {
     "id": "sec-16-14-ch13-national-independence",
@@ -125,7 +125,7 @@
     "shortTitle": "民族独立",
     "number": "第13章",
     "kind": "chapter",
-    "page": 209
+    "page": 211
   },
   {
     "id": "sec-17-15-ch14-theory",
@@ -133,7 +133,7 @@
     "shortTitle": "理论",
     "number": "第14章",
     "kind": "chapter",
-    "page": 230
+    "page": 232
   },
   {
     "id": "sec-18-16-ch15-foreign-policy",
@@ -141,7 +141,7 @@
     "shortTitle": "外交政策",
     "number": "第15章",
     "kind": "chapter",
-    "page": 243
+    "page": 245
   },
   {
     "id": "sec-19-17-ch16-mao-zedong-thought-abroad",
@@ -149,7 +149,7 @@
     "shortTitle": "毛泽东思想在海外",
     "number": "第16章",
     "kind": "chapter",
-    "page": 266
+    "page": 268
   },
   {
     "id": "sec-20-18-ch17-modern-capitalism-bourgeois-revolution",
@@ -157,7 +157,7 @@
     "shortTitle": "现代资本主义与资产阶级革命",
     "number": "第17章",
     "kind": "chapter",
-    "page": 283
+    "page": 285
   },
   {
     "id": "sec-21-19-ch18-soviet-union-new-class",
@@ -165,7 +165,7 @@
     "shortTitle": "苏联与新阶级的兴起",
     "number": "第18章",
     "kind": "chapter",
-    "page": 293
+    "page": 295
   },
   {
     "id": "sec-22-20-ch19-mao-zedong-thought",
@@ -173,7 +173,7 @@
     "shortTitle": "毛泽东思想",
     "number": "第19章",
     "kind": "chapter",
-    "page": 306
+    "page": 308
   },
   {
     "id": "sec-23-21-retrospect",
@@ -181,6 +181,6 @@
     "shortTitle": "回顾",
     "number": "",
     "kind": "chapter",
-    "page": 319
+    "page": 321
   }
 ]
