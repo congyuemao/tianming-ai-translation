@@ -26,7 +26,7 @@ The modern edition includes a new geometric cover, a compact linked contents pag
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 16 日已推进至[第四十四轮](reference%20check/2026-10-16-round44.md)：七份用户BBC扫描落实上海工人参加管理、吉林自留地与河北副业三处引文；陕西材料确认为原注旁证，黑龙江派性引句仍待核。全书待核由78降至75处，累计150处已落实、25处部分核实、50处已检索未落实。正文只撤三处标记，保留原引文、作者判断与“挑选”着重；补第9章注31、33及第10章注36、37。七份PDF、页图和对照见[来源目录](reference%20check/sources/README.md)。PDF/HTML仍为10月15日润色版，尚未包含第37—44轮及校注移位修改。
+2026 年 10 月 16 日已推进至[第四十五轮](reference%20check/2026-10-16-round45.md)：收到Current Scene VI/5全文，8条升为部分核实，周恩来短引语补到完整原页；标明广州广播转引层次及文汇报2月19日报日差异。固定225条为150处已落实、33处部分核实、42处已检索未落实，待核仍75处；只补第8章8条章末注，正文未改。Current Scene文献传递已收到，《中国工人》1957年第6期继续等待。原刊、页图和对照见[来源目录](reference%20check/sources/README.md)。PDF/HTML仍为10月15日润色版，尚未包含第37—45轮及校注移位修改。
 
 ## Workflow / 工作流
 

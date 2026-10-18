@@ -1,0 +1,484 @@
+{
+  "date": "2026-10-16",
+  "round": 45,
+  "source": {
+    "id": "current-scene-1968-vi5-r45",
+    "recordIds": [
+      "09-05",
+      "09-06",
+      "09-07",
+      "09-08",
+      "09-09",
+      "09-14",
+      "09-15",
+      "09-16",
+      "09-21",
+      "09-22",
+      "09-24",
+      "09-27",
+      "09-29",
+      "09-31",
+      "09-32"
+    ],
+    "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+    "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+    "authorAsPrinted": "The Editor",
+    "volume": "VI",
+    "issue": "5",
+    "publicationDate": "1968-03-15",
+    "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+    "originalFilename": "CARM-48104.pdf",
+    "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+    "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+    "byteLength": 6761010,
+    "pdfPages": 28,
+    "articleBodyPrintedPages": [
+      1,
+      26
+    ],
+    "notesPrintedPages": [
+      27,
+      28
+    ],
+    "pageRangeNotation": "inclusive ranges; PDF页码与刊页相同",
+    "accessed": "2026-10-16",
+    "archiveMethod": "逐字节复制用户附件，未改写PDF、添加OCR或重排；只另行渲染证据页。",
+    "textScreenedPDFPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "textScreeningLimitation": "内嵌OCR存在装订边缘错字；只用来定位，摘引以列出的目视页为准。未称28页全部逐字目读。",
+    "checkedPages": [
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p01.png",
+        "pdfPage": 1,
+        "printedPage": 1,
+        "sha256": "1f75ea23d4deaa2b20720f0fa753e7a132667cfe5e45dceefe50ac7c70af3c9b",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p02.png",
+        "pdfPage": 2,
+        "printedPage": 2,
+        "sha256": "783ba26038b655464b47a8388b79637c78ac549d8abf8ca135af45ba6fec2aa2",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p04.png",
+        "pdfPage": 4,
+        "printedPage": 4,
+        "sha256": "9cc724539458e3885b83edcaecb8dd91316939ec4188ce2f0292357607d4ce6f",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p05.png",
+        "pdfPage": 5,
+        "printedPage": 5,
+        "sha256": "0a6a26972c4303dc05493b50b17957b024032c5efc12821874b8867ee834c71b",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p07.png",
+        "pdfPage": 7,
+        "printedPage": 7,
+        "sha256": "6b6616684650d9d7e6d603eecf542b49b98fb6ba0cf10e6b9c04b5784695df25",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p08.png",
+        "pdfPage": 8,
+        "printedPage": 8,
+        "sha256": "38dbfc91032b059787ede009d134c4984a3a2229c6855a1b4a5b983458ac0ee6",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p09.png",
+        "pdfPage": 9,
+        "printedPage": 9,
+        "sha256": "238c11f1ab7adf2b27bbd271260bf13c9716dea4f2a2b214424250e44643e771",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p10.png",
+        "pdfPage": 10,
+        "printedPage": 10,
+        "sha256": "3ff4d328d0d079a947058f21b8870602d832ad0a745fa6f4b947a17db6574ea3",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p11.png",
+        "pdfPage": 11,
+        "printedPage": 11,
+        "sha256": "ad88156464d800488d0a0db5416ecd932983856d917e7a57d701dba54f2f7013",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p15.png",
+        "pdfPage": 15,
+        "printedPage": 15,
+        "sha256": "0bade12130a47178504f62bd2abcfa93a5374c21d444dc57764c2e91c34594ed",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p16.png",
+        "pdfPage": 16,
+        "printedPage": 16,
+        "sha256": "fb4ca34e656b5290058a9a27d21811df1d1ef73876505c23b6d42ce3171d47e2",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p17.png",
+        "pdfPage": 17,
+        "printedPage": 17,
+        "sha256": "2c5bcd8caf90820b85eb30112aaad60d046774c87de21762a3e90c36ee90130b",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p27.png",
+        "pdfPage": 27,
+        "printedPage": 27,
+        "sha256": "a87fe849142cd284c67bd156629b793fa2bad363b506b0a95ac54a1db1b5f917",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      },
+      {
+        "localPath": "reference check/sources/Current-Scene-1968-VI-5-p28.png",
+        "pdfPage": 28,
+        "printedPage": 28,
+        "sha256": "8797b3978ef87ddefbee87b6af219acbd3a7e495834f6968cb62803029a66c44",
+        "visuallyVerified": true,
+        "rendering": "Poppler 140dpi整页渲染，未裁切或改字。"
+      }
+    ],
+    "imprintAsPrinted": "Printed by THE GREEN PAGODA PRESS LTD. for USIS（第28页）",
+    "authorLimitation": "首页只署The Editor；不能仅凭本件确认二手书目所称R. Solomon的个人作者归属。"
+  },
+  "harrisSource": {
+    "localPath": "Mandate of Heaven Marx and Mao in Modern China (Nigel Harris [Harris, Nigel]) (z-library.sk, 1lib.sk, z-lib.sk) (2).pdf",
+    "sha256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+    "checkedPages": [
+      {
+        "localPath": "reference check/sources/Harris-p123-round45.png",
+        "printedPage": 123,
+        "pdfPage": 142,
+        "sha256": "41aa6c9f4ddc504acec85cb4b96e0d898d81f72033e0b8ab7a0045e6e83aa977",
+        "visuallyVerified": true,
+        "rendering": "Poppler 120dpi整页渲染。"
+      },
+      {
+        "localPath": "reference check/sources/Harris-p124-round45.png",
+        "printedPage": 124,
+        "pdfPage": 143,
+        "sha256": "28ad1914372fbcfca5dc151733a3dbf9f11b3a8ce7ce81fcb863b7e1b984e52e",
+        "visuallyVerified": true,
+        "rendering": "Poppler 120dpi整页渲染。"
+      },
+      {
+        "localPath": "reference check/sources/Harris-p125-round45.png",
+        "printedPage": 125,
+        "pdfPage": 144,
+        "sha256": "6dc3f183349f2896a3c4df76cc33725ccc4bfc706f30fbcc9294d4f776b4960d",
+        "visuallyVerified": true,
+        "rendering": "Poppler 120dpi整页渲染。"
+      },
+      {
+        "localPath": "reference check/sources/Harris-p126-round45.png",
+        "printedPage": 126,
+        "pdfPage": 145,
+        "sha256": "57c04f967862958d7764221d9aaa7af6cd7142949a2af70edc6f7fccf48dbac4",
+        "visuallyVerified": true,
+        "rendering": "Poppler 120dpi整页渲染。"
+      },
+      {
+        "localPath": "reference check/sources/Harris-p128-round45.png",
+        "printedPage": 128,
+        "pdfPage": 147,
+        "sha256": "c1fd16192e84a03bf6b4b94e5590447af9d84bf765be63b09440de3a6986a009",
+        "visuallyVerified": true,
+        "rendering": "Poppler 120dpi整页渲染。"
+      }
+    ]
+  },
+  "comparison": {
+    "localPath": "reference check/sources/Current-Scene-1968-VI-5-comparison.md",
+    "sha256": "64ba970c5f8d54f8fadda8b66d3d659b7326234e41561ba01e82bcc36bf9fded"
+  },
+  "findings": [
+    {
+      "id": "09-05",
+      "status": "searched_unresolved",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        4,
+        5,
+        27
+      ],
+      "comment": "第4页及第27页注8复核New Construction (Hsin Chien-she), No.1–2, 20 February 1966；The Worker-Peasant Labor System in Finance and Trade Departments译载Survey of China Mainland Magazines No.534, 25 July 1966，Hong Kong, American Consulate-General。原书Hsin-chun-she与本刊拼写不同，未核作者Chang Ho-wei汉字。第4—5页相关讨论未提供本组五处完整目标引文，新增书目证据而不升级；SCMM全文仍未取得。",
+      "nextAction": "优先检索SCMM No.534（1966-07-25）中的The Worker-Peasant Labor System in Finance and Trade Departments；本刊全文无需再索。"
+    },
+    {
+      "id": "09-06",
+      "status": "searched_unresolved",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        4,
+        5,
+        27
+      ],
+      "comment": "第4页及第27页注8复核New Construction (Hsin Chien-she), No.1–2, 20 February 1966；The Worker-Peasant Labor System in Finance and Trade Departments译载Survey of China Mainland Magazines No.534, 25 July 1966，Hong Kong, American Consulate-General。原书Hsin-chun-she与本刊拼写不同，未核作者Chang Ho-wei汉字。第4—5页相关讨论未提供本组五处完整目标引文，新增书目证据而不升级；SCMM全文仍未取得。",
+      "nextAction": "优先检索SCMM No.534（1966-07-25）中的The Worker-Peasant Labor System in Finance and Trade Departments；本刊全文无需再索。"
+    },
+    {
+      "id": "09-07",
+      "status": "searched_unresolved",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        4,
+        5,
+        27
+      ],
+      "comment": "第4页及第27页注8复核New Construction (Hsin Chien-she), No.1–2, 20 February 1966；The Worker-Peasant Labor System in Finance and Trade Departments译载Survey of China Mainland Magazines No.534, 25 July 1966，Hong Kong, American Consulate-General。原书Hsin-chun-she与本刊拼写不同，未核作者Chang Ho-wei汉字。第4—5页相关讨论未提供本组五处完整目标引文，新增书目证据而不升级；SCMM全文仍未取得。",
+      "nextAction": "优先检索SCMM No.534（1966-07-25）中的The Worker-Peasant Labor System in Finance and Trade Departments；本刊全文无需再索。"
+    },
+    {
+      "id": "09-08",
+      "status": "searched_unresolved",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        4,
+        5,
+        27
+      ],
+      "comment": "第4页及第27页注8复核New Construction (Hsin Chien-she), No.1–2, 20 February 1966；The Worker-Peasant Labor System in Finance and Trade Departments译载Survey of China Mainland Magazines No.534, 25 July 1966，Hong Kong, American Consulate-General。原书Hsin-chun-she与本刊拼写不同，未核作者Chang Ho-wei汉字。第4—5页相关讨论未提供本组五处完整目标引文，新增书目证据而不升级；SCMM全文仍未取得。",
+      "nextAction": "优先检索SCMM No.534（1966-07-25）中的The Worker-Peasant Labor System in Finance and Trade Departments；本刊全文无需再索。"
+    },
+    {
+      "id": "09-09",
+      "status": "searched_unresolved",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        4,
+        5,
+        27
+      ],
+      "comment": "第4页及第27页注8复核New Construction (Hsin Chien-she), No.1–2, 20 February 1966；The Worker-Peasant Labor System in Finance and Trade Departments译载Survey of China Mainland Magazines No.534, 25 July 1966，Hong Kong, American Consulate-General。原书Hsin-chun-she与本刊拼写不同，未核作者Chang Ho-wei汉字。第4—5页相关讨论未提供本组五处完整目标引文，新增书目证据而不升级；SCMM全文仍未取得。",
+      "nextAction": "优先检索SCMM No.534（1966-07-25）中的The Worker-Peasant Labor System in Finance and Trade Departments；本刊全文无需再索。"
+    },
+    {
+      "id": "09-14",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        7
+      ],
+      "comment": "第7页将1966年8月13日广州广播与广东省委实施指示相连；politics in command及a pristine product出现在Current Scene作者评论段，而非编号指示的直接引语。Harris第123页写成广播将制度列为典型，转述层次有差异。英文依据和差异已定位，不能认定该短语就是广播原话。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    },
+    {
+      "id": "09-15",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        7
+      ],
+      "comment": "第7页编号指示第(2)项明确引出and gradually turn a number of permanent workers into worker-peasants，与Harris第123页目标对应；广州广播日期为1966年8月13日。尚无中文原稿，也没有BBC刊号。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    },
+    {
+      "id": "09-16",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        2,
+        9,
+        10
+      ],
+      "comment": "第2、10页完整原页含because of the circumstances in China；第10页写1967年1月上海大字报之后的另一批红卫兵大字报，声称工人与周恩来有第二次、较晚的会见。第9页1967年1月4日只指广州大字报及其声称的1966年12月26日晚江青等人接见。不能移作周恩来会见日期；未建立与1966年10月22日网络讲话整理的对应。全文已收到，仍部分核实。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    },
+    {
+      "id": "09-21",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "comment": "第10—11页明确转引1967年1月6日Wen Hui Pao，报道前一天人民广场十多万人集会。第11页含政治学习、其他政治活动及劳动保护的英文对应；前两项为Current Scene间接叙述，只有nor could they get the labor protection they deserved置于引号，Harris第125页将三项合为引句。中文原报及其SCMP页未取得。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    },
+    {
+      "id": "09-22",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        11
+      ],
+      "comment": "第11页转引同篇1967年1月6日Wen Hui Pao：power-holders为叙述部分，其后even kept back part of their wages and suspended their work为引语，与Harris第125页对应。中文原句仍缺。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    },
+    {
+      "id": "09-24",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        11
+      ],
+      "comment": "第11页左右栏相接，明确Capital Red Guards Newspaper，1967年1月10日，三篇文章中的第一篇含raise the greatest amount of cheap labor and to extract the maximum profits，与Harris第125页一致（英美拼写差异）。未给中文报头、篇名和期号，不能直接等同本章注9的1966年9月13日报纸。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    },
+    {
+      "id": "09-27",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        15
+      ],
+      "comment": "第15页右栏将reverse the injustice of moving to the interior明确归于Wen Hui Pao，1967年2月12日；与Harris第125页对应。中文原句未取得。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    },
+    {
+      "id": "09-29",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        16,
+        27
+      ],
+      "comment": "第16页写信／寄大字报段属于同页1967年2月19日Wen Hui Pao文章，第27页注14复核该日期；不是Harris原注62所列的2月12日。Harris将Current Scene引文中的them明确写作the power-holders，并截去后面的代表与不得成群离岗限制。英文转引及实际报日已定位，中文仍待核。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    },
+    {
+      "id": "09-31",
+      "status": "searched_unresolved",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        16,
+        17
+      ],
+      "comment": "第16—17页有已落实09-30的财产接管报道及后续清理通知；本次目读这些页并检索全28页OCR，未定位十七个上海组织拥护中央通知的目标引句。OCR检索阴性不证明原刊全篇绝对没有；本条不升级。",
+      "nextAction": "现有BBC及Current Scene仍未定位该引句；保留后续索引／其他英译材料线索，不要求用户访问已说明不可用的文汇报库。"
+    },
+    {
+      "id": "09-32",
+      "status": "partial",
+      "sources": [
+        "current-scene-1968-vi5-r45"
+      ],
+      "pages": [
+        17
+      ],
+      "comment": "第17页右栏完整引出上海老工人大字报：50至80岁、上海20或30年、农村四或五年及芝麻／瓜比喻均与Harris第126页对应。来源注明a Shanghai poster of February（上下文为1967年），未列具体日、标题、张贴地点或中文照片。英文目标已核，中文原文仍缺。",
+      "nextAction": "Current Scene目标英文页已取得，无需重复索件；中文原件及所列引述差异留待可得新材料核对。"
+    }
+  ],
+  "validation": {
+    "fixedRecordCount": 225,
+    "allCurrentParagraphLocationsVerified": true,
+    "allChapterBodyTextUnchanged": true,
+    "noteReferencesUnchanged": true,
+    "endnoteNumbersUnchanged": true,
+    "allOtherRecordsUnchanged": true,
+    "sourceCopyByteIdentical": true,
+    "sourceHashesVerified": true,
+    "newlyPartialIds": [
+      "09-14",
+      "09-15",
+      "09-21",
+      "09-22",
+      "09-24",
+      "09-27",
+      "09-29",
+      "09-32"
+    ],
+    "unchangedPartialIds": [
+      "09-16"
+    ],
+    "unchangedUnresolvedIds": [
+      "09-05",
+      "09-06",
+      "09-07",
+      "09-08",
+      "09-09",
+      "09-31"
+    ],
+    "documentDeliveryItemsWaiting": 1,
+    "documentDeliveryItemsReceived": 1,
+    "buildExecuted": false,
+    "chapterFiles": 23,
+    "endnoteCount": 534,
+    "remainingMarkers": 75,
+    "referencePDFTotal": 56,
+    "evidenceImageCount": 19,
+    "distAndToolsMatchGitBaseline": true,
+    "pendingRecordCountsMatchChapterMarkers": true,
+    "relativeLinksVerified": true,
+    "relativeLinksChecked": 411
+  }
+}

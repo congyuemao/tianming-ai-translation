@@ -1,0 +1,161 @@
+{
+  "research_dates": [
+    "2026-10-16",
+    "2026-10-17"
+  ],
+  "target": {
+    "series_catalogue_title": "Selections from China Mainland Magazines",
+    "cited_title_variant": "Survey of China Mainland Magazines",
+    "issue": "534",
+    "issue_date": "1966-07-25",
+    "issue_date_basis": "Harris note 54 and Current Scene VI/5 p.27 note 8; masthead image not obtained",
+    "article_title": "The Worker-Peasant Labor System in Finance and Trade Departments",
+    "author_romanization": "Chang Ho-wei",
+    "author_chinese_ocr_unverified": "張何畏",
+    "original_source": "Hsin-chien-she (New Construction), Nos.1-2, February 20, 1966"
+  },
+  "google_books": [
+    {
+      "id": "yJnPcuqWyuwC",
+      "issues": "531-542",
+      "year": 1966,
+      "original_from": "University of Iowa",
+      "digitized": "2024-08-15",
+      "access_observed": "metadata and snippets only"
+    },
+    {
+      "id": "k_JVAAAAYAAJ",
+      "issues": "531-556",
+      "year": 1966,
+      "original_from": "University of Virginia",
+      "digitized": "2011-02-18",
+      "access_observed": "metadata and snippets only"
+    }
+  ],
+  "snippet_locations": {
+    "article_heading": [
+      "RA3-PP3",
+      "RA3-PA23",
+      "RA3-PA24"
+    ],
+    "issue_number_534": [
+      "RA3-PA5",
+      "RA3-PA24",
+      "RA3-PA38"
+    ],
+    "finance_query": [
+      "RA3-PA24",
+      "RA3-PA28",
+      "RA3-PA29"
+    ],
+    "complete_article_page_range": null,
+    "limitations": "Search-result page labels and OCR snippets; no consecutive page images or complete article obtained."
+  },
+  "holdings": [
+    {
+      "institution": "Hitotsubashi University, Institute of Economic Research Library",
+      "bibid": "6000008941",
+      "bound_issues": "522-539",
+      "year": "1966",
+      "call_number": "ZA:81",
+      "accession_number": "5289249723",
+      "url": "https://opac.lib.hit-u.ac.jp/opac/opac_link/bibid/6000008941",
+      "caution": "Bound range covers 534; internal completeness and external copying service not verified."
+    },
+    {
+      "institution": "National Library of Australia",
+      "catalogue_id": "1606136",
+      "call_number": "Sf 050.951 UNI",
+      "holdings": "No.213-no.770 (June 7, 1960-Mar.4, 1974) [imperfect]",
+      "status_displayed": "Available",
+      "issue_534_individually_confirmed": false,
+      "url": "https://catalogue.nla.gov.au/catalog/1606136",
+      "scan_url": "https://copiesdirect.nla.gov.au/items/import?source=cat&sourcevalue=1606136",
+      "displayed_pdf_fee_aud_per_25_consecutive_pages_or_part": 19,
+      "displayed_standard_journal_turnaround_business_days": 15,
+      "order_submitted": false
+    }
+  ],
+  "audit_impact": {
+    "record_ids": [
+      "09-05",
+      "09-06",
+      "09-07",
+      "09-08",
+      "09-09"
+    ],
+    "status_changes": false,
+    "manuscript_changes": false,
+    "complete_source_obtained": false,
+    "restored_total": 150,
+    "pending_total": 75
+  },
+  "retrievals": [
+    {
+      "cache_key": "google531542",
+      "url": "https://books.google.com.au/books?id=yJnPcuqWyuwC",
+      "response_sha256": "9a2d16c9eb84687d05d51ab000b66f0a17b64581e96d57bfd0d91daeb43a9ec3"
+    },
+    {
+      "cache_key": "google531556",
+      "url": "https://books.google.com.au/books?id=k_JVAAAAYAAJ",
+      "response_sha256": "268d5488b478873ebe1f96fe3b3d2181515efb5ae31405cf1d417a3af7ecd534"
+    },
+    {
+      "cache_key": "google534-heading",
+      "url": "https://books.google.com.au/books?id=yJnPcuqWyuwC&jscmd=SearchWithinVolume2&q=%22WORKER-PEASANT+LABOR+SYSTEM+IN+FINANCE%22",
+      "response_sha256": "e1380968420b6f179a9f4fbf62400ebb37acb3c23fa0bf7e5f5b3f2beb8b935c"
+    },
+    {
+      "cache_key": "google534-date",
+      "url": "https://books.google.com.au/books?id=yJnPcuqWyuwC&jscmd=SearchWithinVolume2&q=%22534%22",
+      "response_sha256": "36f69228439712453b4d718ace42579791d0712012e4fb1af149b16189e4c444"
+    },
+    {
+      "cache_key": "google534-author-exact",
+      "url": "https://books.google.com.au/books?id=yJnPcuqWyuwC&jscmd=SearchWithinVolume2&q=%22Ho-wei%22",
+      "response_sha256": "6bb277ea1104702adcbdfca3e02eb24ce4e247104363d397a032445a3d126347"
+    },
+    {
+      "cache_key": "google534-finance",
+      "url": "https://books.google.com.au/books?id=k_JVAAAAYAAJ&jscmd=SearchWithinVolume2&q=finance",
+      "response_sha256": "24e59b52dcc540fe28bd56e0f40c49d35ec47ecb09c615a824be2d9e686db4cb"
+    },
+    {
+      "cache_key": "hitotsubashi",
+      "url": "https://opac.lib.hit-u.ac.jp/opac/opac_openurl/?ncid=AA00410198",
+      "response_sha256": "7786c008a9caeed72512d15373c94e94ad839f675f5750e78f527ceffa4915db"
+    },
+    {
+      "cache_key": "hit-534",
+      "url": "https://opac.lib.hit-u.ac.jp/opac/opac_detail_serial/?lang=0&amode=12&opkey=B179215527023580&blkey=2191511&bibid=6000008941&start=&place=&listnum=&zlplid=&selyear=all&blstart=",
+      "response_sha256": "19e2edbc79ad5b18d2ed7895e8f7e7f5c8053809e70222520c2d693279d9eb86"
+    },
+    {
+      "cache_key": "nla-record",
+      "url": "https://catalogue.nla.gov.au/catalog/1606136",
+      "response_sha256": "5801b61e2ef9ab55caf3f77e5270f962754e8946866d949de59dfc58d7b0a9aa"
+    },
+    {
+      "cache_key": "nla-items",
+      "url": "https://catalogue.nla.gov.au/catalog/1606136/request",
+      "response_sha256": "cf1eae3b8615fbc2dcab1d2eae75745099118ac6fe9a537b5538aea29fefbc69"
+    },
+    {
+      "cache_key": "nla-marc",
+      "url": "https://catalogue.nla.gov.au/catalog/1606136.marcxml",
+      "response_sha256": "8ab87999480db60b6b1aa0e5f4e8357685b6fbb0c973068aa66889ef2440826f"
+    },
+    {
+      "cache_key": "nla-scan-info",
+      "url": "https://copiesdirect.nla.gov.au/items/import?source=cat&sourcevalue=1606136",
+      "response_sha256": "ef9e284de89feb674561407470c6f99526bf11f4bfc26a59e43f3912a541a60c"
+    },
+    {
+      "cache_key": "cinii",
+      "url": "https://ci.nii.ac.jp/ncid/AA00410198?l=en",
+      "response_sha256": "d9d3726549a2a645e6a09df8228441c3c9f0db77cab477dd70b01db5c1d7e52e"
+    }
+  ],
+  "evidence_scope": "Structured metadata and locator notes. Raw web responses remain in ignored research cache tmp/scmm-search; they are not represented here as full article or page-image evidence."
+}

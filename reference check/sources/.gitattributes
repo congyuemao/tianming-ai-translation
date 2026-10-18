@@ -27,3 +27,7 @@ round37-evidence.json -text
 # Preserve round 38 comparison and evidence hashes across checkout filters.
 BBC-Hangzhou-1975-backtranslation-comparison.md -text
 round38-evidence.json -text
+
+# Preserve round 45 comparison hashes across checkout filters.
+Current-Scene-1968-VI-5-comparison.md -text
+round45-evidence.json -text
