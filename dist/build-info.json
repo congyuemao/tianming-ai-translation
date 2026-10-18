@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "17e537d63ef17f0b37d8714b91954f6cb2b080fe",
+  "sourceCommit": "46476dd1c5b1fcd9c792941380df233b3b0f4d20",
   "buildDate": "2026-10-18",
   "citationAudit": {
     "round": 45,
@@ -67,7 +67,7 @@
       "number": "第3章",
       "chapterNumber": 3,
       "kind": "chapter",
-      "sha256": "29e5fb1b3c4799e9054b94e59cd86e3e7ddb76361f1a14b826a97a23c16c8c73"
+      "sha256": "995d0fa4b74a99da2e68d62143da7a148b1927a1639c94b298379b23c6417f24"
     },
     {
       "file": "05_ch04_great_leap_forward_and_after.md",
@@ -77,7 +77,7 @@
       "number": "第4章",
       "chapterNumber": 4,
       "kind": "chapter",
-      "sha256": "a717b5f2a4f76aad39bea21163b718ee6e96e9b120e5a0b8daef7474700e04de"
+      "sha256": "f1372cd61f55927995eaae667f50db038d6e67395a296f74515e1f388bde5de9"
     },
     {
       "file": "06_ch05_cultural_revolution.md",
@@ -87,7 +87,7 @@
       "number": "第5章",
       "chapterNumber": 5,
       "kind": "chapter",
-      "sha256": "1c8996a0d80dc8215a4a281389d142871cd1d4a807e6c0f8b2f74d3c89569b65"
+      "sha256": "a2520fac6eff87e7d5c4489a1579af26ca59ac593f6eecac9348ae03591e8cb4"
     },
     {
       "file": "07_ch06_after_cultural_revolution.md",
@@ -97,7 +97,7 @@
       "number": "第6章",
       "chapterNumber": 6,
       "kind": "chapter",
-      "sha256": "9fae16a73bfe5d0162d9e6091ba4bec9039341b4ab8533e25b5950913d74247a"
+      "sha256": "a73bbaf9d6f64497d2f208fa78407f82275c9f162e46852e193452af02ede85d"
     },
     {
       "file": "08_ch07_workers_in_1950s.md",
@@ -107,7 +107,7 @@
       "number": "第7章",
       "chapterNumber": 7,
       "kind": "chapter",
-      "sha256": "d6c06f7d03d34ab73d1ea85dd46963c252193462ed0301752c74a45019812918"
+      "sha256": "eeb19dd089a66c4d4b14b1d84bcd13000bd0e34b480af2cd1d8bc39780324a09"
     },
     {
       "file": "09_ch08_temporary_contract_labour.md",
@@ -127,7 +127,7 @@
       "number": "第9章",
       "chapterNumber": 9,
       "kind": "chapter",
-      "sha256": "c60f3ecd9bad850e335fb8b2c8a95900d40c0fc78cd0f91b0fb60e29b2782a85"
+      "sha256": "d1293976084caa460fc7bad3a4153fcb19eb48178b1d9d95dbc7312e545f6b26"
     },
     {
       "file": "11_ch10_peasants_in_prc.md",
@@ -137,7 +137,7 @@
       "number": "第10章",
       "chapterNumber": 10,
       "kind": "chapter",
-      "sha256": "188dc14e147900364650a7cc57050085c211de29fd915c3d051217e2139dc8d5"
+      "sha256": "b899fa412f726bd4910f00de60454efece01641655c1c40aab870849ce289d1f"
     },
     {
       "file": "12_ch11_equality.md",
@@ -147,7 +147,7 @@
       "number": "第11章",
       "chapterNumber": 11,
       "kind": "chapter",
-      "sha256": "36ee604f8b06e2994bb467e5f9ddef719f039b9fc3a652dc051b4f76afa50b2d"
+      "sha256": "be85031fd51ea527944720689ed497b839ae7a5100d669ccfa4d21c58c03fda8"
     },
     {
       "file": "13_ch12_democracy.md",
@@ -157,7 +157,7 @@
       "number": "第12章",
       "chapterNumber": 12,
       "kind": "chapter",
-      "sha256": "fc18dac1d356d74b2cd4e167ce33f59ee954bbb199f17c180b47bcd5a0d7b414"
+      "sha256": "29261f25d95064e7bc2373cbff09f0b5d684a32d1effe001033cf985df66b751"
     },
     {
       "file": "14_ch13_national_independence.md",
@@ -167,7 +167,7 @@
       "number": "第13章",
       "chapterNumber": 13,
       "kind": "chapter",
-      "sha256": "4cd180e9297daf57462395f197691d89b2a8d0b6cbd9fd02061fc43067b4af5d"
+      "sha256": "0c82e63d5873202edc8f5bde8d2faceffde0698deade6514877669b0508564e1"
     },
     {
       "file": "15_ch14_theory.md",
@@ -177,7 +177,7 @@
       "number": "第14章",
       "chapterNumber": 14,
       "kind": "chapter",
-      "sha256": "dff601b4e3bd28fbc4b9bed1d34f83e9e5c0d4e437fdeeed8cf4203339dc78ee"
+      "sha256": "69f8571006541adc160f735a9e1c91876b0840fc609cfdbd01de6c5019057c55"
     },
     {
       "file": "16_ch15_foreign_policy.md",
@@ -187,7 +187,7 @@
       "number": "第15章",
       "chapterNumber": 15,
       "kind": "chapter",
-      "sha256": "c22b0129d9c7ad9ead583d69d5dbc354cca7cb2987c3fe7a6717489b76dfcbae"
+      "sha256": "730b235ad21a444ce0d7bc20d3f03bdf8d72c62e4d75a9a69ab2400bac5a6756"
     },
     {
       "file": "17_ch16_mao_zedong_thought_abroad.md",
@@ -197,7 +197,7 @@
       "number": "第16章",
       "chapterNumber": 16,
       "kind": "chapter",
-      "sha256": "c3621eacdb1efd99286eadc3887444daf913013decf1d73722128ef4dcf614fb"
+      "sha256": "073ea2d85757120676be2d2d823aff3434f732c64e4a3448f03177d85c0286c4"
     },
     {
       "file": "18_ch17_modern_capitalism_bourgeois_revolution.md",
@@ -227,7 +227,7 @@
       "number": "第19章",
       "chapterNumber": 19,
       "kind": "chapter",
-      "sha256": "ee96b82305b8acf73b2ed8ffe3cdade81ee2a07061190ed04d19c9b40fb769e9"
+      "sha256": "1d64e4b611a4b56ab64e09b70c755609fde3a4a72bab37a4490e019f508a7073"
     },
     {
       "file": "21_retrospect.md",

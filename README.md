@@ -18,7 +18,7 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 The modern edition includes a new geometric cover, a compact linked contents page, 26 PDF bookmarks, and linked endnotes. The HTML embeds its fonts and supports both desktop and mobile reading. Download the HTML to read it; GitHub's file page displays its source.
 
-生成时只显示一次章节标题，并过滤正文开头与主标题等价的旧标题行，例如“15. 外交政策”。这项处理仅发生在排版层，不修改章节 Markdown。HTML 内嵌字体，可离线阅读；来源材料链接指向 GitHub 归档。
+生成时只显示一次章节标题，并过滤正文开头与主标题等价的旧标题行，例如“15. 外交政策”。这项处理仅发生在排版层，不修改章节 Markdown。二级标题的中文数字序号后统一使用顿号，例如“三、私营企业”；这一修订已写入 14 章的 53 处标题，并同步至两份 PDF 和 HTML。HTML 内嵌字体，可离线阅读；来源材料链接指向 GitHub 归档。
 
 ## Reading Edition / 无引注阅读版
 
