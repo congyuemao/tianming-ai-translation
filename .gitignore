@@ -6,3 +6,4 @@ dist/*_paged.pdf
 
 # English source text extracted from the PDF (rebuild with tools/extract_en.py)
 source/
+build/
