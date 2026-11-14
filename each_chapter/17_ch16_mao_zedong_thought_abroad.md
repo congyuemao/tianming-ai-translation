@@ -103,7 +103,7 @@ FEC(ML)是一个由若干团体组成的联合会，主张在党建成之前，�
 5. 译注：此句为意译。原文直译为：“政府可以变成法西斯，然后又不再是法西斯，我们在北京对日本的看法中已经看到了这一点。”
 6. 译注：原文 In the Beginning was The Deed，出自歌德《浮士德》第一部：浮士德把《约翰福音》开篇的“太初有道”改译成“太初有为”（“为”即行动）。作者借这句话讥讽唯行动论。
 7. 详见作者的 *India-China: Underdevelopment and Revolution*, Delhi, 1974, Chapter 1, “India: Capitalism and Revolution”, pp.3-41.
-8. *RMRB* editorial, 5 July 1967, translated and republished in *PR* 29, 14 July 1967. 中文引文据《人民日报》社论《印度的春雷》（1967年7月5日），[录文](https://www.marxists.org/chinese/reference-books/india-struggle/1-01.htm)；正文“印度共产党革命派”一语也出自该社论（原书英译作 revolutionary group in the Indian Communist party）。
+8. *RMRB* editorial, 5 July 1967, translated and republished in *PR* 29, 14 July 1967. 中文引文据《人民日报》社论《印度的春雷》（1967年7月5日），见当日第5版[网络录文](https://cn.govopendata.com/renminribao/1967/07/05/5/)；正文“印度共产党革命派”一语也出自该社论（原书英译作 revolutionary group in the Indian Communist party）。
 9. 校注：据通行的印度共产党（马列）党史，该党于1969年4月22日成立，5月1日在加尔各答的五一集会上公开宣布。原书作1969年3月，正文照原书译出。参见中文马克思主义文库《印度革命与斗争文献·纳萨尔巴里三十年》[录文](https://www.marxists.org/chinese/reference-books/india-struggle/1-01.htm)。
 10. *PR* 刊登了 *Liberation* 宣告新党成立的文章，也刊登了查鲁·马宗达的一篇文章，见 *PR* 28, 11 July 1969; *PR* 32, 6 August 1969; *PR* 44, 31 October 1969；另见 *PR* 1, 2 January 1970.
 11. January 1930, *SW* I, p.123. 中文引文据《毛泽东选集》第一卷《星星之火，可以燎原》，[录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19300105.htm)；原文此句下接“（所谓扩大政治影响），才能于促进革命高潮发生实际的效力”，原书引到“far and wide”为止。
