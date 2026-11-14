@@ -1,0 +1,256 @@
+{
+  "sourceCommit": "7426a28f5f2b183281d4d7f88a7054be354ed8dd",
+  "buildDate": "2026-11-15",
+  "edition": "reading",
+  "citationAudit": {
+    "round": 46,
+    "date": "2026-11-15",
+    "ledger": "reference check/2026-11-15-round46.json",
+    "sha256": "8f8e54896ff609dbf11017f5932c174da428ec032c11d36bc22f6392c0da7e4e"
+  },
+  "pendingMarkers": 0,
+  "chapters": [
+    {
+      "file": "00_2015_preface.md",
+      "id": "sec-2-00-2015-preface",
+      "title": "2015年版序言",
+      "shortTitle": "2015年版序言",
+      "number": "",
+      "chapterNumber": null,
+      "kind": "frontmatter",
+      "sha256": "ddc08ac9425d79d5ffcfad8dc04fc9b795dd60cf1b9fac5c8fe326fa0854059a"
+    },
+    {
+      "file": "01_1978_preface.md",
+      "id": "sec-3-01-1978-preface",
+      "title": "1978年版序言",
+      "shortTitle": "1978年版序言",
+      "number": "",
+      "chapterNumber": null,
+      "kind": "frontmatter",
+      "sha256": "5b3eb61b34226143f9adca5be8550e711454924c28397e7d40326b3e165b45e2"
+    },
+    {
+      "file": "01a_notes_for_reader.md",
+      "id": "sec-4-01a-notes-for-reader",
+      "title": "读者说明",
+      "shortTitle": "读者说明",
+      "number": "",
+      "chapterNumber": null,
+      "kind": "frontmatter",
+      "sha256": "37f90eec648855657237291f9891244fdf891ffb4e34ebb493bb1fb5faa48b48"
+    },
+    {
+      "file": "02_ch01_workers_revolution.md",
+      "id": "sec-5-02-ch01-workers-revolution",
+      "title": "第1章 工人革命",
+      "shortTitle": "工人革命",
+      "number": "第1章",
+      "chapterNumber": 1,
+      "kind": "chapter",
+      "sha256": "44ea39cbb7a0d3c4f4e31d24093c1ce3f0f7b2a1ab2ff284eba4c1292ae0fb68"
+    },
+    {
+      "file": "03_ch02_from_defeat_to_victory.md",
+      "id": "sec-6-03-ch02-from-defeat-to-victory",
+      "title": "第2章 从失败到胜利",
+      "shortTitle": "从失败到胜利",
+      "number": "第2章",
+      "chapterNumber": 2,
+      "kind": "chapter",
+      "sha256": "b773d98a59bd5d130aeab3595f09fa927740cb51935e5e92b220dab8a3df604a"
+    },
+    {
+      "file": "04_ch03_first_phase.md",
+      "id": "sec-7-04-ch03-first-phase",
+      "title": "第3章 第一阶段",
+      "shortTitle": "第一阶段",
+      "number": "第3章",
+      "chapterNumber": 3,
+      "kind": "chapter",
+      "sha256": "09c73784741935df646f324fccd1a2735a0118043f36ca74f9dfd2758ee97f80"
+    },
+    {
+      "file": "05_ch04_great_leap_forward_and_after.md",
+      "id": "sec-8-05-ch04-great-leap-forward-and-after",
+      "title": "第4章 大跃进及其后果",
+      "shortTitle": "大跃进及其后果",
+      "number": "第4章",
+      "chapterNumber": 4,
+      "kind": "chapter",
+      "sha256": "67c03aadf850a943ffe667afdcd9629e6f7990598ee64b445645e032946d6a80"
+    },
+    {
+      "file": "06_ch05_cultural_revolution.md",
+      "id": "sec-9-06-ch05-cultural-revolution",
+      "title": "第5章 文化大革命",
+      "shortTitle": "文化大革命",
+      "number": "第5章",
+      "chapterNumber": 5,
+      "kind": "chapter",
+      "sha256": "10349ee982bc70969a7d9269c975458ca2e6d96c4b45fc7d55f4efc7f2494526"
+    },
+    {
+      "file": "07_ch06_after_cultural_revolution.md",
+      "id": "sec-10-07-ch06-after-cultural-revolution",
+      "title": "第6章 文化大革命之后",
+      "shortTitle": "文化大革命之后",
+      "number": "第6章",
+      "chapterNumber": 6,
+      "kind": "chapter",
+      "sha256": "5473a19a867dce72bf123f50a945d81570f8fa4fa6411f921b8c93a428772d49"
+    },
+    {
+      "file": "08_ch07_workers_in_1950s.md",
+      "id": "sec-11-08-ch07-workers-in-1950s",
+      "title": "第7章 20世纪50年代的工人",
+      "shortTitle": "20世纪50年代的工人",
+      "number": "第7章",
+      "chapterNumber": 7,
+      "kind": "chapter",
+      "sha256": "eadd4945ca4d7a2772c78b718fd524fc300df2de09e1f066ae5c7e2c4c1b1163"
+    },
+    {
+      "file": "09_ch08_temporary_contract_labour.md",
+      "id": "sec-12-09-ch08-temporary-contract-labour",
+      "title": "第8章 临时工与合同工：“工农制度”",
+      "shortTitle": "临时工与合同工：“工农制度”",
+      "number": "第8章",
+      "chapterNumber": 8,
+      "kind": "chapter",
+      "sha256": "e471c961c2c30dd63f7252b0d8ea395ad1d1b4ca25b92882d1db6e3875abcb63"
+    },
+    {
+      "file": "10_ch09_working_class_after_cultural_revolution.md",
+      "id": "sec-13-10-ch09-working-class-after-cultural-revolution",
+      "title": "第9章 文化大革命之后的工人阶级",
+      "shortTitle": "文化大革命之后的工人阶级",
+      "number": "第9章",
+      "chapterNumber": 9,
+      "kind": "chapter",
+      "sha256": "1e5a5a6165c951fc4507267fc53651260e93d85cbcdab4fcbb2f13617fd60ccb"
+    },
+    {
+      "file": "11_ch10_peasants_in_prc.md",
+      "id": "sec-14-11-ch10-peasants-in-prc",
+      "title": "第10章 中华人民共和国中的农民",
+      "shortTitle": "中华人民共和国中的农民",
+      "number": "第10章",
+      "chapterNumber": 10,
+      "kind": "chapter",
+      "sha256": "72b6a2f4efff48d0785f63605051bd266f316b7dfbcdadcb1c407baad9f8491e"
+    },
+    {
+      "file": "12_ch11_equality.md",
+      "id": "sec-15-12-ch11-equality",
+      "title": "第11章 平等",
+      "shortTitle": "平等",
+      "number": "第11章",
+      "chapterNumber": 11,
+      "kind": "chapter",
+      "sha256": "f0f153bd286145ba8e91dfa95489e7c058682219567d197b30be0dc0dc35fbd0"
+    },
+    {
+      "file": "13_ch12_democracy.md",
+      "id": "sec-16-13-ch12-democracy",
+      "title": "第12章 民主",
+      "shortTitle": "民主",
+      "number": "第12章",
+      "chapterNumber": 12,
+      "kind": "chapter",
+      "sha256": "d4abdd82b0685f651ed915348d613a9de66b10717f92e8c9230d631af1d6250d"
+    },
+    {
+      "file": "14_ch13_national_independence.md",
+      "id": "sec-17-14-ch13-national-independence",
+      "title": "第13章 民族独立",
+      "shortTitle": "民族独立",
+      "number": "第13章",
+      "chapterNumber": 13,
+      "kind": "chapter",
+      "sha256": "9c7d9c31738438737687e72ad063816669c5713456b67127c2ba527d3a717212"
+    },
+    {
+      "file": "15_ch14_theory.md",
+      "id": "sec-18-15-ch14-theory",
+      "title": "第14章 理论",
+      "shortTitle": "理论",
+      "number": "第14章",
+      "chapterNumber": 14,
+      "kind": "chapter",
+      "sha256": "60a5dffbb8f00b1c2be65555f1c55f6ccb7f6aada25cdfedee7f8dfa9cedc9b1"
+    },
+    {
+      "file": "16_ch15_foreign_policy.md",
+      "id": "sec-19-16-ch15-foreign-policy",
+      "title": "第15章 外交政策",
+      "shortTitle": "外交政策",
+      "number": "第15章",
+      "chapterNumber": 15,
+      "kind": "chapter",
+      "sha256": "2f271539c3b98aaf2d55cb93ca1d2c700547724da20a2588700dabcd67b3dd02"
+    },
+    {
+      "file": "17_ch16_mao_zedong_thought_abroad.md",
+      "id": "sec-20-17-ch16-mao-zedong-thought-abroad",
+      "title": "第16章 毛泽东思想在海外",
+      "shortTitle": "毛泽东思想在海外",
+      "number": "第16章",
+      "chapterNumber": 16,
+      "kind": "chapter",
+      "sha256": "8f544e68b5caeea406f2fb538fee97266bab70d5a56d763b37996dff40c1dd9b"
+    },
+    {
+      "file": "18_ch17_modern_capitalism_bourgeois_revolution.md",
+      "id": "sec-21-18-ch17-modern-capitalism-bourgeois-revolution",
+      "title": "第17章 现代资本主义与资产阶级革命",
+      "shortTitle": "现代资本主义与资产阶级革命",
+      "number": "第17章",
+      "chapterNumber": 17,
+      "kind": "chapter",
+      "sha256": "dcb696ac29afafba0b85f69a0316393911b5825e129f3e40f627f29b0dddb063"
+    },
+    {
+      "file": "19_ch18_soviet_union_new_class.md",
+      "id": "sec-22-19-ch18-soviet-union-new-class",
+      "title": "第18章 苏联与新阶级的兴起",
+      "shortTitle": "苏联与新阶级的兴起",
+      "number": "第18章",
+      "chapterNumber": 18,
+      "kind": "chapter",
+      "sha256": "e744f08e62e4f20cbf26a2ae4e7a9e9afe593fb5417115a386a7672bda6e064d"
+    },
+    {
+      "file": "20_ch19_mao_zedong_thought.md",
+      "id": "sec-23-20-ch19-mao-zedong-thought",
+      "title": "第19章 毛泽东思想",
+      "shortTitle": "毛泽东思想",
+      "number": "第19章",
+      "chapterNumber": 19,
+      "kind": "chapter",
+      "sha256": "8c174b68aea180fedc52ee5c28b5dd8b7035e52b8c2442453182608a51976f0c"
+    },
+    {
+      "file": "21_retrospect.md",
+      "id": "sec-24-21-retrospect",
+      "title": "回顾",
+      "shortTitle": "回顾",
+      "number": "",
+      "chapterNumber": null,
+      "kind": "chapter",
+      "sha256": "74f16f601e33276b49498991cf1d00464a6a1e74263ae653cfb84a75b7ea2035"
+    }
+  ],
+  "removedLeadingTitleEchoes": [],
+  "pageCount": 266,
+  "format": "160 × 230 mm",
+  "paginationStable": true,
+  "validation": {
+    "errors": [],
+    "chapterCount": 23,
+    "noteRefs": 0,
+    "endnotes": 0,
+    "pendingMarkers": 0,
+    "textPreserved": true
+  }
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "sec-2-00-2015-preface",
+    "title": "2015年版序言",
+    "shortTitle": "2015年版序言",
+    "number": "",
+    "kind": "frontmatter",
+    "page": 4
+  },
+  {
+    "id": "sec-3-01-1978-preface",
+    "title": "1978年版序言",
+    "shortTitle": "1978年版序言",
+    "number": "",
+    "kind": "frontmatter",
+    "page": 8
+  },
+  {
+    "id": "sec-4-01a-notes-for-reader",
+    "title": "读者说明",
+    "shortTitle": "读者说明",
+    "number": "",
+    "kind": "frontmatter",
+    "page": 9
+  },
+  {
+    "id": "sec-5-02-ch01-workers-revolution",
+    "title": "第1章 工人革命",
+    "shortTitle": "工人革命",
+    "number": "第1章",
+    "kind": "chapter",
+    "page": 15
+  },
+  {
+    "id": "sec-6-03-ch02-from-defeat-to-victory",
+    "title": "第2章 从失败到胜利",
+    "shortTitle": "从失败到胜利",
+    "number": "第2章",
+    "kind": "chapter",
+    "page": 28
+  },
+  {
+    "id": "sec-7-04-ch03-first-phase",
+    "title": "第3章 第一阶段",
+    "shortTitle": "第一阶段",
+    "number": "第3章",
+    "kind": "chapter",
+    "page": 42
+  },
+  {
+    "id": "sec-8-05-ch04-great-leap-forward-and-after",
+    "title": "第4章 大跃进及其后果",
+    "shortTitle": "大跃进及其后果",
+    "number": "第4章",
+    "kind": "chapter",
+    "page": 52
+  },
+  {
+    "id": "sec-9-06-ch05-cultural-revolution",
+    "title": "第5章 文化大革命",
+    "shortTitle": "文化大革命",
+    "number": "第5章",
+    "kind": "chapter",
+    "page": 63
+  },
+  {
+    "id": "sec-10-07-ch06-after-cultural-revolution",
+    "title": "第6章 文化大革命之后",
+    "shortTitle": "文化大革命之后",
+    "number": "第6章",
+    "kind": "chapter",
+    "page": 75
+  },
+  {
+    "id": "sec-11-08-ch07-workers-in-1950s",
+    "title": "第7章 20世纪50年代的工人",
+    "shortTitle": "20世纪50年代的工人",
+    "number": "第7章",
+    "kind": "chapter",
+    "page": 85
+  },
+  {
+    "id": "sec-12-09-ch08-temporary-contract-labour",
+    "title": "第8章 临时工与合同工：“工农制度”",
+    "shortTitle": "临时工与合同工：“工农制度”",
+    "number": "第8章",
+    "kind": "chapter",
+    "page": 101
+  },
+  {
+    "id": "sec-13-10-ch09-working-class-after-cultural-revolution",
+    "title": "第9章 文化大革命之后的工人阶级",
+    "shortTitle": "文化大革命之后的工人阶级",
+    "number": "第9章",
+    "kind": "chapter",
+    "page": 109
+  },
+  {
+    "id": "sec-14-11-ch10-peasants-in-prc",
+    "title": "第10章 中华人民共和国中的农民",
+    "shortTitle": "中华人民共和国中的农民",
+    "number": "第10章",
+    "kind": "chapter",
+    "page": 123
+  },
+  {
+    "id": "sec-15-12-ch11-equality",
+    "title": "第11章 平等",
+    "shortTitle": "平等",
+    "number": "第11章",
+    "kind": "chapter",
+    "page": 136
+  },
+  {
+    "id": "sec-16-13-ch12-democracy",
+    "title": "第12章 民主",
+    "shortTitle": "民主",
+    "number": "第12章",
+    "kind": "chapter",
+    "page": 151
+  },
+  {
+    "id": "sec-17-14-ch13-national-independence",
+    "title": "第13章 民族独立",
+    "shortTitle": "民族独立",
+    "number": "第13章",
+    "kind": "chapter",
+    "page": 163
+  },
+  {
+    "id": "sec-18-15-ch14-theory",
+    "title": "第14章 理论",
+    "shortTitle": "理论",
+    "number": "第14章",
+    "kind": "chapter",
+    "page": 181
+  },
+  {
+    "id": "sec-19-16-ch15-foreign-policy",
+    "title": "第15章 外交政策",
+    "shortTitle": "外交政策",
+    "number": "第15章",
+    "kind": "chapter",
+    "page": 192
+  },
+  {
+    "id": "sec-20-17-ch16-mao-zedong-thought-abroad",
+    "title": "第16章 毛泽东思想在海外",
+    "shortTitle": "毛泽东思想在海外",
+    "number": "第16章",
+    "kind": "chapter",
+    "page": 214
+  },
+  {
+    "id": "sec-21-18-ch17-modern-capitalism-bourgeois-revolution",
+    "title": "第17章 现代资本主义与资产阶级革命",
+    "shortTitle": "现代资本主义与资产阶级革命",
+    "number": "第17章",
+    "kind": "chapter",
+    "page": 231
+  },
+  {
+    "id": "sec-22-19-ch18-soviet-union-new-class",
+    "title": "第18章 苏联与新阶级的兴起",
+    "shortTitle": "苏联与新阶级的兴起",
+    "number": "第18章",
+    "kind": "chapter",
+    "page": 240
+  },
+  {
+    "id": "sec-23-20-ch19-mao-zedong-thought",
+    "title": "第19章 毛泽东思想",
+    "shortTitle": "毛泽东思想",
+    "number": "第19章",
+    "kind": "chapter",
+    "page": 252
+  },
+  {
+    "id": "sec-24-21-retrospect",
+    "title": "回顾",
+    "shortTitle": "回顾",
+    "number": "",
+    "kind": "chapter",
+    "page": 263
+  }
+]
