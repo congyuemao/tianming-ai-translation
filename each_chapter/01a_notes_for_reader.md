@@ -20,7 +20,7 @@ GAC：政务院；1954年起为国务院，即中华人民共和国政府的部�
 
 RMRB：Renmin Ribao（《人民日报》，北京）。[1]
 
-RMB：人民币，或称元，中华人民共和国的法定货币。
+RMB：Renminbi（人民币），或称元（又称 Chinese dollar），中华人民共和国的法定货币。
 
 RB：Ribao，日报（用于报纸名称）。
 
@@ -125,5 +125,5 @@ Selected Works of Mao Tse-tung, Vol. V, Beijing, 1977（收1949年至1957年的�
 ## 注释与引用
 
 1. 校注：原书此条拼作 Renmin Ribau，下一条人民币拼作 Renminbau，都是排印之误，这里改正。
-2. 校注：原书如此。英国广播公司这份监听资料的正式名称是 Summary of World Broadcasts，本书第8章注18所引即用此名。
+2. 校注：原书如此。英国广播公司这份监听资料的正式名称是 Summary of World Broadcasts，本书第8章注19所引即用此名。
 3. 校注：原书此处年份作1965-71，有误。据该译集美国版[版权页](../reference%20check/sources/Schram-1974-US-copyright-contents.png)所列英国版原书名，应作 Mao Tse-tung Unrehearsed: Talks and Letters, 1956-71；美国版题为 Chairman Mao Talks to the People（Pantheon Books，1974）。
