@@ -22,7 +22,7 @@
 
 ## 红色游击队
 
-游击队起初不过是一场即将夺取政权的群众运动的武装一翼。后来群众运动消失了，夺权的前景也消失了。于是游击队成了整个战略的中心。党转而主张，先有武装斗争，才谈得上建立群众运动——而游击队按理说只是这场运动的工具。正如毛泽东1930年所说：“消灭了大一点的敌人，占领了城镇，才能发动大范围的群众，建立几个县联在一块的政权。这样才能耸动远近的视听（所谓扩大政治影响），才能于促进革命高潮发生实际的效力。”[8]
+游击队起初不过是一场即将夺取政权的群众运动的武装一翼。后来群众运动消失了，夺权的前景也消失了。于是游击队成了整个战略的中心。党转而主张，先有武装斗争，才谈得上建立群众运动——而游击队按理说只是这场运动的工具。正如毛泽东1930年所说：“消灭了大一点的敌人，占领了城镇，才能发动大范围的群众，建立几个县联在一块的政权。这样才能耸动远近的视听。”[8]
 
 这样一来，城市工人就只能当配角了。工人运动的积极分子如今被要求离开城市，去给游击队当兵。号称先锋的，如今成了后卫。[9]
 
@@ -96,7 +96,7 @@
 
 这种平衡的政治很难掌握。毛不得不去扭转干部中的混乱认识。他强调，改革是为了“鼓起热情”投入抗战，可热情一鼓起来，往往就收不住，漫成了没收土地。为了避免这一点，改革必须温和：“目前不是实行彻底的土地革命的时候……现在的政策，一方面，应该规定地主实行减租减息，方能发动基本农民群众的抗日积极性，但也不要减得太多。”[36]
 
-或者说得更露骨些：“承认地主的大多数是有抗日要求的，一部分开明绅士是赞成民主改革的，故党的政策仅是扶助农民减轻封建剥削，而不是消灭封建剥削，更不是打击赞成民主改革的开明绅士……只有对那些顽固不化的汉奸，才应采取消灭封建剥削的政策。”[37]
+或者说得更露骨些：“承认地主的大多数是有抗日要求的，一部分开明士绅并是赞成民主改革的。故党的政策仅是扶助农民减轻封建剥削，而不是消灭封建剥削，更不是打击赞成民主改革的开明士绅……只有对那些顽固不化的汉奸，才应采取消灭封建剥削的政策。”[37]
 
 党把“阶级斗争”留在自己手里，当作惩戒工具，专罚道德有亏的人。可在解放区，也就是共产党的地盘上，除非是怪到家的地主，谁会去亲日呢？[38]
 
@@ -126,9 +126,9 @@
 
 这个时刻很短暂。河北的干部太少，管不住农民群众。党执行这部法律的动作又太慢，贫苦农民就自己直接动手了。1947—1948年整个冬天，农民协会在河北各地纷纷涌现，不加区别地打击地主、富农和一部分被官方划为“中农”的人。他们天真地以为，谁是地主用不着党来教，自己心里有数；还以为自己这么干，正是法令上说的“无情地推翻地主阶级”。[51]党那套相互矛盾、混乱不堪的农村阶级划分，被一下子冲得七零八落。[52]干部们忠实地出来约束运动，结果自己也被掀翻了。农民要求在乡村实现完全的平等，要求有权监督党本身。他们把被党划为富农的人的土地全部没收，追打这些人，还进城去夺取乡村富人在城里的工商业财产。
 
-党的领导层猛地向右急转。土地法出台才三个月，党的领导人任弼时就要求暂停分地，等农民的觉悟提高了再说。[53]六天以后，毛本人也亲自出马，反对“左”的过火行为。他主张：老解放区的“新富农”应当按“中农”对待；原来的地主和富农可以重新划定成分；谁也不许追到城里去斗地主；贫农协会必须吸收富农、地主和“开明绅士”。他批评说，有人错误地强调“群众要怎样办就怎样办”，迁就群众中的错误意见，片面地宣传贫雇农路线……认为“民主政府只应该听工人和贫雇农的意见”，对中农、独立劳动者、民族资产阶级和知识分子却根本不提。[54]
+党的领导层猛地向右急转。土地法出台才三个月，党的领导人任弼时就要求暂停分地，等农民的觉悟提高了再说。[53]六天以后，毛本人也亲自出马，反对“左”的过火行为。他主张：老解放区的“新富农”应当按“中农”对待；原来的地主和富农可以重新划定成分；谁也不许追到城里去斗地主；贫农协会必须吸收富农、地主和“开明绅士”。他批评说，许多地区“错误地强调所谓‘群众要怎样办就怎样办’，迁就群众中的错误意见”，“孤立地宣传贫雇农路线”，说“民主政府只应该听工人和贫雇农的意见，而对中农，对独立劳动者，对民族资产阶级，对知识分子等，则一概不提”。[54]
 
-1948年春，毛本人来到河北，重新统一战争指挥。他强调，土地改革用不着着急，可以放上一年、两年或三年。条件有三个：敌人必须已经消灭；群众必须有这个要求；“党的工作干部在数量上和质量上，确能掌握当地的土地改革工作，而非听任群众的自发活动”。[55]
+1948年春，毛本人来到河北，重新统一战争指挥。他强调，土地改革用不着着急，可以等上“一两年甚至三年”。条件有三个：敌人必须已经消灭；群众必须有这个要求；“党的工作干部在数量上和质量上，确能掌握当地的土地改革工作，而非听任群众的自发活动”。[55]
 
 官方政策又回到了减租减息的许诺。农民战争不应当为打败国民党出力，也不应当成为任何人民革命的一部分，而是推迟到用军事征服夺得政权之后。党迫不得已，只能容忍富农甚至地主在党的某些部分里占主导地位。[56]解放军剿灭的土匪多得惊人，这里面有没有人其实是不肯放弃1947年土地革命的无地农民，我们无从知道。[57]
 
@@ -164,17 +164,17 @@
 
 7. 校注：原书把此事系于1932年秋；中共临时中央政治局由上海迁入中央苏区，实际是在1933年1月。正文照原书译出。
 
-8. Mao, January 1930, in Selected Works, Vol.1, p.123（SW；所用版本的说明见“读者说明”）。
+8. Mao, January 1930, in Selected Works, Vol.1, p.123（SW；所用版本的说明见“读者说明”）。校注：中文据《星星之火，可以燎原》（1930年1月5日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19300105.htm)。原书引到“耸动远近的视听”为止，其后“（所谓扩大政治影响），才能于促进革命高潮发生实际的效力”没有引，这里也照原书截止。
 
 9. 可比较共产国际执委会（ECCI）曼努伊尔斯基（Manuilsky）的说法：“迄今为止，我们一直把游击队看作革命在全面退却中的后卫战。如今，它们的性质变了。它们是高潮的组成部分，是革命浪潮上涨最重要的标志之一。”Inprecor, 10 Mar. 1930, p.267。到了秋天，游击队又成了证据，说明工人阶级在工农取得最后胜利之前就已经有了红军和国家，见 Inprecor, 1930, p.1065；另参见 Kuchynov, in Communist International 8, 6, 1 March 1930, p.166，转引自 J.P. Harrison, The Li Li-san Line and the CCP in 1939, II, CQ15, Summer 1963, p.154。
 
-10. 参见毛的话：“我们开始打仗的时候，靠的是游民，因为他们敢死。有一个时候军队要清洗游民成分，我反对。”Forum on Central Committee Work, 20 December 1964, in Miscellany, op. cit., II, p.421。其他资料参见 Stuart Schram, The Political Thought of Mao Tse-tung, London, 1963, pp.196, 200。在井冈山初创时期，毛不得不同王佐、袁文才两个土匪头目合作，参见 Snow, Red Star over China, London, 1937, p.165。
+10. 参见毛的话：“我们开始打仗，靠那些流氓分子，他们不怕死。有一时期军队要清洗流氓分子，我就不赞成。”Forum on Central Committee Work, 20 December 1964, in Miscellany, op. cit., II, p.421。校注：中文据1968年版《毛泽东思想万岁》所收《在中央工作座谈会上关于四清问题的讲话（一九六四年十二月二十日）》的[中文录文](https://www.marxists.org/chinese/maozedong/1968/5-125.htm)；原书英译把“流氓分子”译作 vagrants。其他资料参见 Stuart Schram, The Political Thought of Mao Tse-tung, London, 1963, pp.196, 200。在井冈山初创时期，毛不得不同王佐、袁文才两个土匪头目合作，参见 Snow, Red Star over China, London, 1937, p.165。
 
 11. 参见一位党内领导人的评论：“我们说必须把土地分给贫农和士兵，这听起来很好。但是可分的土地都已经有人耕种，分过以后，照旧还是由原先的佃户耕种。这样一来，到哪里去拿土地分给贫农和士兵呢？”转引自 Yun Taiying, in L. P. Deliusen, Agrarno-krestianskii vopros v politike KPK, 1921-28, Moscow, 1972, Chapter VII, pp.326-75；英译见 Chinese Studies in History, Summer 1974, VII/4, p.41。校注：正文毛泽东的话，据《井冈山的斗争》（1928年11月25日）“革命性质问题”一节的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281125.htm)。原书本注列出的是另一位党员的评论及其出处，并不是这句话的出处。
 
 12. 毛称，在江西苏区的两个区，16至45岁的男子有80%至88%在红军服役。Report to the Second Chinese National Soviet Congress, Juichin, Kiangsi [Ruijin, Jiangxi], 22 January 1934, London, Sept. 1934。
 
-13. 毛说，这种经济压力“不但中间阶级不能忍受，就是工人、贫农、红军士兵也总有一天要不能忍受”。SW I, p.89。
+13. 毛说，这种经济压迫“不但中等阶级忍不住，工人、贫农和红军亦恐将有耐不住之时”。SW I, p.89。校注：中文据《井冈山的斗争》（1928年11月25日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281125.htm)。
 
 14. 见 Mao Unrehearsed, Talks and Letters, 1956-71, edited by Stuart Schram, London, 1974, p.97；另参见 On Policy, 25 December 1940, SW II, p.441；The present Situation, Dec. 1947, SW IV, p.169。校注：引文据[《毛泽东思想万岁》（1958—1960）分册扫描](../reference%20check/sources/Mao-Thought-1958-1960.pdf)第33页《在成都会议上的讲话（二）》，该篇第32页署1958年3月10日。中文作“向农民让步”，原书英文则用 them 承接上文的富农；正文照中文作“农民”，没有改成“富农”。“绿色游击队”也据中文。所据是后来的讲话汇编，不是原始记录，这一分册的出版信息也未能核实；原注所引 Mao Unrehearsed 第97页未见。
 
@@ -182,7 +182,7 @@
 
 16. 中共中央1929年8月决议，转引自 Isaacs, 1938, p.416。校注：引文据中央档案馆编[《中共中央文件选集》第五册扫描](../reference%20check/sources/CCP-Documents-1929-Vol5.pdf)第458页，篇名《中央关于接受共产国际对于农民问题之指示的决议》，题署1929年8月；该书第460页注明据中央档案原油印件刊印。两句都在决议第四节第4项，后一句原是括注里所举江苏淮阳的事例，这里按原书节引的范围用省略号连接。英文转引多出了主语“我们”，中文照决议原句。所据是后出的汇编，原油印件未见。
 
-17. 1933年，毛称富农支配了“中心区百分之八十的地区，影响人口二百多万”。The re-examination of land distribution in the Soviet districts is the central task, Red Flag, 21 August 1933，转引自 Isaacs, ibid., p.420；另见 A Documentary History, p.219。
+17. 1933年，毛称富农支配了“中央区差不多百分之八十的面积，群众在二百万以上”。The re-examination of land distribution in the Soviet districts is the central task, Red Flag, 21 August 1933，转引自 Isaacs, ibid., p.420；另见 A Documentary History, p.219。校注：中文据1968年版《毛泽东思想万岁》所收《查田运动是广大区域内的中心重大任务（一九三三年）》的[中文录文](https://www.marxists.org/chinese/maozedong/1968/1-070.htm)。原文说的是这些地方土地问题没有彻底解决、封建势力尚未肃清，“富农支配”是原书的概括。
 
 18. 参见 Resolution on certain questions in the history of our party（《关于若干历史问题的决议》）的中文本，收入 Our study and the current situation（《学习和时局》）附录，SW III；引自 John E. Rue, Mao Tse-tung in Opposition, 1927-35, Stanford, 1966, p.13。
 
@@ -200,9 +200,9 @@
 
 25. United Press 对 Bo Gu (Qin Bangxian) 的采访，Chongqing, 8 November 1938；并可比较“拥护蒋委员长领导抗战”的口号，见 China Today, Shanghai, July 1937。校注：这两句据 Li Fu-jen, After the Fall of Wuhan 一文的英文转引译出，中文原话未见。该文刊于[《The New International》1939年1月号](../reference%20check/sources/New-International-1939-01.pdf)第22—25页，第22页有这两句的英文，并说是秦邦宪（Chin Po-ku）11月8日在重庆对合众社记者讲的；文末署1938年11月11日。合众社原电和中文谈话记录都未见。该期封面题名作 After the Fall of Hankow，正文题名作 Wuhan。
 
-26. “张浩同志（林育英，林彪之叔）那时（1937年2月在延安大学讲课期间）的错误，在于把民族抗日阵线看成暂时的策略转变，而党中央则明确认为，这是一个历史阶段中的革命战略转变。”Chieh-fangpao 36, 29 April 1938, pp.11-12，转引自 L.P. Van Slyke, Enemies and Friends, the United Front in Chinese Communist History, Stanford, 1967, p.60，Van Slyke 据 Inprecor 16, 10, p.377。校注：林育英是林彪的堂兄，原书括注说是叔父，有误；这里照原书译出。
+26. “张浩同志（林育英，林彪之叔）那时（1937年2月在延安大学讲课期间）的错误，在于把民族抗日阵线看成暂时的策略转变，而党中央则明确认为，这是一个历史阶段中的革命战略转变。”Chieh-fangpao 36, 29 April 1938, pp.11-12，转引自 L.P. Van Slyke, Enemies and Friends, the United Front in Chinese Communist History, Stanford, 1967, p.60，Van Slyke 据 Inprecor 16, 10, p.377。校注：林育英是林彪的堂兄，原书括注说是叔父，有误；这里照原书译出。《解放》周刊原文未见，引文据原书英文译出。
 
-27. SW II, p.295；另见 p.445。
+27. SW II, p.295；另见 p.445。校注：中文据《〈共产党人〉发刊词》（1939年10月4日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391004.htm)。
 
 28. 校注：1937年8月，国民政府设立国防参议会，中共方面也有人受聘为参议员；1938年国民参政会成立，国防参议会随即撤销，中共也有人被聘为国民参政员。原书所说的 Supreme National Defence Council，字面上对应国防最高会议（1939年改组为国防最高委员会），那是国民党方面的最高决策机关，并没有改名为国民参政会，原书似乎把两个机构混在了一起。正文照原书译出。
 
@@ -220,15 +220,15 @@
 
 35. China, the March, op. cit., p.76。校注：本段引文据[《毛泽东集补卷》第4卷第301页](../reference%20check/sources/Mao-Supplement-Vol4-p301.png)末至[第302页](../reference%20check/sources/Mao-Supplement-Vol4-p302.png)首所收中文刊本。原书没有引“主张必须改善工人生活，但”这一分句，这里用省略号标出，完整的句子见[摘录](../reference%20check/sources/Mao-Letter-1936-Retranslation-excerpts.md)。如注24所说，这封1936年8月10日的信，中文是当年据英文再译的（见[第306页编者说明](../reference%20check/sources/Mao-Supplement-Vol4-p306.png)），信件中文原稿和原注英文集第76页都未见。第302页另有编者关于两句英文意思不清、未予译出的说明，那是信中后面谈游击队的一段，与本段引文无关。
 
-36. On Policy, 25 December 1940, SW II, p.446。
+36. On Policy, 25 December 1940, SW II, p.446。校注：中文据《论政策》（1940年12月25日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19401225.htm)；注39同。
 
-37. SW II, p.278。
+37. SW II, p.278。校注：引文出自中共中央《关于抗日根据地土地政策的决定》（1942年1月28日）。省略号前两句据该决定第二条的中文，转引自杨奎松[《战后初期中共中央土地政策的变动及原因》](https://www.aisixiang.com/data/78817.html)；省略号后一句中文原话未见，据原书英文译出。
 
 38. 译注：此句为意译。原文直译为：“党保留了施行‘阶级斗争’的权力，把它当作对道德过失的惩罚。在解放区（即共产党治下），只有古怪到无可救药的地主，才会去亲日”。
 
 39. “至于乡村工人的生活和待遇的改良，更不应提得过高，否则就会引起农民的反对、工人的失业和生产的缩小。”SW II, p.446。
 
-40. Decision of the Central Committee on Land Policy in the anti-Japanese base areas, 28 January 1942, in A Documentary History, p.278。
+40. Decision of the Central Committee on Land Policy in the anti-Japanese base areas, 28 January 1942, in A Documentary History, p.278。校注：中文据该决定第三条，转引出处同注37。
 
 41. 毛说：“在服从中国法令，有益中国经济的条件之下，外国投资是我们所欢迎的。……在这个基础上，外国投资的容纳量将是非常广大的。”该段见 A Documentary History, p.312；作者指出，SW III, p.304 所收的版本删去了这段话。校注：中文据[《论联合政府》早期版本扫描](../reference%20check/sources/Mao-Selected-1948-Vol2-excerpts.pdf)第336页，繁体字改为简体，标点按现行习惯处理；两句之间原有文字，以省略号隔开。题名和1945年4月24日的报告日期见第287页。据公开档案目录，这是东北书店1948年版《毛泽东选集》卷二，所据分卷没有全书的版权页。原注所说两种英译本的版本差别和删改情况，没有另作对勘。
 
@@ -256,23 +256,23 @@
 
 53. Some problems in land reform, 12 January 1948，转引自 Chao Kuo-chün, op. cit., p.84。译注：此句为意译。原文直译为：“这部土地法出台才三个月，党的领导人任弼时就要求停止重新分配土地，直到农民受到适当的教育为止”。
 
-54. Correct the “Left” errors in land reform propaganda, 11 February 1948, SW IV, p.197；关于保护地主在城市的利益，另参见同上, p.203。
+54. Correct the “Left” errors in land reform propaganda, 11 February 1948, SW IV, p.197；关于保护地主在城市的利益，另参见同上, p.203。校注：中文据《纠正土地改革宣传中的“左”倾错误》（1948年2月11日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm)。原书把该文第三条和第一条的话前后拼接成一段引文，这里分段加引号，次序照原书。
 
-55. Tactical problems of rural work, 24 May 1948, SW IV, pp.251, 255；另见 The work of land reform, 25 May 1948, 同上。
+55. Tactical problems of rural work, 24 May 1948, SW IV, pp.251, 255；另见 The work of land reform, 25 May 1948, 同上。校注：“一两年甚至三年”据《新解放区农村工作的策略问题》（1948年5月24日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480524.htm)；三个条件中引号内的一句据《一九四八年的土地改革工作和整党工作》（1948年5月25日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480525.htm)。
 
-56. 参见“许多地主、富农和流氓趁机钻进我们党内……”，SW IV, p.166 注。另一位党的领导人 Nie Yong’ren 说：“这些分子占据了我们党内的大多数职位……从土地改革来看，我们的政策似乎反映了地主和富农的意见。”Renewal of our Ranks, 1948，转引自 Xue Yue, op. cit., p.328。
+56. 参见“许多地主分子、富农分子和流氓分子乘机混进了我们的党……”，SW IV, p.166 注。校注：中文据《目前形势和我们的任务》（1947年12月25日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm)，这句话在该文正文中。另一位党的领导人 Nie Yong’ren 说：“这些分子占据了我们党内的大多数职位……从土地改革来看，我们的政策似乎反映了地主和富农的意见。”Renewal of our Ranks, 1948，转引自 Xue Yue, op. cit., p.328。
 
 57. 例如：“我们在华中各地的剿匪工作都有很大进展。湖南省在过去一年（一九四八至一九四九）中，约有三万八千七百名土匪被击毙、活捉或迫降。湖北省在五、六、七三个月内，一共歼灭土匪一万二千多人。”New China News Agency (NCNA), Hunan report, 20 August 1949。校注：前两句据原书英文译出，中文原话未见。末句据《人民日报》1949年8月21日第1版《华中各地剿灭土匪九万余》一则（电头为“【北平新华广播电台广播】武汉二十日消息”）。该报道在湖北一句之前说的是“河南省一年多来”，人数为七万八千七百多人，口径是“打死打伤活捉和争取投降”；原书作湖南（Hunan）、38,700人。省名、人数和统计口径都不一致，所以湖南一句没有据此替换，也不能认定这则报道就是作者所引的英文电稿。参见[报刊录文摘句与来源](../reference%20check/sources/round19-evidence.json)。
 
 58. United Press 记者引 Beijing Radio 1949年6月4日播发的毛讲话；另见 SW IV, pp.397-8, 247。
 
-59. 27 February 1948, SW IV, p.203；另见同上, p.219。
+59. 27 February 1948, SW IV, p.203；另见同上, p.219。校注：本注和注60的中文据《关于工商业政策》（1948年2月27日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480227.htm)。
 
 60. 同上, p.203。
 
 61. 参见 Ch’en Po-ta et al., On Industrial and Commercial Policy (Kuan-yu kung-shang-yeh te Cheng-tse), NCNA, Hong Kong bureau, Oct. 1949, pp.65-7；引自 Kenneth Lieberthal, Mao versus Liu? Policy towards Industry and Commerce, 1946-9, CQ49, July-September 1971, p.497。
 
-62. 8 Apr. 1948, SW IV, p.248。
+62. 8 Apr. 1948, SW IV, p.248。校注：本注至注64的中文据《再克洛阳后给洛阳前线指挥部的电报》（1948年4月8日）的[中文录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480408.htm)。
 
 63. SW IV, p.248。
 
