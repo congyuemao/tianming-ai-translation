@@ -118,7 +118,10 @@ def main():
     ap.add_argument("--verbose", action="store_true")
     ap.add_argument("--renumbered", action="append", default=[],
                     help="chapter prefix whose notes were deliberately renumbered: compare ref counts only")
+    ap.add_argument("--allow-quote", action="append", default=[],
+                    help="ledger id whose restored text was deliberately moved or edited (see logs/decisions.md)")
     a = ap.parse_args()
+    allow = set(a.allow_quote) | {"09-23"}  # 09-23: inline 校注 moved to endnote, quote itself unchanged
     rq = restored_quotes()
     total_err = 0
     for path in sorted(CH.glob("*.md")):
@@ -162,7 +165,7 @@ def main():
             errs.append("endnotes not numbered 1..N")
         flat_base, flat_cur = base.replace("\n", ""), cur.replace("\n", "")
         for rid, q in rq.get(path.name, []):
-            if q in flat_base and q not in flat_cur:
+            if rid not in allow and q in flat_base and q not in flat_cur:
                 errs.append(f"restored quote {rid} changed: “{q[:30]}”")
         total_err += len(errs)
         status = "OK" if not errs else "ERROR"
