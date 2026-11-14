@@ -1,0 +1,1912 @@
+{
+ "03_ch02_from_defeat_to_victory.md": [
+  {
+   "id": "03-05",
+   "note": "20",
+   "excerpt": "与此同时，1927 年的事件也被重新书写，以突出“共产党与国民党光荣合作的历史”",
+   "source": "Letter to Chang Nai-chi and others, in Mao Zedong et al., China: the March Towards Unity, New York, May 1937, p.75。",
+   "researchNote": "复核1936年8月10日信件刊本的统一战线段，仍未落实目标短语；该刊本并注明从英文再译。第七轮在8月25日致国民党书中找到的对应说法，不能静默移作致章乃器等人的信。未取得原注英文集第75页，维持部分核实，版本及归属问题已补入注20。",
+   "verifiedSources": [
+    {
+     "id": "isaacs1938R7",
+     "title": "伊罗生《中国革命的悲剧》第二十章《新的「民族统一阵线」》",
+     "url": "https://www.marxists.org/chinese/harold-r-isaacs/1938/20.htm",
+     "kind": "英语历史著作的中文译本；只作转引定位线索，不能当作毛泽东信件中文原件",
+     "accessed": "2026-10-08"
+    },
+    {
+     "id": "ccpLetter19360825R7",
+     "title": "《中国共产党致中国国民党书》（1936-08-25）",
+     "url": "https://zh.wikisource.org/w/index.php?title=中国共产党致中国国民党书_(1936)&oldid=5978246",
+     "kind": "维基文库网络录文；页面称据中央档案馆油印件刊印，但本轮未核该油印件。收件对象与原书所注不同，暂不替换",
+     "accessed": "2026-10-08"
+    },
+    {
+     "id": "mao19360810R13",
+     "title": "《毛泽东集补卷》第4卷（1932.1—1936.8），《致章乃器、陶行知、邹韬奋、沈钧儒及全体救国会员函》",
+     "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-04.pdf",
+     "kind": "后出文献汇编扫描，竹内实监修，毛泽东文献资料研究会编辑，苍苍社1984年6月26日初版；所收信件中文为英文回译，不能视作中文原本",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Mao-Collection-Supplement-Vol4.pdf",
+     "sha256": "9E549220C1431D1C09A4EEDA3B38881D5A3C855E84E8248DADA82B753DF03927",
+     "pdfPages": 310,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的310页文件，未摘页、裁切、重排或增添OCR。只目视核查所列目标页。",
+     "evidenceLocation": "刊页297题名及日期、301富农和工商业段、301—302劳资段与未译说明、303—304统一战线段、305署名日期、306救国时报编者注及来源，分别为PDF第299、303—308页；PDF第309页版权栏。",
+     "versionNote": "刊页306明确注明由英国方面传来的英文译稿再译成中文，并等待中文原本。来源栏列救国时报1936-10-30及救国会（中国社会科学出版社1981-10）。未取得这两个版本本身。"
+    }
+   ]
+  },
+  {
+   "id": "03-06",
+   "note": "21",
+   "excerpt": "“共产党与国民党光荣合作的历史”【原文待核】。[20] 蒋本人，这位曾经的“上海屠夫”，也得到了形象修整：“中国共产党对蒋介石坚定进行抗战的政策，已给予毫无保留的信任。除蒋委员长外，谁也不能领导抗战”",
+   "source": "United Press 对 Bo Gu (Qin Bangxian) 的采访，Chongqing, 8 November 1938；并可比较“拥护蒋委员长领导抗战”这一口号，见 China Today, Shanghai, July 1937。",
+   "researchNote": "同期英文期刊第22页有两句对应英文，称Chin Po-ku于11月8日在重庆向United Press记者作此表示；第25页署上海1938年11月11日。与原注采访人物、地点、月日及英文引句吻合，但该文仍是对采访的转引，未取得合众社原电及中文记录。补注21，保留正文待核标记，不另造中文原话。",
+   "verifiedSources": [
+    {
+     "id": "bogu1939R12",
+     "title": "Li Fu-jen, After the Fall of Wuhan, The New International, Volume V, No.1, January 1939, pp.22–25",
+     "url": "https://www.marxists.org/history/etol/newspape/ni/vol05/no01/v05n01-jan-1939-new-int.pdf",
+     "kind": "同期英文期刊扫描，对合众社采访的转引；不是合众社原电或中文谈话记录",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/New-International-1939-01.pdf",
+     "sha256": "28F3E49CBA4445656E3515C22301FA114D27EFF6B9937FFA2EB937A9C9042E6E",
+     "pdfPages": 32,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的32页原文件，未摘页、裁切、重排或增添OCR。",
+     "evidenceLocation": "PDF第1页封面、2页版权栏、22页引文及采访归属、25页作者署名与1938年11月11日署文日期；刊页22、25与PDF页序相同。",
+     "titleVariant": "封面作After the Fall of Hankow，文章第22页题名作After the Fall of Wuhan。",
+     "htmlTranscription": "https://www.marxists.org/archive/glass/1939/01/fallwuhan.htm"
+    }
+   ]
+  },
+  {
+   "id": "03-12",
+   "note": null,
+   "excerpt": "月、六月、七月三个月内，剿灭土匪总数超过一万二千人。”New China News Agency (NCNA), Hunan report, 20 August 1949。中文原文未核出，暂据英文译回",
+   "source": null,
+   "researchNote": "1949年8月21日录文有完整湖北句，已恢复；其前文河南78700与Harris湖南38700不同，不替换剩余回译，不撤整条标记。",
+   "verifiedSources": [
+    {
+     "id": "rmrb-03-12",
+     "recordIds": [
+      "03-12"
+     ],
+     "title": "甘肃我军继续挺进　攻占洮沙进逼兰州  南路大军相继解放西和礼县  华中各地剿灭土匪九万余",
+     "date": "1949-08-21",
+     "page": "第1版()",
+     "kind": "非官方报刊录文；未核原报版影",
+     "accessed": "2026-10-14",
+     "repository": "https://github.com/fangj/rmrb",
+     "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1949%E5%B9%B408%E6%9C%88.7z",
+     "archiveSHA256": "862c88c5b70cfcc089ac17ec36a7011668f70d27b01a2b15c291dde9c2f7d5c6",
+     "archiveGitBlob": "7c6abf5203fe082dce2ebb409dcc0d235445f721",
+     "entry": "1949年08月/1949-08-21_甘肃我军继续挺进_攻占洮沙进逼兰州_南路大军相继解放西和礼县_华中各地剿灭土匪九万余.md",
+     "entrySHA256": "42527ab9314673ce4c5688bb7423c896e96fed2df0d902ff6dff6ae0ed7c2ee1",
+     "excerpts": [
+      "河南省一年多来，打死打伤活捉和争取投降的土匪，一共有七万八千七百多人。",
+      "湖北省在五、六、七三个月内，一共歼灭土匪一万二千多人"
+     ]
+    }
+   ]
+  }
+ ],
+ "04_ch03_first_phase.md": [
+  {
+   "id": "04-05",
+   "note": "21",
+   "excerpt": "来。在为这一方针辩护时，他说：“百花齐放、百家争鸣一来，这一‘家’也出来了。”又说那些坏人搞所谓大民主时会“做出错误的行动，讲出错误的话，暴露和孤立他们自己”。[21]后来他又说，必须清洗四十多万右派",
+   "source": "January 1957, Miscellany I, p.57。",
+   "researchNote": "英译集确有over four hundred thousand及右派清洗；这可以落实英文转引来源，但不能填补中文录文中的×××万个，也不构成对人数的独立统计核实。保留待核标记。",
+   "verifiedSources": [
+    {
+     "id": "mao19610118",
+     "title": "《在八届九中全会上的讲话》（1961-01-18）",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/5-002.htm",
+     "kind": "1968年武汉版《毛泽东思想万岁》网络录文",
+     "accessed": "2026-10-07"
+    },
+    {
+     "id": "miscellanyIIr5",
+     "title": "Miscellany of Mao Tse-tung Thought (1949-1968), Part II, JPRS-61269-2, February 1974",
+     "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/12/Miscellany-Of-MaoTse-tung-Thought-1949-1968-JPRS-Part-2-1974.pdf",
+     "kind": "美国JPRS英译资料集完整扫描，270页；仅用于转引链和英译页码核对，不等同于中文原稿",
+     "localPath": "reference check/sources/Miscellany-1949-1968-JPRS-Part2-1974.pdf",
+     "accessed": "2026-10-08",
+     "sha256": "29361A79E2D5870AB3E4191D69249E1C768EBC659D1494DB6E974A632F99B39E"
+    }
+   ]
+  }
+ ],
+ "05_ch04_great_leap_forward_and_after.md": [
+  {
+   "id": "05-01",
+   "note": "2",
+   "excerpt": "。不过，到了 9 月，方向开始出现某种调整。要求增加消费品供应、改善生活水平的呼声仍在持续。1958 年八大二次会议也承认，有“增加消费的必要”，否则党同群众之间就会出现严重矛盾，并导致不可原谅的错误",
+   "source": "转引自 Jan Deleyne, The Chinese Economy, London, 1973, pp.185-6。",
+   "researchNote": "读到Deleyne英译扫描第185—186页，明确为1956年八大；Harris第56页却写1958年，且没有二次会议。删去译稿自行增加的二次会议，校注更新年份及版次对照。薄一波中文候选的归属仍未闭合，保留待核。",
+   "verifiedSources": [
+    {
+     "id": "rmrb-05-01-r20",
+     "recordIds": [
+      "05-01"
+     ],
+     "title": "正确处理积累和消费的关系  薄一波同志的发言",
+     "date": "1956-09-20",
+     "page": "第6版()",
+     "kind": "非官方报刊录文，未核原报版影",
+     "accessed": "2026-10-14",
+     "repository": "https://github.com/fangj/rmrb",
+     "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1956%E5%B9%B409%E6%9C%88.7z",
+     "archiveSHA256": "ea504550dc9fea3429f864e4c735b8fac1bd9a2a28665ac2f9025b98f75b44db",
+     "archiveGitBlob": "41606bec8629d581492be68e3cef7e786251ca08",
+     "entry": "1956年09月/1956-09-20_正确处理积累和消费的关系_薄一波同志的发言.md",
+     "entrySHA256": "0fe6602c525a342535e7e17d853f7a8f7347748cf36606aed70151a4cd72bab0",
+     "excerpts": [
+      "那就是严重的脱离群众，那就会犯不可饶恕的错误"
+     ],
+     "assessment": "文字高度对应，但1956年与原书1958年不同；未取得Deleyne转引页。"
+    },
+    {
+     "id": "deleyne185-r21",
+     "recordIds": [
+      "05-01"
+     ],
+     "title": "Jan Deleyne, The Chinese Economy, Robert Leriche translation, Harper & Row imprint",
+     "kind": "英译转引书扫描；不是中文原话",
+     "url": "https://michaelharrison.org.uk/wp-content/uploads/2023/03/The-Chinese-Economy-Deleyne-1973.pdf",
+     "discoveryUrl": "https://michaelharrison.org.uk/2021/08/foreign-commentaries-on-china/",
+     "sourcePDFSHA256": "ee5867245fbf33785585f7bf77d269a4c1c8456a73bbcb20978076ce363d4470",
+     "sourcePDFPages": 216,
+     "editionEvidence": "扉页为Harper & Row；版权页英译版权©1973 André Deutsch Limited，英国印刷，书号06-136124-0。没有把它冒称另行核到伦敦版。",
+     "checkedPages": [
+      {
+       "localPath": "reference check/sources/Deleyne-1973-title.png",
+       "printedPage": null,
+       "pdfPage": 7,
+       "sha256": "db327538b7239d42eca3265ff653c602b18d15cf0c5b1e68c25420a6c51156e9",
+       "visuallyVerified": true
+      },
+      {
+       "localPath": "reference check/sources/Deleyne-1973-copyright.png",
+       "printedPage": null,
+       "pdfPage": 8,
+       "sha256": "65ca08c4bcde7f8a268be1618e302aebfea4fdf886a9b8fb78c33685419b4f49",
+       "visuallyVerified": true
+      },
+      {
+       "localPath": "reference check/sources/Deleyne-1973-p185.png",
+       "printedPage": 185,
+       "pdfPage": 189,
+       "sha256": "376ca0e026223cb864ea9d0efdc6d5410add4c886dced6f9c56ceac011b03736",
+       "visuallyVerified": true
+      },
+      {
+       "localPath": "reference check/sources/Deleyne-1973-p186.png",
+       "printedPage": 186,
+       "pdfPage": 190,
+       "sha256": "948d632496e5d0fb8c8260a2237b9472158fd9a2b61db38d54bcd13642ed5134",
+       "visuallyVerified": true
+      }
+     ],
+     "observations": [
+      "引语跨185—186页，其引入句明确为1956年八大，未注明发言人，也未列该引语的更早出处。",
+      "与Harris底本第56页的1958年形成可复核的版本差异；不能只凭主题对应就确认薄一波为该英译的唯一原文。"
+     ],
+     "accessed": "2026-10-14"
+    },
+    {
+     "id": "harris56-r21",
+     "recordIds": [
+      "05-01"
+     ],
+     "title": "Nigel Harris, The Mandate of Heaven, 英文底本第56页",
+     "kind": "作者原书；用于区分原书年份与译稿增补",
+     "sourcePDFSHA256": "80ca81df5a03553e147298d37be8a2461661f1e625858035d24786095732b7a8",
+     "checkedPrintedPage": 56,
+     "checkedPDFPage": 75,
+     "observation": "原书标8th party Congress (1958)，未写second session。保留1958作为作者原文，删除译稿增补的二次会议，并在校注对照Deleyne。",
+     "accessed": "2026-10-14"
+    }
+   ]
+  }
+ ],
+ "06_ch05_cultural_revolution.md": [
+  {
+   "id": "06-01",
+   "note": "15",
+   "excerpt": "历史叙述，用来把过去和当下的分歧编织成一条一致的线索。毛真正恼火的，是省级领导像旧军阀那样建立“独立王国”，许多事情不同他商量。他甚至抱怨说，别人不让他把工作做完倒还罢了，他不喜欢被当作“死了的祖宗”",
+   "source": "Ibid., pp.266-7。",
+   "researchNote": "取得Schram谈话集美版，第266—267页确认dead ancestor英译；现有中文录文作如丧考妣，语义差异未消除。更新全文到手状态，不撤标。",
+   "verifiedSources": [
+    {
+     "id": "mao19661024CnR15",
+     "title": "《在中央政治局汇报会议上的讲话》（1966-10-24）",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/5-220.htm",
+     "kind": "标作1968年武汉版《毛泽东思想万岁》的中文网络录文，非原始讲话记录",
+     "accessed": "2026-10-08"
+    },
+    {
+     "id": "mao19661024EnR15",
+     "title": "Talk At The Report Meeting（1966-10-24）",
+     "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-9/mswv9_68.htm",
+     "kind": "英文网络录文，页面来源标为Long Live Mao Tse-tung Thought；非原注Mao Unrehearsed版面",
+     "accessed": "2026-10-08"
+    }
+   ]
+  }
+ ],
+ "07_ch06_after_cultural_revolution.md": [
+  {
+   "id": "07-03",
+   "note": "8",
+   "excerpt": "变得体面。1971 年，报纸称赞自留地，并向干部保证，自留地同什么“资本主义道路”毫无关系；相反，它还能抑制国家征购和短缺必然倾向于制造的黑市。〔7〕《人民日报》甚至公开批评农村那些“浪费时间”的会议",
+   "source": "*RMRB*, 23 October 1971。",
+   "researchNote": "扩大至1971年10月整月录文并复查10月23日《树立全局观念》，农忙抽劳力开会一类语境仍不足以恢复英文浪费时间的完整句。",
+   "verifiedSources": [
+    {
+     "id": "meetings1971",
+     "title": "江苏省仪征县谢集公社党委会《凡是大事都要集体讨论》及河北省冀县西南王大队党支部《树立全局观念》",
+     "url": "https://cn.govopendata.com/renminribao/1971/10/23/3/",
+     "kind": "《人民日报》1971-10-23第3版，非官方网页录文；主题相关，未确认是目标引文的具体出处",
+     "accessed": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "id": "07-09",
+   "note": "14",
+   "excerpt": "用商品和货币腐蚀无产阶级的物质基础”【原文待核】。〔13〕特别危险的是干部和党内领导成员，其中一些人“千方百计反对社会主义革命，保护自己的利益。他们有好房子，有汽车，工资高，还有勤务员，比资本家还坏”",
+   "source": "*Kuang-ming RB*, 28 June 1975；另见 *RMRB*, 21 March 1975, in *SWB* 4862/i, 24 March 1975；*Hung-ch’i*, August 1975, and Beijing radio, 7 August 1975, ibid.。",
+   "researchNote": "《北京钢院》1976年3月30日第2版志学文《党内走资派与资产阶级法权》有好房子、汽车、薪水高、服务员及比资本家还厉害的一组措辞，与英文后半句对应；前半句不同，刊期晚于原注1975年材料。已目视核对版影，升为部分核实，完整引句不回填。《红旗》1975年第8期已取得完整扫描；仅审校封面、目录及刊页35—37、59—61两篇候选文章，未见目标完整引句，不声称全期无此句。 第42轮：原注SWB4862/i、1975年3月24日及所转述3月21日《人民日报》社论均在附件PDF5页底确认。该处是短摘要，**注明Details to be published later，不是全文；没有待核的住房、汽车、工资、勤务员等完整引句。旁证已取得，原条目继续部分核实，待核标记不变。 第43轮：已按用户链接核得《人民日报》1975年3月21日第1版社论《领导干部要带头学好》的完整中文网页录文。第2、5正文段分别对应FE/4862/i的首要任务、混淆资本主义与社会主义及修正主义与马克思主义两处摘要。全文无07-09完整目标引句；六版录文关键词检索亦未命中。旁证篇名与内容已核，07-09维持partial。",
+   "verifiedSources": [
+    {
+     "id": "beijingGangyuan19760330R16",
+     "title": "《北京钢院》第95期，1976年3月30日",
+     "url": "https://news.ustb.edu.cn/76.3.30.zong.pdf",
+     "kind": "北京科技大学网站公开的同期校报扫描，第1版转载人民日报社论；不是人民日报原版",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Beijing-Gangyuan-1976-03-30.pdf",
+     "sha256": "5A66027FA754CA7E731D62E15790DD18DC2650EB42D9523B1D6E4603C1033403",
+     "pdfPages": 4,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的4页、67,031,564字节原文件，未摘页、裁切、重排或增添OCR。",
+     "evidenceLocation": "第1版（PDF第1页）报头期号日期、《反右倾翻案 促工业生产》题名、文末引句及原载1976年3月28日人民日报说明。"
+    },
+    {
+     "id": "hongqi1975N8R17",
+     "title": "《红旗》1975年第8期",
+     "url": "https://www.bannedthought.net/China/Magazines/Hongqi/1975/Hongqi1975N8.pdf",
+     "kind": "同期中文期刊扫描；本轮只核封面、目录及两篇候选文章，未落实目标引句",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Hongqi1975N8.pdf",
+     "sha256": "335BC0E3AE2260EBB725CC7538D05858350BE44A52139D4B8D27D9C3A9F5918D",
+     "pdfPages": 81,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的81页、2,577,730字节原文件；未摘页、裁切、重排或增添OCR。原文件没有可提取文本层。",
+     "evidenceLocation": "PDF第1—3页封面与目录，目录末署八月一日出版；刊页35—37（PDF38—40）《正确处理干部和群众的关系》；刊页59—61（PDF62—64）《破除外因论 自觉拒腐蚀》。"
+    },
+    {
+     "id": "bbc-fe4862-i-r42",
+     "recordIds": [
+      "07-09"
+     ],
+     "kind": "用户提供的BBC SWB扫描合包；目标是FE/4862/i上《人民日报》社论的短摘要，属原注旁证",
+     "accessed": "2026-10-16",
+     "originalFilename": "NCNA__1975-03-24 (1 of 1).pdf",
+     "uploadedFileId": "file_00000000d5f081f49b3f6a473434c62b",
+     "localPath": "reference check/sources/BBC-SWB-4862-FE-SU-EE-1975-03-24-user-bundle.pdf",
+     "sha256": "b8116923dde5eb225dc92128f8ed77fdb96742d097cab8d4c5ee64065391a238",
+     "byteLength": 8347566,
+     "pdfPages": 44,
+     "textLayerPresent": false,
+     "archiveMethod": "原字节保存44页附件，未拆改或添加OCR文本层；检索OCR另存并明确未经全文校订。",
+     "publicationDate": "1975-03-24",
+     "swbReference": "FE/4862/i",
+     "targetPdfPage": 5,
+     "title": "‘People’s Daily’ editorial on studying Mao’s instruction",
+     "newspaperDate": "1975-03-21",
+     "transmittingAgency": "NCNA",
+     "broadcastDate": null,
+     "broadcastTimeGMT": null,
+     "timeLimit": "综述页覆盖0900 GMT 21 March至1200 GMT 22 March 1975；该条未单列新华社发稿时刻，不把报纸日期当作已核发稿时间。",
+     "scope": "附件PDF1—27为FE/4862部分，28—31为SU/4862/A3/1—4，32—44为EE/4862/C/1—13；不是44页均属远东卷。",
+     "checkedPages": [
+      {
+       "localPath": "reference check/sources/BBC-SWB-FE4862-contents.png",
+       "pdfPage": 2,
+       "sha256": "a52a240fcc3eba61683ea8a913d147b4ad3efd5814ce5d5b8e4d86ea5801b3a0",
+       "scope": "FE/4862目录首张，刊日24 Mar 75",
+       "visuallyVerified": true,
+       "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+      },
+      {
+       "localPath": "reference check/sources/BBC-SWB-FE4862-i.png",
+       "pdfPage": 5,
+       "sha256": "e00f97e1f96004985631f97b0c9b531dc806b528a6ee0757cf9726cb5248c002",
+       "scope": "FE/4862/i综述页，页底为目标社论摘要",
+       "visuallyVerified": true,
+       "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+      },
+      {
+       "localPath": "reference check/sources/BBC-SWB-FE4862-i-editorial-detail.png",
+       "pdfPage": 5,
+       "sha256": "81b250b86989976c914fd93678f5f2783b54679cc9432b78028fa6c9492de987",
+       "scope": "页底社论摘要及单、双星说明的放大局部",
+       "visuallyVerified": true,
+       "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+      },
+      {
+       "localPath": "reference check/sources/BBC-SWB-4862-SU-boundary.png",
+       "pdfPage": 28,
+       "sha256": "3bb88ea0766a1133da7b4ce7283e1d4c25504be25d4ec6a2f08ec541b08824b6",
+       "scope": "SU/4862/A3/1，说明原附件另含SU部分",
+       "visuallyVerified": true,
+       "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+      },
+      {
+       "localPath": "reference check/sources/BBC-SWB-4862-EE-boundary.png",
+       "pdfPage": 32,
+       "sha256": "115fbe75a68b1c519f375203aa710b59444a5ea0e082c7ebdd9c61cbbfce2096",
+       "scope": "EE/4862/C/1，说明原附件另含EE部分",
+       "visuallyVerified": true,
+       "rendering": "PyMuPDF原页3倍渲染；摘要局部4倍渲染，未改字、重绘或生成修复。"
+      }
+     ],
+     "ocrPagesScreened": 44,
+     "visuallyReadPdfPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      27,
+      28,
+      31,
+      32,
+      44
+     ],
+     "readingLimit": "目标摘要与篇题、双星说明逐字目视核对；其余页面仅OCR筛查与所列页目视，不声称逐字通读44页。",
+     "englishTranscription": "An editorial in the 21st March ‘People’s Daily’, transmitted by the NCNA, said that Party Committees should regard “as their foremost task” the study of Mao’s instruction on proletarian dictatorship. “Some of our comrades in leading positions”, the editorial said, “even regard capitalist things as socialist, and revisionist slogans as Marxist.”",
+     "footnoteMarker": "**",
+     "footnoteMeaningAsPrinted": "Details to be published later",
+     "ocrFile": "reference check/sources/BBC-SWB-4862-user-bundle-OCR.txt",
+     "ocrSHA256": "e86c9ea040759671838b88590ed9d86280d39f6a9fab200fd85500fa230e4a51"
+    },
+    {
+     "id": "rmrb-19750321-page-1-r43",
+     "url": "https://cn.govopendata.com/renminribao/1975/03/21/1/",
+     "localPath": "reference check/sources/RMRB-1975-03-21-page-1.html.txt",
+     "sha256": "181bfb147f9402640cde5666c50ae14511c4780e9d742a266b51c9889b5986db",
+     "byteLength": 46400,
+     "accessed": "2026-10-16",
+     "kind": "公开数据查询平台网页录文；非原报版影",
+     "page": 1,
+     "articleCount": 7,
+     "title": "领导干部要带头学好",
+     "articleUrl": "https://cn.govopendata.com/renminribao/1975/03/21/1/#460642",
+     "editorialTextPath": "reference check/sources/RMRB-1975-03-21-editorial.txt",
+     "editorialTextSHA256": "b1106b348caa6028a6abcc26653d4f822de79d7e5ae99b6fd7495761c01b5222",
+     "readScope": "社论9个正文段完整通读；不将报纸网页录文称作版影"
+    }
+   ]
+  },
+  {
+   "id": "07-14",
+   "note": null,
+   "excerpt": "自动接班，却又没有足够力量把“四人帮”中的任何一人推上去。报纸按部就班地围攻邓小平，但同时坚持不许活动分子在城市之间流动，不许成立特殊组织，干部必须完全掌握局面，以免“右派分子利用破坏生产来破坏革命”",
+   "source": null,
+   "researchNote": "直接读取1976年3月28日《反右倾翻案 促工业生产》录文，与此前转载线索相合，但防止有人破坏生产一句没有完整对应回译中的右派主语；不替换整段。",
+   "verifiedSources": [
+    {
+     "title": "《北京钢院》第95期，1976年3月30日",
+     "url": "https://news.ustb.edu.cn/76.3.30.zong.pdf",
+     "kind": "北京科技大学网站公开的同期校报扫描，第1版转载人民日报社论；不是人民日报原版",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Beijing-Gangyuan-1976-03-30.pdf",
+     "sha256": "5A66027FA754CA7E731D62E15790DD18DC2650EB42D9523B1D6E4603C1033403",
+     "pdfPages": 4,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的4页、67,031,564字节原文件，未摘页、裁切、重排或增添OCR。",
+     "evidenceLocation": "第1版（PDF第1页）报头期号日期、《反右倾翻案 促工业生产》题名、文末引句及原载1976年3月28日人民日报说明。",
+     "id": "beijingGangyuan19760330R16"
+    }
+   ]
+  }
+ ],
+ "08_ch07_workers_in_1950s.md": [
+  {
+   "id": "08-09",
+   "note": "14",
+   "excerpt": "续加快。报纸上常有工人连续工作二十四小时以上的报道，有一位铁路“英雄”据说连续工作了三十九小时。1955 年鞍钢一份报道说：“该企业一些工人在四月某一周连续工作三十五小时，有些人则连续工作十七小时。”",
+   "source": "*Kung-jen RB*, 27 May 1955, *SCMP* 1076.",
+   "researchNote": "Gluckstein刊页274—275明确鞍钢及35/17小时，注80日期和SCMP号与原注一致。由未落实转部分核实；中文原件仍缺，不撤标。",
+   "verifiedSources": [
+    {
+     "id": "gluckstein-fulltext-r32",
+     "recordIds": [
+      "08-09",
+      "08-10",
+      "08-17",
+      "11-01",
+      "11-05",
+      "11-23"
+     ],
+     "title": "Mao's China: Economic and Political Survey",
+     "author": "Ygael Gluckstein",
+     "publication": "George Allen & Unwin Ltd, London",
+     "year": 1957,
+     "url": "https://archive.org/download/maoschinaeconomi017995mbp/maoschinaeconomi017995mbp.pdf",
+     "catalogURL": "https://archive.org/details/maoschinaeconomi017995mbp",
+     "kind": "第三十一轮已取得的英文著作完整扫描；本轮精读相关引文和书内注释，不把英文回译当中文原件",
+     "accessed": "2026-10-14",
+     "localPath": "reference check/sources/Gluckstein-Maos-China-1957.pdf",
+     "sourcePDFSHA256": "7f72c53e209e421de5236e38802e1f4e94f42aab297d3fa672fb89ac830f576c",
+     "sourcePDFBytes": 37829066,
+     "sourcePDFPages": 450,
+     "fullTextObtained": true,
+     "sourcePDFArchived": true,
+     "newlyArchivedThisRound": false,
+     "images": [
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p93.png",
+       "pdfPage": 97,
+       "printedPage": 93,
+       "sha256": "0ff598641a3fe5cf103ac957497875ebe79aa2107bd928e14388e3e8874a44db",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p101.png",
+       "pdfPage": 105,
+       "printedPage": 101,
+       "sha256": "0a9014a6c9f27c1c046c44d0de24e742244010bde2d21c5d03ed985ed80e5600",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p274.png",
+       "pdfPage": 278,
+       "printedPage": 274,
+       "sha256": "7241ce1a8ce6bfc2b7604da324f29e79ba4b7925d3a25b52571653e7c69b4dab",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p275.png",
+       "pdfPage": 279,
+       "printedPage": 275,
+       "sha256": "51146a9b842e3595044b157eeef6b49afc752e9802a6026c86dbde8cca542cac",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p268.png",
+       "pdfPage": 272,
+       "printedPage": 268,
+       "sha256": "3c00455f29f6ac45f10e7da836f5a06f88e7705cce61f15801e40fb97ac0fab3",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": false
+      }
+     ],
+     "visuallyCheckedPDFPages": [
+      97,
+      105,
+      272,
+      278,
+      279
+     ],
+     "observations": [
+      "刊页93及注48有干部数量、质量和禁止群众自发活动的英文段落，脚注HKG, December 10, 1950; CB63。仍无法证明它与1948年中文的转载关系。",
+      "刊页101明确将征收工作中的殴打、责骂、处罚、威胁、拘押引文归于Hsi Chung-hsun；同页作North-East Bureau及May 20, 1951，注7为NFJP, June 9, 1952; CB158。",
+      "刊页274末段明确引Peking Daily Worker所报Anshan Steel Works；刊页275续文有35/17小时，注80为KJJP, May 27, 1955; SCMP1076。",
+      "刊页275的Lai Jo-yu引文有72小时、10个月、260,000及220,000小时，注81为KJJP, February 20, 1955; SCMP1024。220,000已目视确认，不采用OCR误识数值。",
+      "刊页268太原住房引文有20余人、厕所住6人、250户住123间、10英尺见方住3户、漏雨；注61为HHJP, January 12, 1952, quoted in FEER, October 30, 1952。没有据此声称读到原报或FEER。"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "08-10",
+   "note": "15",
+   "excerpt": "十二小时不下火线……某些工厂为了完成任务，连续十个月要求工人星期天也照常工作……结果，疲劳过度，疾病和伤亡都很严重……个别工厂增加的工时总共达到二十六万小时，而因病假损失的工时却也达到二十二万小时。”",
+   "source": "*Kung-jen RB*, 20 February 1955, *SCMP* 1024.",
+   "researchNote": "Gluckstein刊页275明确赖若愚及72小时、10个月、26万/22万工时，注81落实1955-02-20及SCMP1024。由未落实转部分核实；中文原件仍缺。",
+   "verifiedSources": [
+    {
+     "id": "rmrb-08-10-r20",
+     "recordIds": [
+      "08-10"
+     ],
+     "title": "在第一届全国人民代表大会第二次会议上的发言",
+     "date": "1955-07-23",
+     "page": "第2版()",
+     "kind": "非官方报刊录文，未核原报版影",
+     "accessed": "2026-10-14",
+     "repository": "https://github.com/fangj/rmrb",
+     "archiveUrl": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1955%E5%B9%B407%E6%9C%88.7z",
+     "archiveSHA256": "78a82c748bd278fbf55b8b18c35b380e960dfcbadf257f5083e26f5685bfaaf0",
+     "archiveGitBlob": "52028fad7ce9901ebec573ae022083ae3926f995",
+     "entry": "1955年07月/1955-07-23_在第一届全国人民代表大会第二次会议上的发言.md",
+     "entrySHA256": "763b5bab729dac9e6fe4a6ce9cf2fdb697519e20f4d5c74800b4631865033833",
+     "excerpts": [
+      "由于加班加点突击赶工的结果，损害了工人的健康"
+     ],
+     "assessment": "赖若愚发言有一般反对加班段，但未包含72小时、10个月及26万/22万工时的目标细节。"
+    },
+    {
+     "id": "gluckstein-fulltext-r32",
+     "recordIds": [
+      "08-09",
+      "08-10",
+      "08-17",
+      "11-01",
+      "11-05",
+      "11-23"
+     ],
+     "title": "Mao's China: Economic and Political Survey",
+     "author": "Ygael Gluckstein",
+     "publication": "George Allen & Unwin Ltd, London",
+     "year": 1957,
+     "url": "https://archive.org/download/maoschinaeconomi017995mbp/maoschinaeconomi017995mbp.pdf",
+     "catalogURL": "https://archive.org/details/maoschinaeconomi017995mbp",
+     "kind": "第三十一轮已取得的英文著作完整扫描；本轮精读相关引文和书内注释，不把英文回译当中文原件",
+     "accessed": "2026-10-14",
+     "localPath": "reference check/sources/Gluckstein-Maos-China-1957.pdf",
+     "sourcePDFSHA256": "7f72c53e209e421de5236e38802e1f4e94f42aab297d3fa672fb89ac830f576c",
+     "sourcePDFBytes": 37829066,
+     "sourcePDFPages": 450,
+     "fullTextObtained": true,
+     "sourcePDFArchived": true,
+     "newlyArchivedThisRound": false,
+     "images": [
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p93.png",
+       "pdfPage": 97,
+       "printedPage": 93,
+       "sha256": "0ff598641a3fe5cf103ac957497875ebe79aa2107bd928e14388e3e8874a44db",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p101.png",
+       "pdfPage": 105,
+       "printedPage": 101,
+       "sha256": "0a9014a6c9f27c1c046c44d0de24e742244010bde2d21c5d03ed985ed80e5600",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p274.png",
+       "pdfPage": 278,
+       "printedPage": 274,
+       "sha256": "7241ce1a8ce6bfc2b7604da324f29e79ba4b7925d3a25b52571653e7c69b4dab",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p275.png",
+       "pdfPage": 279,
+       "printedPage": 275,
+       "sha256": "51146a9b842e3595044b157eeef6b49afc752e9802a6026c86dbde8cca542cac",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p268.png",
+       "pdfPage": 272,
+       "printedPage": 268,
+       "sha256": "3c00455f29f6ac45f10e7da836f5a06f88e7705cce61f15801e40fb97ac0fab3",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": false
+      }
+     ],
+     "visuallyCheckedPDFPages": [
+      97,
+      105,
+      272,
+      278,
+      279
+     ],
+     "observations": [
+      "刊页93及注48有干部数量、质量和禁止群众自发活动的英文段落，脚注HKG, December 10, 1950; CB63。仍无法证明它与1948年中文的转载关系。",
+      "刊页101明确将征收工作中的殴打、责骂、处罚、威胁、拘押引文归于Hsi Chung-hsun；同页作North-East Bureau及May 20, 1951，注7为NFJP, June 9, 1952; CB158。",
+      "刊页274末段明确引Peking Daily Worker所报Anshan Steel Works；刊页275续文有35/17小时，注80为KJJP, May 27, 1955; SCMP1076。",
+      "刊页275的Lai Jo-yu引文有72小时、10个月、260,000及220,000小时，注81为KJJP, February 20, 1955; SCMP1024。220,000已目视确认，不采用OCR误识数值。",
+      "刊页268太原住房引文有20余人、厕所住6人、250户住123间、10英尺见方住3户、漏雨；注61为HHJP, January 12, 1952, quoted in FEER, October 30, 1952。没有据此声称读到原报或FEER。"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "08-17",
+   "note": "26",
+   "excerpt": "二十多个工人挤在一间小房子里，是很常见的事。有一间原本是厕所的房间，现在住着六个工人。太原郊外某煤矿二百五十户工人家庭只住在一百二十三间房里。有的十英尺见方的小屋里住着三户工人家庭。大多数房屋漏雨。”",
+   "source": "*Xinhua RB*, 12 January 1952，转引自 *Far Eastern Economic Review*, 30 October 1952.",
+   "researchNote": "Gluckstein刊页268及注61找到太原住房整段英文与所列原报、FEER日期；只核到英文中间来源，由未落实转部分核实。",
+   "verifiedSources": [
+    {
+     "id": "gluckstein-fulltext-r32",
+     "recordIds": [
+      "08-09",
+      "08-10",
+      "08-17",
+      "11-01",
+      "11-05",
+      "11-23"
+     ],
+     "title": "Mao's China: Economic and Political Survey",
+     "author": "Ygael Gluckstein",
+     "publication": "George Allen & Unwin Ltd, London",
+     "year": 1957,
+     "url": "https://archive.org/download/maoschinaeconomi017995mbp/maoschinaeconomi017995mbp.pdf",
+     "catalogURL": "https://archive.org/details/maoschinaeconomi017995mbp",
+     "kind": "第三十一轮已取得的英文著作完整扫描；本轮精读相关引文和书内注释，不把英文回译当中文原件",
+     "accessed": "2026-10-14",
+     "localPath": "reference check/sources/Gluckstein-Maos-China-1957.pdf",
+     "sourcePDFSHA256": "7f72c53e209e421de5236e38802e1f4e94f42aab297d3fa672fb89ac830f576c",
+     "sourcePDFBytes": 37829066,
+     "sourcePDFPages": 450,
+     "fullTextObtained": true,
+     "sourcePDFArchived": true,
+     "newlyArchivedThisRound": false,
+     "images": [
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p93.png",
+       "pdfPage": 97,
+       "printedPage": 93,
+       "sha256": "0ff598641a3fe5cf103ac957497875ebe79aa2107bd928e14388e3e8874a44db",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p101.png",
+       "pdfPage": 105,
+       "printedPage": 101,
+       "sha256": "0a9014a6c9f27c1c046c44d0de24e742244010bde2d21c5d03ed985ed80e5600",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p274.png",
+       "pdfPage": 278,
+       "printedPage": 274,
+       "sha256": "7241ce1a8ce6bfc2b7604da324f29e79ba4b7925d3a25b52571653e7c69b4dab",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p275.png",
+       "pdfPage": 279,
+       "printedPage": 275,
+       "sha256": "51146a9b842e3595044b157eeef6b49afc752e9802a6026c86dbde8cca542cac",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": true,
+       "rendering": "Poppler整页渲染，未裁切或改动扫描内容。"
+      },
+      {
+       "localPath": "reference check/sources/Gluckstein-1957-p268.png",
+       "pdfPage": 272,
+       "printedPage": 268,
+       "sha256": "3c00455f29f6ac45f10e7da836f5a06f88e7705cce61f15801e40fb97ac0fab3",
+       "visuallyChecked": true,
+       "newlyArchivedThisRound": false
+      }
+     ],
+     "visuallyCheckedPDFPages": [
+      97,
+      105,
+      272,
+      278,
+      279
+     ],
+     "observations": [
+      "刊页93及注48有干部数量、质量和禁止群众自发活动的英文段落，脚注HKG, December 10, 1950; CB63。仍无法证明它与1948年中文的转载关系。",
+      "刊页101明确将征收工作中的殴打、责骂、处罚、威胁、拘押引文归于Hsi Chung-hsun；同页作North-East Bureau及May 20, 1951，注7为NFJP, June 9, 1952; CB158。",
+      "刊页274末段明确引Peking Daily Worker所报Anshan Steel Works；刊页275续文有35/17小时，注80为KJJP, May 27, 1955; SCMP1076。",
+      "刊页275的Lai Jo-yu引文有72小时、10个月、260,000及220,000小时，注81为KJJP, February 20, 1955; SCMP1024。220,000已目视确认，不采用OCR误识数值。",
+      "刊页268太原住房引文有20余人、厕所住6人、250户住123间、10英尺见方住3户、漏雨；注61为HHJP, January 12, 1952, quoted in FEER, October 30, 1952。没有据此声称读到原报或FEER。"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "08-25",
+   "note": "44",
+   "excerpt": "过长工时一概不敢管，因为他们一提工人抱怨，就怕管理层说他们是在“惹事”。有个干部诉苦：“我被告知，问题只能同领导研究，不能同群众研究；同群众谈问题，就叫‘当群众尾巴’……我就成了一个惹是生非的党员。”",
+   "source": "Lo Yü-wen, “Distressing contradictions”, *RMRB*, 21 May 1957, *SCMP* 1551, pp.21-22.",
+   "researchNote": "符鹏研究注49列罗宇文《令人苦恼的矛盾》，《工人日报》1957年5月22日第1版，收入《读〈八千里“走马观花”记〉后》读者来信。与原注Lo Yü-wen、Distressing contradictions高度对应，但报纸和日期均不同。仅落实书目线索，未取得来信全文或SCMP1551第21—22页；“只能同领导研究”原句仍不可回填。",
+   "verifiedSources": [
+    {
+     "id": "fuPengUnionsR10",
+     "title": "符鹏《历史激荡中的组织再造——1957年前后工厂民主改革的尝试与工会论争的疑难》",
+     "url": "https://www.aisixiang.com/data/141562.html",
+     "kind": "后出学术研究网络转载；仅作书目线索，不代替原报",
+     "evidenceLocation": "第四节及注47—49；注49列罗宇文《令人苦恼的矛盾》，《工人日报》1957年5月22日第1版",
+     "accessed": "2026-10-08"
+    }
+   ]
+  }
+ ],
+ "09_ch08_temporary_contract_labour.md": [
+  {
+   "id": "09-01",
+   "note": null,
+   "excerpt": "财政则节省了大量劳动成本；与此同时，年轻农民以临时合同形式进城工作，同样得不到固定城市工人的物质待遇，于是企业和市政财政再次节省大笔开支。中国报刊把这一制度盛赞为“政治挂帅”和“遵照毛泽东思想”的典范",
+   "source": null,
+   "researchNote": "该报道有“必须坚持毛泽东思想挂帅”，支持同主题线索，但不能确认正文两组短引“政治挂帅”“遵照毛泽东思想”的具体中文出处；此条原无独立注号。不将相近口号拼成引文，标记保留。",
+   "verifiedSources": [
+    {
+     "id": "labour1965",
+     "title": "《亦工亦农　利工利农》",
+     "url": "https://cn.govopendata.com/renminribao/1965/12/28/1/",
+     "kind": "《人民日报》1965-12-28第1版，新华社27日讯，非官方网页录文，未核报纸版影",
+     "accessed": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "id": "09-14",
+   "note": null,
+   "excerpt": "正提上台面。某一阶段甚至还让人觉得，文化大革命的目标之一可能是进一步扩大这套制度。1966 年 8 月 13 日，广州电台在广播执行毛关于文化大革命指示的办法时，就把工农制度列为“政治挂帅”的首要典型",
+   "source": null,
+   "researchNote": "第7页将1966年8月13日广州广播与广东省委实施指示相连；politics in command及a pristine product出现在Current Scene作者评论段，而非编号指示的直接引语。Harris第123页写成广播将制度列为典型，转述层次有差异。英文依据和差异已定位，不能认定该短语就是广播原话。",
+   "verifiedSources": [
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 7；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  },
+  {
+   "id": "09-15",
+   "note": null,
+   "excerpt": "6 年 8 月 13 日，广州电台在广播执行毛关于文化大革命指示的办法时，就把工农制度列为“政治挂帅”的首要典型【原文待核】；全省凡适合的企业都应推行这一制度，逐步把“一部分固定工变成亦工亦农劳动者”",
+   "source": null,
+   "researchNote": "第7页编号指示第(2)项明确引出and gradually turn a number of permanent workers into worker-peasants，与Harris第123页目标对应；广州广播日期为1966年8月13日。尚无中文原稿，也没有BBC刊号。",
+   "verifiedSources": [
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 7；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  },
+  {
+   "id": "09-16",
+   "note": "11",
+   "excerpt": "0〕江青据说否认毛知道临时工和合同工的处境，并把这套制度的责任全部推给刘少奇、劳动部和中华全国总工会。上海的大字报则说，周恩来在这个问题上表现得更有胆量，他承认“由于中国的情况”，保留这一制度是必要的",
+   "source": null,
+   "researchNote": "第2、10页完整原页含because of the circumstances in China；第10页写1967年1月上海大字报之后的另一批红卫兵大字报，声称工人与周恩来有第二次、较晚的会见。第9页1967年1月4日只指广州大字报及其声称的1966年12月26日晚江青等人接见。不能移作周恩来会见日期；未建立与1966年10月22日网络讲话整理的对应。全文已收到，仍部分核实。",
+   "verifiedSources": [
+    {
+     "id": "zhou-wenge-network-pdf-r37",
+     "recordIds": [
+      "09-16"
+     ],
+     "title": "周恩来文革讲话",
+     "kind": "用户提供的PDF；网络整理，非正式出版物",
+     "accessed": "2026-10-16",
+     "originalFilename": "周恩来文革讲话 (周恩来) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+     "localPath": "reference check/sources/Zhou-Enlai-Wenge-Speeches-network-compilation.pdf",
+     "sha256": "06221810503e08bba1d67722f3b13c464acce65d909c55c7b34caebe5417b2b6",
+     "byteLength": 6955615,
+     "pdfPages": 2690,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整字节复制用户附件，未删页、裁切、改字或增添OCR；原附件与归档件SHA-256一致。",
+     "coverTranscription": {
+      "version": "1.0",
+      "date": "2024年10月",
+      "imprint": "21世纪文化革命出版社",
+      "qualification": "仅照录封面文字；不作为正式出版资质或作者审定证明。"
+     },
+     "checkedPages": [
+      {
+       "localPath": "reference check/sources/Zhou-Wenge-title.png",
+       "pdfPage": 1,
+       "printedPage": null,
+       "sha256": "e9458c1dbbc9814b3e71595ef1ccc9bb017ea5a79dad032dfae9ee45bbe22d3d",
+       "visuallyVerified": true,
+       "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+      },
+      {
+       "localPath": "reference check/sources/Zhou-Wenge-p276.png",
+       "pdfPage": 299,
+       "printedPage": 276,
+       "sha256": "1497e261edc604f6f1892adb33be99b82bd428db517dfb04fccae463325cd25b",
+       "visuallyVerified": true,
+       "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+      },
+      {
+       "localPath": "reference check/sources/Zhou-Wenge-p290.png",
+       "pdfPage": 313,
+       "printedPage": 290,
+       "sha256": "c4769fa0bccb7874bd08a68a146623021472c8807733e92bf5e6e79b23c5f3ad",
+       "visuallyVerified": true,
+       "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+      },
+      {
+       "localPath": "reference check/sources/Zhou-Wenge-p305.png",
+       "pdfPage": 328,
+       "printedPage": 305,
+       "sha256": "74cd840b3215fcb68229dbf8eb465cae1e7fb31ced4f0ee5bd7e4056e4ed9633",
+       "visuallyVerified": true,
+       "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+      },
+      {
+       "localPath": "reference check/sources/Zhou-Wenge-p314.png",
+       "pdfPage": 337,
+       "printedPage": 314,
+       "sha256": "af3c89e63b4ae98f0d2bb6c1750e0bd2baf7fa29a23cd477f4bbe79e868e7ab3",
+       "visuallyVerified": true,
+       "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+      },
+      {
+       "localPath": "reference check/sources/Zhou-Wenge-p1082.png",
+       "pdfPage": 1105,
+       "printedPage": 1082,
+       "sha256": "ce1775d25a8fda0ecee0afe3b28a905f24ebeeaf6d57d75b8ca527929bf0b76d",
+       "visuallyVerified": true,
+       "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+      },
+      {
+       "localPath": "reference check/sources/Zhou-Wenge-p1083.png",
+       "pdfPage": 1106,
+       "printedPage": 1083,
+       "sha256": "68ab6e77662853b4e47dbd7403a5fee81794b9b2333f1ce3f9e5e358312f4fdc",
+       "visuallyVerified": true,
+       "rendering": "Poppler整页渲染，最长边2000像素；没有裁切、改字或重新排版。"
+      }
+     ],
+     "targetExcerpts": {
+      "localPath": "reference check/sources/Zhou-Wenge-temporary-workers-excerpts.md",
+      "sha256": "b62c6f497017eae200ef74042b57f804dd2eca87849ad6384a10e904b7c8ddef"
+     },
+     "observations": [
+      "第046篇文内署1966-10-22，书内290页提供工程临时性和社会分工理由，已录出中文原句。",
+      "第050篇文内署1966-10-27，书内314页有相近段但措辞不同，并有“是否临时工”疑似讹字；未擅改。",
+      "第175篇文内署1967-01-29，对浙江代表说临时工一律转正涉及财政开支，仅作主题旁证。",
+      "未找到“由于中国的情况”逐字对应短句；上述讲话与上海大字报的转引关系未核定。"
+     ]
+    },
+    {
+     "id": "current-scene-public-snippets-r37",
+     "recordIds": [
+      "09-16"
+     ],
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "journal": "Current Scene",
+     "volume": "VI",
+     "issue": 5,
+     "date": "1968-03-15",
+     "accessed": "2026-10-16",
+     "kind": "原刊数字化本的Google Books公开检索片段，非整页或全文",
+     "url": "https://books.google.com/books?id=10ojAQAAMAAJ&pg=RA4-PA10&jscmd=SearchWithinVolume2&q=%22Chou%22%20%22circumstances%22&hl=en",
+     "googleBooksVolumeId": "10ojAQAAMAAJ",
+     "volumeDescription": "Current Scene: Developments in Mainland China, Volumes 6–8",
+     "fullTextObtained": false,
+     "pageImageObtained": false,
+     "visuallyVerified": false,
+     "targetPrintedPages": [
+      2,
+      10
+     ],
+     "pageIds": [
+      "RA4-PA2",
+      "RA4-PA10"
+     ],
+     "checks": [
+      "RA4-PA10将Harris的目标英文短引语归于Chou En-lai，并指向保留临时工、合同工制度。",
+      "RA4-PA2出现相同短引语及Chou En-lai归属。",
+      "目标文章标题在RA4-PA1命中；RA7-PA13参考注列该标题、VI/5和1968年3月15日。",
+      "第10页片段还对这些报道的真实性保留判断；不能当作周恩来讲话原始记录。"
+     ],
+     "limitations": [
+      "只核短引语、人物及篇目定位；未读完整第10页。",
+      "未据片段证实上海大字报的具体出处、日期或中文措辞。",
+      "不据后出书目直接确认原刊作者署名或整篇页数。"
+     ],
+     "queries": [
+      {
+       "query": "\"circumstances in China\"",
+       "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22circumstances%20in%20China%22",
+       "responseFileSHA256": "78c75699a9ad8d983bdbfebfa4e84bbb4aa2a49d1f8b9ac3605c431cf11c3dc5",
+       "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-targeted-snippets.json",
+       "reportedResultCount": 2,
+       "returnedPageIds": [
+        "RA4-PA2",
+        "RA4-PA10"
+       ],
+       "relevantPageIds": [
+        "RA4-PA2",
+        "RA4-PA10"
+       ]
+      },
+      {
+       "query": "\"Sources of Labor Discontent\"",
+       "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22Sources%20of%20Labor%20Discontent%22",
+       "responseFileSHA256": "78c75699a9ad8d983bdbfebfa4e84bbb4aa2a49d1f8b9ac3605c431cf11c3dc5",
+       "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-targeted-snippets.json",
+       "reportedResultCount": 3,
+       "returnedPageIds": [
+        "RA4-PA1",
+        "RA7-PA13",
+        "RA21-PA4"
+       ],
+       "relevantPageIds": [
+        "RA4-PA1",
+        "RA7-PA13"
+       ]
+      },
+      {
+       "query": "\"national economy\"",
+       "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22national%20economy%22",
+       "responseFileSHA256": "78c75699a9ad8d983bdbfebfa4e84bbb4aa2a49d1f8b9ac3605c431cf11c3dc5",
+       "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-targeted-snippets.json",
+       "reportedResultCount": 3,
+       "returnedPageIds": [
+        "RA16-PA5",
+        "RA21-PA4",
+        "RA36-PA17"
+       ],
+       "relevantPageIds": []
+      },
+      {
+       "query": "\"Chou\" \"circumstances\"",
+       "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22Chou%22%20%22circumstances%22",
+       "responseFileSHA256": "f43e104e4e093450c4f6e13b7fe1cfe788da440f44df11f052a78d8b98f6ce7b",
+       "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-attribution-snippets.json",
+       "reportedResultCount": 3,
+       "returnedPageIds": [
+        "RA4-PA2",
+        "RA4-PA10",
+        "RA55-PA19"
+       ],
+       "relevantPageIds": [
+        "RA4-PA2",
+        "RA4-PA10"
+       ]
+      },
+      {
+       "query": "\"Shanghai\" \"circumstances\"",
+       "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22Shanghai%22%20%22circumstances%22",
+       "responseFileSHA256": "f43e104e4e093450c4f6e13b7fe1cfe788da440f44df11f052a78d8b98f6ce7b",
+       "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-attribution-snippets.json",
+       "reportedResultCount": 3,
+       "returnedPageIds": [
+        "RA4-PA10",
+        "RA8-PA21",
+        "RA20-PA3"
+       ],
+       "relevantPageIds": [
+        "RA4-PA10"
+       ]
+      },
+      {
+       "query": "\"because of\" \"circumstances\"",
+       "url": "https://books.google.com/books?id=10ojAQAAMAAJ&jscmd=SearchWithinVolume2&hl=en&q=%22because%20of%22%20%22circumstances%22",
+       "responseFileSHA256": "f43e104e4e093450c4f6e13b7fe1cfe788da440f44df11f052a78d8b98f6ce7b",
+       "responseSavedInIgnoredResearchDirectory": "tmp/zhou-round37/current-scene-attribution-snippets.json",
+       "reportedResultCount": 3,
+       "returnedPageIds": [
+        "RA4-PA2",
+        "RA4-PA10",
+        "RA38-PA13"
+       ],
+       "relevantPageIds": [
+        "RA4-PA2",
+        "RA4-PA10"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "sheehan-citation-lead-r37",
+     "recordIds": [
+      "09-16"
+     ],
+     "title": "Chinese Workers: A New History",
+     "author": "Jackie Sheehan",
+     "publication": "Routledge, 1998；所读PDF版权页列2002年电子版",
+     "accessed": "2026-10-16",
+     "kind": "后出研究著作的页码线索，不代替原刊或中文原件",
+     "url": "https://files.libcom.org/files/ChineseWorkers-ANewHistory-Jackie%20Sheehan.pdf",
+     "checkedPrintedPages": [
+      119,
+      247
+     ],
+     "pdfPagesOneBased": [
+      130,
+      258
+     ],
+     "readMethod": "公开PDF解析文本；截图接口未成功，未做该书整页目视核验",
+     "visuallyVerified": false,
+     "localArchiveCreated": false,
+     "finding": "第119页关于周恩来保留工农制度的叙述指向Solomon 1968:10；第247页书目将该项列为R. Solomon，Current Scene 6(5):1–26。作者与页数仅按该书著录，未独立核实。"
+    },
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 2, 9, 10；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  },
+  {
+   "id": "09-21",
+   "note": "13",
+   "excerpt": "人民广场十万人示威。他们抗议临时劳动制度，要求建立一套“符合毛泽东思想的崭新劳动制度”【原文待核】。〔12〕发言者谴责说，临时工“不能参加本厂政治学习班，不能参加其他政治活动，也得不到应有的劳动保护”",
+   "source": "*Wen Hui Pao*, 6 January 1967, *SCMP Supplement* 164, 28 February 1967, p.31.",
+   "researchNote": "第10—11页明确转引1967年1月6日Wen Hui Pao，报道前一天人民广场十多万人集会。第11页含政治学习、其他政治活动及劳动保护的英文对应；前两项为Current Scene间接叙述，只有nor could they get the labor protection they deserved置于引号，Harris第125页将三项合为引句。中文原报及其SCMP页未取得。",
+   "verifiedSources": [
+    {
+     "title": "沈福祥《我的文革岁月》网络转载",
+     "url": "https://difangwenge.org/forum.php?mod=viewthread&page=2&tid=9979",
+     "kind": "亲历者后出回忆录的论坛转载；非1967年原报，仅作书目与措辞线索",
+     "accessed": "2026-10-08",
+     "evidenceLocation": "第二页，“红工竟没有在‘紧急通知’上签字”小节末，称1月6日《文汇报》第2版“本报讯”，引标题及新劳动制度一句。",
+     "id": "shenWenhui1967"
+    },
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 10, 11；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  },
+  {
+   "id": "09-22",
+   "note": "13",
+   "excerpt": "动制度”【原文待核】。〔12〕发言者谴责说，临时工“不能参加本厂政治学习班，不能参加其他政治活动，也得不到应有的劳动保护”【原文待核】。他们一旦抗议，“掌权者甚至扣发他们的一部分工资，停止他们的工作”",
+   "source": "*Wen Hui Pao*, 6 January 1967, *SCMP Supplement* 164, 28 February 1967, p.31.",
+   "researchNote": "第11页转引同篇1967年1月6日Wen Hui Pao：power-holders为叙述部分，其后even kept back part of their wages and suspended their work为引语，与Harris第125页对应。中文原句仍缺。",
+   "verifiedSources": [
+    {
+     "title": "沈福祥《我的文革岁月》网络转载",
+     "url": "https://difangwenge.org/forum.php?mod=viewthread&page=2&tid=9979",
+     "kind": "亲历者后出回忆录的论坛转载；非1967年原报，仅作书目与措辞线索",
+     "accessed": "2026-10-08",
+     "evidenceLocation": "第二页，“红工竟没有在‘紧急通知’上签字”小节末，称1月6日《文汇报》第2版“本报讯”，引标题及新劳动制度一句。",
+     "id": "shenWenhui1967"
+    },
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 11；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  },
+  {
+   "id": "09-24",
+   "note": null,
+   "excerpt": "核】。尽管如此，一些红卫兵仍在此时已经招致党领导层不满的局面下继续坚持。比如 1 月 10 日，首都红卫兵的一份报纸攻击临时工和合同工制度，说它们是企图“最大限度地榨取廉价劳动力，最大限度地攫取利润”",
+   "source": null,
+   "researchNote": "第11页左右栏相接，明确Capital Red Guards Newspaper，1967年1月10日，三篇文章中的第一篇含raise the greatest amount of cheap labor and to extract the maximum profits，与Harris第125页一致（英美拼写差异）。未给中文报头、篇名和期号，不能直接等同本章注9的1966年9月13日报纸。",
+   "verifiedSources": [
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 11；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  },
+  {
+   "id": "09-27",
+   "note": null,
+   "excerpt": "至此，路线迅速倒转。可党还必须费力稳住工资，并把那些已经从农村返回城市的工人和学生再次赶回去。官方说他们之所以回来，不过是反动派抛出了“纠正内迁冤案”这一类口号",
+   "source": null,
+   "researchNote": "第15页右栏将reverse the injustice of moving to the interior明确归于Wen Hui Pao，1967年2月12日；与Harris第125页对应。中文原句未取得。",
+   "verifiedSources": [
+    {
+     "id": "returnrural",
+     "title": "《上海三十三个革命组织发出〈紧急通告〉 回乡支农工人要坚守生产岗位就地闹革命》（1967-01-31）",
+     "url": "https://cn.govopendata.com/renminribao/1967/01/31/2/",
+     "kind": "《人民日报》第2版，非官方历史报刊录文",
+     "accessed": "2026-10-07"
+    },
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 15；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  },
+  {
+   "id": "09-29",
+   "note": "15",
+   "excerpt": "派抛出了“纠正内迁冤案”这一类口号【原文待核】。他们被安慰说：“下乡职工安置工作……可以逐步解决”【原文待核】，前提是他们先回到农村。倘若回去以后确有冤屈，“可以写信，也可以写大字报，揭发批判当权派”",
+   "source": "*RMRB*, 31 January 1967, and *Wen Hui Pao*, 12 February 1967.",
+   "researchNote": "第16页写信／寄大字报段属于同页1967年2月19日Wen Hui Pao文章，第27页注14复核该日期；不是Harris原注62所列的2月12日。Harris将Current Scene引文中的them明确写作the power-holders，并截去后面的代表与不得成群离岗限制。英文转引及实际报日已定位，中文仍待核。",
+   "verifiedSources": [
+    {
+     "id": "returnrural",
+     "title": "《上海三十三个革命组织发出〈紧急通告〉 回乡支农工人要坚守生产岗位就地闹革命》（1967-01-31）",
+     "url": "https://cn.govopendata.com/renminribao/1967/01/31/2/",
+     "kind": "《人民日报》第2版，非官方历史报刊录文",
+     "accessed": "2026-10-07"
+    },
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 16, 27；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  },
+  {
+   "id": "09-32",
+   "note": "18",
+   "excerpt": "上的一张大字报，对后一类人的处境作了令人心酸的表达：“我们这些老工人，年龄在五十到八十岁之间，被非法下放到农村……如果现在还得离开住了二三十年的上海，回到只住了四五年的农村，这就像捡回芝麻，丢掉西瓜”",
+   "source": "转引自 *Current Scene*, op. cit., p.17.",
+   "researchNote": "第17页右栏完整引出上海老工人大字报：50至80岁、上海20或30年、农村四或五年及芝麻／瓜比喻均与Harris第126页对应。来源注明a Shanghai poster of February（上下文为1967年），未列具体日、标题、张贴地点或中文照片。英文目标已核，中文原文仍缺。",
+   "verifiedSources": [
+    {
+     "id": "current-scene-1968-vi5-r45",
+     "title": "Sources of Labor Discontent in China: The Worker-Peasant System",
+     "publication": "Current Scene: Developments in Mainland China / 大陸現況",
+     "authorAsPrinted": "The Editor",
+     "volume": "VI",
+     "issue": "5",
+     "publicationDate": "1968-03-15",
+     "kind": "用户提供的原刊扫描；英文研究文章及转引，不是中文报刊原件",
+     "localPath": "reference check/sources/Current-Scene-1968-VI-5-Worker-Peasant-System.pdf",
+     "sha256": "6061835180ebff63df66ae85bd1d9a5c83237110531f748311b8e80b2023bd85",
+     "accessed": "2026-10-16",
+     "evidenceLocation": "Current Scene VI/5 (1968-03-15), pp. 17；刊页与PDF页码相同。",
+     "supports": "英文转引及其上下文；不证明中文原话"
+    }
+   ]
+  }
+ ],
+ "10_ch09_working_class_after_cultural_revolution.md": [
+  {
+   "id": "10-24",
+   "note": "15",
+   "excerpt": "”【原文待核】。〔15〕某些作者甚至进一步主张，应把劳动与报酬彻底分开，说“劳动者所得货币工资，只是社会总产品中用于个人消费的一部分；这一部分同每个劳动者的劳动量和劳动质量，也同他对社会的贡献相适应”",
+   "source": "*RMRB*, 15 May 1975, *SCMP* 75-24, 9-13 June 1975.",
+   "researchNote": "落实1973年本香港浸会大学馆藏Box 55 no. 5；另查CiNii1974年第三次印刷本42页且有增补。仍未取得所引1973年本第8页，不能用不同印次或相近教材替代。",
+   "verifiedSources": [
+    {
+     "id": "distribution1972",
+     "title": "上海沪东造船厂阀件车间小车四组《两种分配制度的本质区别：学习〈雇佣劳动与资本〉的一点体会》",
+     "url": "https://www.bannedthought.net/China/Magazines/Hongqi/1972/Hongqi1972N7.pdf",
+     "kind": "《红旗》1972年第7期，刊页43-48，PDF第46-51页；已逐页目视核对原刊扫描",
+     "accessed": "2026-10-07"
+    },
+    {
+     "id": "jec201-r20",
+     "recordIds": [
+      "10-24",
+      "10-26"
+     ],
+     "title": "Carl Riskin, Workers’ Incentives in Chinese Industry, China: A Reassessment of the Economy",
+     "publisher": "U.S. Government Printing Office",
+     "date": "1975-07-10",
+     "kind": "Google Books公开扫描页；英文转引资料，不是中文原话",
+     "url": "https://books.google.com/books?id=rLbSAAAAMAAJ&pg=PA201",
+     "textViewUrl": "https://books.google.com.au/books?id=rLbSAAAAMAAJ&pg=PA201&hl=zh-CN&output=html_text",
+     "localPath": "reference check/sources/JEC-China-Reassessment-1975-p201.png",
+     "sha256": "ff4dcd70cf266fa9ee978fa9e3be77881a22efe793b683c49bc57a1bca1d8f5d",
+     "checkedPrintedPage": 201,
+     "visuallyVerified": true,
+     "accessed": "2026-10-14",
+     "observations": {
+      "note4": "Liang-chung she-hui, liang-chung kung-tzu, Shanghai, 1973, p.8.",
+      "note6": "1974-10-02会见；Professor Fan Lan笔记；Chiu Shih Nien Tai, December 1974, pp.15–17。罗马字依版影，中文刊名和人名尚未确认。"
+     },
+     "limitations": [
+      "未归档整册，只保存已核对的第201页。",
+      "Google Books文本层与扫描同源，不构成独立印证。",
+      "美国国会网站PDF下载返回403；Google Books公开阅览页已读到目标页，整册下载未成功。"
+     ]
+    },
+    {
+     "id": "wages-catalog-r20",
+     "recordIds": [
+      "10-24"
+     ],
+     "title": "《两种社会，两种工资》图书目录",
+     "url": "https://books.google.com/books?id=H-4dAAAAMAAJ",
+     "kind": "书目目录，不是目标第8页",
+     "publisher": "上海人民出版社",
+     "year": 1973,
+     "pages": 41,
+     "accessed": "2026-10-14",
+     "assessment": "仅确认书名、出版者、年份、页数；不能依据关键词索引恢复引语。"
+    },
+    {
+     "id": "hkbu-wages-r21",
+     "recordIds": [
+      "10-24"
+     ],
+     "title": "香港浸会大学《友联研究所藏书》目录",
+     "kind": "图书馆馆藏目录；不是小册子正文",
+     "url": "https://library.hkbu.edu.hk/wp-content/uploads/page/2832/2019/08/2019-08-02-cc_pamphlets.pdf",
+     "sourcePDFSHA256": "acb741c4c2bc45e33b84578c58bfa597044d157ab98aa8cff4a65efe1a4110ff",
+     "checkedPages": [
+      {
+       "localPath": "reference check/sources/HKBU-pamphlets-catalog-p41.png",
+       "printedPage": 41,
+       "pdfPage": 41,
+       "sha256": "95162c95f979ca795759fc8e826f6600a552a13e5a3082cfcf6e81fb379df6bb",
+       "visuallyVerified": true
+      }
+     ],
+     "callNumber": "Box 55 no. 5",
+     "catalogEntry": {
+      "title": "两种社会两种工资",
+      "publisher": "上海人民出版社",
+      "year": 1973
+     },
+     "assessment": "可用于后续申请核阅1973年本第8页。本轮只读目录，没有读取目标页，也没有发送馆际申请。",
+     "accessed": "2026-10-14"
+    },
+    {
+     "id": "cinii-wages-reprint-r21",
+     "recordIds": [
+      "10-24"
+     ],
+     "title": "CiNii Books, 兩種社会 兩種工資, BA39305189",
+     "kind": "书目目录，记录不同印次",
+     "url": "https://ci.nii.ac.jp/ncid/BA39305189",
+     "retrievedHTMLSHA256": "fcbb88d303d63e795baa3fda75f100060616e8d6aa972f97c018e07abd6b8ff8",
+     "edition": "第一版第三次印刷，1974年7月",
+     "pages": 42,
+     "catalogNote": "第1次印刷とページ数が異なる(内容に一部追加あり)",
+     "assessment": "目录明确有增补及页数差异；不能未经比对即将1974年本第8页等同于Riskin的1973年引页。没有声称目标句实际发生改动或移页。",
+     "accessed": "2026-10-14"
+    }
+   ]
+  },
+  {
+   "id": "10-26",
+   "note": "17",
+   "excerpt": "官方自己也承认：“工资是低的，生活水平也不高。衣服刚够穿，肚子刚够填。为了发展经济，这种情况还要维持相当一段时期”",
+   "source": "Deng Xiaoping, 2 October 1974, interviewed by Professor Fan Lan，转引自 Carl Riskin, “Workers’ incentives in Chinese industry”, in *China: A Reassessment of the Economy*, Joint Economic Committee of the US Congress, Washington, 1975, p.201.",
+   "researchNote": "馆藏页影落实候选《七十年代》1974年12月第59期、82页，东京外国语大学王育德文库条目75337；政大馆藏范围亦覆盖。只落实候选刊物，不足以改写Riskin的罗马字刊名；原刊15—17页及Fan Lan姓名仍待核。",
+   "verifiedSources": [
+    {
+     "id": "jec201-r20",
+     "recordIds": [
+      "10-24",
+      "10-26"
+     ],
+     "title": "Carl Riskin, Workers’ Incentives in Chinese Industry, China: A Reassessment of the Economy",
+     "publisher": "U.S. Government Printing Office",
+     "date": "1975-07-10",
+     "kind": "Google Books公开扫描页；英文转引资料，不是中文原话",
+     "url": "https://books.google.com/books?id=rLbSAAAAMAAJ&pg=PA201",
+     "textViewUrl": "https://books.google.com.au/books?id=rLbSAAAAMAAJ&pg=PA201&hl=zh-CN&output=html_text",
+     "localPath": "reference check/sources/JEC-China-Reassessment-1975-p201.png",
+     "sha256": "ff4dcd70cf266fa9ee978fa9e3be77881a22efe793b683c49bc57a1bca1d8f5d",
+     "checkedPrintedPage": 201,
+     "visuallyVerified": true,
+     "accessed": "2026-10-14",
+     "observations": {
+      "note4": "Liang-chung she-hui, liang-chung kung-tzu, Shanghai, 1973, p.8.",
+      "note6": "1974-10-02会见；Professor Fan Lan笔记；Chiu Shih Nien Tai, December 1974, pp.15–17。罗马字依版影，中文刊名和人名尚未确认。"
+     },
+     "limitations": [
+      "未归档整册，只保存已核对的第201页。",
+      "Google Books文本层与扫描同源，不构成独立印证。",
+      "美国国会网站PDF下载返回403；Google Books公开阅览页已读到目标页，整册下载未成功。"
+     ]
+    },
+    {
+     "id": "tufs-issue59-r21",
+     "recordIds": [
+      "10-26"
+     ],
+     "title": "王育徳文庫目録―東京外国語大学アジア・アフリカ言語文化研究所―",
+     "kind": "馆藏目录扫描；只落实候选期刊",
+     "url": "https://tufs.repo.nii.ac.jp/record/7628/files/A747_3.pdf",
+     "catalogRecordUrl": "https://tufs.repo.nii.ac.jp/records/7628",
+     "catalogDate": "1999-03-20",
+     "doi": "10.15026/81991",
+     "sourcePDFSHA256": "d8dc1ba015e6c00f33178a548158b077362cecd54160b328a74fee2c669cd43e",
+     "checkedPages": [
+      {
+       "localPath": "reference check/sources/TUFS-Ong-catalog-p84.png",
+       "printedPage": 84,
+       "pdfPage": 14,
+       "sha256": "ae85bcab1297800bebd5e00714400aca8a0885a0e42a8297fedfe143f5ca03e2",
+       "visuallyVerified": true
+      }
+     ],
+     "entryNumber": "75337",
+     "catalogEntry": {
+      "title": "七十年代",
+      "issue": 59,
+      "date": "1974-12",
+      "extent": "82p"
+     },
+     "assessment": "目录页影确认香港七十年代杂志社；搜索引擎文字曾误识为六十年代，以页影为准。没有取得杂志目录及15—17页，因此仍只是Chiu Shih Nien Tai的候选，不能确证。",
+     "accessed": "2026-10-14"
+    },
+    {
+     "id": "nccu-magazines-r21",
+     "recordIds": [
+      "10-26"
+     ],
+     "title": "政大臺灣政治與社會發展海外史料資料庫：刊物介紹",
+     "kind": "馆藏说明及公开电子书检索；不是1974年刊文",
+     "url": "https://da.lib.nccu.edu.tw/tdm_2020/content/publish.html",
+     "ebookUrl": "https://tdmebook.lib.nccu.edu.tw/",
+     "observations": [
+      "七十年代馆藏期数包括48—84期，覆盖候选第59期。",
+      "九十年代介绍明确1984年5月由七十年代更名。",
+      "公开电子书界面实际搜索七十年代，返回台灣時代第1期及台獨月刊第111期两项，没有返回目标刊物。此检索结果不代表馆内没有原刊，也不构成中文刊名最终辨认。"
+     ],
+     "accessed": "2026-10-14"
+    }
+   ]
+  }
+ ],
+ "11_ch10_peasants_in_prc.md": [
+  {
+   "id": "11-04",
+   "note": "18",
+   "excerpt": "常记住雇农的利益，照顾他们生活，……提高他们的政治觉悟和文化水平。另一方面，又必须耐心教育雇农，防止‘左’的情绪和偏向。任何要求都不能超出当前经济状况所许可的范围。超过这个范围，就不会有人再雇用雇农”",
+   "source": "Shanghai, 14 July 1950, *CB* 10, 29 September 1950.",
+   "researchNote": "复用用户已提供Ash下篇全文，刊页543注53完整对应目标英文；542页注50落实饶漱石、二次全会、1950-07-14及CB10。两篇同期人民日报录文确认报告中文题名，公开研究新增浙江省档案馆J123-18-2线索。由已检索未落实转部分核实，中文原件仍缺，不撤标。",
+   "verifiedSources": [
+    {
+     "id": "ash-farm-labour-r35",
+     "recordIds": [
+      "11-04"
+     ],
+     "title": "Robert Ash, Economic Aspects of Land Reform in Kiangsu, 1949–52, Part II",
+     "publication": "The China Quarterly 67, September 1976, pp.519–545",
+     "url": "https://doi.org/10.1017/S0305741000035505",
+     "publisherURL": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/economic-aspects-of-land-reform-in-kiangsu-194952/E9C4186177ACC63578C69F1307D1E8A1",
+     "kind": "用户此前提供的完整论文PDF；本轮复用，新增核对页图，不计为新获全文",
+     "localPath": "reference check/sources/Ash-1976-Land-Reform-Kiangsu-Part2.pdf",
+     "sourcePDFSHA256": "ac98ec98f2dde181eaa6c13d2a5d6d8e12c72935697339447887c2c4ac98e007",
+     "checkedPages": [
+      {
+       "localPath": "reference check/sources/Ash-1976-Part2-p542.png",
+       "pdfPage": 24,
+       "printedPage": 542,
+       "sha256": "249226b50e4b26f8cf3acdf14e7b6366a45aa9167ff1334762bebbd00e91ed2b",
+       "visuallyVerified": true
+      },
+      {
+       "localPath": "reference check/sources/Ash-1976-Part2-p543.png",
+       "pdfPage": 25,
+       "printedPage": 543,
+       "sha256": "9879b74440f9b8eda59d0b704f5dec64c73a78627185b0923d364d2b53d04c8c",
+       "visuallyVerified": true
+      }
+     ],
+     "observations": [
+      "刊页543注53所转引雇农段与Harris第152页目标英文逐句对应，Harris省去前置的劳资争议处理句和尾部省略号。",
+      "刊页542注50列Jao Shu-Shih、华东军政委员会二次全会、上海1950年7月14日及Current Background 10（1950年9月29日）。",
+      "同页的管文蔚1951年报告不是该段雇农引语的作者；引语在注53内明确归饶漱石。",
+      "已核英文中间来源；未取得CB10或中文报告全文，不撤中文待核标记。"
+     ],
+     "accessed": "2026-10-14"
+    },
+    {
+     "id": "rmrb-east-china-plenum-r35",
+     "recordIds": [
+      "11-04"
+     ],
+     "title": "人民日报1950年7月21日、24日华东军政委员会会议报道",
+     "kind": "固定Git提交的非官方报刊录文；不是原报扫描，也不是报告全文",
+     "url": "https://github.com/fangj/rmrb/tree/babd76828d15fef7cde1247870632d759fb2aa7f",
+     "archive": {
+      "month": "1950-07",
+      "url": "https://raw.githubusercontent.com/fangj/rmrb/babd76828d15fef7cde1247870632d759fb2aa7f/7z/1950%E5%B9%B407%E6%9C%88.7z",
+      "sha256": "b6121c18e70c7edd295ff10939e32a8717e019d4dd9a5884cc9dbb61ed6af6d5",
+      "gitBlob": "236289fea7f0da990ba4627454e36206a63bc137",
+      "files": 1950
+     },
+     "transcriptions": [
+      {
+       "localPath": "reference check/sources/East-China-Plenum-1950-07-21-Opening-RMRB-transcription.md",
+       "title": "华东军政委员会  举行第二次全体委员会议  此次会议以土地改革问题为中心议题",
+       "date": "1950-07-21",
+       "printedPage": 3,
+       "corpusMember": "1950年07月/1950-07-21_华东军政委员会_举行第二次全体委员会议_此次会议以土地改革问题为中心议题.md",
+       "sha256": "467265d5dbde444752fb26cbbdfecbb6422de2b2b0805efadad30a5a85b827f1",
+       "preservedByteForByte": true
+      },
+      {
+       "localPath": "reference check/sources/East-China-Plenum-1950-07-24-Closing-RMRB-transcription.md",
+       "title": "华东军政委员会二次全会胜利闭幕  原则上通过华东土地改革实施办法  并通过关于干部在进行土改时的八项纪律",
+       "date": "1950-07-24",
+       "printedPage": 1,
+       "corpusMember": "1950年07月/1950-07-24_华东军政委员会二次全会_通电反对美国侵略.md",
+       "sha256": "339f19275e1b6fd7beae5c90ed59c4ba8333a58c1d3dc7d42f7be24160afe3ee",
+       "preservedByteForByte": true
+      }
+     ],
+     "observations": [
+      "7月21日第3版所载新华社上海16日电说会议14日开幕，并听取饶漱石《为完成华东土地改革而奋斗》报告。",
+      "7月24日第1版闭幕报道再次确认题名和报告人，会议22日闭幕。",
+      "两篇均未包含目标雇农引语，只作作者、题名及会议时间的交叉证据。",
+      "本轮两个govopendata对应网页均读取失败；采用此前已经下载的固定Git语料，不声称本轮读取网页成功。"
+     ],
+     "accessed": "2026-10-14"
+    },
+    {
+     "id": "rao-archive-candidate-r35",
+     "recordIds": [
+      "11-04"
+     ],
+     "title": "尤国珍：新中国成立初期中南区和华东区保存富农经济政策执行差异解析（第8页）",
+     "url": "https://www.dswxyjy.org.cn/n/2012/1225/c218997-20013103-8.html",
+     "publicationDate": "2012-12-25",
+     "publication": "中共党史研究；中共中央党史和文献研究院网站转载",
+     "kind": "研究文章中的档案书目线索；不是档案原件",
+     "catalogClue": {
+      "author": "饶漱石",
+      "title": "为完成华东土地改革而奋斗",
+      "date": "1950年7月",
+      "holdingInstitution": "浙江省档案馆",
+      "archiveNumber": "J123-18-2"
+     },
+     "assessment": "页面可读，题名、作者和月份与会议报道相合；所引段落讨论富农出租地，不是目标雇农句。档号只作后续索取线索，尚未向档案馆独立核验或取得影像。",
+     "accessed": "2026-10-14"
+    }
+   ]
+  },
+  {
+   "id": "11-14",
+   "note": "31",
+   "excerpt": "”【原文待核】。“农民和我们一样，都要吃饭穿衣。他们买许多东西还得凭票，这可不行。他们还是会藏粮不卖”【原文待核】。〔30〕大跃进之后，他说得更冷酷：“只抓生产，不抓生活，必然会搞出成千上万水肿病人”",
+   "source": "February 1959, in *Miscellany I*, p.157.",
+   "researchNote": "原注JPRS I第157页现已取得，证实tens of thousands；中文刊本仍缺人数，英译不得补出中文原话，保留标记。",
+   "verifiedSources": [
+    {
+     "id": "mao19590202",
+     "title": "《在省市委书记会上的讲话》（1959-02-02）",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/4-107.htm",
+     "kind": "1968年武汉版《毛泽东思想万岁》网络录文",
+     "accessed": "2026-10-07"
+    },
+    {
+     "id": "maoThought1958_1960R15",
+     "title": "《毛泽东思想万岁》（1958—1960）分册扫描",
+     "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210803.pdf",
+     "kind": "讲话和笔记汇编扫描；已核封面及目标页，未核定出版印记，非讲话原始记录",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Mao-Thought-1958-1960.pdf",
+     "sha256": "F74FB2CA4F1888F016B892F340471E7D6D06C51E38C79E839F7B9CA19B9C3D49",
+     "pdfPages": 359,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的359页文件，未摘页、裁切、重排或增添OCR；仅核查列明页面，不代表全卷逐页审校。",
+     "evidenceLocation": "PDF第1页封面，第2、4、5、7页相关目录；刊页32—33（PDF39—40）、176及180—181（PDF183、187—188）、194及197（PDF201、204）、324（PDF331）。",
+     "versionLimit": "相应网络录文标作1968年武汉版；本扫描未见可独立核定版次的版权页，不能仅据网络栏目认定两者为同一版次。"
+    },
+    {
+     "id": "jprs-I-r19",
+     "recordIds": [
+      "11-07",
+      "11-11",
+      "11-14",
+      "12-01"
+     ],
+     "title": "Miscellany of Mao Tse-tung Thought (1949–1968), Part I",
+     "publisher": "Joint Publications Research Service",
+     "reportNumber": "JPRS 61269-1",
+     "date": "1974-02-20",
+     "kind": "美国政府英译资料集扫描；不是中文原始记录，也不是独立事件证据",
+     "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/12/Miscellany-Of-MaoTse-tung-Thought-1949-1968-JPRS-Part1-1974.pdf",
+     "localPath": "reference check/sources/Miscellany-1949-1968-JPRS-Part1-1974.pdf",
+     "sha256": "c2a2be82491721c8388a3f9d4a4ab22fcbc432394f0a0ec58f00d80dabca250d",
+     "pageCount": 246,
+     "checkedPages": [
+      {
+       "printed": 34,
+       "pdf": 43
+      },
+      {
+       "printed": 41,
+       "pdf": 50
+      },
+      {
+       "printed": 102,
+       "pdf": 111
+      },
+      {
+       "printed": 134,
+       "pdf": 143
+      },
+      {
+       "printed": 157,
+       "pdf": 166
+      }
+     ],
+     "accessed": "2026-10-14"
+    }
+   ]
+  }
+ ],
+ "12_ch11_equality.md": [
+  {
+   "id": "12-01",
+   "note": "15",
+   "excerpt": "度毫无共同点的东西。”〔14〕另一方面，与斯大林不同的是，中国政权又一直对收入差距，尤其是工人内部收入差距过大，表现出焦虑。比如 1958 年，毛泽东就认为工资差距过大，应当缩小，但不能取消。〔15〕",
+   "source": "Talks with directors of various co-operative areas, November-December 1958, in Miscellany I, p.134.",
+   "researchNote": "原注JPRS I第134页现已取得，与中文同样区分乡村、城市，仍不能单独支持正文概括为中国工人内部差距过大。保留标记并更新校注。",
+   "verifiedSources": [
+    {
+     "id": "mao19581130r2",
+     "title": "《在武汉和各协作区主任的讲话（一）》",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/4-093.htm",
+     "kind": "1958-11-30，中文马克思主义文库《毛泽东思想万岁》录文",
+     "accessed": "2026-10-07"
+    },
+    {
+     "title": "《毛泽东思想万岁》（1958—1960）分册扫描",
+     "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210803.pdf",
+     "kind": "讲话和笔记汇编扫描；已核封面及目标页，未核定出版印记，非讲话原始记录",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Mao-Thought-1958-1960.pdf",
+     "sha256": "F74FB2CA4F1888F016B892F340471E7D6D06C51E38C79E839F7B9CA19B9C3D49",
+     "pdfPages": 359,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的359页文件，未摘页、裁切、重排或增添OCR；仅核查列明页面，不代表全卷逐页审校。",
+     "evidenceLocation": "PDF第1页封面，第2、4、5、7页相关目录；刊页32—33（PDF39—40）、176及180—181（PDF183、187—188）、194及197（PDF201、204）、324（PDF331）。",
+     "versionLimit": "相应网络录文标作1968年武汉版；本扫描未见可独立核定版次的版权页，不能仅据网络栏目认定两者为同一版次。",
+     "id": "maoThought1958_1960R15"
+    },
+    {
+     "id": "jprs-I-r19",
+     "recordIds": [
+      "11-07",
+      "11-11",
+      "11-14",
+      "12-01"
+     ],
+     "title": "Miscellany of Mao Tse-tung Thought (1949–1968), Part I",
+     "publisher": "Joint Publications Research Service",
+     "reportNumber": "JPRS 61269-1",
+     "date": "1974-02-20",
+     "kind": "美国政府英译资料集扫描；不是中文原始记录，也不是独立事件证据",
+     "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/12/Miscellany-Of-MaoTse-tung-Thought-1949-1968-JPRS-Part1-1974.pdf",
+     "localPath": "reference check/sources/Miscellany-1949-1968-JPRS-Part1-1974.pdf",
+     "sha256": "c2a2be82491721c8388a3f9d4a4ab22fcbc432394f0a0ec58f00d80dabca250d",
+     "pageCount": 246,
+     "checkedPages": [
+      {
+       "printed": 34,
+       "pdf": 43
+      },
+      {
+       "printed": 41,
+       "pdf": 50
+      },
+      {
+       "printed": 102,
+       "pdf": 111
+      },
+      {
+       "printed": 134,
+       "pdf": 143
+      },
+      {
+       "printed": 157,
+       "pdf": 166
+      }
+     ],
+     "accessed": "2026-10-14"
+    }
+   ]
+  }
+ ],
+ "13_ch12_democracy.md": [
+  {
+   "id": "13-05",
+   "note": "11",
+   "excerpt": "，会被划为“反革命”，被排除在“人民”之外。比如，在“百花齐放”运动之后，毛后来回忆说：“匈牙利事件以后，我们允许零散地自由发表意见，于是出现了成千上万个小匈牙利……不得不清除四十多万右派。”〔11〕",
+   "source": "1961 年 1 月，见 Miscellany II, p.238。",
+   "researchNote": "中文扫描中右派人数确已缺位，英译四十多万虽有版影支持，不能用于回填中文。注11新增版影证据，保留待核。",
+   "verifiedSources": [
+    {
+     "id": "mao19610118",
+     "title": "《在八届九中全会上的讲话》（1961-01-18）",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/5-002.htm",
+     "kind": "1968年武汉版《毛泽东思想万岁》网络录文",
+     "accessed": "2026-10-07"
+    },
+    {
+     "id": "miscellanyIIr5",
+     "title": "Miscellany of Mao Tse-tung Thought (1949-1968), Part II, JPRS-61269-2, February 1974",
+     "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/12/Miscellany-Of-MaoTse-tung-Thought-1949-1968-JPRS-Part-2-1974.pdf",
+     "kind": "美国JPRS英译资料集完整扫描，270页；仅用于转引链和英译页码核对，不等同于中文原稿",
+     "localPath": "reference check/sources/Miscellany-1949-1968-JPRS-Part2-1974.pdf",
+     "accessed": "2026-10-08",
+     "sha256": "29361A79E2D5870AB3E4191D69249E1C768EBC659D1494DB6E974A632F99B39E"
+    },
+    {
+     "id": "mao19610118r2",
+     "title": "《在八届九中全会上的讲话》",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/5-002.htm",
+     "kind": "1961-01-18，中文马克思主义文库《毛泽东思想万岁》录文，存在缺字",
+     "accessed": "2026-10-07"
+    },
+    {
+     "title": "《毛泽东思想万岁》（1961—1968）分册扫描",
+     "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210804.pdf",
+     "kind": "讲话汇编扫描；非原始讲话记录，未核定出版印记",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Mao-Thought-1961-1968.pdf",
+     "sha256": "758B6C841DCEB73EFEE768FECF890CB6C6C3A9639F182427B4251A3F51D52F17",
+     "pdfPages": 360,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的360页、26,158,107字节原文件，未摘页、裁切、重排或增添OCR。",
+     "evidenceLocation": "PDF第1页封面；刊页4、6（PDF17、19）1961年1月18日讲话及缺字；刊页115—116（PDF128—129）1964年6月6日讲话及年成数字。",
+     "versionLimit": "封面有1961—1968手写范围；未见可独立核定版次的出版印记，不因相应网络录文标作1968年武汉版便认定同版。",
+     "id": "maoThought1961_1968R16"
+    }
+   ]
+  },
+  {
+   "id": "13-06",
+   "note": "12",
+   "excerpt": "国家官僚体系之外的人民权力基础，来监督这个官僚体系。主席所能提出的，始终只是：“我们应该消灭敌人。顽固的官僚主义者应当改造成创造性的官僚主义者。假如经过长时期还创造不起来，那就把他们消灭掉。”〔12〕",
+   "source": "1961 年 1 月，见 ibid. II, p.240。",
+   "researchNote": "中文扫描确认干部类别缺字，死官僚、活官僚及清洗措辞完整。对照英文get rid of，将正文两处消灭修正为清除，更新注12；未把这项翻译修正计为恢复中文原话。",
+   "verifiedSources": [
+    {
+     "id": "mao19610118r2",
+     "title": "《在八届九中全会上的讲话》",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/5-002.htm",
+     "kind": "1961-01-18，中文马克思主义文库《毛泽东思想万岁》录文，存在缺字",
+     "accessed": "2026-10-07"
+    },
+    {
+     "id": "miscellanyIIr5",
+     "title": "Miscellany of Mao Tse-tung Thought (1949-1968), Part II, JPRS-61269-2, February 1974",
+     "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/12/Miscellany-Of-MaoTse-tung-Thought-1949-1968-JPRS-Part-2-1974.pdf",
+     "kind": "美国JPRS英译资料集完整扫描，270页；仅用于转引链和英译页码核对，不等同于中文原稿",
+     "localPath": "reference check/sources/Miscellany-1949-1968-JPRS-Part2-1974.pdf",
+     "accessed": "2026-10-08",
+     "sha256": "29361A79E2D5870AB3E4191D69249E1C768EBC659D1494DB6E974A632F99B39E"
+    },
+    {
+     "title": "《毛泽东思想万岁》（1961—1968）分册扫描",
+     "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210804.pdf",
+     "kind": "讲话汇编扫描；非原始讲话记录，未核定出版印记",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Mao-Thought-1961-1968.pdf",
+     "sha256": "758B6C841DCEB73EFEE768FECF890CB6C6C3A9639F182427B4251A3F51D52F17",
+     "pdfPages": 360,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的360页、26,158,107字节原文件，未摘页、裁切、重排或增添OCR。",
+     "evidenceLocation": "PDF第1页封面；刊页4、6（PDF17、19）1961年1月18日讲话及缺字；刊页115—116（PDF128—129）1964年6月6日讲话及年成数字。",
+     "versionLimit": "封面有1961—1968手写范围；未见可独立核定版次的出版印记，不因相应网络录文标作1968年武汉版便认定同版。",
+     "id": "maoThought1961_1968R16"
+    }
+   ]
+  },
+  {
+   "id": "13-15",
+   "note": "19",
+   "excerpt": "间建立的革命委员会，也同样没有任何方式来形成、更不用说表达多数意志；按党的说法，革命委员会“不是由选举产生的，而是依靠广大革命群众的行动建立起来的”，并且在各级都由“人民解放军领导”加以中介。〔19〕",
+   "source": "PR 43, 1968, p.7.",
+   "researchNote": "前半恢复为就不是选举产生的，而是直接依靠广大革命群众的行动产生的；后半人民解放军领导在所引PR第7页及对应中文段落未找到。该页实际说毛、林为首的无产阶级司令部领导，不能径换成解放军领导。保留整条标记和作者后半表述，本条不计新增恢复。",
+   "verifiedSources": [
+    {
+     "id": "election1968R8",
+     "title": "《吸收无产阶级的新鲜血液——整党工作中的一个重要问题》",
+     "url": "https://cn.govopendata.com/renminribao/1968/10/16/1/",
+     "kind": "《人民日报》1968-10-16第1版转载《红旗》1968年第4期社论，非官方报刊录文；与PR英译扫描交叉核对",
+     "accessed": "2026-10-08"
+    },
+    {
+     "id": "pr1968n43R8",
+     "title": "Absorb Fresh Blood From the Proletariat—An Important Question in Party Consolidation",
+     "url": "https://www.marxists.org/subject/china/peking-review/1968/PR1968-43.pdf",
+     "kind": "Peking Review 1968年第43期（10月25日）原刊英译扫描；只核实13-15的前半引句",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/PR1968-43.pdf",
+     "sha256": "1EBF50BCA581A10D412014E9F8EE9774F74F30953B1ED6814113396B9652864B",
+     "pdfPages": 32,
+     "evidenceLocation": "刊页4题名、7革命委员会段（PDF第4、7页），已目视核对"
+    }
+   ]
+  }
+ ],
+ "14_ch13_national_independence.md": [
+  {
+   "id": "14-03",
+   "note": "15",
+   "excerpt": "累率大约占国民收入的四分之一。我国 1957 年的积累率是 27%，1958 年为 36%，1959 年为 42%。看来以后我国的积累率可以保持在 39% 以上。最重要的问题是迅速发展生产。”〔15〕",
+   "source": "Ibid., p.293；这里英文译本对毛的术语处理不佳，“the accumulated capital” 应为 “the rate of capital accumulation”。",
+   "researchNote": "补查《批注和谈话（简本）》第269—270页版影。27/36/42%与前版一致，但续文没有今后比例的对应数值；整理本不能裁定中文30%、JPRS36%、Harris39%的差异。注15增加版本对照，保留待核。",
+   "verifiedSources": [
+    {
+     "id": "econ3",
+     "title": "苏联《政治经济学教科书》阅读笔记第三部分（从第三十章到第三十四章）",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/4-177.htm",
+     "kind": "1968年武汉版《毛泽东思想万岁》网络录文",
+     "accessed": "2026-10-07"
+    },
+    {
+     "id": "maoThought1958_1960R15",
+     "title": "《毛泽东思想万岁》（1958—1960）分册扫描",
+     "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210803.pdf",
+     "kind": "讲话和笔记汇编扫描；已核封面及目标页，未核定出版印记，非讲话原始记录",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Mao-Thought-1958-1960.pdf",
+     "sha256": "F74FB2CA4F1888F016B892F340471E7D6D06C51E38C79E839F7B9CA19B9C3D49",
+     "pdfPages": 359,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的359页文件，未摘页、裁切、重排或增添OCR；仅核查列明页面，不代表全卷逐页审校。",
+     "evidenceLocation": "PDF第1页封面，第2、4、5、7页相关目录；刊页32—33（PDF39—40）、176及180—181（PDF183、187—188）、194及197（PDF201、204）、324（PDF331）。",
+     "versionLimit": "相应网络录文标作1968年武汉版；本扫描未见可独立核定版次的版权页，不能仅据网络栏目认定两者为同一版次。"
+    },
+    {
+     "id": "miscellanyIIr5",
+     "title": "Miscellany of Mao Tse-tung Thought (1949-1968), Part II, JPRS-61269-2, February 1974",
+     "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/12/Miscellany-Of-MaoTse-tung-Thought-1949-1968-JPRS-Part-2-1974.pdf",
+     "kind": "美国JPRS英译资料集完整扫描，270页；仅用于转引链和英译页码核对，不等同于中文原稿",
+     "localPath": "reference check/sources/Miscellany-1949-1968-JPRS-Part2-1974.pdf",
+     "accessed": "2026-10-08",
+     "sha256": "29361A79E2D5870AB3E4191D69249E1C768EBC659D1494DB6E974A632F99B39E"
+    },
+    {
+     "id": "mao-economics269-r20",
+     "recordIds": [
+      "14-03"
+     ],
+     "title": "《毛泽东读社会主义政治经济学批注和谈话（简本）》",
+     "kind": "后出整理本扫描；并非原始谈话记录",
+     "url": "https://www.bannedthought.net/China/Individuals/MaoZedong/Special/Mao-ReadingOfSovietPoliticalEconomy-CommentsAndTalks-ShortVersion-Chinese-OCR.pdf",
+     "sourcePDFSHA256": "4f380e67f5fbbb77cd4d7bf37e4b3fc48ddde212fa766b711f53830e624697a2",
+     "checkedPages": [
+      {
+       "printed": 269,
+       "pdf": 278,
+       "localPath": "reference check/sources/Mao-Economics-p269.png",
+       "sha256": "986abee7fd9a27584fd49482912470e11d2e303cae498b03116d251e6235007b"
+      },
+      {
+       "printed": 270,
+       "pdf": 279,
+       "localPath": "reference check/sources/Mao-Economics-p270.png",
+       "sha256": "b56b90833ecd4845cec1b45729b584b57ba18dfa2d6583724b4a3d29ec88aad1"
+      }
+     ],
+     "visuallyVerified": true,
+     "accessed": "2026-10-14",
+     "assessment": "历史三个年份的27/36/42%一致；续文措辞不同，该段没有未来积累比例，不能据此裁定30/36/39%的冲突。"
+    }
+   ]
+  },
+  {
+   "id": "14-07",
+   "note": "19",
+   "excerpt": "贯穿这些年的主线始终如一。变化的，只是农业支撑这一优先事项的能力。毛在 1960 年代初说，每年安排收成时，要按五年里一年丰收、两年平收、两年歉收来打算。〔19〕",
+   "source": "1961-2, in Miscellany II, p.353.",
+   "researchNote": "扫描确认中文一丰、二平、三欠及1964年6月6日署期；三欠不是网络录文独有错误。英译二欠及原注1961-2的冲突仍在，已更新注19。",
+   "verifiedSources": [
+    {
+     "id": "maoPlan19640606R6",
+     "title": "《关于第三个五年计划在中央工作会议上的讲话》（1964-06-06）",
+     "url": "https://www.marxists.org/chinese/maozedong/1968/5-082.htm",
+     "kind": "1968年武汉版《毛泽东思想万岁》网络录文；年成数字与JPRS刊页353不合，未采用替换",
+     "accessed": "2026-10-08"
+    },
+    {
+     "id": "miscellanyIIr5",
+     "title": "Miscellany of Mao Tse-tung Thought (1949-1968), Part II, JPRS-61269-2, February 1974",
+     "url": "https://michaelharrison.org.uk/wp-content/uploads/2025/12/Miscellany-Of-MaoTse-tung-Thought-1949-1968-JPRS-Part-2-1974.pdf",
+     "kind": "美国JPRS英译资料集完整扫描，270页；仅用于转引链和英译页码核对，不等同于中文原稿",
+     "localPath": "reference check/sources/Miscellany-1949-1968-JPRS-Part2-1974.pdf",
+     "accessed": "2026-10-08",
+     "sha256": "29361A79E2D5870AB3E4191D69249E1C768EBC659D1494DB6E974A632F99B39E"
+    },
+    {
+     "title": "《毛泽东思想万岁》（1961—1968）分册扫描",
+     "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210804.pdf",
+     "kind": "讲话汇编扫描；非原始讲话记录，未核定出版印记",
+     "accessed": "2026-10-08",
+     "localPath": "reference check/sources/Mao-Thought-1961-1968.pdf",
+     "sha256": "758B6C841DCEB73EFEE768FECF890CB6C6C3A9639F182427B4251A3F51D52F17",
+     "pdfPages": 360,
+     "originalPdfArchived": true,
+     "archiveMethod": "完整保存下载的360页、26,158,107字节原文件，未摘页、裁切、重排或增添OCR。",
+     "evidenceLocation": "PDF第1页封面；刊页4、6（PDF17、19）1961年1月18日讲话及缺字；刊页115—116（PDF128—129）1964年6月6日讲话及年成数字。",
+     "versionLimit": "封面有1961—1968手写范围；未见可独立核定版次的出版印记，不因相应网络录文标作1968年武汉版便认定同版。",
+     "id": "maoThought1961_1968R16"
+    }
+   ]
+  }
+ ]
+}

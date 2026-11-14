@@ -25,8 +25,11 @@ const python = process.env.PYTHON || (fs.existsSync(path.join(runtime, 'python/p
 marked.setOptions({ gfm: true, breaks: false });
 fs.mkdirSync(dist, { recursive: true });
 fs.mkdirSync(temp, { recursive: true });
-const htmlPath = path.join(dist, 'mandate_of_heaven_zh.html');
-const pdfPath = path.join(dist, '天命_马克思与毛泽东在现代中国.pdf');
+// READING=1 builds the reading edition: no note references, endnotes, pending markers or translator's note.
+const reading = process.env.READING === '1';
+const htmlPath = reading ? path.join(temp, 'mandate_of_heaven_zh_reading.html') : path.join(dist, 'mandate_of_heaven_zh.html');
+const pdfPath = path.join(dist, reading ? '天命_马克思与毛泽东在现代中国_阅读版.pdf' : '天命_马克思与毛泽东在现代中国.pdf');
+const READING_EXCLUDE = new Set(['000_translator_note.md']);
 const draftPath = path.join(temp, 'book-layout.pdf');
 const date = process.env.BUILD_DATE || new Intl.DateTimeFormat('en-CA', { timeZone: 'Australia/Sydney', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
 const git = spawnSync('git', ['rev-parse', 'HEAD'], { cwd: root, encoding: 'utf8' });
@@ -51,6 +54,13 @@ const chapters = fs.readdirSync(path.join(root, 'each_chapter')).filter(n => n.e
   return { file, id, title, shortTitle: cm?.[2] || title, number: cm ? `第${cm[1]}章` : '', chapterNumber: cm ? +cm[1] : null, kind: cm || title === '回顾' ? 'chapter' : 'frontmatter', body, sha256: createHash('sha256').update(bytes).digest('hex') };
 });
 const pending = chapters.reduce((n, c) => n + (c.body.match(/【原文待核】/g) || []).length, 0);
+if (reading) {
+  for (let i = chapters.length - 1; i >= 0; i--) if (READING_EXCLUDE.has(chapters[i].file)) chapters.splice(i, 1);
+  for (const c of chapters) {
+    c.body = c.body.split(/^## 注释与引用\s*$/m)[0].replace(/\\?\[(\d+)\](?!\()|〔(\d+)〕/g, '').replaceAll('【原文待核】', '').trimEnd() + '\n';
+  }
+}
+const shownPending = reading ? 0 : pending;
 const auditDir = path.join(root, 'reference check');
 const auditFile = fs.readdirSync(auditDir)
   .filter(file => /^\d{4}-\d{2}-\d{2}-round\d+\.json$/.test(file))
@@ -82,13 +92,13 @@ function renderChapter(c) {
   // Archived sources must remain reachable when the HTML or PDF is downloaded alone.
   const sourceBase=`https://github.com/congyuemao/tianming-ai-translation/blob/${sourceCommit || 'main'}/each_chapter/`;
   body=body.replace(/href="(\.\.\/[^"\s]+)"/g,(_,href)=>`href="${new URL(href,sourceBase).href}"`);
-  const label=c.chapterNumber?`CHAPTER ${String(c.chapterNumber).padStart(2,'0')}`:c.title==='回顾'?'RETROSPECT':c.title.includes('序言')?'PREFACE':'READER’S NOTE';
+  const label=c.chapterNumber?`CHAPTER ${String(c.chapterNumber).padStart(2,'0')}`:c.title==='回顾'?'RETROSPECT':c.title.includes('序言')?'PREFACE':c.title==='译者说明'?'TRANSLATOR’S NOTE':'READER’S NOTE';
   return `<section id="${c.id}" class="book-section ${c.kind}" aria-labelledby="title-${c.id}"><header class="chapter-opener"><div class="section-label">${label}</div><h1 id="title-${c.id}">${c.number?`<span class="chapter-number">${c.number}</span>`:''}<span class="chapter-title">${escape(c.shortTitle)}</span></h1><div class="opener-rule"></div></header><div class="chapter-body">${body}</div></section>`;
 }
 function makeHtml(pageMap) {
   const toc=chapters.map(c=>`<li><a href="#${c.id}"><span class="toc-number">${c.chapterNumber?String(c.chapterNumber).padStart(2,'0'):'—'}</span><span class="toc-title">${escape(c.shortTitle)}</span><span class="toc-page">${pageMap?.[c.id]||''}</span></a></li>`).join('\n');
   const nav=chapters.map(c=>`<a href="#${c.id}">${escape(c.title)}</a>`).join('\n');
-  return `<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><meta name="description" content="Nigel Harris《天命：马克思与毛泽东在现代中国》中文译文，现代排印修订版。"><title>天命：马克思与毛泽东在现代中国</title><style>${fontCss}\n${css}</style><!-- Embedded subset fonts: derived from Noto Serif SC and Noto Sans SC.\n${licenses.replaceAll('--','—')}\n--></head><body><a class="skip-link" href="#book-toc">跳到目录</a><nav class="reader-bar" aria-label="阅读导航"><a class="reader-brand" href="#cover">天命<span>THE MANDATE OF HEAVEN</span></a><details class="reader-menu"><summary>章节目录</summary><div class="reader-links">${nav}</div></details></nav><main id="book">${cover}<section class="edition-page" id="edition"><div class="section-label">ABOUT THIS EDITION</div><h1>阅读说明</h1><div class="edition-rule"></div><p class="edition-book">天命：马克思与毛泽东在现代中国</p><p class="edition-original">The Mandate of Heaven:<br>Marx and Mao in Modern China</p><p>Nigel Harris 著</p><div class="edition-text"><p>本版收录两篇序言、读者说明、十九章正文与回顾。各章注释按译稿编号保留，目录与正文注号均可点击跳转。</p><p>本修订版已同步至第 ${audit.round} 轮引文核查。正文仍保留 ${pending} 处“原文待核”标记；已找到对应措辞，不等于其中的历史判断或统计已获独立证实。</p><p>本书是中文翻译工作流的阶段性成果。原书版权归原作者及权利方所有。</p></div><div class="edition-meta"><span>现代排印修订版</span><span>${escape(date)}</span></div></section><nav class="toc-page" id="book-toc" aria-label="全书目录"><div class="section-label">CONTENTS</div><h1>目录</h1><p class="toc-caption"><span>前言与正文</span><span>页码</span></p><ol>${toc}</ol></nav>${chapters.map(renderChapter).join('\n')}</main><a class="back-to-toc" href="#book-toc" aria-label="返回全书目录">目录 ↑</a><script>document.querySelectorAll('.reader-links a').forEach(a=>a.addEventListener('click',()=>a.closest('details').removeAttribute('open')));</script></body></html>`;
+  return `<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><meta name="description" content="Nigel Harris《天命：马克思与毛泽东在现代中国》中文译文，现代排印修订版。"><title>天命：马克思与毛泽东在现代中国</title><style>${fontCss}\n${css}</style><!-- Embedded subset fonts: derived from Noto Serif SC and Noto Sans SC.\n${licenses.replaceAll('--','—')}\n--></head><body><a class="skip-link" href="#book-toc">跳到目录</a><nav class="reader-bar" aria-label="阅读导航"><a class="reader-brand" href="#cover">天命<span>THE MANDATE OF HEAVEN</span></a><details class="reader-menu"><summary>章节目录</summary><div class="reader-links">${nav}</div></details></nav><main id="book">${cover}<section class="edition-page" id="edition"><div class="section-label">ABOUT THIS EDITION</div><h1>阅读说明</h1><div class="edition-rule"></div><p class="edition-book">天命：马克思与毛泽东在现代中国</p><p class="edition-original">The Mandate of Heaven:<br>Marx and Mao in Modern China</p><p>Nigel Harris 著</p><div class="edition-text">${reading ? `<p>本版为无注释阅读版，收录两篇序言、读者说明、十九章正文与回顾，去掉了全部注号、章末注释和“原文待核”标记，正文与带注释的完整版相同。引文出处、校注和译注请看完整版。</p>` : `<p>本版收录译者说明、两篇序言、读者说明、十九章正文与回顾。各章注释按译稿编号保留，目录与正文注号均可点击跳转。</p><p>本修订版已同步至第 ${audit.round} 轮引文核查。正文仍保留 ${pending} 处“原文待核”标记；已找到对应措辞，不等于其中的历史判断或统计已获独立证实。</p>`}<p>本书是中文翻译工作流的阶段性成果。原书版权归原作者及权利方所有。</p></div><div class="edition-meta"><span>${reading ? '无注释阅读版' : '现代排印修订版'}</span><span>${escape(date)}</span></div></section><nav class="toc-page" id="book-toc" aria-label="全书目录"><div class="section-label">CONTENTS</div><h1>目录</h1><p class="toc-caption"><span>前言与正文</span><span>页码</span></p><ol>${toc}</ol></nav>${chapters.map(renderChapter).join('\n')}</main><a class="back-to-toc" href="#book-toc" aria-label="返回全书目录">目录 ↑</a><script>document.querySelectorAll('.reader-links a').forEach(a=>a.addEventListener('click',()=>a.closest('details').removeAttribute('open')));</script></body></html>`;
 }
 const browser=await chromium.launch({headless:true,executablePath:findBrowser()});
 try {
@@ -112,16 +122,17 @@ try {
   const outline=[{id:'cover',title:'封面',page:1},{id:'edition',title:'阅读说明',page:2},{id:'book-toc',title:'目录',page:3},...chapters.map(c=>({id:c.id,title:c.title,page:pageMap[c.id]}))];
   fs.writeFileSync(path.join(temp,'outline.json'),JSON.stringify(outline));
   const pdfReport=runPython(['finalize',draftPath,pdfPath,path.join(temp,'outline.json')]);
-  fs.writeFileSync(path.join(dist,'page-map.json'),JSON.stringify(pageMap,null,2)+'\n');
-  fs.writeFileSync(path.join(dist,'toc.json'),JSON.stringify(chapters.map(c=>({id:c.id,title:c.title,shortTitle:c.shortTitle,number:c.number,kind:c.kind,page:pageMap[c.id]})),null,2)+'\n');
-  fs.writeFileSync(path.join(dist,'build-info.json'),JSON.stringify({sourceCommit,buildDate:date,citationAudit,pendingMarkers:pending,chapters:chapters.map(({body,...c})=>c),removedLeadingTitleEchoes:removedTitles,pageCount:pdfReport.pageCount,format:'160 × 230 mm',paginationStable:true,validation:JSON.parse(fs.readFileSync(path.join(temp,'dom-validation.json'),'utf8'))},null,2)+'\n');
+  const suffix=reading?'-reading':'';
+  fs.writeFileSync(path.join(dist,`page-map${suffix}.json`),JSON.stringify(pageMap,null,2)+'\n');
+  fs.writeFileSync(path.join(dist,`toc${suffix}.json`),JSON.stringify(chapters.map(c=>({id:c.id,title:c.title,shortTitle:c.shortTitle,number:c.number,kind:c.kind,page:pageMap[c.id]})),null,2)+'\n');
+  fs.writeFileSync(path.join(dist,`build-info${suffix}.json`),JSON.stringify({sourceCommit,buildDate:date,edition:reading?'reading':'annotated',citationAudit,pendingMarkers:shownPending,chapters:chapters.map(({body,...c})=>c),removedLeadingTitleEchoes:removedTitles,pageCount:pdfReport.pageCount,format:'160 × 230 mm',paginationStable:true,validation:JSON.parse(fs.readFileSync(path.join(temp,'dom-validation.json'),'utf8'))},null,2)+'\n');
   await page.emulateMedia({media:'screen'});
   await page.screenshot({path:path.join(temp,'html-desktop.png')});
   await page.locator('.cover-page').screenshot({path:path.join(temp,'cover-screen.png')});
   await page.setViewportSize({width:390,height:844});
   await page.screenshot({path:path.join(temp,'html-mobile.png')});
   if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)) throw new Error('Mobile layout overflows horizontally.');
-  console.log(JSON.stringify({html:htmlPath,pdf:pdfPath,...pdfReport,pendingMarkers:pending,removedLeadingTitleEchoes:removedTitles},null,2));
+  console.log(JSON.stringify({html:htmlPath,pdf:pdfPath,...pdfReport,pendingMarkers:shownPending,removedLeadingTitleEchoes:removedTitles},null,2));
 } finally {await browser.close();}
 async function inspectPage(page) {
   return page.evaluate(({expected,totalPending})=>{
@@ -140,7 +151,7 @@ async function inspectPage(page) {
     if(document.querySelectorAll('.chapter-body .editor-note').length!==totalPending) errors.push('Pending marker mismatch');
     for(const a of document.querySelectorAll('a[href^="#"]'))if(!document.getElementById(a.hash.slice(1)))errors.push(`Broken anchor ${a.hash}`);
     return {errors,chapterCount:expected.length,noteRefs,endnotes,pendingMarkers:totalPending,textPreserved:true};
-  },{expected,totalPending:pending});
+  },{expected,totalPending:shownPending});
 }
 function runPython(args){
   const r=spawnSync(python,[path.join(toolDir,'pdf_finalize.py'),...args],{cwd:root,encoding:'utf8',maxBuffer:16*1024*1024,env:{...process.env,PYTHONIOENCODING:'utf-8'}});

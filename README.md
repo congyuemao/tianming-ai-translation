@@ -14,25 +14,33 @@ This repository keeps the source PDF, chapter-level Markdown drafts, Codex polis
 
 [下载 PDF](dist/天命_马克思与毛泽东在现代中国.pdf) · [HTML 阅读版](dist/mandate_of_heaven_zh.html) · [构建记录](dist/build-info.json)
 
-2026 年 10 月 18 日修订：324 页，160 × 230 mm 开本。沿用深墨蓝、暖白与朱砂红配色、宋体正文与黑体标题；在全书英文对照润色基础上，同步至第四十五轮引文核查，纳入第37—45轮修订及第八章校注移位。23 个章节文件、534 条章末注释及 75 处待核标记完整保留，嵌入字体已补齐新增汉字。
+2026 年 11 月 15 日修订：335 页，160 × 230 mm 开本，配色与字体沿用前版。全书由 Claude 对照英文重新润色并经三道独立复核（见下文），书前新增[译者说明](each_chapter/000_translator_note.md)，引文核查同步至[第四十六轮](reference%20check/2026-11-15-round46.md)。24 个章节文件、669 条章末注释（含校注和译注）及 42 处“原文待核”标记，嵌入字体已补齐新增汉字。
 
-The modern edition includes a new geometric cover, a compact linked contents page, 26 PDF bookmarks, and linked endnotes. The HTML embeds its fonts and supports both desktop and mobile reading. Download the HTML to read it; GitHub's file page displays its source.
+The modern edition includes a new geometric cover, a compact linked contents page, 27 PDF bookmarks, and linked endnotes. The HTML embeds its fonts and supports both desktop and mobile reading. Download the HTML to read it; GitHub's file page displays its source.
 
-生成时只显示一次章节标题，并过滤正文开头与主标题等价的旧标题行，例如“15. 外交政策”。这项处理仅发生在排版层，不修改章节 Markdown。二级标题的中文数字序号后统一使用顿号，例如“三、私营企业”；这一修订已写入 14 章的 53 处标题，并同步至两份 PDF 和 HTML。HTML 内嵌字体，可离线阅读；来源材料链接指向 GitHub 归档。
+生成时只显示一次章节标题。二级标题的中文数字序号后统一使用顿号。HTML 内嵌字体，可离线阅读；来源材料链接指向 GitHub 归档。
 
 ## Reading Edition / 无引注阅读版
 
-[下载阅读版 PDF](dist/天命_马克思与毛泽东在现代中国_阅读版_2026-10-18.pdf)
+[下载阅读版 PDF](dist/天命_马克思与毛泽东在现代中国_阅读版.pdf) · [构建记录](dist/build-info-reading.json)
 
-2026 年 10 月 18 日阅读版：277 页，以第四十五轮最新译稿为底稿，去除 534 个正文引注序号、534 条章后注释及 75 处“原文待核”标记。保留正文、章节结构、可点击目录和 26 个 PDF 书签，目录页码按本版重新编排。全文 1,019 个内容块及顺序已核对，字体和分页检查通过。
+2026 年 11 月 15 日阅读版：266 页，与完整版同一底稿，去掉全部注号、章末注释、“原文待核”标记和译者说明，正文与完整版相同。用 `READING=1 node tools/build_book_pdf.mjs` 生成。
 
 ## Full-book Polish / 全书润色
 
-2026 年 10 月 15 日完成两篇序言、读者说明、十九章正文与回顾的对照校读。修订包括长从句拆分、语气强度复核、英语惯用表达的中文转化、错译纠正与遗漏补足；不弱化作者表述，不添加防御性观点。1,419 个段落的顺序和 1,715 处引号内文字保持不变。详见[校读记录](polish/2026-10-15.md)及[机器校验](polish/2026-10-15.json)；引文与英文底本中尚需复核的具体疑点在记录中单列。PDF、HTML、嵌入字体、目录与构建记录已同步更新。
+2026 年 11 月由 Claude 按 book-translation skill 接手，对照英文把全书重新润色一遍（决定记录见 [logs/decisions.md](logs/decisions.md)）：
+
+- 面向普通中文读者去翻译腔，按中文骨架重写长从句；不改事实、立场和语气强度，不加防御性说法。
+- 润色前先建[成语俗语对照表](logs/成语俗语对照表.md)（616 条）和[讽刺反话对照表](logs/讽刺反话对照表.md)（412 条），经用户认可后照表执行；借用中文说法意译讽刺的地方，注中列出直译（“译注”）。
+- 改正原稿大量错译、漏译和增译（逐章记录见 [logs/polish/](logs/polish/)）；原书事实错误照原书译出，另加校注；作者着重（原书斜体）统一为加粗。
+- 三道独立复核：对照原文找改偏、终审实质错译并逐条核对不在台账里的马恩列斯毛等引文、中文通读校对（记录见 [logs/review/](logs/review/)）。核不到原文的引文一律改为据英文译出，不保留凭记忆写的中文。
+- `tools/polish_guard.py` 对比润色前版本，保证段落、注号和已恢复的中文原文引文不出错；仍待定的问题汇总在 [logs/polish/OPEN.md](logs/polish/OPEN.md)。
+
+2026 年 10 月 15 日的前一轮校读记录见[polish/2026-10-15.md](polish/2026-10-15.md)。
 
 ## Citation Audit / 引文核查进度
 
-2026 年 10 月 16 日已推进至[第四十五轮](reference%20check/2026-10-16-round45.md)：收到Current Scene VI/5全文，8条升为部分核实，周恩来短引语补到完整原页；标明广州广播转引层次及文汇报2月19日报日差异。固定225条为150处已落实、33处部分核实、42处已检索未落实，待核仍75处；只补第8章8条章末注，正文未改。Current Scene文献传递已收到，《中国工人》1957年第6期继续等待。原刊、页图和对照见[来源目录](reference%20check/sources/README.md)。PDF/HTML已于10月18日按最新稿件重建，包含第37—45轮及校注移位修改；页码、字体、正文与链接校验见[验证记录](dist/validation.json)。
+2026 年 11 月 15 日为[第四十六轮](reference%20check/2026-11-15-round46.md)（政策轮，不新增检索）：用户授权将“英文转引来源已核、中文原话未见”的条目按作者所引英文忠实译出、注明出处并撤标；第45轮记作“已落实”、实为按BBC等英文记录回译的条目也归入此类。固定225条现为 134 处已恢复中文原文、49 处据英文转引或英文记录译出、42 处已检索未落实（保留“原文待核”）。前45轮记录与原刊、页图见[引文核查目录](reference%20check/README.md)和[来源目录](reference%20check/sources/README.md)。
 
 ## Workflow / 工作流
 
