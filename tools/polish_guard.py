@@ -120,7 +120,10 @@ def main():
                     help="chapter prefix whose notes were deliberately renumbered: compare ref counts only")
     ap.add_argument("--allow-quote", action="append", default=[],
                     help="ledger id whose restored text was deliberately moved or edited (see logs/decisions.md)")
+    ap.add_argument("--drop-base", action="append", default=[],
+                    help="prefix:N — baseline body paragraph N (1-based) was a standalone 校注 moved into the notes")
     a = ap.parse_args()
+    a.drop_base += ["04:17"]  # 04: standalone 校注 paragraph moved to note 11
     allow = set(a.allow_quote) | {"09-23"}  # 09-23: inline 校注 moved to endnote, quote itself unchanged
     rq = restored_quotes()
     total_err = 0
@@ -135,6 +138,8 @@ def main():
         errs, warns = [], []
         renum_ch = any(path.name.startswith(r) for r in a.renumbered)
         bb, bn = split(base)
+        drops = {int(d.split(":")[1]) for d in a.drop_base if path.name.startswith(d.split(":")[0])}
+        bb = [p for i, p in enumerate(bb, 1) if i not in drops]
         cb, cn = split(cur)
         if len(bb) != len(cb):
             errs.append(f"body paragraphs {len(bb)} -> {len(cb)}")
