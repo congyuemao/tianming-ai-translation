@@ -20,3 +20,5 @@
 - 02 注2 See his explanation of frictions with the Communists：his 或指鲍罗廷，核 A Documentary History p.63。
 - 00 p.vii 杨继绳《墓碑》中文书名（通行为《墓碑：中国六十年代大饥荒纪实》）待核。
 - 08 注43 邓子恢引文（“大冶源华煤矿”／原书 Dahei）不在台账。
+- 16 p.245 邓小平引文“所有这些发达国家”与英文 The developed countries in between the two superpowers 范围是否对应（注18“参照”）。
+- 16 p.253 毛1962年引文省略号后多出“我们要团结这么多的人”，英文无（注36“参照”）。
