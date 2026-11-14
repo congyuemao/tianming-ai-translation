@@ -102,7 +102,7 @@
 12. *RMRB*, 22 October 1971。
 13. *RMRB*, 23 October 1971。校注：“浪费时间”一语据原书英文译出，中文原话未见。同日《人民日报》第3版江苏仪征县谢集公社党委《凡是大事都要集体讨论》、河北冀县西南王大队党支部《树立全局观念》等文（[网络录文](https://cn.govopendata.com/renminribao/1971/10/23/3/)）谈到农忙时抽劳力开会一类问题，主题相关，但没有与英文相应的说法，不能确认是此语出处。1971年10月其他各日的录文中也未查到。
 14. *RMRB*, 1 July 1974。
-15. 校注：赵紫阳1972年调任广东省委书记，1974年任广东省委第一书记；原书作“广州党委”。正文照原书译出。
+15. 校注：赵紫阳1972年调任广东省委书记，1974年任广东省委第一书记；原书作“广州党委”。又，毛泽东会见来访的巴基斯坦总理布托是在1974年5月11日，邓小平以副总理身份参加会见（[《人民日报》1974年5月12日第1版](https://cn.govopendata.com/renminribao/1974/05/12/1/)），不在1973年；邓小平1973年4月12日出席欢迎西哈努克的宴会时已是国务院副总理（[《人民日报》1973年4月13日第1版](https://cn.govopendata.com/renminribao/1973/04/13/1/)），下文说他在十大时当上副总理，与此不合。正文均照原书译出。
 16. *Hung-ch’i*, 12 July 1970。校注：中文引文据驻北京大学工人、解放军毛泽东思想宣传队[《为加强党的思想建设而斗争》](https://www.bannedthought.net/China/Magazines/Hongqi/1970/Hongqi1970N7.pdf)核校，见《红旗》1970年第7期第14页原刊扫描。原注所列7月12日未另行确认，书目信息照录。
 17. *Hung-ch’i*, August 1973；另参 Su Hsi, *RMRB*, 11 January 1974, *SCMP* 5547, 6 February 1974。校注：中文引文据[黎坚《重视上层建筑领域的革命》](https://www.bannedthought.net/China/Magazines/Hongqi/1973/Hongqi1973N8-OCR-sm.pdf)核校，两句分别见《红旗》1973年第8期第4、7页原刊扫描。另列的1974年报文未据此核对。
 18. 译注：此句为意译。原文直译为：“此前林彪一直被指为‘极左’，现在又变成了来自右边的反对派。”
@@ -116,4 +116,4 @@
 26. Beijing correspondent, *The Times*, London, 26 June and 6 July 1974。
 27. 校注：李一哲的作者一般记作李正天、陈一阳、王希哲，原书作 Huang Xizhe，正文照原书译作“黄希哲”。这组大字报一般记为1974年11月贴出，原书作1974年初。正文均照原书译出。
 28. 校注：此句原书未注出处，据原书英文译出，完整的中文原话未见。[《北京钢院》1976年3月30日第95期](../reference%20check/sources/Beijing-Gangyuan-1976-03-30.pdf)第1版转载的社论《反右倾翻案 促工业生产》（原载1976年3月28日《人民日报》）文末有“防止阶级敌人的破坏活动，防止有人挑动群众斗群众，防止有人用破坏生产来破坏革命”，与引句后半段相应，但说的是“有人”，不是“右派分子”；原书在 Rightists 之后有省略号，前半句的来源未查到。
-29. *NCNA* Beijing, 6 April 1976；另参 *Far Eastern Economic Review*, report from Beijing, 16 April 1976, and Hua Lin, *Minus 8*, Hong Kong, June-July 1976。
+29. *NCNA* Beijing, 6 April 1976；另参 *Far Eastern Economic Review*, report from Beijing, 16 April 1976, and Hua Lin, *Minus 8*, Hong Kong, June-July 1976。校注：《中共中央关于撤销邓小平党内外一切职务的决议》注明1976年4月7日通过，次日见报（[《人民日报》1976年4月8日第1版](https://cn.govopendata.com/renminribao/1976/04/08/1/)）；原书说6日宣布，与此不合，正文照原书译出。

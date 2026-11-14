@@ -12,13 +12,13 @@ CCP：中国共产党。
 
 CI：共产国际（Comintern），1919—1943年。
 
-CQ：China Quarterly（最初在重庆出版，1960年起在伦敦出版）。
+CQ：China Quarterly（最初在重庆出版，1960年起在伦敦出版）。[1]
 
 ECCM：Extracts from China Mainland Magazines（后改称 Extracts from People’s Republic of China Magazines），美国驻香港总领事馆出版。
 
 GAC：政务院；1954年起为国务院，即中华人民共和国政府的部长会议。
 
-RMRB：Renmin Ribao（《人民日报》，北京）。[1]
+RMRB：Renmin Ribao（《人民日报》，北京）。[2]
 
 RMB：Renminbi（人民币），或称元（又称 Chinese dollar），中华人民共和国的法定货币。
 
@@ -38,7 +38,7 @@ SCMP：Survey of China Mainland Press（后改称 Survey of People’s Republic 
 
 SCMM：Survey of China Mainland Magazines（后改称 Survey of People’s Republic of China Magazines），中国周刊和月刊文章的译文，美国驻香港总领事馆出版。
 
-SWB：Survey of World Broadcasts，英国广播公司在伦敦编发的（中国电台）广播监听资料。[2]
+SWB：Survey of World Broadcasts，英国广播公司在伦敦编发的（中国电台）广播监听资料。[3]
 
 ## 转写
 
@@ -110,7 +110,7 @@ Mao Zedong, China: The March Towards Unity, documents, Communist Party of the Un
 
 Miscellany of Mao Tse-tung Thought, 1949-68, Vols. I and II, Joint Publications Research Service, Arlington Virginia, n.d. (mimeo)。文中简称 Miscellany。
 
-Mao Tse-tung Unrehearsed, Talks and Letters, 1965-71, edited by Stuart R. Schram, London, 1974。文中简称 Mao Unrehearsed。[3]
+Mao Tse-tung Unrehearsed, Talks and Letters, 1965-71, edited by Stuart R. Schram, London, 1974。文中简称 Mao Unrehearsed。[4]
 
 Mao Papers, Anthology and Bibliography, translated and edited by Jerome Ch’en, London, 1970。文中简称 Mao Papers。
 
@@ -124,6 +124,7 @@ Selected Works of Mao Tse-tung, Vol. V, Beijing, 1977（收1949年至1957年的�
 
 ## 注释与引用
 
-1. 校注：原书此条拼作 Renmin Ribau，下一条人民币拼作 Renminbau，都是排印之误，这里改正。
-2. 校注：原书如此。英国广播公司这份监听资料的正式名称是 Summary of World Broadcasts，本书第8章注19所引即用此名。
-3. 校注：原书此处年份作1965-71，有误。据该译集美国版[版权页](../reference%20check/sources/Schram-1974-US-copyright-contents.png)所列英国版原书名，应作 Mao Tse-tung Unrehearsed: Talks and Letters, 1956-71；美国版题为 Chairman Mao Talks to the People（Pantheon Books，1974）。
+1. 校注：原书如此。1960年在伦敦创刊的 The China Quarterly 是一份新办的刊物；抗战前后另有一种同名英文刊物（1935年创刊，曾在重庆出版），二者并非一刊。本书所引 CQ 各期都是伦敦的 The China Quarterly。
+2. 校注：原书此条拼作 Renmin Ribau，下一条人民币拼作 Renminbau，都是排印之误，这里改正。
+3. 校注：原书如此。英国广播公司这份监听资料的正式名称是 Summary of World Broadcasts，本书第8章注19所引即用此名。
+4. 校注：原书此处年份作1965-71，有误。据该译集美国版[版权页](../reference%20check/sources/Schram-1974-US-copyright-contents.png)所列英国版原书名，应作 Mao Tse-tung Unrehearsed: Talks and Letters, 1956-71；美国版题为 Chairman Mao Talks to the People（Pantheon Books，1974）。

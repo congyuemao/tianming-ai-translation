@@ -18,7 +18,7 @@
 
 让人乐观的理由之一，是党手里握有压倒一切的军事力量。另一个理由是，国民党政府早已把很大一部分工业经济收归己有，比如冶金工业的90%、发电和电气设备的89%、机器制造的73%、化学工业的75%；蒋介石甚至抱有由国家接管全部私人资本的目标。[5]此外，国家这时又接收了日本在华工业的绝大部分（日本资本占在华全部外国资本的83%）。有了这根基本的经济杠杆，当时以为工业化很快就会跟上来。一场精心掌控的土地改革，既能让政权赢得农村多数人的拥护，又能打垮地主的势力。至于更进一步，只有实现工业化，才谈得上剥夺土地。毛说：“没有农业社会化，就没有全部的巩固的社会主义。农业社会化的步骤，必须和以国有企业为主体的强大的工业的发展相适应。人民民主专政的国家，必须有步骤地解决国家工业化的问题。”[6]
 
-因此，必须全力以赴建设工业。怎么建设，苏联提供了样板，其中就包括用最苛刻的办法提高工人的产量。早在1942年，毛就提出了该怎么做：“其次是实行十小时工作制及计件累进工资制，借以提高劳动热忱，增加生产。”他又说：“平均主义的薪给制抹杀熟练劳动与非熟练劳动之间的差别，也抹杀了勤惰之间的差别，因而降低劳动积极性，必须代以计件累进工资制，方能鼓励劳动积极性，增加生产的数量与质量。”[7]
+因此，必须全力以赴建设工业。怎么建设，苏联提供了样板，其中就包括用最苛刻的办法提高工人的产量。早在1942年，毛就提出了该怎么做：“其次是实行十小时工作制和计件累进工资制，用工资来增加生产、提高劳动觉悟……平均主义的供给工资制抹杀了熟练劳动与非熟练劳动之间的差别，也抹杀了勤劳与懒惰之间的差别，从而降低了工人的积极性；必须用计件累进工资制代替供给制，以激发工人的积极性，提高产品的数量和质量。”[7]
 
 ## 二、第一个五年计划
 
@@ -36,7 +36,7 @@
 
 到1951年底，八个大城市的商人增加了27%；平均利润率1951年高达29%，1953年达到31%。[13]据说当时有68个百万富翁在经营，申新纺织公司的老板据传在1956年底身家6000万元人民币（合900万英镑）。毛本人也承认：“荣毅仁先生的资本要抵到一个半北京。”[14]
 
-这番繁荣也不乏官方的公开嘉许。1952年，副总理陈云向政府扶持的全国工商联保证：“按照不同情况，保证私营工厂按其资本计算，在正常合理经营的情况下每年获得百分之十左右，百分之二十左右，到百分之三十左右的利润。”[15]《人民日报》也是同一个调子，预言经济形势会继续好转，并说：“私营工商业不是没有前途，它们的前途比过去更加光明了。”[16]
+这番繁荣也不乏官方的公开嘉许。1952年，副总理陈云向政府扶持的全国工商联保证：“按照不同情况，保证私营工厂按其资本计算，在正常合理经营的情况下每年获得百分之十左右，百分之二十左右，到百分之三十左右的利润。”[15]《人民日报》也是同一个调子，预言：“我们的经济形势会继续好转。私营工商业也将有更加光明的前途。”[16]
 
 不过，也有些警告信号，表明到底谁说了算。1951年底到1952年年中，“五反”运动矛头指向工商业的五种错误（包括行贿、偷税漏税、盗窃国家财产、诈骗），在九个大城市调查了约45万家私营企业，查出非法所得约500亿元人民币。可它也造成私营生产下降，到1952年2月，降幅可能有三分之一。政府于是松了手：减少罚款，给商人提供资金帮助，扩大国家收购。
 
@@ -82,19 +82,19 @@
 
 3. State and Revolution, CW25, p.406。
 
-4. Decisions on Employment, GAC of the Central People’s Government, 25 July 1952，收入 Labour Laws and Regulations of the People’s Republic of China, Beijing, 1956, p.65。
+4. Decisions on Employment, GAC of the Central People’s Government, 25 July 1952，收入 Labour Laws and Regulations of the People’s Republic of China, Beijing, 1956, p.65。中文引文据《中央人民政府政务院关于劳动就业问题的决定》，载《人民日报》1952年8月4日第1版（[网络录文](https://cn.govopendata.com/renminribao/1952/08/04/1/)），未核原报。
 
 5. China’s Destiny, London, 1947, p.173。
 
-6. On the People’s Democratic Dictatorship, 1 July 1949, SWIV, p.419。
+6. On the People’s Democratic Dictatorship, 1 July 1949, SWIV, p.419。中文引文据《毛泽东选集》第四卷《论人民民主专政》（[网络录文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm)）。
 
-7. Economic and financial problems, Ching chi wen t’i yü ts’ai cheng wen t’i, Hong Kong, 1949；转引自 Christopher Howe, Wage patterns and policy in Modern China, 1919-1972, Cambridge, 1973, p.59。
+7. Economic and financial problems, Ching chi wen t’i yü ts’ai cheng wen t’i, Hong Kong, 1949；转引自 Christopher Howe, Wage patterns and policy in Modern China, 1919-1972, Cambridge, 1973, p.59。校注：这段话的中文原文未查到，引文据原书英文译出。
 
 8. Report of Li Hsien-nien [Li Xiannan], Minister of Finance, 3rd session, 1st National People’s Congress, 1956，收入 New China Advances to Socialism, Beijing, 1956, p.65。Li Xiannan 是原书拼法，即财政部长李先念。
 
 9. 校注：第一个五年计划的实际年份是1953—1957年，第二个五年计划是1958—1962年。原书作1953—1958年，下文又说第二个五年计划到1963年结束，正文照原书译出。
 
-10. Report on the work of the government, 1st session, National People’s Congress, 23 September 1954, Beijing, 1954, p.1。
+10. Report on the work of the government, 1st session, National People’s Congress, 23 September 1954, Beijing, 1954, p.1。本段和下段周恩来的两处引文，中文据该报告（《人民日报》1954年9月24日第1版，[网络录文](https://cn.govopendata.com/renminribao/1954/09/24/1/)），未核原报。
 
 11. 校注：原书此处无注，这段引文是三句话的概括性节引。中文据[《读苏联〈政治经济学教科书〉的谈话（节选）》](https://www.shkjdw.gov.cn/c/2014-06-05/491306.shtml)“关于民主革命和社会主义革命”部分恢复，保留原文“定货”的写法，删节处用省略号标出。[《毛泽东读社会主义政治经济学批注和谈话（简本）》扫描](https://www.bannedthought.net/China/Individuals/MaoZedong/Special/Mao-ReadingOfSovietPoliticalEconomy-CommentsAndTalks-ShortVersion-Chinese-OCR.pdf)第153页（PDF第162页）有同一段。这次谈话在1959年12月至1960年2月。后出的整理本与原书英文意思相合，但不能据此断定作者用的是哪一种英译本。
 
@@ -104,9 +104,9 @@
 
 14. Address to the All-China Federation of Industry and Commerce, 8 December 1956, Miscellany I, pp.43-4。校注：中文引文据[《在全国工商联二届一次委员会代表大会部分代表座谈会上的指示》（1956年12月8日）](https://www.marxists.org/chinese/maozedong/1968/3-092.htm)，即1968年武汉版《毛泽东思想万岁》的网络录文，未核原书。录文作“一个半北京”，原书英文作 half of Beijing（半个北京），两者不同，正文照中文录文。注17、注18所引同出此篇。
 
-15. NCNA, Beijing, 24 June 1952。
+15. NCNA, Beijing, 24 June 1952。中文引文据陈云《在中华全国工商业联合会筹备代表会议上的讲话》（1952年6月24日），载《人民日报》1952年6月25日第1版（[网络录文](https://cn.govopendata.com/renminribao/1952/06/25/1/)），未核原报。
 
-16. RMRB, 1 July 1952，收入 CB, 1952, p.199。
+16. RMRB, 1 July 1952，收入 CB, 1952, p.199。校注：所见《人民日报》1952年7月1日第1—4版网络录文中未见这两句，引文据原书英文译出。注15所列陈云讲话中有“私营工商业不是没有前途，它们的前途是比过去更加光明了”一句，意思相近，但不能断定原书所引就是这句。
 
 17. Address, op.cit., Miscellany I, p.38。中文引文出处见注14。
 
