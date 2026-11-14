@@ -125,7 +125,7 @@ def main():
     a = ap.parse_args()
     a.drop_base += ["04:17"]  # 04: standalone 校注 paragraph moved to note 11
     # leftover running-head lines repeating the chapter title (removed in the format pass)
-    a.drop_base += ["16:2", "17:2", "18:2", "19:2", "20:2"]
+    a.drop_base += ["16:2", "17:2", "18:2", "19:2", "20:2", "21:2"]
     allow = set(a.allow_quote) | {"09-23"}  # 09-23: inline 校注 moved to endnote, quote itself unchanged
     rq = restored_quotes()
     total_err = 0
