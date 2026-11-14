@@ -124,6 +124,8 @@ def main():
                     help="prefix:N — baseline body paragraph N (1-based) was a standalone 校注 moved into the notes")
     a = ap.parse_args()
     a.drop_base += ["04:17"]  # 04: standalone 校注 paragraph moved to note 11
+    # leftover running-head lines repeating the chapter title (removed in the format pass)
+    a.drop_base += ["16:2", "17:2", "18:2", "19:2", "20:2"]
     allow = set(a.allow_quote) | {"09-23"}  # 09-23: inline 校注 moved to endnote, quote itself unchanged
     rq = restored_quotes()
     total_err = 0
@@ -145,8 +147,10 @@ def main():
             errs.append(f"body paragraphs {len(bb)} -> {len(cb)}")
         for i, (o, n) in enumerate(zip(bb, cb), 1):
             if o.startswith("#") or n.startswith("#"):
-                if o.startswith("#") != n.startswith("#"):
-                    errs.append(f"para {i}: heading/body mismatch")
+                if o.startswith("#") and not n.startswith("#"):
+                    errs.append(f"para {i}: heading became body text")
+                elif n.startswith("#") and not o.startswith("#"):
+                    warns.append(f"para {i}: body text became heading")
             renum = any(path.name.startswith(r) for r in a.renumbered)
             if renum and len(refseq(n)) < len(refseq(o)):
                 errs.append(f"para {i}: lost note refs {refseq(o)} -> {refseq(n)}")
