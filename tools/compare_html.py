@@ -41,7 +41,8 @@ def main():
     ap.add_argument("--base", default="main")
     ap.add_argument("--out")
     a = ap.parse_args()
-    path = next((ROOT / "each_chapter").glob(f"{a.prefix}*.md"))
+    from add_note import chapter_path
+    path = chapter_path(a.prefix.rstrip("_"))
     base = g.git_show(a.base, f"each_chapter/{path.name}")
     cur = path.read_text(encoding="utf-8")
     bb, bn = g.split(base)

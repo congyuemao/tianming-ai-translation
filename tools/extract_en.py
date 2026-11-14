@@ -1,7 +1,9 @@
 """Build per-chapter English source files from page texts extracted from the source PDF.
 
-Usage: python -I tools/extract_en.py  (run from repo root; reads source/en_pages/pNNN.txt)
-Writes source/en/<prefix>.md with <!--p.N--> page markers so reviewers can cite book pages.
+Usage: python -I tools/extract_en.py  (run from repo root; needs pypdf)
+First extracts every PDF page's text layer to source/en_pages/pNNN.txt (skipped if already there),
+then writes the chapter files below.
+Each source/en/<prefix>.md carries <!--p.N--> page markers so reviewers can cite book pages.
 """
 import re
 from pathlib import Path
@@ -46,7 +48,21 @@ def clean(text):
     return label, body.strip()
 
 
+def extract_pages():
+    """Write source/en_pages/pNNN.txt from the tracked source PDF's text layer."""
+    if PAGES.exists() and any(PAGES.glob("p*.txt")):
+        return
+    import logging
+    import pypdf
+    logging.disable(logging.WARNING)
+    pdf = next(ROOT.glob("Mandate of Heaven*.pdf"))
+    PAGES.mkdir(parents=True, exist_ok=True)
+    for i, page in enumerate(pypdf.PdfReader(str(pdf)).pages, 1):
+        (PAGES / f"p{i:03d}.txt").write_text(page.extract_text() or "", encoding="utf-8")
+
+
 def main():
+    extract_pages()
     OUT.mkdir(parents=True, exist_ok=True)
     for name, a, b in CHAPTERS:
         parts = []

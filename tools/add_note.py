@@ -15,12 +15,24 @@ ROOT = Path(__file__).resolve().parent.parent
 REF = re.compile(r"\[(\d+)\](?!\()|〔(\d+)〕")
 
 
+def chapter_path(prefix):
+    """Exact prefix match: '00' means 00_*.md, not 000_*.md; '01' is not '01a'."""
+    files = sorted((ROOT / "each_chapter").glob("*.md"))
+    hits = [p for p in files if p.stem == prefix or p.stem.startswith(prefix + "_")]
+    if len(hits) != 1:
+        raise SystemExit(f"prefix {prefix!r} matches {[p.name for p in hits]}")
+    return hits[0]
+
+
 def main():
     prefix, anchor, note_file = sys.argv[1:4]
-    path = next((ROOT / "each_chapter").glob(f"{prefix}*.md"))
+    path = chapter_path(prefix)
     note_text = Path(note_file).read_text(encoding="utf-8").strip()
     text = path.read_text(encoding="utf-8")
+    text = text.replace("\r\n", "\n")
     body, sep, notes = text.partition("\n## 注释与引用\n")
+    if not sep:  # first note in a file without an endnote section
+        body, sep, notes = body.rstrip() + "\n", "\n## 注释与引用\n", ""
     if body.count(anchor) != 1:
         raise SystemExit(f"anchor occurs {body.count(anchor)} times in body")
     pos = body.index(anchor) + len(anchor)
@@ -40,7 +52,7 @@ def main():
     if not inserted:
         while out and not out[-1].strip():
             out.pop()
-        out += [f"{new_no}. {note_text}", ""]
+        out += ([""] if not out else []) + [f"{new_no}. {note_text}", ""]
     path.write_text(body + sep + "\n".join(out), encoding="utf-8", newline="\n")
     print(f"{path.name}: inserted note {new_no}")
 
